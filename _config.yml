@@ -4,7 +4,7 @@ meta_description: "My blog. "
 
 markdown: kramdown
 highlighter: rouge
-logo: false
+logo: true
 paginate: 15
 baseurl: /wlb
 domain_name: 'http://veekaybee.github.com'
