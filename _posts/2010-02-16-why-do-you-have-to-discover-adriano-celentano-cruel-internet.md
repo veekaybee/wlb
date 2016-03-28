@@ -14,11 +14,11 @@ tags:
   - rage
   - youth
 ---
-[<img class="aligncenter size-full wp-image-2370" title="Picture 2" src="http://blog.vickiboykis.com/wp-content/uploads/2010/02/Picture-21.png" alt="" width="423" height="424" />](http://blog.vickiboykis.com/wp-content/uploads/2010/02/Picture-21.png)
+[<img class="aligncenter size-full wp-image-2370" title="Picture 2" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/02/Picture-21.png" alt="" width="423" height="424" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/02/Picture-21.png)
 
 I am writing this post because I have been Wronged by the Internet.
 
-You know how there are sometimes memes that dig up &#8220;a really cool video from 1963?&#8221;  and then everyone starts passing it around and acting like it&#8217;s the greatest thing since LOLcats?  Well, [[<img class="aligncenter size-full wp-image-2370" title="Picture 2" src="http://blog.vickiboykis.com/wp-content/uploads/2010/02/Picture-21.png" alt="" width="423" height="424" />](http://blog.vickiboykis.com/wp-content/uploads/2010/02/Picture-21.png)
+You know how there are sometimes memes that dig up &#8220;a really cool video from 1963?&#8221;  and then everyone starts passing it around and acting like it&#8217;s the greatest thing since LOLcats?  Well, [[<img class="aligncenter size-full wp-image-2370" title="Picture 2" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/02/Picture-21.png" alt="" width="423" height="424" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/02/Picture-21.png)
 
 I am writing this post because I have been Wronged by the Internet.
 
@@ -46,11 +46,11 @@ You get the picture.  I was 64 years old at 15.
 
 I had no idea what any of these songs meant until I started going so Italian-crazy that I started teaching myself Italian in 11th grade.  It helped that it was at that point that I acquired an Italian-American boyfriend and I went to great lengths to convince him that he should also learn Italian, because, he didn&#8217;t know his own mother language?  said the girl who wouldn&#8217;t learn Hebrew for two more years.
 
-And, as I was driving him crazy, we were also reading [A Farewell to Arms](http://en.wikipedia.org/wiki/A_Farewell_to_Arms) in English class, and I fell in love with Italy all over again.  I would listen to Preghero over and over in the dark in my room before I went to bed at night and imagine Frederick Henry all warring it up in the Abruzzo and being called Tenente all over the place, as well as the landscapes of World War II Italy, placing him firmly in my list of Hot Fictional Guys, although not above Mercutio of Romeo and Juliette or [[<img class="aligncenter size-full wp-image-2370" title="Picture 2" src="http://blog.vickiboykis.com/wp-content/uploads/2010/02/Picture-21.png" alt="" width="423" height="424" />](http://blog.vickiboykis.com/wp-content/uploads/2010/02/Picture-21.png)
+And, as I was driving him crazy, we were also reading [A Farewell to Arms](http://en.wikipedia.org/wiki/A_Farewell_to_Arms) in English class, and I fell in love with Italy all over again.  I would listen to Preghero over and over in the dark in my room before I went to bed at night and imagine Frederick Henry all warring it up in the Abruzzo and being called Tenente all over the place, as well as the landscapes of World War II Italy, placing him firmly in my list of Hot Fictional Guys, although not above Mercutio of Romeo and Juliette or [[<img class="aligncenter size-full wp-image-2370" title="Picture 2" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/02/Picture-21.png" alt="" width="423" height="424" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/02/Picture-21.png)
 
 I am writing this post because I have been Wronged by the Internet.
 
-You know how there are sometimes memes that dig up &#8220;a really cool video from 1963?&#8221;  and then everyone starts passing it around and acting like it&#8217;s the greatest thing since LOLcats?  Well, [[<img class="aligncenter size-full wp-image-2370" title="Picture 2" src="http://blog.vickiboykis.com/wp-content/uploads/2010/02/Picture-21.png" alt="" width="423" height="424" />](http://blog.vickiboykis.com/wp-content/uploads/2010/02/Picture-21.png)
+You know how there are sometimes memes that dig up &#8220;a really cool video from 1963?&#8221;  and then everyone starts passing it around and acting like it&#8217;s the greatest thing since LOLcats?  Well, [[<img class="aligncenter size-full wp-image-2370" title="Picture 2" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/02/Picture-21.png" alt="" width="423" height="424" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/02/Picture-21.png)
 
 I am writing this post because I have been Wronged by the Internet.
 

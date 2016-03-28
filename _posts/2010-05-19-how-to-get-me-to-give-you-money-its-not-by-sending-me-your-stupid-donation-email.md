@@ -25,7 +25,7 @@ I have donation fatigue.  And I have no idea where my money is going.  Yes, th
 
 Also,  if you are e-mailing me every day (every single Jewish organization on the face of this planet who unfortunately know that I exist due to my excessive active youthful participation in the mailing list of every single Jewish organization on the face of this planet), you will get $0 from me.  I&#8217;ll use Jewish organizations as examples, because those are the ones I&#8217;m most familiar with.  Here are some examples of the messages that beseech me to give:
 
-[<img class="aligncenter size-full wp-image-2970" title="Picture 1" src="http://blog.vickiboykis.com/wp-content/uploads/2010/05/Picture-1.png" alt="" width="653" height="435" />](http://blog.vickiboykis.com/wp-content/uploads/2010/05/Picture-1.png)
+[<img class="aligncenter size-full wp-image-2970" title="Picture 1" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/05/Picture-1.png" alt="" width="653" height="435" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/05/Picture-1.png)
 
 Right into the trash.  Why?  Because I was <span style="text-decoration: line-through;">a slave</span> worked at Hillel on my own volition, giving the organization my blood, sweat, and tears for all of my college career (and it was great-I met the majority of my friends there).  And there is no way students leave legacies behind.  The people who wrote this don&#8217;t understand how campus Hillels work.  They are extremely fluid and, because of administration bureaucracy, manage to make not much of an impact beyond the four years you spend there.
 
@@ -33,11 +33,11 @@ Donations are not what makes the organization on a branch level run.  Usually, 
 
 Here&#8217;s another one.  The New Israel Fund, who I donated to once to give money to [Russian Israelis to marry as Israelis](http://www.jewlicious.com/2009/07/jews-cant-marry-in-israel/) in Israel, now have not taken the hint that I don&#8217;t really want to give any more money to them and keep sending me things like this, which cites [a survey of dubious origins](http://www.haaretz.com/news/national/poll-majority-of-israel-s-jews-back-gag-on-rights-groups-1.285120) that polled only 500 Israelis (doesn&#8217;t say which area of the country, etc.), to alarm me into giving them money with a nice use of an urgent Ben-Gurion side-quote,
 
-[<img class="aligncenter size-full wp-image-2977" title="Picture 5" src="http://blog.vickiboykis.com/wp-content/uploads/2010/05/Picture-51.png" alt="" width="934" height="488" />](http://blog.vickiboykis.com/wp-content/uploads/2010/05/Picture-51.png)
+[<img class="aligncenter size-full wp-image-2977" title="Picture 5" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/05/Picture-51.png" alt="" width="934" height="488" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/05/Picture-51.png)
 
 And then there&#8217;s the JTA.
 
-[<img class="aligncenter size-full wp-image-2972" title="Picture 4" src="http://blog.vickiboykis.com/wp-content/uploads/2010/05/Picture-4.png" alt="" width="685" height="458" />](http://blog.vickiboykis.com/wp-content/uploads/2010/05/Picture-4.png)
+[<img class="aligncenter size-full wp-image-2972" title="Picture 4" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/05/Picture-4.png" alt="" width="685" height="458" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/05/Picture-4.png)
 
 JTA, I don&#8217;t know if you realize this, but EVERY moment in time is fraught with challenges and opportunities for the Jewish people.  And if I want a news update, I can get it from the Jewish Peoples&#8217; News source: Twitter.  And if that fails, there&#8217;s my mom.  Stop patronizing me. Please.
 

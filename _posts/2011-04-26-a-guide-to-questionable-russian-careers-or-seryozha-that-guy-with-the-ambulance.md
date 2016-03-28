@@ -18,7 +18,7 @@ tags:
   - Russian Jews
 ---
 <div id="attachment_4851" style="width: 458px" class="wp-caption aligncenter">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2011/04/DSC_0103.jpg"><img class="size-full wp-image-4851" title="DSC_0103" src="http://blog.vickiboykis.com/wp-content/uploads/2011/04/DSC_0103.jpg" alt="" width="448" height="321" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/04/DSC_0103.jpg"><img class="size-full wp-image-4851" title="DSC_0103" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/04/DSC_0103.jpg" alt="" width="448" height="321" /></a>
   
   <p class="wp-caption-text">
     This car is not big enough. Looks like it's ambulances for me from here on out until I become indicted for Medicare fraud!
@@ -38,7 +38,7 @@ Before that, every Russian was selling cell phones and SIM cards. I have no idea
 (P.S. Did you know when you search for Russian things, you get nice Russian search results:)
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2011/04/Screen-shot-2011-04-26-at-12.44.00-PM.png"><img class="aligncenter size-full wp-image-4889" title="Screen shot 2011-04-26 at 12.44.00 PM" src="http://blog.vickiboykis.com/wp-content/uploads/2011/04/Screen-shot-2011-04-26-at-12.44.00-PM.png" alt="" width="468" height="85" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/04/Screen-shot-2011-04-26-at-12.44.00-PM.png"><img class="aligncenter size-full wp-image-4889" title="Screen shot 2011-04-26 at 12.44.00 PM" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/04/Screen-shot-2011-04-26-at-12.44.00-PM.png" alt="" width="468" height="85" /></a>
 </p>
 
 Before that, when the big wave of immigrants came in 1991,  the it thing was programming, which is the only real job on this list.  However, because it was so lucrative and so easy to get into back in the day, there are now a bunch of mediocre Russian programmers who were originally Russian language or horticulture majors back in the homeland that screw up the reputation of Russians who actually do know a do loop from an if loop.  In my immediate family alone, there are SEVEN programmers. And I currently work in IT, although not as a programmer, but that doesn&#8217;t count because I still read _The Economist_ and yearn for [that job](http://www.economist.com/classifieds/view_classified.cfm?sitd=10673&key=&sitd_type=R) in  Suisse.  The given amount of Russian programmers any Russian knows is inversely proportional to  **<big>∞.</big>**
@@ -57,7 +57,7 @@ With that in mind, put your predictions for industries Russians in the United St
 I&#8217;ll start you off.
 
 [<div id="attachment_4851" style="width: 458px" class="wp-caption aligncenter">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2011/04/DSC_0103.jpg"><img class="size-full wp-image-4851" title="DSC_0103" src="http://blog.vickiboykis.com/wp-content/uploads/2011/04/DSC_0103.jpg" alt="" width="448" height="321" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/04/DSC_0103.jpg"><img class="size-full wp-image-4851" title="DSC_0103" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/04/DSC_0103.jpg" alt="" width="448" height="321" /></a>
   
   <p class="wp-caption-text">
     This car is not big enough. Looks like it's ambulances for me from here on out until I become indicted for Medicare fraud!
@@ -77,7 +77,7 @@ Before that, every Russian was selling cell phones and SIM cards. I have no idea
 (P.S. Did you know when you search for Russian things, you get nice Russian search results:)
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2011/04/Screen-shot-2011-04-26-at-12.44.00-PM.png"><img class="aligncenter size-full wp-image-4889" title="Screen shot 2011-04-26 at 12.44.00 PM" src="http://blog.vickiboykis.com/wp-content/uploads/2011/04/Screen-shot-2011-04-26-at-12.44.00-PM.png" alt="" width="468" height="85" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/04/Screen-shot-2011-04-26-at-12.44.00-PM.png"><img class="aligncenter size-full wp-image-4889" title="Screen shot 2011-04-26 at 12.44.00 PM" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/04/Screen-shot-2011-04-26-at-12.44.00-PM.png" alt="" width="468" height="85" /></a>
 </p>
 
 Before that, when the big wave of immigrants came in 1991,  the it thing was programming, which is the only real job on this list.  However, because it was so lucrative and so easy to get into back in the day, there are now a bunch of mediocre Russian programmers who were originally Russian language or horticulture majors back in the homeland that screw up the reputation of Russians who actually do know a do loop from an if loop.  In my immediate family alone, there are SEVEN programmers. And I currently work in IT, although not as a programmer, but that doesn&#8217;t count because I still read _The Economist_ and yearn for [that job](http://www.economist.com/classifieds/view_classified.cfm?sitd=10673&key=&sitd_type=R) in  Suisse.  The given amount of Russian programmers any Russian knows is inversely proportional to  **<big>∞.</big>**

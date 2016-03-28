@@ -17,7 +17,7 @@ tags:
   - theft
 ---
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2010/11/Photo-on-2010-11-19-at-06.28-2.jpg"><img class="aligncenter size-full wp-image-3900" title="Photo on 2010-11-19 at 06.28 #2" src="http://blog.vickiboykis.com/wp-content/uploads/2010/11/Photo-on-2010-11-19-at-06.28-2.jpg" alt="" width="448" height="336" /></a>This picture will make sense in a minute (I know.)
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/11/Photo-on-2010-11-19-at-06.28-2.jpg"><img class="aligncenter size-full wp-image-3900" title="Photo on 2010-11-19 at 06.28 #2" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/11/Photo-on-2010-11-19-at-06.28-2.jpg" alt="" width="448" height="336" /></a>This picture will make sense in a minute (I know.)
 </p>
 
 So, an interesting story from the other night is that I thought someone had broken into the house.  It was about 2:45 A.M. and, being a light sleeper, I was woken by a kind of clanging noise that was either just outside of the garage or in the basement.  I forgot temporarily that I was not the only person in the house, that Mr. B&#8217;s mom was asleep across the hall, and my half-awake mind raced through the possibilities.

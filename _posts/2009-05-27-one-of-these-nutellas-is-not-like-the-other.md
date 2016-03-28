@@ -19,7 +19,7 @@ tags:
 Nutella is my crack.  I like to run laps just so I can eat Nutella.  I&#8217;m a slave to the hazelnut.  So, when I was eating Nutella out of the jar with a butter knife, shamelessly  the other day, I noticed something.  Take a look.  Do you see it?
 
 <p style="text-align: left;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2009/05/dsc01510.jpg"><img class="aligncenter size-full wp-image-433" title="dsc01510" src="http://blog.vickiboykis.com/wp-content/uploads/2009/05/dsc01510.jpg" alt="dsc01510" width="492" height="369" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/05/dsc01510.jpg"><img class="aligncenter size-full wp-image-433" title="dsc01510" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/05/dsc01510.jpg" alt="dsc01510" width="492" height="369" /></a>
 </p>
 
 <p style="text-align: left;">
@@ -31,7 +31,7 @@ Nutella is my crack.  I like to run laps just so I can eat Nutella.  I&#8217;m
 </p>
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2009/05/dsc01511.jpg"><img class="aligncenter size-full wp-image-434" title="dsc01511" src="http://blog.vickiboykis.com/wp-content/uploads/2009/05/dsc01511.jpg" alt="dsc01511" width="526" height="396" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/05/dsc01511.jpg"><img class="aligncenter size-full wp-image-434" title="dsc01511" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/05/dsc01511.jpg" alt="dsc01511" width="526" height="396" /></a>
 </p>
 
 <p style="text-align: left;">

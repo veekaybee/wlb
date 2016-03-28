@@ -17,7 +17,7 @@ tags:
   - vetri
 ---
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2012/10/IMG_20121004_204903.jpg"><img class="aligncenter  wp-image-7648" title="IMG_20121004_204903" src="http://blog.vickiboykis.com/wp-content/uploads/2012/10/IMG_20121004_204903-768x1024.jpg" alt="" width="323" height="430" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/10/IMG_20121004_204903.jpg"><img class="aligncenter  wp-image-7648" title="IMG_20121004_204903" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/10/IMG_20121004_204903-768x1024.jpg" alt="" width="323" height="430" /></a>
 </p>
 
 &nbsp;
@@ -53,7 +53,7 @@ She explained that there was a tasting menu, and that if there was anything spec
 The plan: (yes, that&#8217;s a piece of chocolate on it that I put there.)
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2012/10/IMG_20121009_071107.jpg"><img class="aligncenter  wp-image-7650" title="IMG_20121009_071107" src="http://blog.vickiboykis.com/wp-content/uploads/2012/10/IMG_20121009_071107-768x1024.jpg" alt="" width="461" height="614" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/10/IMG_20121009_071107.jpg"><img class="aligncenter  wp-image-7650" title="IMG_20121009_071107" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/10/IMG_20121009_071107-768x1024.jpg" alt="" width="461" height="614" /></a>
 </p>
 
 &#8220;What do I do if I don&#8217;t like meat,&#8221; I said to Mr. B in Russian after she left.
@@ -89,7 +89,7 @@ Already feeling out of place because everyone else was in evening jackets and pr
 The meal began with a flourish. We were brought prosecco and a plate of pre-meal stuff. All pics are <a href="http://www.yelp.com/biz_photos/vetri-philadelphia?select=c2G2G-pmETqLZLndSuOVNg#EqBf6aaikmE7XWteqMqn_A" target="_blank">from Yelp</a>, because that&#8217;s the one déclassé thing we had the foresight not to do.
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2012/10/plate.jpeg"><img class="aligncenter  wp-image-7651" title="plate" src="http://blog.vickiboykis.com/wp-content/uploads/2012/10/plate.jpeg" alt="" width="420" height="279" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/10/plate.jpeg"><img class="aligncenter  wp-image-7651" title="plate" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/10/plate.jpeg" alt="" width="420" height="279" /></a>
 </p>
 
 <p style="text-align: left;">
@@ -165,11 +165,11 @@ The meal began with a flourish. We were brought prosecco and a plate of pre-meal
 </p>
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2012/10/dish.jpeg"><img class="aligncenter  wp-image-7652" title="dish" src="http://blog.vickiboykis.com/wp-content/uploads/2012/10/dish.jpeg" alt="" width="428" height="320" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/10/dish.jpeg"><img class="aligncenter  wp-image-7652" title="dish" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/10/dish.jpeg" alt="" width="428" height="320" /></a>
 </p>
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2012/10/bowl.jpeg"><img class="aligncenter  wp-image-7653" title="bowl" src="http://blog.vickiboykis.com/wp-content/uploads/2012/10/bowl.jpeg" alt="" width="426" height="320" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/10/bowl.jpeg"><img class="aligncenter  wp-image-7653" title="bowl" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/10/bowl.jpeg" alt="" width="426" height="320" /></a>
 </p>
 
 <p style="text-align: left;">

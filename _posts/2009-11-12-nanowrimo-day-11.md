@@ -13,7 +13,7 @@ tags:
   - NaNoWriMo
   - Russian Jews
 ---
-[<img class="aligncenter size-full wp-image-1600" title="Page_1" src="http://blog.vickiboykis.com/wp-content/uploads/2009/11/Page_1.jpg" alt="Page_1" width="500" height="100" />](http://blog.vickiboykis.com/wp-content/uploads/2009/11/Page_1.jpg)
+[<img class="aligncenter size-full wp-image-1600" title="Page_1" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/11/Page_1.jpg" alt="Page_1" width="500" height="100" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/11/Page_1.jpg)
 
 Well, I&#8217;m almost at the half-way mark (**23,235 words**).  Michael is on his way to Jerusalem, continuing the next part of his trip, not having had any success with the ladies yet, and has left his host family and struck out on his own. I&#8217;ve been supplementing my research with a little bit of audio-visual material. The first has been watching [Moscow on the Hudson](http://www.imdb.com/title/tt0087747/) on the recommendation of friends, and so far (we&#8217;ve only watched half)  it&#8217;s been wonderful.  More to come on this movie later.
 

@@ -9,7 +9,7 @@ permalink: /2012/03/white-people-experiencing-first-world-problems-while-reading
 categories:
   - Uncategorized
 ---
-[<img class="aligncenter size-full wp-image-6520" title="The lonely girl" src="http://blog.vickiboykis.com/wp-content/uploads/2012/03/crying.jpg" alt="" width="400" height="400" />](http://blog.vickiboykis.com/wp-content/uploads/2012/03/crying.jpg)
+[<img class="aligncenter size-full wp-image-6520" title="The lonely girl" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/03/crying.jpg" alt="" width="400" height="400" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/03/crying.jpg)
 
 &nbsp;
 

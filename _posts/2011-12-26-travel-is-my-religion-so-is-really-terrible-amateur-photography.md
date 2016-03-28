@@ -16,7 +16,7 @@ tags:
   - Uk
   - vacation
 ---
-> [<img class="aligncenter" title="IMAG1040" src="http://blog.vickiboykis.com/wp-content/uploads/2011/12/IMAG1040.jpg" alt="" width="277" height="461" />](http://blog.vickiboykis.com/wp-content/uploads/2011/12/IMAG1040.jpg)
+> [<img class="aligncenter" title="IMAG1040" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/12/IMAG1040.jpg" alt="" width="277" height="461" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/12/IMAG1040.jpg)
 
 > “The world is a book and those who do not travel read only one page.” – St. Augustine
 
@@ -25,7 +25,7 @@ Wow.  Where do I start about our vacation to the England and Scotland last week
 I love to travel, and I live to travel.  Planning travel is a pain in the ass and makes me really stressed out, but the moment when I see the US disappearing below me is when I am at my happiest.  Being on an airplane, on a train, and in a car in a foreign country is the closest I&#8217;ve ever felt to being an optimist.
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2011/12/DSC_0468.jpg"><img class="aligncenter size-full wp-image-6057" title="DSC_0468" src="http://blog.vickiboykis.com/wp-content/uploads/2011/12/DSC_0468.jpg" alt="" width="541" height="360" /></a>London.
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/12/DSC_0468.jpg"><img class="aligncenter size-full wp-image-6057" title="DSC_0468" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/12/DSC_0468.jpg" alt="" width="541" height="360" /></a>London.
 </p>
 
 <p style="text-align: left;">
@@ -45,39 +45,39 @@ I love to travel, and I live to travel.  Planning travel is a pain in the ass a
 </p>
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2011/12/DSC_0455.jpg"><img class="aligncenter size-full wp-image-6058" title="DSC_0455" src="http://blog.vickiboykis.com/wp-content/uploads/2011/12/DSC_0455.jpg" alt="" width="541" height="360" /></a>St. Paul&#8217;s Cathedral, London
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/12/DSC_0455.jpg"><img class="aligncenter size-full wp-image-6058" title="DSC_0455" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/12/DSC_0455.jpg" alt="" width="541" height="360" /></a>St. Paul&#8217;s Cathedral, London
 </p>
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2011/12/DSC_0467.jpg"><img class="aligncenter size-full wp-image-6059" title="DSC_0467" src="http://blog.vickiboykis.com/wp-content/uploads/2011/12/DSC_0467.jpg" alt="" width="360" height="541" /></a>Queen Me Street, London
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/12/DSC_0467.jpg"><img class="aligncenter size-full wp-image-6059" title="DSC_0467" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/12/DSC_0467.jpg" alt="" width="360" height="541" /></a>Queen Me Street, London
 </p>
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2011/12/DSC_0479.jpg"><img class="aligncenter size-full wp-image-6060" title="DSC_0479" src="http://blog.vickiboykis.com/wp-content/uploads/2011/12/DSC_0479.jpg" alt="" width="541" height="360" /></a>Sunset over the Thames, London Eye, and Parliament
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/12/DSC_0479.jpg"><img class="aligncenter size-full wp-image-6060" title="DSC_0479" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/12/DSC_0479.jpg" alt="" width="541" height="360" /></a>Sunset over the Thames, London Eye, and Parliament
 </p>
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2011/12/DSC_0516.jpg"><img class="aligncenter size-full wp-image-6061" title="DSC_0516" src="http://blog.vickiboykis.com/wp-content/uploads/2011/12/DSC_0516.jpg" alt="" width="541" height="360" /></a>We were lucky enough to get to Big Ben at sunset, when the best pictures happen.
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/12/DSC_0516.jpg"><img class="aligncenter size-full wp-image-6061" title="DSC_0516" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/12/DSC_0516.jpg" alt="" width="541" height="360" /></a>We were lucky enough to get to Big Ben at sunset, when the best pictures happen.
 </p>
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2011/12/DSC_0654.jpg"><img class="aligncenter size-full wp-image-6062" title="DSC_0654" src="http://blog.vickiboykis.com/wp-content/uploads/2011/12/DSC_0654.jpg" alt="" width="541" height="360" /></a>Christmastime Edinburgh at night. But more like Edinburrrrrrrrgh, amirite?
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/12/DSC_0654.jpg"><img class="aligncenter size-full wp-image-6062" title="DSC_0654" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/12/DSC_0654.jpg" alt="" width="541" height="360" /></a>Christmastime Edinburgh at night. But more like Edinburrrrrrrrgh, amirite?
 </p>
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2011/12/DSC_0641.jpg"><img class="aligncenter size-full wp-image-6063" title="DSC_0641" src="http://blog.vickiboykis.com/wp-content/uploads/2011/12/DSC_0641.jpg" alt="" width="480" height="722" /></a>Losing my head over my favorite crush, Adam Smith, in his native Scotland (Edinburgh). Please dear God don&#8217;t say anything about my boots.
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/12/DSC_0641.jpg"><img class="aligncenter size-full wp-image-6063" title="DSC_0641" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/12/DSC_0641.jpg" alt="" width="480" height="722" /></a>Losing my head over my favorite crush, Adam Smith, in his native Scotland (Edinburgh). Please dear God don&#8217;t say anything about my boots.
 </p>
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2011/12/DSC_0765.jpg"><img class="aligncenter size-full wp-image-6064" title="DSC_0765" src="http://blog.vickiboykis.com/wp-content/uploads/2011/12/DSC_0765.jpg" alt="" width="631" height="420" /></a>The bonnie, bonnie banks of Loch Lomond and Ben Lomond in the background.
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/12/DSC_0765.jpg"><img class="aligncenter size-full wp-image-6064" title="DSC_0765" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/12/DSC_0765.jpg" alt="" width="631" height="420" /></a>The bonnie, bonnie banks of Loch Lomond and Ben Lomond in the background.
 </p>
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2011/12/IMAG1143.jpg"><img class="aligncenter size-full wp-image-6065" title="IMAG1143" src="http://blog.vickiboykis.com/wp-content/uploads/2011/12/IMAG1143.jpg" alt="" width="538" height="896" /></a>Glasgow, the day before Christmas
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/12/IMAG1143.jpg"><img class="aligncenter size-full wp-image-6065" title="IMAG1143" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/12/IMAG1143.jpg" alt="" width="538" height="896" /></a>Glasgow, the day before Christmas
 </p>
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2011/12/DSC_0597.jpg"><img class="aligncenter size-full wp-image-6066" title="DSC_0597" src="http://blog.vickiboykis.com/wp-content/uploads/2011/12/DSC_0597.jpg" alt="" width="631" height="420" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/12/DSC_0597.jpg"><img class="aligncenter size-full wp-image-6066" title="DSC_0597" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/12/DSC_0597.jpg" alt="" width="631" height="420" /></a>
 </p>
 
 <p style="text-align: center;">
@@ -85,7 +85,7 @@ I love to travel, and I live to travel.  Planning travel is a pain in the ass a
 </p>
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2011/12/DSC_0571.jpg"><img class="aligncenter size-full wp-image-6067" title="DSC_0571" src="http://blog.vickiboykis.com/wp-content/uploads/2011/12/DSC_0571.jpg" alt="" width="480" height="722" /></a>Tower of London. What I love about medieval places is that I&#8217;m never too short, but always the right height never to watch my head in doorways.
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/12/DSC_0571.jpg"><img class="aligncenter size-full wp-image-6067" title="DSC_0571" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/12/DSC_0571.jpg" alt="" width="480" height="722" /></a>Tower of London. What I love about medieval places is that I&#8217;m never too short, but always the right height never to watch my head in doorways.
 </p>
 
 <p style="text-align: center;">

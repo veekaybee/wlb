@@ -13,7 +13,7 @@ tags:
   - mba
   - socialism
 ---
-[<img class="aligncenter size-full wp-image-9060" alt="Kennedy-Khrushchev" src="http://blog.vickiboykis.com/wp-content/uploads/2013/09/Kennedy-Khrushchev.jpg" width="425" height="329" />](http://blog.vickiboykis.com/wp-content/uploads/2013/09/Kennedy-Khrushchev.jpg)
+[<img class="aligncenter size-full wp-image-9060" alt="Kennedy-Khrushchev" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/09/Kennedy-Khrushchev.jpg" width="425" height="329" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/09/Kennedy-Khrushchev.jpg)
 
 One of the things they tell you to do at the beginning of every MBA is to talk to the people in your classes, because the biggest value of an MBA is in the connections you&#8217;ll make. I&#8217;m basically paying upwards of $5k a semester for in-person Facebook. Thanks, guys.
 

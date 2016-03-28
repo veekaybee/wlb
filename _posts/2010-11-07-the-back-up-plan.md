@@ -23,7 +23,7 @@ I mean, it&#8217;s not an active thing, but since you know how hypochondriac and
 P.S. Do you know what is a bad activity for people who are afraid of sudden diseases and body paralysis? Horseback riding!
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2010/11/19838_656705240295_2406357_37752250_3696732_n.jpg"><img class="aligncenter size-full wp-image-3866" title="19838_656705240295_2406357_37752250_3696732_n" src="http://blog.vickiboykis.com/wp-content/uploads/2010/11/19838_656705240295_2406357_37752250_3696732_n.jpg" alt="" width="362" height="203" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/11/19838_656705240295_2406357_37752250_3696732_n.jpg"><img class="aligncenter size-full wp-image-3866" title="19838_656705240295_2406357_37752250_3696732_n" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/11/19838_656705240295_2406357_37752250_3696732_n.jpg" alt="" width="362" height="203" /></a>
 </p>
 
 So I&#8217;ve been brainstorming about where I could meet someone that fulfills all of the following criteria:
@@ -41,7 +41,7 @@ I mean, it&#8217;s not an active thing, but since you know how hypochondriac and
 P.S. Do you know what is a bad activity for people who are afraid of sudden diseases and body paralysis? Horseback riding!
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2010/11/19838_656705240295_2406357_37752250_3696732_n.jpg"><img class="aligncenter size-full wp-image-3866" title="19838_656705240295_2406357_37752250_3696732_n" src="http://blog.vickiboykis.com/wp-content/uploads/2010/11/19838_656705240295_2406357_37752250_3696732_n.jpg" alt="" width="362" height="203" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/11/19838_656705240295_2406357_37752250_3696732_n.jpg"><img class="aligncenter size-full wp-image-3866" title="19838_656705240295_2406357_37752250_3696732_n" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/11/19838_656705240295_2406357_37752250_3696732_n.jpg" alt="" width="362" height="203" /></a>
 </p>
 
 So I&#8217;ve been brainstorming about where I could meet someone that fulfills all of the following criteria:

@@ -13,11 +13,11 @@ tags:
   - Washington
 ---
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2010/11/Screen-shot-2010-11-29-at-8.07.52-AM.png"><img class="aligncenter size-full wp-image-3942" title="Screen shot 2010-11-29 at 8.07.52 AM" src="http://blog.vickiboykis.com/wp-content/uploads/2010/11/Screen-shot-2010-11-29-at-8.07.52-AM.png" alt="" width="481" height="372" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/11/Screen-shot-2010-11-29-at-8.07.52-AM.png"><img class="aligncenter size-full wp-image-3942" title="Screen shot 2010-11-29 at 8.07.52 AM" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/11/Screen-shot-2010-11-29-at-8.07.52-AM.png" alt="" width="481" height="372" /></a>
 </p>
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2010/11/Screen-shot-2010-11-29-at-8.07.59-AM.png"><img class="aligncenter size-full wp-image-3943" title="Screen shot 2010-11-29 at 8.07.59 AM" src="http://blog.vickiboykis.com/wp-content/uploads/2010/11/Screen-shot-2010-11-29-at-8.07.59-AM.png" alt="" width="479" height="430" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/11/Screen-shot-2010-11-29-at-8.07.59-AM.png"><img class="aligncenter size-full wp-image-3943" title="Screen shot 2010-11-29 at 8.07.59 AM" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/11/Screen-shot-2010-11-29-at-8.07.59-AM.png" alt="" width="479" height="430" /></a>
 </p>
 
 <p style="text-align: left;">

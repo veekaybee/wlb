@@ -16,7 +16,7 @@ tags:
   - white people
 ---
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2012/07/Typing-Woman.jpg"><img class="aligncenter  wp-image-7078" title="Typing-Woman" src="http://blog.vickiboykis.com/wp-content/uploads/2012/07/Typing-Woman.jpg" alt="" width="409" height="613" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/07/Typing-Woman.jpg"><img class="aligncenter  wp-image-7078" title="Typing-Woman" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/07/Typing-Woman.jpg" alt="" width="409" height="613" /></a>
 </p>
 
 As I opened the tab to my favorite <a href="http://blog.vickiboykis.com/2011/12/new-york-times-story-idea-bingo-2011/" target="_blank">White People Newspaper</a> to see what&#8217;s going on for the NPR set and <a href="http://blog.vickiboykis.com/2012/03/white-people-experiencing-first-world-problems-while-reading/" target="_blank">people who have iPad anxiety</a>, I noticed an article that has some of these following quotes:

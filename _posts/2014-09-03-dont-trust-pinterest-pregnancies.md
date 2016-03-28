@@ -13,7 +13,7 @@ tags:
   - life
   - pregnancy
 ---
-[<img class="aligncenter size-full wp-image-9815" src="http://blog.vickiboykis.com/wp-content/uploads/2014/09/The-Happy-Family-xx-Adolf-Eberle.jpg" alt="The-Happy-Family-xx-Adolf-Eberle" width="482" height="594" />](http://blog.vickiboykis.com/wp-content/uploads/2014/09/The-Happy-Family-xx-Adolf-Eberle.jpg)
+[<img class="aligncenter size-full wp-image-9815" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2014/09/The-Happy-Family-xx-Adolf-Eberle.jpg" alt="The-Happy-Family-xx-Adolf-Eberle" width="482" height="594" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2014/09/The-Happy-Family-xx-Adolf-Eberle.jpg)
 
 &nbsp;
 
@@ -59,12 +59,4 @@ Only chill American moms who aren’t anxious can write posts with cute baby clo
 
 In addition to the fears I knew from my own every day life, I was terrified of things I had read on the forums. “Don’t read the forums,” Mr. B said, but the forums were mostly helpful. Just sometimes, people would announce that they had had a loss at 7 weeks, 12 weeks, 13 weeks, and just when I thought I was safe, I saw their messages. I constantly checked myself between checkups for signs that my baby was ok, that it was growing and healthy. Every time I threw up, I breathed a sigh of relief afterwards because it meant everything was fine.
 
-When I stopped throwing up and before I started feeling baby movements, I tried to read big fantasy books to keep my mind busy. Blogging about a process that was so fraught with terrifying potential avenues, that was so new and fragile, seemed like tempting fate, and it still does, but I’m getting to the point where I can’t not write, because writing is also my life.
-
-When I did want to write, I was worried about privacy. I saw hundreds of naked babies on Instagram and Facebook, and didn’t want that to be me. Where do those baby pictures go when Instagram dies and Facebook becomes dismantled? Where does my privacy end and where does my child’s begin? I don’t know, and as someone who likes to document her life, it makes me worried. But I also didn’t want to not share, because it felt like was living life with a gag across my mouth. I’m trying to toe the middle line. (Maybe I&#8217;ll repost pictures of those Instagram babies as a compromise.)
-
-So anyway, surprise blog post ending, I’m pregnant, and there is no certainty to anything about being pregnant like there was in every other part of my life, and it’s scary. But I am certain (knock on wood, tie the red bracelet, spit over your shoulder) that we are having a healthy, happy daughter in January and I could not be looking forward this part of my life more.
-
-P.S. Don’t believe the sunshiney-happy-belly-rubbing pregnancies people tell you about in social media. Social media, especially Pinterest, was invented by Americans.
-
-&nbsp;
+When I stopped throwing up and before I started feeling baby movements, I tried to read big fantasy books to keep my mind busy. Blogging about a process that was so fraught with terrifying potential avenues, that was so new and fragile, seemed like tempting fate, and it still does, but I’m getting to the point where I can’t

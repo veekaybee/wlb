@@ -20,7 +20,7 @@ Years ago, on a bus in Israel, on the way from Jerusalem to the Golan Heights, a
 This weekend, I, along with my parents and Mr. B&#8217;s aunt and uncle,  got to see [Shaov](http://www.shaov.ru/),  one of my favorite modern singers perform live. He sings in a type of style called, in Russian, [bard song](http://en.wikipedia.org/wiki/Bard_(Soviet_Union)), which mainly means that he writes his own music, often on political or satirical themes, and accompanies his singing with simple guitar chords. I guess, in a way, he can be compared to Bob Dylan or Paul Simon, but it&#8217;s not a perfect comparison.
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2010/10/Timur_Shaov.jpg"><img class="aligncenter size-full wp-image-3777" title="Timur_Shaov" src="http://blog.vickiboykis.com/wp-content/uploads/2010/10/Timur_Shaov.jpg" alt="" width="429" height="429" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/10/Timur_Shaov.jpg"><img class="aligncenter size-full wp-image-3777" title="Timur_Shaov" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/10/Timur_Shaov.jpg" alt="" width="429" height="429" /></a>
 </p>
 
 The most famous bard is [Vladimir Vystosky](http://www.kulichki.com/vv/eng/) who sung about the injustices of life in the Soviet Union with an enormous amount of cleverness, tenderness, rage, and humor.  He is my favorite musical artist of all time, and his lyrics are very hard to understand unless you understand the Soviet Union and Russian culture.  But even just listening to his voice is very powerful, and this song is one of his most-known. If you click-through, there&#8217;s a translation of lyrics into English:

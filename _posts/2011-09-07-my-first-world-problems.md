@@ -19,7 +19,7 @@ As you can probably tell, I&#8217;ve been a bit busy lately.
 
 Yesterday, after a long day of work and school, I was complaining to Mr. B about how I don&#8217;t understand ANYTHING in class, from the moment the professor starts teaching, to the minute he finishes.  As a result, I am looking at notes like this that make zero sense:
 
-[<img class="aligncenter size-full wp-image-5700" title="IMAG0947" src="http://blog.vickiboykis.com/wp-content/uploads/2011/09/IMAG0947.jpg" alt="" width="307" height="512" />](http://blog.vickiboykis.com/wp-content/uploads/2011/09/IMAG0947.jpg)
+[<img class="aligncenter size-full wp-image-5700" title="IMAG0947" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/09/IMAG0947.jpg" alt="" width="307" height="512" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/09/IMAG0947.jpg)
 
 So I bitched to Mr. B for about half an hour in the car about how I was going to switch to an MBA because you didn&#8217;t have to do any real math, how I hated math, how, even if <a href="http://thesocietypages.org/socimages/2010/02/09/the-truth-about-gender-and-math/" target="_blank">girls were not necessarily worse than boys at math</a>, that I was, and that there was no point to anything.
 

@@ -20,7 +20,7 @@ Cross-posted on [Swifteconomics](http://www.swifteconomics.com/2009/06/14/anna-s
 Do you have a very sassy New York-born Jewish grandma?  Chances are, she is exactly like [Anna Schwartz](http://en.wikipedia.org/wiki/Anna_Schwartz).  Except in addition to being sassy, Anna Schwartz is also a noted and very knowledgeable American economist, collaborating with Nobel Prize winner Milton Friedman on their seminal work about the Great Depression, _A Monetary History of the United States, 1867 – 1960_.   The book is very detailed and criticizes government intervention during the Great Depression and its aftermath.   You can  read parts of it as a Google Book [here](http://books.google.com/books?id=P_ckFu9NpKkC&dq=A+Monetary+History+of+the+United+States,+1867+%E2%80%93+1960&printsec=frontcover&source=bn&hl=en&ei=7rkzSoj1CqHBtwfZ1Pi2CQ&sa=X&oi=book_result&ct=result&resnum=7#PPR10,M1).  This book changed the way many people thought about monetary policy and shifted the viewpoint that looking at money activity was not important to how the economy worked.
 
 <div id="attachment_515" style="width: 272px" class="wp-caption aligncenter">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2009/06/ed-ai402_winter_dv_20081017132837.jpg"><img class="size-full wp-image-515" title="ed-ai402_winter_dv_20081017132837" src="http://blog.vickiboykis.com/wp-content/uploads/2009/06/ed-ai402_winter_dv_20081017132837.jpg" alt="ed-ai402_winter_dv_20081017132837" width="262" height="394" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/06/ed-ai402_winter_dv_20081017132837.jpg"><img class="size-full wp-image-515" title="ed-ai402_winter_dv_20081017132837" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/06/ed-ai402_winter_dv_20081017132837.jpg" alt="ed-ai402_winter_dv_20081017132837" width="262" height="394" /></a>
   
   <p class="wp-caption-text">
     Please make me some matzah ball soup. Then school the Fed.
@@ -40,7 +40,7 @@ She brings up some great points, on the transparency of the Fed:
 I remember when we went to the Federal Reserve as part of a field trip with my university Economics Club (where I was the Vice President.  Don&#8217;t laugh at me,) and I got to sit in Greenspan&#8217;s chair as one of the Federal Reserve governors told us about the Reserve&#8217;s plans to become more transparent, primarily by releasing the minutes of their meetings to the public, earlier.  I remember then I was impressed, and defended the Fed&#8217;s plans toward transparency all the way to the end.  But, like Schwartz tells it, this isn&#8217;t happening.
 
 <div id="attachment_514" style="width: 356px" class="wp-caption aligncenter">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2009/06/fedchair.jpg"><img class="size-full wp-image-514" title="fedchair" src="http://blog.vickiboykis.com/wp-content/uploads/2009/06/fedchair.jpg" alt="fedchair" width="346" height="384" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/06/fedchair.jpg"><img class="size-full wp-image-514" title="fedchair" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/06/fedchair.jpg" alt="fedchair" width="346" height="384" /></a>
   
   <p class="wp-caption-text">
     Ballin' hard in Greenspan's chair

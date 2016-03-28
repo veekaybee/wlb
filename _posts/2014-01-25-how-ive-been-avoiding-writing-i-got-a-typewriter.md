@@ -15,7 +15,7 @@ tags:
   - writing
 ---
 <p style="text-align: center;">
-   <a href="http://blog.vickiboykis.com/wp-content/uploads/2014/01/ernest-hemingway2.jpg"><img class="aligncenter  wp-image-9434" alt="ERNEST HEMINGWAY" src="http://blog.vickiboykis.com/wp-content/uploads/2014/01/ernest-hemingway2-580x740.jpg" width="464" height="592" /></a>
+   <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2014/01/ernest-hemingway2.jpg"><img class="aligncenter  wp-image-9434" alt="ERNEST HEMINGWAY" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2014/01/ernest-hemingway2-580x740.jpg" width="464" height="592" /></a>
 </p>
 
 Writers will do crazy things to get out of actually writing, because we like the idea of writing, but we hate actually sitting down on our ass and punching out the words.For example, Ernest Hemingway joined the American army in Italy in order not to write.  Things are looking pretty bleak when you voluntarily go to Italy, get severely injured, and have to spend months in a hospital rather than write another goddamn word about Frederic Henry and/or rain.
@@ -29,7 +29,7 @@ But even that wasn&#8217;t enough, because I am a fragile creator of masterpiece
 I decided I needed a typewriter.
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2014/01/IMG_20131227_171034.jpg"><img class="aligncenter  wp-image-9435" alt="IMG_20131227_171034" src="http://blog.vickiboykis.com/wp-content/uploads/2014/01/IMG_20131227_171034-580x773.jpg" width="464" height="618" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2014/01/IMG_20131227_171034.jpg"><img class="aligncenter  wp-image-9435" alt="IMG_20131227_171034" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2014/01/IMG_20131227_171034-580x773.jpg" width="464" height="618" /></a>
 </p>
 
 So I started trolling Craigslist, and, on one fine evening late in December, I was headed to Fishtown to pick up my <a href="http://mytypewriter.com/royalquietdeluxeincolors-1.aspx" target="_blank">Royal</a> (mine is not pink, because typewriters are for Real Men.)
@@ -85,7 +85,7 @@ When I got home, I started watching typewriter cleaning videos. I started orderi
 But it turns out that there&#8217;s a reason that we don&#8217;t use 1950s-era typewriters to write anymore, and that&#8217;s because the keys are heavy as shit and it is impossible to type fast without the keys locking.
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2014/01/Screen-Shot-2014-01-25-at-2.52.16-PM.png"><img class="aligncenter  wp-image-9437" alt="Screen Shot 2014-01-25 at 2.52.16 PM" src="http://blog.vickiboykis.com/wp-content/uploads/2014/01/Screen-Shot-2014-01-25-at-2.52.16-PM-580x239.png" width="464" height="191" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2014/01/Screen-Shot-2014-01-25-at-2.52.16-PM.png"><img class="aligncenter  wp-image-9437" alt="Screen Shot 2014-01-25 at 2.52.16 PM" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2014/01/Screen-Shot-2014-01-25-at-2.52.16-PM-580x239.png" width="464" height="191" /></a>
 </p>
 
 All of this is to say I have been doing absolutely dick except cleaning my typewriter and watching videos about how to clean a typewriter and looking for pictures of Ernest Hemingway with the same typewriter as me, and fielding my dad&#8217;s calls about my typewriter; everything except actually writing,  so really, the typewriter is working exactly as intended.

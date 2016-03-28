@@ -16,7 +16,7 @@ tags:
   - writing
 ---
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2012/02/charles_dickens.jpg"><img class="wp-image-6432 aligncenter" title="charles_dickens" src="http://blog.vickiboykis.com/wp-content/uploads/2012/02/charles_dickens.jpg" alt="" width="230" height="247" /></a><a href="http://blog.vickiboykis.com/wp-content/uploads/2012/02/man_in_sunglasses.jpg"><img class="wp-image-6433 aligncenter" title="man_in_sunglasses" src="http://blog.vickiboykis.com/wp-content/uploads/2012/02/man_in_sunglasses.jpg" alt="" width="296" height="196" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/02/charles_dickens.jpg"><img class="wp-image-6432 aligncenter" title="charles_dickens" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/02/charles_dickens.jpg" alt="" width="230" height="247" /></a><a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/02/man_in_sunglasses.jpg"><img class="wp-image-6433 aligncenter" title="man_in_sunglasses" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/02/man_in_sunglasses.jpg" alt="" width="296" height="196" /></a>
 </p>
 
 &nbsp;

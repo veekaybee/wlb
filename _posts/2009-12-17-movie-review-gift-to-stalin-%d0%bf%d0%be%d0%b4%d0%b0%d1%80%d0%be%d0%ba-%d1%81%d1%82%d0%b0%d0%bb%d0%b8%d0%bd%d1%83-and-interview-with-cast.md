@@ -20,11 +20,11 @@ tags:
 ---
 [This is not an easy movie to see](http://washingtondcjcc.org/center-for-arts/film/WJFF/films2009/gift-to-stalin.html). In fact, I didn&#8217;t want to see it at all and fought with myself because I knew just from the description it would be an impossibly cruel movie about the bodies Stalin left behind.
 
-[<img class="aligncenter size-full wp-image-1907" title="GIFT-TO-STALIN_boy-and-train-hi-res_1" src="http://blog.vickiboykis.com/wp-content/uploads/2009/12/GIFT-TO-STALIN_boy-and-train-hi-res_11.JPG" alt="GIFT-TO-STALIN_boy-and-train-hi-res_1" width="415" height="278" />](http://blog.vickiboykis.com/wp-content/uploads/2009/12/GIFT-TO-STALIN_boy-and-train-hi-res_11.JPG)
+[<img class="aligncenter size-full wp-image-1907" title="GIFT-TO-STALIN_boy-and-train-hi-res_1" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/12/GIFT-TO-STALIN_boy-and-train-hi-res_11.JPG" alt="GIFT-TO-STALIN_boy-and-train-hi-res_1" width="415" height="278" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/12/GIFT-TO-STALIN_boy-and-train-hi-res_11.JPG)
 
 Nevertheless, you should see it, because to see this movie is to understand what it means to be human.  It helped me understand much better what my grandpa, who was in exile in Uzbekistan during World War II to flee the Nazis and lost his father in the war, went through. It also reaffirms your belief in human nature.
 
-[<img class="aligncenter size-full wp-image-1911" title="stalinu" src="http://blog.vickiboykis.com/wp-content/uploads/2009/12/stalinu.jpg" alt="stalinu" width="393" height="274" />](http://blog.vickiboykis.com/wp-content/uploads/2009/12/stalinu.jpg)
+[<img class="aligncenter size-full wp-image-1911" title="stalinu" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/12/stalinu.jpg" alt="stalinu" width="393" height="274" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/12/stalinu.jpg)
 
 The movie is about Sashenka (Russian nickname for Alexander,) Pozner (Dalen Shintemirov) who is about 8 or 9 and on a train to Kazakhstan to live in exile with his grandfather while his parents serve hard labor time in Siberia for crimes against the state.  What this almost certainly means is that they were arrested because they were Jews.  His grandfather dies on the train, and Sashenka escapes from the train  to survive in the vast steppes with the help of a Kazakh man, Kasym (Nurzhuman Ikhtimbayov) and other Russian exiles including Katya (Ekaterina Rednikova), a Russian woman whose husband in Siberia and Ezhik,  a Pole (Waldemar Szczepaniak).
 
@@ -39,7 +39,7 @@ I don&#8217;t want to give away too much of the story, but I do want to say that
 I cried at the end of the movie, something I haven&#8217;t done since I saw Under the Tuscan Sun (to be honest, I was single and very emotional at the time. Those damn sunflowers were so colorful).  What was most amazing to me was that, after the movie, the festival staff worked hard to get the actors and producer to come from Kazakhstan to speak.
 
 <div id="attachment_1912" style="width: 530px" class="wp-caption aligncenter">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2009/12/DSC02832.JPG"><img class="size-full wp-image-1912 " title="DSC02832" src="http://blog.vickiboykis.com/wp-content/uploads/2009/12/DSC02832.JPG" alt="DSC02832" width="520" height="400" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/12/DSC02832.JPG"><img class="size-full wp-image-1912 " title="DSC02832" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/12/DSC02832.JPG" alt="DSC02832" width="520" height="400" /></a>
   
   <p class="wp-caption-text">
     L to R, Aliya Uvalzhanova, producer, Ekaterina Rednikova (Katya), Boris Cherdabayev, Producer; Nurzhuman Ikhtymbayev (Kasym); Yerkin Khanimolda (Aldongar Productions)

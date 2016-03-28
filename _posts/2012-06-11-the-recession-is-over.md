@@ -17,7 +17,7 @@ tags:
 ---
 Put down your Economists and Forbes magazines. They&#8217;re lying to you.  I&#8217;m here to tell you that the recession is over.
 
-[<img class="aligncenter size-full wp-image-6961" title="20120609_cna400" src="http://blog.vickiboykis.com/wp-content/uploads/2012/06/20120609_cna400.jpg" alt="" width="400" height="526" />](http://blog.vickiboykis.com/wp-content/uploads/2012/06/20120609_cna400.jpg)
+[<img class="aligncenter size-full wp-image-6961" title="20120609_cna400" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/06/20120609_cna400.jpg" alt="" width="400" height="526" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/06/20120609_cna400.jpg)
 
 How do I know? The movie trailers for upcoming films in the next couple months are getting better and better.
 

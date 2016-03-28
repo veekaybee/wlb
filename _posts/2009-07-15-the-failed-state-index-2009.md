@@ -16,7 +16,7 @@ tags:
   - world
 ---
 <p style="text-align: left;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2009/07/failed.jpg"><img class="aligncenter size-full wp-image-764" title="failed" src="http://blog.vickiboykis.com/wp-content/uploads/2009/07/failed.jpg" alt="failed" width="500" height="375" /></a> From Dunechaser on Flickr
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/07/failed.jpg"><img class="aligncenter size-full wp-image-764" title="failed" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/07/failed.jpg" alt="failed" width="500" height="375" /></a> From Dunechaser on Flickr
 </p>
 
 Nothing says, &#8220;You suck at life,&#8221; quite like landing at the top of the [Failed States Index](http://www.foreignpolicy.com/articles/2009/06/22/the_2009_failed_states_index), compiled by Foreign Policy magazine and the Fund for Peace (which sounds like [something George Costanza would have come up with](http://en.wikipedia.org/wiki/The_Strike_(Seinfeld)#The_Human_Fund)), except for possibly [joining a Ron Paul dating website](http://www.ronpaulsingles.com/).

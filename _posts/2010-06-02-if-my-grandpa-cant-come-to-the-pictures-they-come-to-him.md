@@ -16,7 +16,7 @@ tags:
   - technology
 ---
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2010/06/DSC_0112.jpg"><img class="aligncenter size-full wp-image-3070" title="DSC_0112" src="http://blog.vickiboykis.com/wp-content/uploads/2010/06/DSC_0112.jpg" alt="" width="448" height="298" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/06/DSC_0112.jpg"><img class="aligncenter size-full wp-image-3070" title="DSC_0112" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/06/DSC_0112.jpg" alt="" width="448" height="298" /></a>
 </p>
 
 About a month ago, I was visiting [my grandpa](http://blog.vickiboykis.com/2010/03/02/visiting-my-grandpa-the-yiddish-speaking-atheist/) when he got a call.  His  girlfriend jumped three feet in the air because the phone is loud since my grandpa used to be a [railroad engineer](http://en.wikipedia.org/wiki/Railroad_engineer) in the Ol&#8217; USSR and now has awful hearing as a result.
@@ -46,7 +46,7 @@ Ever since I&#8217;ve gotten my [new phone](http://blog.vickiboykis.com/2010/05/
 I pulled up my Picasa albums on my phone and started showing my grandpa.
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2010/06/DSC_0113.jpg"><img class="aligncenter size-full wp-image-3071" title="DSC_0113" src="http://blog.vickiboykis.com/wp-content/uploads/2010/06/DSC_0113.jpg" alt="" width="512" height="341" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/06/DSC_0113.jpg"><img class="aligncenter size-full wp-image-3071" title="DSC_0113" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/06/DSC_0113.jpg" alt="" width="512" height="341" /></a>
 </p>
 
 <p style="text-align: left;">
@@ -54,7 +54,7 @@ I pulled up my Picasa albums on my phone and started showing my grandpa.
 </p>
 
 <p style="text-align: left;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2010/06/DSC_0120.jpg"><img class="aligncenter size-full wp-image-3072" title="DSC_0120" src="http://blog.vickiboykis.com/wp-content/uploads/2010/06/DSC_0120.jpg" alt="" width="512" height="341" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/06/DSC_0120.jpg"><img class="aligncenter size-full wp-image-3072" title="DSC_0120" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/06/DSC_0120.jpg" alt="" width="512" height="341" /></a>
 </p>
 
 <p style="text-align: left;">
@@ -62,7 +62,7 @@ I pulled up my Picasa albums on my phone and started showing my grandpa.
 </p>
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2010/06/DSC02162.jpg"><img class="aligncenter size-full wp-image-3074" title="DSC02162" src="http://blog.vickiboykis.com/wp-content/uploads/2010/06/DSC02162.jpg" alt="" width="448" height="336" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/06/DSC02162.jpg"><img class="aligncenter size-full wp-image-3074" title="DSC02162" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/06/DSC02162.jpg" alt="" width="448" height="336" /></a>
 </p>
 
 <p style="text-align: left;">

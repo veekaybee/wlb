@@ -14,12 +14,12 @@ tags:
 ---
 Happy Friday! I&#8217;m trying to decide on vanity plates for <a href="http://blog.vickiboykis.com/2011/05/24/losing-erica/" target="_blank">my new car</a>.  The rules for Russians getting vanity plates are that you have to get something obnoxious that somehow incorporates Latin characters acting as Cyrillic characters.  The other options are to have your name, the city you are from (usually Odessa), or a Russian swear word.
 
-If all else fails, just add a [Russian license plate](http://blog.vickiboykis.com/wp-content/uploads/2011/01/wpid-IMAG0572.jpg) to your front grill to be completely obnoxious.  If it&#8217;s a European Union plate, double points.  Israeli plates?  Tripple points and the Real Russian Man of the year award.  Because nothing says &#8220;I Support Israel&#8221; like driving a Hummer fueled by Venezuelan and Saudi reserves in America.
+If all else fails, just add a [Russian license plate](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/01/wpid-IMAG0572.jpg) to your front grill to be completely obnoxious.  If it&#8217;s a European Union plate, double points.  Israeli plates?  Tripple points and the Real Russian Man of the year award.  Because nothing says &#8220;I Support Israel&#8221; like driving a Hummer fueled by Venezuelan and Saudi reserves in America.
 
 Examples:
 
 <div id="attachment_5159" style="width: 253px" class="wp-caption aligncenter">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2011/06/Screen-shot-2011-06-24-at-9.46.45-AM.png"><img class="size-full wp-image-5159" title="Screen shot 2011-06-24 at 9.46.45 AM" src="http://blog.vickiboykis.com/wp-content/uploads/2011/06/Screen-shot-2011-06-24-at-9.46.45-AM.png" alt="" width="243" height="117" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/06/Screen-shot-2011-06-24-at-9.46.45-AM.png"><img class="size-full wp-image-5159" title="Screen shot 2011-06-24 at 9.46.45 AM" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/06/Screen-shot-2011-06-24-at-9.46.45-AM.png" alt="" width="243" height="117" /></a>
   
   <p class="wp-caption-text">
     Moscow in Russian spelled in Latin characters.
@@ -27,7 +27,7 @@ Examples:
 </div>
 
 <div id="attachment_5160" style="width: 244px" class="wp-caption aligncenter">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2011/06/Screen-shot-2011-06-24-at-9.48.32-AM.png"><img class="size-full wp-image-5160" title="Screen shot 2011-06-24 at 9.48.32 AM" src="http://blog.vickiboykis.com/wp-content/uploads/2011/06/Screen-shot-2011-06-24-at-9.48.32-AM.png" alt="" width="234" height="127" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/06/Screen-shot-2011-06-24-at-9.48.32-AM.png"><img class="size-full wp-image-5160" title="Screen shot 2011-06-24 at 9.48.32 AM" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/06/Screen-shot-2011-06-24-at-9.48.32-AM.png" alt="" width="234" height="127" /></a>
   
   <p class="wp-caption-text">
     Suka=bitch.Both swear word and Latinized Cyrillic! Win!
@@ -35,7 +35,7 @@ Examples:
 </div>
 
 <div id="attachment_5162" style="width: 294px" class="wp-caption aligncenter">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2011/06/Screen-shot-2011-06-24-at-9.54.53-AM.png"><img class="size-full wp-image-5162" title="Screen shot 2011-06-24 at 9.54.53 AM" src="http://blog.vickiboykis.com/wp-content/uploads/2011/06/Screen-shot-2011-06-24-at-9.54.53-AM.png" alt="" width="284" height="116" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/06/Screen-shot-2011-06-24-at-9.54.53-AM.png"><img class="size-full wp-image-5162" title="Screen shot 2011-06-24 at 9.54.53 AM" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/06/Screen-shot-2011-06-24-at-9.54.53-AM.png" alt="" width="284" height="116" /></a>
   
   <p class="wp-caption-text">
     OK, this isn't a real plate because it's too long, but if you use your name, you have to be either -chka or -enka or -usik. And 69. Always 69.
@@ -47,7 +47,7 @@ Examples:
 </p>
 
 <p style="text-align: left;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2011/06/Screen-shot-2011-06-23-at-8.22.22-AM.png"><img class="aligncenter size-full wp-image-5164" title="Screen shot 2011-06-23 at 8.22.22 AM" src="http://blog.vickiboykis.com/wp-content/uploads/2011/06/Screen-shot-2011-06-23-at-8.22.22-AM.png" alt="" width="256" height="143" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/06/Screen-shot-2011-06-23-at-8.22.22-AM.png"><img class="aligncenter size-full wp-image-5164" title="Screen shot 2011-06-23 at 8.22.22 AM" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/06/Screen-shot-2011-06-23-at-8.22.22-AM.png" alt="" width="256" height="143" /></a>
 </p>
 
 <p style="text-align: left;">

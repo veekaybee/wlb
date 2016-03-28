@@ -20,7 +20,7 @@ tags:
   - Ukraine
 ---
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2011/11/History-of-Tractors-Cover.jpg"><img class="aligncenter size-full wp-image-5902" title="History-of-Tractors-Cover" src="http://blog.vickiboykis.com/wp-content/uploads/2011/11/History-of-Tractors-Cover.jpg" alt="" width="337" height="527" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/11/History-of-Tractors-Cover.jpg"><img class="aligncenter size-full wp-image-5902" title="History-of-Tractors-Cover" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/11/History-of-Tractors-Cover.jpg" alt="" width="337" height="527" /></a>
 </p>
 
 &nbsp;

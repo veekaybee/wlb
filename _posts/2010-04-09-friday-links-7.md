@@ -12,7 +12,7 @@ categories:
 tags:
   - Friday
 ---
-[<img class="aligncenter size-full wp-image-2728" title="cute-institute-352x400" src="http://blog.vickiboykis.com/wp-content/uploads/2010/04/cute-institute-352x400.jpg" alt="" width="352" height="400" />](http://blog.vickiboykis.com/wp-content/uploads/2010/04/cute-institute-352x400.jpg)
+[<img class="aligncenter size-full wp-image-2728" title="cute-institute-352x400" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/04/cute-institute-352x400.jpg" alt="" width="352" height="400" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/04/cute-institute-352x400.jpg)
 
 What&#8217;s more awesome than a [pirate cupcake](http://www.zazzle.com/thecuteinstitute)?  Friday Links!
 
@@ -24,7 +24,7 @@ What&#8217;s more awesome than a [pirate cupcake](http://www.zazzle.com/thecutei
 
 **From the Internetz:**
 
-  1. [[<img class="aligncenter size-full wp-image-2728" title="cute-institute-352x400" src="http://blog.vickiboykis.com/wp-content/uploads/2010/04/cute-institute-352x400.jpg" alt="" width="352" height="400" />](http://blog.vickiboykis.com/wp-content/uploads/2010/04/cute-institute-352x400.jpg)
+  1. [[<img class="aligncenter size-full wp-image-2728" title="cute-institute-352x400" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/04/cute-institute-352x400.jpg" alt="" width="352" height="400" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/04/cute-institute-352x400.jpg)
 
 What&#8217;s more awesome than a [pirate cupcake](http://www.zazzle.com/thecuteinstitute)?  Friday Links!
 
@@ -37,7 +37,7 @@ What&#8217;s more awesome than a [pirate cupcake](http://www.zazzle.com/thecutei
 **From the Internetz:**
 
   1.](http://www.pposti.com/) are really cool
-  2. The [[<img class="aligncenter size-full wp-image-2728" title="cute-institute-352x400" src="http://blog.vickiboykis.com/wp-content/uploads/2010/04/cute-institute-352x400.jpg" alt="" width="352" height="400" />](http://blog.vickiboykis.com/wp-content/uploads/2010/04/cute-institute-352x400.jpg)
+  2. The [[<img class="aligncenter size-full wp-image-2728" title="cute-institute-352x400" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/04/cute-institute-352x400.jpg" alt="" width="352" height="400" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/04/cute-institute-352x400.jpg)
 
 What&#8217;s more awesome than a [pirate cupcake](http://www.zazzle.com/thecuteinstitute)?  Friday Links!
 
@@ -49,7 +49,7 @@ What&#8217;s more awesome than a [pirate cupcake](http://www.zazzle.com/thecutei
 
 **From the Internetz:**
 
-  1. [[<img class="aligncenter size-full wp-image-2728" title="cute-institute-352x400" src="http://blog.vickiboykis.com/wp-content/uploads/2010/04/cute-institute-352x400.jpg" alt="" width="352" height="400" />](http://blog.vickiboykis.com/wp-content/uploads/2010/04/cute-institute-352x400.jpg)
+  1. [[<img class="aligncenter size-full wp-image-2728" title="cute-institute-352x400" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/04/cute-institute-352x400.jpg" alt="" width="352" height="400" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/04/cute-institute-352x400.jpg)
 
 What&#8217;s more awesome than a [pirate cupcake](http://www.zazzle.com/thecuteinstitute)?  Friday Links!
 

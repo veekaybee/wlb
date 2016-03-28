@@ -20,7 +20,7 @@ Warning.  Major spoilers follow.  For the other three people in North America 
 _First, we start with handsome young Zionist, Ari Ben Canaan and his exceedingly blonde and pale, vaguely European love interest, hopefully gazing out at the virgin lands of Palestine, a desire growing within them both to throw themselves upon the land and cultivate it._ 
 
 <p style="text-align: left;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2009/07/ex.jpg"><img class="aligncenter size-full wp-image-649" title="ex" src="http://blog.vickiboykis.com/wp-content/uploads/2009/07/ex.jpg" alt="ex" width="432" height="324" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/07/ex.jpg"><img class="aligncenter size-full wp-image-649" title="ex" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/07/ex.jpg" alt="ex" width="432" height="324" /></a>
 </p>
 
 <p style="text-align: left;">
@@ -29,7 +29,7 @@ _First, we start with handsome young Zionist, Ari Ben Canaan and his exceedingly
   </p>
   
   <p style="text-align: left;">
-    <em><a href="http://blog.vickiboykis.com/wp-content/uploads/2009/07/pearlharbor.jpg"><img class="aligncenter size-full wp-image-651" title="pearlharbor" src="http://blog.vickiboykis.com/wp-content/uploads/2009/07/pearlharbor.jpg" alt="pearlharbor" width="400" height="275" /></a></em>
+    <em><a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/07/pearlharbor.jpg"><img class="aligncenter size-full wp-image-651" title="pearlharbor" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/07/pearlharbor.jpg" alt="pearlharbor" width="400" height="275" /></a></em>
   </p>
   
   <p style="text-align: left;">
@@ -37,7 +37,7 @@ _First, we start with handsome young Zionist, Ari Ben Canaan and his exceedingly
   </p>
   
   <p style="text-align: left;">
-    <em><a href="http://blog.vickiboykis.com/wp-content/uploads/2009/07/casablanca.jpg"><img class="aligncenter size-full wp-image-652" title="casablanca" src="http://blog.vickiboykis.com/wp-content/uploads/2009/07/casablanca.jpg" alt="casablanca" width="479" height="361" /></a></em>
+    <em><a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/07/casablanca.jpg"><img class="aligncenter size-full wp-image-652" title="casablanca" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/07/casablanca.jpg" alt="casablanca" width="479" height="361" /></a></em>
   </p>
   
   <p style="text-align: left;">
@@ -45,7 +45,7 @@ _First, we start with handsome young Zionist, Ari Ben Canaan and his exceedingly
   </p>
   
   <p style="text-align: center;">
-    <em><a href="http://blog.vickiboykis.com/wp-content/uploads/2009/07/casablanca_2.png"><img class="aligncenter size-full wp-image-655" title="casablanca_2" src="http://blog.vickiboykis.com/wp-content/uploads/2009/07/casablanca_2.png" alt="casablanca_2" width="604" height="339" /></a></em>
+    <em><a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/07/casablanca_2.png"><img class="aligncenter size-full wp-image-655" title="casablanca_2" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/07/casablanca_2.png" alt="casablanca_2" width="604" height="339" /></a></em>
   </p>
   
   <p style="text-align: left;">
@@ -53,7 +53,7 @@ _First, we start with handsome young Zionist, Ari Ben Canaan and his exceedingly
   </p>
   
   <p style="text-align: center;">
-    <em><a href="http://blog.vickiboykis.com/wp-content/uploads/2009/07/casablanca_3.png"><img class="aligncenter size-full wp-image-656" title="casablanca_3" src="http://blog.vickiboykis.com/wp-content/uploads/2009/07/casablanca_3.png" alt="casablanca_3" width="572" height="321" /></a></em>
+    <em><a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/07/casablanca_3.png"><img class="aligncenter size-full wp-image-656" title="casablanca_3" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/07/casablanca_3.png" alt="casablanca_3" width="572" height="321" /></a></em>
   </p>
   
   <p style="text-align: left;">
@@ -65,7 +65,7 @@ _First, we start with handsome young Zionist, Ari Ben Canaan and his exceedingly
   </p>
   
   <p style="text-align: left;">
-    <em><a href="http://blog.vickiboykis.com/wp-content/uploads/2009/07/casablancain.jpg"><img class="aligncenter size-full wp-image-657" title="casablancain" src="http://blog.vickiboykis.com/wp-content/uploads/2009/07/casablancain.jpg" alt="casablancain" width="294" height="400" /></a></em>
+    <em><a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/07/casablancain.jpg"><img class="aligncenter size-full wp-image-657" title="casablancain" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/07/casablancain.jpg" alt="casablancain" width="294" height="400" /></a></em>
   </p>
   
   <p style="text-align: left;">
@@ -73,7 +73,7 @@ _First, we start with handsome young Zionist, Ari Ben Canaan and his exceedingly
   </p>
   
   <p style="text-align: left;">
-    <em><a href="http://blog.vickiboykis.com/wp-content/uploads/2009/07/claude_rains3.jpg"><img class="aligncenter size-full wp-image-660" title="claude_rains3" src="http://blog.vickiboykis.com/wp-content/uploads/2009/07/claude_rains3.jpg" alt="claude_rains3" width="360" height="243" /></a><br /> </em>
+    <em><a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/07/claude_rains3.jpg"><img class="aligncenter size-full wp-image-660" title="claude_rains3" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/07/claude_rains3.jpg" alt="claude_rains3" width="360" height="243" /></a><br /> </em>
   </p>
   
   <p style="text-align: left;">

@@ -17,7 +17,7 @@ tags:
   - suburban station
 ---
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2012/02/IMG_20120222_123611.jpg"><img class="aligncenter  wp-image-6488" title="IMG_20120222_123611" src="http://blog.vickiboykis.com/wp-content/uploads/2012/02/IMG_20120222_123611.jpg" alt="" width="343" height="457" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/02/IMG_20120222_123611.jpg"><img class="aligncenter  wp-image-6488" title="IMG_20120222_123611" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/02/IMG_20120222_123611.jpg" alt="" width="343" height="457" /></a>
 </p>
 
 &nbsp;
@@ -28,7 +28,7 @@ Keep in mind, that if I miss the 8:04 train, the next one is at 8:45.  So I hav
 
 I ran down the stairs to the metro and suddenly-
 
-[<img class="aligncenter size-full wp-image-6487" title="Capture3" src="http://blog.vickiboykis.com/wp-content/uploads/2012/02/Capture3.png" alt="" width="534" height="134" />](http://blog.vickiboykis.com/wp-content/uploads/2012/02/Capture3.png)
+[<img class="aligncenter size-full wp-image-6487" title="Capture3" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/02/Capture3.png" alt="" width="534" height="134" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/02/Capture3.png)
 
 Also, I swear I ran by at least four hoboes, three of which tried to ask me for money.  And then there was the train. I JUST made it. Last week I really did have to wait for forty minutes for the next train.
 

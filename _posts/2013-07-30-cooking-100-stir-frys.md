@@ -16,7 +16,7 @@ tags:
   - python
   - self
 ---
-[<img class="aligncenter size-full wp-image-8937" src="http://blog.vickiboykis.com/wp-content/uploads/2013/07/chef.gif" alt="chef" width="500" height="215" />](http://blog.vickiboykis.com/wp-content/uploads/2013/07/chef.gif)
+[<img class="aligncenter size-full wp-image-8937" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/07/chef.gif" alt="chef" width="500" height="215" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/07/chef.gif)
 
 &#8220;Oh, you want to learn to cook? That sounds like a great idea!  You&#8217;ll be able to make your own meals instead of having to rely on other people or going to restaurants. You can cook from fresh ingredients, bond with other cooks, make your spouse love you, and understand what all those people on TV are talking about.  It&#8217;s really easy, and we want to encourage everyone to cook because we are a food-based society, and everyone should have basic food literacy. &#8221;
 

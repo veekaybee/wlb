@@ -21,7 +21,7 @@ So I was in the Russian grocery store last week, just doing all the usual stuff 
 Taking hipster pictures of obnoxious Russian cars:
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2012/09/IMG_20120908_190532.jpg"><img class="aligncenter  wp-image-7525" title="IMG_20120908_190532" src="http://blog.vickiboykis.com/wp-content/uploads/2012/09/IMG_20120908_190532-768x1024.jpg" alt="" width="461" height="614" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/09/IMG_20120908_190532.jpg"><img class="aligncenter  wp-image-7525" title="IMG_20120908_190532" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/09/IMG_20120908_190532-768x1024.jpg" alt="" width="461" height="614" /></a>
 </p>
 
 <p style="text-align: center;">
@@ -30,12 +30,12 @@ Taking hipster pictures of obnoxious Russian cars:
 
 (We remember this one from <a href="http://blog.vickiboykis.com/2010/12/skrug-strikes-again/" target="_blank">SKRUG</a>, yes?):
 
-[<img class="aligncenter size-full wp-image-7526" title="wpid-IMAG0572" src="http://blog.vickiboykis.com/wp-content/uploads/2012/09/wpid-IMAG0572.jpeg" alt="" width="500" height="300" />](http://blog.vickiboykis.com/wp-content/uploads/2012/09/wpid-IMAG0572.jpeg)
+[<img class="aligncenter size-full wp-image-7526" title="wpid-IMAG0572" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/09/wpid-IMAG0572.jpeg" alt="" width="500" height="300" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/09/wpid-IMAG0572.jpeg)
 
 Checking out Scottish salmon: (FREEEEEDOM to lox)
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2012/08/217801_10103138874716794_522645197_n.jpeg"><img class="aligncenter  wp-image-7330" title="217801_10103138874716794_522645197_n" src="http://blog.vickiboykis.com/wp-content/uploads/2012/08/217801_10103138874716794_522645197_n.jpeg" alt="" width="367" height="367" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/08/217801_10103138874716794_522645197_n.jpeg"><img class="aligncenter  wp-image-7330" title="217801_10103138874716794_522645197_n" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/08/217801_10103138874716794_522645197_n.jpeg" alt="" width="367" height="367" /></a>
 </p>
 
 and seeing how many Russian women I could offend with the fact that I was-GOD FORBID- <a href="http://rbth.ru/articles/2010/10/27/twelve_russian_fashion_rules05065.html" target="_blank">wearing sweatpants at the Russian store</a>, when God decided to test me.
@@ -52,7 +52,7 @@ Immediately, I was put in an uncomfortable situation.  If I said yes, it would 
 
 Was I a good girl?  _Horoshoya devochka_? The emphasis on being a horoshoya devochka in Russian culture is extremely strong. It&#8217;s so strong, that, at 26, I was still having a moral dilemma about whether I wanted to be murdered in my vehicle or risk my reputation. _Devochki_ are supposed to be obedient and respectful to anyone older than them, sit quietly, and wear cute dresses.  Thus:
 
-[<img class="aligncenter size-full wp-image-7528" title="russians_devochka-v-venochke" src="http://blog.vickiboykis.com/wp-content/uploads/2012/09/russians_devochka-v-venochke.jpeg" alt="" width="310" height="207" />](http://blog.vickiboykis.com/wp-content/uploads/2012/09/russians_devochka-v-venochke.jpeg)
+[<img class="aligncenter size-full wp-image-7528" title="russians_devochka-v-venochke" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/09/russians_devochka-v-venochke.jpeg" alt="" width="310" height="207" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/09/russians_devochka-v-venochke.jpeg)
 
 Devochki (and devushki) are not supposed to turn down older women who need help.
 

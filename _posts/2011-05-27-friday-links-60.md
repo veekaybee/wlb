@@ -15,7 +15,7 @@ tags:
   - "friday friday finally it's friday"
 ---
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2011/05/Screen-shot-2011-05-26-at-1.10.21-PM.png"><img class="aligncenter size-full wp-image-5024" title="Screen shot 2011-05-26 at 1.10.21 PM" src="http://blog.vickiboykis.com/wp-content/uploads/2011/05/Screen-shot-2011-05-26-at-1.10.21-PM.png" alt="" width="565" height="498" /></a><a href="http://www.scribd.com/doc/56238687/Is-Everyone-Hanging-Out-Without-Me-by-Mindy-Kaling-Excerpt"></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/05/Screen-shot-2011-05-26-at-1.10.21-PM.png"><img class="aligncenter size-full wp-image-5024" title="Screen shot 2011-05-26 at 1.10.21 PM" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/05/Screen-shot-2011-05-26-at-1.10.21-PM.png" alt="" width="565" height="498" /></a><a href="http://www.scribd.com/doc/56238687/Is-Everyone-Hanging-Out-Without-Me-by-Mindy-Kaling-Excerpt"></a>
 </p>
 
 <p style="text-align: center;">
@@ -33,7 +33,7 @@ tags:
   5. <a href="http://thisisnotthatblog.com/2011/05/19/five-completely-unacceptable-household-uses-for-babies/" target="_blank">Babies: As useful as IKEA furniture. </a>
   6. <a href="http://offbeathome.com/2011/05/livable-city" target="_blank">Livable cities, again</a>
   7. [<p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2011/05/Screen-shot-2011-05-26-at-1.10.21-PM.png"><img class="aligncenter size-full wp-image-5024" title="Screen shot 2011-05-26 at 1.10.21 PM" src="http://blog.vickiboykis.com/wp-content/uploads/2011/05/Screen-shot-2011-05-26-at-1.10.21-PM.png" alt="" width="565" height="498" /></a><a href="http://www.scribd.com/doc/56238687/Is-Everyone-Hanging-Out-Without-Me-by-Mindy-Kaling-Excerpt"></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/05/Screen-shot-2011-05-26-at-1.10.21-PM.png"><img class="aligncenter size-full wp-image-5024" title="Screen shot 2011-05-26 at 1.10.21 PM" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/05/Screen-shot-2011-05-26-at-1.10.21-PM.png" alt="" width="565" height="498" /></a><a href="http://www.scribd.com/doc/56238687/Is-Everyone-Hanging-Out-Without-Me-by-Mindy-Kaling-Excerpt"></a>
 </p>
 
 <p style="text-align: center;">

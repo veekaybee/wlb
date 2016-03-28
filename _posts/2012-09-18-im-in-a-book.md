@@ -13,7 +13,7 @@ tags:
   - living jewishly
   - writing
 ---
-[<img class="aligncenter size-full wp-image-7560" title="Screen shot 2012-09-18 at 8.11.23 AM" src="http://blog.vickiboykis.com/wp-content/uploads/2012/09/Screen-shot-2012-09-18-at-8.11.23-AM.png" alt="" width="344" height="540" />](http://blog.vickiboykis.com/wp-content/uploads/2012/09/Screen-shot-2012-09-18-at-8.11.23-AM.png)
+[<img class="aligncenter size-full wp-image-7560" title="Screen shot 2012-09-18 at 8.11.23 AM" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/09/Screen-shot-2012-09-18-at-8.11.23-AM.png" alt="" width="344" height="540" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/09/Screen-shot-2012-09-18-at-8.11.23-AM.png)
 
 Not my own, yet, but still, just in time for Rosh Hashana, I&#8217;m legit published.  Along with <a href="http://www.suburbansweetheart.com/" target="_blank">Kate,</a> F<a href="https://twitter.com/ffidler" target="_blank">arrah,</a> and a bunch of other talented people from all over the country, writing about what it means to be Jewish to them, from all sorts of angles.   All credit for the hard work of collecting our scribbles and actually pushing this thing through goes to <a href="http://www.livingjewishlybook.com/lj/about.aspx" target="_blank">Stefanie</a> :).
 
@@ -28,7 +28,7 @@ Blurb:
 Can you guess what my self-defining Jewish story is about?  If you guessed medical anxieties or God&#8217;s wrath, you&#8217;re a great guesser, but that&#8217;s not it.
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2012/09/IMG_20120918_081450.jpg"><img class="aligncenter  wp-image-7562" title="IMG_20120918_081450" src="http://blog.vickiboykis.com/wp-content/uploads/2012/09/IMG_20120918_081450-768x1024.jpg" alt="" width="538" height="717" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/09/IMG_20120918_081450.jpg"><img class="aligncenter  wp-image-7562" title="IMG_20120918_081450" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/09/IMG_20120918_081450-768x1024.jpg" alt="" width="538" height="717" /></a>
 </p>
 
  Other, less stupid stories include: &#8220;Converted to Reform&#8221; by Rabbi Julie Pelc Adler, &#8220;The Rumors of Her Death&#8221; by Libby Ellis Lowe, and &#8220;A New Kind of Jewish Geography&#8221; by Perry Teicher, about the Jews of the CIS republics.

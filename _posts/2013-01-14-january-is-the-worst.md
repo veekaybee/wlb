@@ -18,7 +18,7 @@ tags:
   - S.A.D.
 ---
 <p style="text-align: center;">
-   <a href="http://blog.vickiboykis.com/2013/01/january-is-the-worst/img_20130112_135918/" rel="attachment wp-att-8212"><img class="aligncenter  wp-image-8212" alt="IMG_20130112_135918" src="http://blog.vickiboykis.com/wp-content/uploads/2013/01/IMG_20130112_135918.jpg" width="336" height="448" /></a>
+   <a href="http://blog.vickiboykis.com/2013/01/january-is-the-worst/img_20130112_135918/" rel="attachment wp-att-8212"><img class="aligncenter  wp-image-8212" alt="IMG_20130112_135918" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/01/IMG_20130112_135918.jpg" width="336" height="448" /></a>
 </p>
 
 When we go to the grocery store on weekends, I buy flowers. This week, I bought purple irises.
@@ -28,7 +28,7 @@ They usually cost around $8 a bouquet, depending on which ones I get. Even if I 
 <!--more-->
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/2013/01/january-is-the-worst/img_20120922_121945/" rel="attachment wp-att-8213"><img class="aligncenter  wp-image-8213" alt="IMG_20120922_121945" src="http://blog.vickiboykis.com/wp-content/uploads/2013/01/IMG_20120922_121945.jpg" width="332" height="442" /></a>
+  <a href="http://blog.vickiboykis.com/2013/01/january-is-the-worst/img_20120922_121945/" rel="attachment wp-att-8213"><img class="aligncenter  wp-image-8213" alt="IMG_20120922_121945" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/01/IMG_20120922_121945.jpg" width="332" height="442" /></a>
 </p>
 
 That seems crazy to me when I add it up.
@@ -50,7 +50,7 @@ Flowers die after 4-5 days, and if you don&#8217;t throw them out right away, th
 > total.
 
 <p style="text-align: center;">
-   <a href="http://blog.vickiboykis.com/2013/01/january-is-the-worst/img_20120811_093046/" rel="attachment wp-att-8214"><img class="aligncenter  wp-image-8214" alt="IMG_20120811_093046" src="http://blog.vickiboykis.com/wp-content/uploads/2013/01/IMG_20120811_093046.jpg" width="332" height="442" /></a>
+   <a href="http://blog.vickiboykis.com/2013/01/january-is-the-worst/img_20120811_093046/" rel="attachment wp-att-8214"><img class="aligncenter  wp-image-8214" alt="IMG_20120811_093046" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/01/IMG_20120811_093046.jpg" width="332" height="442" /></a>
 </p>
 
 But none of this makes me love flowers any less.  Flowers, especially hydrangeas, which were part of my wedding bouquet, make me happy, especially in January.
@@ -67,7 +67,7 @@ Nothing exciting happens in January.  The weather is Scottish. A new MBA semest
 
 Humans need excitement and variation, or they start making Someecards.
 
-<a href="http://blog.vickiboykis.com/2013/01/january-is-the-worst/holiday-blues-over-resume-new-years-ecard-someecards/" rel="attachment wp-att-8215"><img class="aligncenter size-full wp-image-8215" alt="holiday-blues-over-resume-new-years-ecard-someecards" src="http://blog.vickiboykis.com/wp-content/uploads/2013/01/holiday-blues-over-resume-new-years-ecard-someecards.jpg" width="425" height="237" /></a>
+<a href="http://blog.vickiboykis.com/2013/01/january-is-the-worst/holiday-blues-over-resume-new-years-ecard-someecards/" rel="attachment wp-att-8215"><img class="aligncenter size-full wp-image-8215" alt="holiday-blues-over-resume-new-years-ecard-someecards" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/01/holiday-blues-over-resume-new-years-ecard-someecards.jpg" width="425" height="237" /></a>
 
 January sucks, man. And <a href="http://blog.vickiboykis.com/2011/02/weather-update-winter-still-wintering-being-bleak/" target="_blank">February is even worse</a>.  But flowers are good.
 

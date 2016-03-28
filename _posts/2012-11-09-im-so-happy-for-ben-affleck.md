@@ -17,7 +17,7 @@ tags:
   - theater
   - wine
 ---
-[<img class="aligncenter size-full wp-image-7775" title="argo-4_3_r560" src="http://blog.vickiboykis.com/wp-content/uploads/2012/11/argo-4_3_r560.jpg" alt="" width="560" height="420" />](http://blog.vickiboykis.com/wp-content/uploads/2012/11/argo-4_3_r560.jpg)
+[<img class="aligncenter size-full wp-image-7775" title="argo-4_3_r560" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/11/argo-4_3_r560.jpg" alt="" width="560" height="420" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/11/argo-4_3_r560.jpg)
 
 Why do we care about people we&#8217;ve never met?
 
@@ -32,7 +32,7 @@ The movie was so well-made and Affleck was so quietly brilliant in it that I wan
 It probably also helps that Mr. B and I saw Argo in <a href="http://www.nola.com/movies/index.ssf/2010/05/new-look_canal_place_movie_the.html" target="_blank">a theater</a> with a wine list.
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2012/11/IMG_20121027_214551.jpg"><img class="aligncenter  wp-image-7804" title="IMG_20121027_214551" src="http://blog.vickiboykis.com/wp-content/uploads/2012/11/IMG_20121027_214551-768x1024.jpg" alt="" width="295" height="393" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/11/IMG_20121027_214551.jpg"><img class="aligncenter  wp-image-7804" title="IMG_20121027_214551" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/11/IMG_20121027_214551-768x1024.jpg" alt="" width="295" height="393" /></a>
 </p>
 
 The interesting thing is that as I was wondering why I was so happy for Ben, he was making me wonder the same question: why would people who had nothing to do with anything help and care about strangers?
@@ -43,15 +43,15 @@ The first protesters break the gates and the deluge of angry people pour in, and
 
 Then the crowd is there, and they are escaping the building,and they are completely exposed Americans on the streets of Teheran.
 
-[<img class="aligncenter size-full wp-image-7806" title="ARGO-Americans-escaping" src="http://blog.vickiboykis.com/wp-content/uploads/2012/11/ARGO-Americans-escaping.gif" alt="" width="499" height="333" />](http://blog.vickiboykis.com/wp-content/uploads/2012/11/ARGO-Americans-escaping.gif)
+[<img class="aligncenter size-full wp-image-7806" title="ARGO-Americans-escaping" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/11/ARGO-Americans-escaping.gif" alt="" width="499" height="333" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/11/ARGO-Americans-escaping.gif)
 
-[<img class="aligncenter size-full wp-image-7808" title="11argo3" src="http://blog.vickiboykis.com/wp-content/uploads/2012/11/11argo3.jpeg" alt="" width="460" height="190" />](http://blog.vickiboykis.com/wp-content/uploads/2012/11/11argo3.jpeg)
+[<img class="aligncenter size-full wp-image-7808" title="11argo3" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/11/11argo3.jpeg" alt="" width="460" height="190" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/11/11argo3.jpeg)
 
 They, according to the movie, flee to the Canadian ambassador&#8217;s house. Of course, real events transpired a little differently, but you gotta chop some stuff for the movie. Oh, and everything done-up in 1970s style, <a href="http://blog.vickiboykis.com/2011/01/movies-the-vanished-empire/" target="_blank">that decade I know so well in my subconscious</a>: the outfits, the hair, the phones, the cigarettes. Everything is coming together like a good movie should.
 
 All of a sudden, we&#8217;re in Washington, D.C., and we don&#8217;t care about the hostages anymore because we&#8217;re on another planet, one that&#8217;s much quieter and has stupid rules and protocols for how to deal with those pesky buggers overseas.  But here Affleck is in charge and he pulls you along as he quietly plays Tony Mendez, the man who is going to save these people huddled in the middle of hell breaking loose.
 
-[<img class="aligncenter size-full wp-image-7807" title="argodc" src="http://blog.vickiboykis.com/wp-content/uploads/2012/11/argodc.jpeg" alt="" width="620" height="335" />](http://blog.vickiboykis.com/wp-content/uploads/2012/11/argodc.jpeg)
+[<img class="aligncenter size-full wp-image-7807" title="argodc" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/11/argodc.jpeg" alt="" width="620" height="335" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/11/argodc.jpeg)
 
 You are confident that Affleck will take you to a good place as the director, and you are confident that Mendez will get the hostages out because that&#8217;s his job, but also because he cares about humans.  It&#8217;s obvious when one of his State Department counterparts suggests renting them all bicycles and having them pedal to the Iraq border as a first escape tactic. &#8220;200 miles on bicycles in the winter,&#8221; Mendez asks incredulously, in that one phrase making the whole United States government look ridiculous.
 
@@ -61,14 +61,14 @@ So he decides to go his own route and go under the pretense that he&#8217;s shoo
 
 John Goodman and Alan Arkin are gems, just a pure pleasure to watch. They are veteran screen actors and they know exactly how to pull your strings.
 
-[<img class="aligncenter size-full wp-image-7809" title="ARGO" src="http://blog.vickiboykis.com/wp-content/uploads/2012/11/john-goodman-alan-arkin-argo.jpeg" alt="" width="500" height="333" />](http://blog.vickiboykis.com/wp-content/uploads/2012/11/john-goodman-alan-arkin-argo.jpeg)
+[<img class="aligncenter size-full wp-image-7809" title="ARGO" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/11/john-goodman-alan-arkin-argo.jpeg" alt="" width="500" height="333" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/11/john-goodman-alan-arkin-argo.jpeg)
 
 They do all the Hollywood stuff. Mendez gets pushback from Washington. Then he doesn&#8217;t. Then the plan is off again. Then he fights for it. In the meantime, he&#8217;s trying to balance a separation from his wife.
 
 In the meantime, these people are waiting at the Canadian ambassador&#8217;s house, helpless bait, their lives in the hands of others.
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2012/11/argo-still061.jpeg"><img class="aligncenter  wp-image-7812" title="argo-still06" src="http://blog.vickiboykis.com/wp-content/uploads/2012/11/argo-still061-1024x682.jpeg" alt="" width="655" height="437" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/11/argo-still061.jpeg"><img class="aligncenter  wp-image-7812" title="argo-still06" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/11/argo-still061-1024x682.jpeg" alt="" width="655" height="437" /></a>
 </p>
 
 Then,finally, Mendez goes to Iran.
@@ -80,14 +80,14 @@ How do people find the self-confidence they need in situations of extreme stress
 What makes people tick, internally?
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2012/11/argo06.jpeg"><img class="aligncenter  wp-image-7815" title="argo06" src="http://blog.vickiboykis.com/wp-content/uploads/2012/11/argo06.jpeg" alt="" width="526" height="261" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/11/argo06.jpeg"><img class="aligncenter  wp-image-7815" title="argo06" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/11/argo06.jpeg" alt="" width="526" height="261" /></a>
 </p>
 
 I&#8217;m still thinking about these questions.
 
 Those mountains, those classic Iranian mountains, as the plane lifts off and your pressure is gone. They did it.
 
-[<img class="aligncenter size-full wp-image-7814" title="argo_plane_view" src="http://blog.vickiboykis.com/wp-content/uploads/2012/11/argo_plane_view.jpeg" alt="" width="425" height="180" />](http://blog.vickiboykis.com/wp-content/uploads/2012/11/argo_plane_view.jpeg)
+[<img class="aligncenter size-full wp-image-7814" title="argo_plane_view" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/11/argo_plane_view.jpeg" alt="" width="425" height="180" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/11/argo_plane_view.jpeg)
 
 Don&#8217;t worry that I told you the ending.  The movie isn&#8217;t about the ending. It&#8217;s about the process.
 

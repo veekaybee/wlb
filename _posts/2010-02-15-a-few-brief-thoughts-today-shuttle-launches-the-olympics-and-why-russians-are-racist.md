@@ -28,15 +28,15 @@ Seeing as Mr. B is also a Man of Science, Mom, I&#8217;d urge you to expect a si
 
 I had no blogging topic today, so I outsourced it.  Because, remember, I am lazy.
 
-[<img class="aligncenter size-full wp-image-2346" title="Picture 8" src="http://blog.vickiboykis.com/wp-content/uploads/2010/02/Picture-8.png" alt="" width="522" height="189" />](http://blog.vickiboykis.com/wp-content/uploads/2010/02/Picture-8.png)
+[<img class="aligncenter size-full wp-image-2346" title="Picture 8" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/02/Picture-8.png" alt="" width="522" height="189" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/02/Picture-8.png)
 
 And within minutes, I had help:
 
-[<img class="aligncenter size-full wp-image-2347" title="Picture 9" src="http://blog.vickiboykis.com/wp-content/uploads/2010/02/Picture-9.png" alt="" width="501" height="229" />](http://blog.vickiboykis.com/wp-content/uploads/2010/02/Picture-9.png)
+[<img class="aligncenter size-full wp-image-2347" title="Picture 9" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/02/Picture-9.png" alt="" width="501" height="229" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/02/Picture-9.png)
 
 And,
 
-[<img class="aligncenter size-full wp-image-2348" title="Picture 10" src="http://blog.vickiboykis.com/wp-content/uploads/2010/02/Picture-10.png" alt="" width="532" height="178" />](http://blog.vickiboykis.com/wp-content/uploads/2010/02/Picture-10.png)
+[<img class="aligncenter size-full wp-image-2348" title="Picture 10" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/02/Picture-10.png" alt="" width="532" height="178" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/02/Picture-10.png)
 
 So, thank you, Twitter, for making me even lazier.   Fortunately, [I&#8217;ve already written about the topic,](http://www.jewlicious.com/author/vicki/) so I don&#8217;t even need to do that.
 

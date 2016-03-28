@@ -13,6 +13,6 @@ tags:
   - Central Asia
   - shotrie
 ---
-[<img class="aligncenter size-full wp-image-2481" title="ahmatova_2" src="http://blog.vickiboykis.com/wp-content/uploads/2010/03/ahmatova_2.jpg" alt="" width="300" height="450" />](http://blog.vickiboykis.com/wp-content/uploads/2010/03/ahmatova_2.jpg)
+[<img class="aligncenter size-full wp-image-2481" title="ahmatova_2" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/03/ahmatova_2.jpg" alt="" width="300" height="450" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/03/ahmatova_2.jpg)
 
 I just got [Steppe Magazine](http://www.steppemagazine.com/steppe_issue_7.htm) yesterday at Borders, along with the latest copy of [Glamour](http://www.glamour.com/), because sometimes you just need to know Ten Lazy Ways to Lose Weight and how to become sexy in sixty seconds at the same time that you need to know what happened to Anna Akhmatova when she was in exile in Uzbekistan during World War II. I think I confused the cashier.

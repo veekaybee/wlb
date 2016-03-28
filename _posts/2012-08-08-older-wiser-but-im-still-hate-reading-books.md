@@ -17,7 +17,7 @@ tags:
   - wtf
 ---
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2012/08/other_none840.jpg"><img class="aligncenter  wp-image-7305" title="other_none840" src="http://blog.vickiboykis.com/wp-content/uploads/2012/08/other_none840.jpg" alt="" width="480" height="318" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/08/other_none840.jpg"><img class="aligncenter  wp-image-7305" title="other_none840" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/08/other_none840.jpg" alt="" width="480" height="318" /></a>
 </p>
 
 (more awesome photos <a href="http://ww2db.com/image.php?image_id=15046" target="_blank">here</a>)

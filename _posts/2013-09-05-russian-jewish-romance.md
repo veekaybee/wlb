@@ -15,7 +15,7 @@ tags:
   - Jewish
   - Russian
 ---
-[<img class="aligncenter size-medium wp-image-9072" alt="12f84129ab79a883_large" src="http://blog.vickiboykis.com/wp-content/uploads/2013/09/12f84129ab79a883_large-580x580.jpg" width="580" height="580" />](http://blog.vickiboykis.com/wp-content/uploads/2013/09/12f84129ab79a883_large.jpg)
+[<img class="aligncenter size-medium wp-image-9072" alt="12f84129ab79a883_large" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/09/12f84129ab79a883_large-580x580.jpg" width="580" height="580" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/09/12f84129ab79a883_large.jpg)
 
 My internet friend <a href="http://www.alinaadams.com/" target="_blank">Alina</a> (and frequent commenter here) wrote a short story for a romance anthology (which you can buy now, <a href="http://www.amazon.com/The-Mammoth-Book-ER-Romance/dp/0762448113" target="_blank">here). </a> (Disclaimer: I got a copy to read for free). Here&#8217;s the press release:
 

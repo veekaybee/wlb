@@ -25,4 +25,4 @@ tags:
 
 [How to match a bathroom color scheme](http://www.urbanoutfitters.com/urban/catalog/productdetail.jsp?itemdescription=true&itemCount=80&startValue=1&selectedProductColor=&sortby=&id=19496272&parentid=A_DECORATE&sortProperties=+subCategoryPosition,+product.marketingPriority&navCount=54&navAction=jump&color=&pushId=A_DECORATE&popId=APARTMENT&prepushId=&selectedProductSize=) to this hippo toothbrush holder.
 
-[<img class="aligncenter size-full wp-image-4595" title="hippo" src="http://blog.vickiboykis.com/wp-content/uploads/2011/03/hippo.png" alt="" width="298" height="441" />](http://blog.vickiboykis.com/wp-content/uploads/2011/03/hippo.png)
+[<img class="aligncenter size-full wp-image-4595" title="hippo" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/03/hippo.png" alt="" width="298" height="441" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/03/hippo.png)

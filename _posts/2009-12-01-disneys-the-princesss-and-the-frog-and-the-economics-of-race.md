@@ -20,9 +20,9 @@ I don&#8217;t know if you&#8217;ve heard, but Disney has a new animated cartoon 
 
 The stills [that I oggled](http://www.imdb.com/title/tt0780521/mediaindex) look gorgeous:
 
-[<img class="aligncenter size-full wp-image-1785" title="the princess and frog_" src="http://blog.vickiboykis.com/wp-content/uploads/2009/12/the-princess-and-frog_.jpg" alt="the princess and frog_" width="498" height="262" />](http://blog.vickiboykis.com/wp-content/uploads/2009/12/the-princess-and-frog_.jpg)
+[<img class="aligncenter size-full wp-image-1785" title="the princess and frog_" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/12/the-princess-and-frog_.jpg" alt="the princess and frog_" width="498" height="262" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/12/the-princess-and-frog_.jpg)
 
-[<img class="aligncenter size-full wp-image-1786" title="princess frog_" src="http://blog.vickiboykis.com/wp-content/uploads/2009/12/princess-frog_.jpg" alt="princess frog_" width="480" height="252" />](http://blog.vickiboykis.com/wp-content/uploads/2009/12/princess-frog_.jpg)
+[<img class="aligncenter size-full wp-image-1786" title="princess frog_" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/12/princess-frog_.jpg" alt="princess frog_" width="480" height="252" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/12/princess-frog_.jpg)
 
 And the trailer looks exciting:
   

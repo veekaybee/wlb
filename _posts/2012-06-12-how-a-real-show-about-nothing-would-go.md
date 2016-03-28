@@ -17,7 +17,7 @@ tags:
   - writing
 ---
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2012/06/minsktractorplant001-21.jpg"><img class="aligncenter  wp-image-6970" title="minsktractorplant001-21" src="http://blog.vickiboykis.com/wp-content/uploads/2012/06/minsktractorplant001-21.jpg" alt="" width="472" height="700" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/06/minsktractorplant001-21.jpg"><img class="aligncenter  wp-image-6970" title="minsktractorplant001-21" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/06/minsktractorplant001-21.jpg" alt="" width="472" height="700" /></a>
 </p>
 
 <p style="text-align: center;">

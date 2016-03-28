@@ -18,7 +18,7 @@ tags:
   - TUCC
 ---
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2013/04/IMG_20130214_165726.jpg"><img class="aligncenter  wp-image-8644" alt="IMG_20130214_165726" src="http://blog.vickiboykis.com/wp-content/uploads/2013/04/IMG_20130214_165726-580x773.jpg" width="325" height="433" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/04/IMG_20130214_165726.jpg"><img class="aligncenter  wp-image-8644" alt="IMG_20130214_165726" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/04/IMG_20130214_165726-580x773.jpg" width="325" height="433" /></a>
 </p>
 
 In <a href="http://blog.vickiboykis.com/2012/01/my-mba-paying-thousands-of-dollars-to-mess-around-with-photoshop/" target="_blank">my MBA program</a>, there are a couple of places to take night classes, but the one that&#8217;s most convenient for me is downtown, because it&#8217;s right next to work. Unfortunately, the entrance to Suburban Station, the train station right next to the school that I use to get home,  starts to unravel quickly at night. I mean, <a href="http://blog.vickiboykis.com/2012/02/why-is-philadelphia-so-disgusting/" target="_blank">it&#8217;s already pretty gross during the day</a>, but nighttime <a href="http://articles.philly.com/2012-01-30/news/31005955_1_homeless-people-concourse-mental-illness" target="_blank">brings a special glow</a>.  So, I always think about how  dirty the area surrounding Temple downtown is, and why they can&#8217;t use their pull with the city to help fix it.
@@ -30,7 +30,7 @@ I&#8217;ve always learned both at work and in school that you should never just 
 So, here you go, Temple.
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2013/04/Capture.png"><img class="aligncenter  wp-image-8641" alt="Capture" src="http://blog.vickiboykis.com/wp-content/uploads/2013/04/Capture-580x102.png" width="522" height="92" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/04/Capture.png"><img class="aligncenter  wp-image-8641" alt="Capture" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/04/Capture-580x102.png" width="522" height="92" /></a>
 </p>
 
 <p style="text-align: center;">

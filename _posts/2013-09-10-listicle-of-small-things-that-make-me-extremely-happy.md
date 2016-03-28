@@ -15,7 +15,7 @@ tags:
   - me
   - sea snax
 ---
-[<img class="aligncenter size-medium wp-image-9109" alt="Valentin Bogdanov - Man in Landscape 1957" src="http://blog.vickiboykis.com/wp-content/uploads/2013/09/Valentin-Bogdanov-Man-in-Landscape-1957-580x493.jpg" width="580" height="493" />](http://blog.vickiboykis.com/wp-content/uploads/2013/09/Valentin-Bogdanov-Man-in-Landscape-1957.jpg)
+[<img class="aligncenter size-medium wp-image-9109" alt="Valentin Bogdanov - Man in Landscape 1957" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/09/Valentin-Bogdanov-Man-in-Landscape-1957-580x493.jpg" width="580" height="493" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/09/Valentin-Bogdanov-Man-in-Landscape-1957.jpg)
 
 &nbsp;
 

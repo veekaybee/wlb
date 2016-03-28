@@ -30,7 +30,7 @@ Not to be a drag, but yoga poses?  Really?  And sustainability?  I hate that 
 Here&#8217;s how hipsters spend Tu B&#8217;Shvat:
 
 <p style="text-align: left;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2010/01/DSC029681.jpg"><img class="aligncenter size-full wp-image-2222" title="DSC02968" src="http://blog.vickiboykis.com/wp-content/uploads/2010/01/DSC029681.jpg" alt="" width="630" height="630" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/01/DSC029681.jpg"><img class="aligncenter size-full wp-image-2222" title="DSC02968" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/01/DSC029681.jpg" alt="" width="630" height="630" /></a>
 </p>
 
 <p style="text-align: left;">
@@ -44,7 +44,7 @@ Here&#8217;s how hipsters spend Tu B&#8217;Shvat:
 
 And here&#8217;s how real Jews spent Tu B&#8217;Shvat.  You know, building the land of Israel.  Although Guy on the Left&#8217;s yoga shorts look really comfy.  He probably got them at American Apparel.
 
-[<img class="aligncenter size-full wp-image-2216" title="PikiWiki_Israel_2657_Plowing_in_Beit_Hanan_חריש_בבית_חנן" src="http://blog.vickiboykis.com/wp-content/uploads/2010/01/PikiWiki_Israel_2657_Plowing_in_Beit_Hanan_חריש_בבית_חנן.jpg" alt="" width="484" height="385" />](http://blog.vickiboykis.com/wp-content/uploads/2010/01/PikiWiki_Israel_2657_Plowing_in_Beit_Hanan_חריש_בבית_חנן.jpg)
+[<img class="aligncenter size-full wp-image-2216" title="PikiWiki_Israel_2657_Plowing_in_Beit_Hanan_חריש_בבית_חנן" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/01/PikiWiki_Israel_2657_Plowing_in_Beit_Hanan_חריש_בבית_חנן.jpg" alt="" width="484" height="385" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/01/PikiWiki_Israel_2657_Plowing_in_Beit_Hanan_חריש_בבית_חנן.jpg)
 
 <p style="text-align: center;">
   <a href="http://commons.wikimedia.org/wiki/File:PikiWiki_Israel_2657_Plowing_in_Beit_Hanan_%D7%97%D7%A8%D7%99%D7%A9_%D7%91%D7%91%D7%99%D7%AA_%D7%97%D7%A0%D7%9F.jpg">source</a>
@@ -53,7 +53,7 @@ And here&#8217;s how real Jews spent Tu B&#8217;Shvat.  You know, building the 
 I think, through all of this, it&#8217;s incredibly important not to underestimate the blows to his sanity that Mr. B experiences on a regular basis by being married to me:
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2010/01/hipster1.jpg"><img class="size-full wp-image-2227  aligncenter" title="hipster" src="http://blog.vickiboykis.com/wp-content/uploads/2010/01/hipster1.jpg" alt="" width="216" height="293" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/01/hipster1.jpg"><img class="size-full wp-image-2227  aligncenter" title="hipster" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/01/hipster1.jpg" alt="" width="216" height="293" /></a>
 </p>
 
 <p style="text-align: center;">

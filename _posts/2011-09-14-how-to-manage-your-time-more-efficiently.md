@@ -11,4 +11,4 @@ categories:
 tags:
   - comic
 ---
-[<img class="aligncenter size-full wp-image-5720" title="Page_1" src="http://blog.vickiboykis.com/wp-content/uploads/2011/09/Page_1.jpg" alt="" width="600" height="2000" />](http://blog.vickiboykis.com/wp-content/uploads/2011/09/Page_1.jpg)
+[<img class="aligncenter size-full wp-image-5720" title="Page_1" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/09/Page_1.jpg" alt="" width="600" height="2000" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/09/Page_1.jpg)

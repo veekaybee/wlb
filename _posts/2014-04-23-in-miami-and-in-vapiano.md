@@ -18,7 +18,7 @@ tags:
   - travel
   - trips
 ---
-[<img class="aligncenter size-medium wp-image-9662" alt="south-beach-bathers-1908 (1)" src="http://blog.vickiboykis.com/wp-content/uploads/2014/04/south-beach-bathers-1908-1-580x477.jpg" width="580" height="477" />](http://blog.vickiboykis.com/wp-content/uploads/2014/04/south-beach-bathers-1908-1.jpg)
+[<img class="aligncenter size-medium wp-image-9662" alt="south-beach-bathers-1908 (1)" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2014/04/south-beach-bathers-1908-1-580x477.jpg" width="580" height="477" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2014/04/south-beach-bathers-1908-1.jpg)
 
 <h4 style="text-align: center;">
   South Beach Bathers, John French Sloan 1907
@@ -30,7 +30,7 @@ Swamplandia! by Karen Russell, is a weird jewel of a novel about a nuclear famil
 
 The seeming impossibility of a tropical paradise combined with the exuberance and proximity of South America, the salt and heat, and, of course, a <a href="http://www.miamiherald.com/2013/01/12/3179250/dave-barry-on-man-vs-snake-everglades.html" target="_blank">python-killing contest</a>, makes for a unique atmosphere unlike anywhere else in the U.S.  It&#8217;s a unique brand of chaos and laziness.   It&#8217;s Florida:
 
-[<img class="aligncenter size-medium wp-image-9659" alt="Screen Shot 2014-04-13 at 4.13.15 PM" src="http://blog.vickiboykis.com/wp-content/uploads/2014/04/Screen-Shot-2014-04-13-at-4.13.15-PM-580x256.png" width="580" height="256" />](http://blog.vickiboykis.com/wp-content/uploads/2014/04/Screen-Shot-2014-04-13-at-4.13.15-PM.png)
+[<img class="aligncenter size-medium wp-image-9659" alt="Screen Shot 2014-04-13 at 4.13.15 PM" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2014/04/Screen-Shot-2014-04-13-at-4.13.15-PM-580x256.png" width="580" height="256" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2014/04/Screen-Shot-2014-04-13-at-4.13.15-PM.png)
 
 Mr. B and I flew down to Florida for a weekend in March, the week of Spring Break. We went with two friends to visit a third friend who had moved there recently from Philadelphia. It was actually in no way like Spring Break since all of us have full-time jobs, some of us have kids, and none of us want to do wet-t shirt contests because our Gap cotton blends are tumble-dry only.
 
@@ -48,7 +48,7 @@ But, the plane emerged from the clouds and into Florida air space into blobs of 
 
 &#8220;That&#8217;ll be $6 if you want the in-flight snack,&#8221; the stewardess said.
 
-<img class="aligncenter" alt="Screen Shot 2014-04-05 at 4.05.30 PM" src="http://blog.vickiboykis.com/wp-content/uploads/2014/04/Screen-Shot-2014-04-05-at-4.05.30-PM-580x967.png" width="580" height="967" />
+<img class="aligncenter" alt="Screen Shot 2014-04-05 at 4.05.30 PM" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2014/04/Screen-Shot-2014-04-05-at-4.05.30-PM-580x967.png" width="580" height="967" />
 
 We landed in West Palm Beach, about an hour from Miami and rented a car. It was so warm that we opened the windows.  We turned on the club mixes. You can turn on the song below and feel like you&#8217;re in Florida, too.
 
@@ -60,7 +60,7 @@ Coming to Miami from the buttoned-up, rigidEast Coast in the winter is an exhale
 
 So we exhaled.  We drank coconut water out of coconuts that a guy hacked at with a huge machete.
 
-[<img class="aligncenter size-medium wp-image-9670" alt="IMG_20140308_120633805_HDR" src="http://blog.vickiboykis.com/wp-content/uploads/2014/04/IMG_20140308_120633805_HDR-580x326.jpg" width="580" height="326" />](http://blog.vickiboykis.com/wp-content/uploads/2014/04/IMG_20140308_120633805_HDR.jpg)
+[<img class="aligncenter size-medium wp-image-9670" alt="IMG_20140308_120633805_HDR" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2014/04/IMG_20140308_120633805_HDR-580x326.jpg" width="580" height="326" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2014/04/IMG_20140308_120633805_HDR.jpg)
 
 We ate paella out of shared plates.
 
@@ -68,7 +68,7 @@ We smoked cigars in Little Cuba. Some of us with the chromosomal capability to d
 
 We laughed at them and looked seaward. Some of us unfortunately continued to look like Fidel Castro in the 1940s.
 
-<span style="line-height: 1.7;"><a href="http://blog.vickiboykis.com/wp-content/uploads/2014/04/Screen-Shot-2014-04-22-at-10.05.43-PM.png"><img class="aligncenter size-medium wp-image-9675" alt="Screen Shot 2014-04-22 at 10.05.43 PM" src="http://blog.vickiboykis.com/wp-content/uploads/2014/04/Screen-Shot-2014-04-22-at-10.05.43-PM-580x314.png" width="580" height="314" /></a>We did all the Florida things you&#8217;re supposed to do, and while we were doing them, I was thinking about how eclectic, weird, and wonderful Florida is, and what joy it was to be able to experience it. </span>
+<span style="line-height: 1.7;"><a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2014/04/Screen-Shot-2014-04-22-at-10.05.43-PM.png"><img class="aligncenter size-medium wp-image-9675" alt="Screen Shot 2014-04-22 at 10.05.43 PM" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2014/04/Screen-Shot-2014-04-22-at-10.05.43-PM-580x314.png" width="580" height="314" /></a>We did all the Florida things you&#8217;re supposed to do, and while we were doing them, I was thinking about how eclectic, weird, and wonderful Florida is, and what joy it was to be able to experience it. </span>
 
 If I were a normal person, I would end the post here on a high note. But you know me.  I can&#8217;t have normal-people fun. I&#8217;m neurotic.  I&#8217;m Slavic-pessimistic, and I&#8217;m pretty sure if I&#8217;m having a good time, the world&#8217;s going to end tomorrow. So I&#8217;m going to tell you that there was one shadow in our sunshine-y vacation, and that shadow&#8217;s name is Vapiano.
 

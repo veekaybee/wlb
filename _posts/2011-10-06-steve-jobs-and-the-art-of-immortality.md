@@ -20,7 +20,7 @@ tags:
 &nbsp;
 
 <div id="attachment_5807" style="width: 614px" class="wp-caption aligncenter">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2011/10/n9301935_41461205_8124.jpg"><img class="size-full wp-image-5807" title="n9301935_41461205_8124" src="http://blog.vickiboykis.com/wp-content/uploads/2011/10/n9301935_41461205_8124.jpg" alt="" width="604" height="453" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/10/n9301935_41461205_8124.jpg"><img class="size-full wp-image-5807" title="n9301935_41461205_8124" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/10/n9301935_41461205_8124.jpg" alt="" width="604" height="453" /></a>
   
   <p class="wp-caption-text">
     Five years ago. The first big purchase I made without any help from my parents.
@@ -40,7 +40,7 @@ tags:
 </p>
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2011/10/301674_10150322842613303_9171233302_8339632_485555707_n.jpg"><img class="aligncenter size-full wp-image-5809" title="301674_10150322842613303_9171233302_8339632_485555707_n" src="http://blog.vickiboykis.com/wp-content/uploads/2011/10/301674_10150322842613303_9171233302_8339632_485555707_n.jpg" alt="" width="300" height="300" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/10/301674_10150322842613303_9171233302_8339632_485555707_n.jpg"><img class="aligncenter size-full wp-image-5809" title="301674_10150322842613303_9171233302_8339632_485555707_n" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/10/301674_10150322842613303_9171233302_8339632_485555707_n.jpg" alt="" width="300" height="300" /></a>
 </p>
 
 <p style="text-align: left;">
@@ -72,7 +72,7 @@ tags:
 </p>
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2011/10/Photo-2.jpg"><img class="aligncenter size-full wp-image-5811" title="Photo 2" src="http://blog.vickiboykis.com/wp-content/uploads/2011/10/Photo-2.jpg" alt="" width="384" height="288" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/10/Photo-2.jpg"><img class="aligncenter size-full wp-image-5811" title="Photo 2" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/10/Photo-2.jpg" alt="" width="384" height="288" /></a>
 </p>
 
 <p style="text-align: left;">

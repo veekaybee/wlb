@@ -16,7 +16,7 @@ tags:
   - USSR
 ---
 <div id="attachment_7118" style="width: 460px" class="wp-caption aligncenter">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2012/07/5-1980-Hebrew-lessons-Larg.jpg"><img class="size-full wp-image-7118" title="5-1980-Hebrew-lessons-(Larg" src="http://blog.vickiboykis.com/wp-content/uploads/2012/07/5-1980-Hebrew-lessons-Larg.jpg" alt="" width="450" height="311" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/07/5-1980-Hebrew-lessons-Larg.jpg"><img class="size-full wp-image-7118" title="5-1980-Hebrew-lessons-(Larg" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/07/5-1980-Hebrew-lessons-Larg.jpg" alt="" width="450" height="311" /></a>
   
   <p class="wp-caption-text">
     Hebrew lessons, Leningrad, 1980
@@ -31,7 +31,7 @@ It&#8217;s insanely difficult to imagine the strength these people must have had
 
 Natan Sharansky, who I&#8217;ve been lucky enough to meet in person, was <a href="http://books.google.com/books?id=NkmiAORCE5wC&pg=PA18&lpg=PA18&dq=fear+no+evil+quotes+sharansky&source=bl&ots=a_9Frkqtiw&sig=hBIHM93N5lFxbQAS00cU7kN-A1U&hl=en&sa=X&ei=5Xj1T9r4GMW_6AGcvZHLBg&ved=0CFAQ6AEwAA#v=onepage&q=fear%20no%20evil%20quotes%20sharansky&f=false" target="_blank">one of these refuseniks</a>. He spent nine years. NINE YEARS. in confinement.
 
-[<img class="aligncenter size-full wp-image-7120" title="Screen shot 2012-07-05 at 7.23.37 AM" src="http://blog.vickiboykis.com/wp-content/uploads/2012/07/Screen-shot-2012-07-05-at-7.23.37-AM.png" alt="" width="601" height="351" />](http://blog.vickiboykis.com/wp-content/uploads/2012/07/Screen-shot-2012-07-05-at-7.23.37-AM.png)
+[<img class="aligncenter size-full wp-image-7120" title="Screen shot 2012-07-05 at 7.23.37 AM" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/07/Screen-shot-2012-07-05-at-7.23.37-AM.png" alt="" width="601" height="351" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/07/Screen-shot-2012-07-05-at-7.23.37-AM.png)
 
 It occurred to me just how cruel unjustified imprisonment is, not because of the starvation or the dysentery, but because they take away what you can never get back, those precious years of your only precious life.
 

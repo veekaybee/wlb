@@ -19,7 +19,7 @@ tags:
 ---
 As you may be aware, I like <a href="http://blog.vickiboykis.com/2012/07/things-my-husband-will-not-let-my-buy-on-etsy/" target="_blank">to buy shit online</a>.Especially for the house.
 
-[<img class="aligncenter size-full wp-image-8443" alt="Screen shot 2013-03-05 at 8.05.31 AM" src="http://blog.vickiboykis.com/wp-content/uploads/2013/03/Screen-shot-2013-03-05-at-8.05.31-AM.png" width="522" height="385" />](http://blog.vickiboykis.com/wp-content/uploads/2013/03/Screen-shot-2013-03-05-at-8.05.31-AM.png)
+[<img class="aligncenter size-full wp-image-8443" alt="Screen shot 2013-03-05 at 8.05.31 AM" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/03/Screen-shot-2013-03-05-at-8.05.31-AM.png" width="522" height="385" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/03/Screen-shot-2013-03-05-at-8.05.31-AM.png)
 
 &nbsp;
 
@@ -33,11 +33,11 @@ I never joined  this site because I was waiting until I was on Mr. B&#8217;s al
 
 Every day, those bastards send you an email with carefully-curated collections of shit you can buy:
 
-[<img class="aligncenter size-medium wp-image-8436" alt="Screen shot 2013-03-04 at 11.03.28 PM" src="http://blog.vickiboykis.com/wp-content/uploads/2013/03/Screen-shot-2013-03-04-at-11.03.28-PM-580x240.png" width="580" height="240" />](http://blog.vickiboykis.com/wp-content/uploads/2013/03/Screen-shot-2013-03-04-at-11.03.28-PM.png)
+[<img class="aligncenter size-medium wp-image-8436" alt="Screen shot 2013-03-04 at 11.03.28 PM" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/03/Screen-shot-2013-03-04-at-11.03.28-PM-580x240.png" width="580" height="240" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/03/Screen-shot-2013-03-04-at-11.03.28-PM.png)
 
 &nbsp;
 
-[<img class="aligncenter size-medium wp-image-8437" alt="Screen shot 2013-03-04 at 11.03.34 PM" src="http://blog.vickiboykis.com/wp-content/uploads/2013/03/Screen-shot-2013-03-04-at-11.03.34-PM-580x235.png" width="580" height="235" />](http://blog.vickiboykis.com/wp-content/uploads/2013/03/Screen-shot-2013-03-04-at-11.03.34-PM.png)
+[<img class="aligncenter size-medium wp-image-8437" alt="Screen shot 2013-03-04 at 11.03.34 PM" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/03/Screen-shot-2013-03-04-at-11.03.34-PM-580x235.png" width="580" height="235" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/03/Screen-shot-2013-03-04-at-11.03.34-PM.png)
 
 I don&#8217;t even LIKE the sea, and I want that coastal charm, damnit! I WANT THAT SAD STARFISH CANDLE HOLDER.
 
@@ -46,7 +46,7 @@ So it started very casually, because <a href="http://www.thenester.com/2011/01/h
 This recession is not going to be ended through hard work and spending consciousness. It&#8217;s going to end with me buying something from One Kings Lane.  The problem is, that shit is EXPENSIVE. Like, crazy expensive. Case in point:
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2013/03/Screen-shot-2013-03-05-at-7.55.08-AM.png"><img class="aligncenter  wp-image-8438" alt="Screen shot 2013-03-05 at 7.55.08 AM" src="http://blog.vickiboykis.com/wp-content/uploads/2013/03/Screen-shot-2013-03-05-at-7.55.08-AM-580x322.png" width="522" height="290" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/03/Screen-shot-2013-03-05-at-7.55.08-AM.png"><img class="aligncenter  wp-image-8438" alt="Screen shot 2013-03-05 at 7.55.08 AM" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/03/Screen-shot-2013-03-05-at-7.55.08-AM-580x322.png" width="522" height="290" /></a>
 </p>
 
 THIS MIRROR COSTS ALMOST $500. This shower curtain is $200. THAT&#8217;S ALMOST HOW MUCH MY LIFE IS WORTH.
@@ -54,7 +54,7 @@ THIS MIRROR COSTS ALMOST $500. This shower curtain is $200. THAT&#8217;S ALMOST 
 So, I waited like a shark. Finally, I noticed something that I actually needed and that seemed well-priced, a salad bowl. I&#8217;ve been wanting a wooden salad bowl for a while, because I am yuppie and middle class, and this is the height of my earthly aspirations:
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2013/03/Screen-shot-2013-03-04-at-11.06.32-PM.png"><img class="aligncenter  wp-image-8439" alt="Screen shot 2013-03-04 at 11.06.32 PM" src="http://blog.vickiboykis.com/wp-content/uploads/2013/03/Screen-shot-2013-03-04-at-11.06.32-PM-580x262.png" width="522" height="236" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/03/Screen-shot-2013-03-04-at-11.06.32-PM.png"><img class="aligncenter  wp-image-8439" alt="Screen shot 2013-03-04 at 11.06.32 PM" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/03/Screen-shot-2013-03-04-at-11.06.32-PM-580x262.png" width="522" height="236" /></a>
 </p>
 
 <p style="text-align: left;">
@@ -70,7 +70,7 @@ So, I waited like a shark. Finally, I noticed something that I actually needed a
 </p>
 
 <p style="text-align: left;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2013/03/Screen-shot-2013-03-05-at-8.00.33-AM.png"><img class="aligncenter size-full wp-image-8440" alt="Screen shot 2013-03-05 at 8.00.33 AM" src="http://blog.vickiboykis.com/wp-content/uploads/2013/03/Screen-shot-2013-03-05-at-8.00.33-AM.png" width="315" height="411" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/03/Screen-shot-2013-03-05-at-8.00.33-AM.png"><img class="aligncenter size-full wp-image-8440" alt="Screen shot 2013-03-05 at 8.00.33 AM" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/03/Screen-shot-2013-03-05-at-8.00.33-AM.png" width="315" height="411" /></a>
 </p>
 
 <p style="text-align: left;">
@@ -78,7 +78,7 @@ So, I waited like a shark. Finally, I noticed something that I actually needed a
 </p>
 
 <p style="text-align: left;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2013/03/Screen-shot-2013-03-05-at-8.00.46-AM.png"><img class="aligncenter size-full wp-image-8441" alt="Screen shot 2013-03-05 at 8.00.46 AM" src="http://blog.vickiboykis.com/wp-content/uploads/2013/03/Screen-shot-2013-03-05-at-8.00.46-AM.png" width="316" height="412" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/03/Screen-shot-2013-03-05-at-8.00.46-AM.png"><img class="aligncenter size-full wp-image-8441" alt="Screen shot 2013-03-05 at 8.00.46 AM" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/03/Screen-shot-2013-03-05-at-8.00.46-AM.png" width="316" height="412" /></a>
 </p>
 
 <p style="text-align: left;">
@@ -94,7 +94,7 @@ So, I waited like a shark. Finally, I noticed something that I actually needed a
 </p>
 
 <p style="text-align: left;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2013/03/Screen-shot-2013-03-04-at-11.06.25-PM.png"><img class="aligncenter size-medium wp-image-8446" alt="Screen shot 2013-03-04 at 11.06.25 PM" src="http://blog.vickiboykis.com/wp-content/uploads/2013/03/Screen-shot-2013-03-04-at-11.06.25-PM-580x387.png" width="580" height="387" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/03/Screen-shot-2013-03-04-at-11.06.25-PM.png"><img class="aligncenter size-medium wp-image-8446" alt="Screen shot 2013-03-04 at 11.06.25 PM" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/03/Screen-shot-2013-03-04-at-11.06.25-PM-580x387.png" width="580" height="387" /></a>
 </p>
 
 <p style="text-align: left;">
@@ -110,7 +110,7 @@ So, I waited like a shark. Finally, I noticed something that I actually needed a
 </p>
 
 <p style="text-align: left;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2013/03/Screen-shot-2013-03-05-at-8.03.09-AM.png"><img class="aligncenter size-full wp-image-8442" alt="Screen shot 2013-03-05 at 8.03.09 AM" src="http://blog.vickiboykis.com/wp-content/uploads/2013/03/Screen-shot-2013-03-05-at-8.03.09-AM.png" width="327" height="415" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/03/Screen-shot-2013-03-05-at-8.03.09-AM.png"><img class="aligncenter size-full wp-image-8442" alt="Screen shot 2013-03-05 at 8.03.09 AM" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/03/Screen-shot-2013-03-05-at-8.03.09-AM.png" width="327" height="415" /></a>
 </p>
 
 Correct. Next time you come over to my house, you can eat one piece of fruit from the salad bowl.

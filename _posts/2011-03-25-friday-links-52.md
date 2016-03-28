@@ -19,7 +19,7 @@ By the way,
 I am part of a Russian-American Professional group on LinkedIN. One of the recent discussions has been &#8220;<a href="http://www.linkedin.com/e/1hhm2h-glnr2j62-3r/vaq/15335780/40692/34859307/view_disc/" target="_blank">Why is it SO difficult (in most cases) to do business with Russian-Americans?</a>&#8221;  The answers to the question are hilarious, because it is mostly true that it is difficult to do business with Russian-Americans, especially if they are very recent immigrants.  Here&#8217;s part of the thread that I enjoyed:
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2011/03/Screen-shot-2011-03-24-at-10.01.22-AM.png"><img class="aligncenter size-full wp-image-4659" title="Screen shot 2011-03-24 at 10.01.22 AM" src="http://blog.vickiboykis.com/wp-content/uploads/2011/03/Screen-shot-2011-03-24-at-10.01.22-AM.png" alt="" width="509" height="578" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/03/Screen-shot-2011-03-24-at-10.01.22-AM.png"><img class="aligncenter size-full wp-image-4659" title="Screen shot 2011-03-24 at 10.01.22 AM" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/03/Screen-shot-2011-03-24-at-10.01.22-AM.png" alt="" width="509" height="578" /></a>
 </p>
 
 **Links:**

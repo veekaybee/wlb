@@ -9,7 +9,7 @@ permalink: /2010/01/president-of-russia-wishes-me-merry-christmas/
 categories:
   - Uncategorized
 ---
-[<img class="aligncenter size-full wp-image-2066" title="Picture 1" src="http://blog.vickiboykis.com/wp-content/uploads/2010/01/Picture-11.png" alt="" width="623" height="365" />](http://blog.vickiboykis.com/wp-content/uploads/2010/01/Picture-11.png)Orthodox Russian Christmas is today because of the Gregorian calendar.  Or the Julian calendar.  I can&#8217;t remember.  Whichever one makes us Russians celebrate Stariy Noviy God (Old New Year) on January 13th with foolish glee.  So imagine how excited I was to receive this personal greeting from Dmitriy Medvedev.
+[<img class="aligncenter size-full wp-image-2066" title="Picture 1" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/01/Picture-11.png" alt="" width="623" height="365" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/01/Picture-11.png)Orthodox Russian Christmas is today because of the Gregorian calendar.  Or the Julian calendar.  I can&#8217;t remember.  Whichever one makes us Russians celebrate Stariy Noviy God (Old New Year) on January 13th with foolish glee.  So imagine how excited I was to receive this personal greeting from Dmitriy Medvedev.
 
 Translation:
 
@@ -29,7 +29,7 @@ Related on the blog:
   
 [Medvedev fails to curb Russian alcoholism](http://blog.vickiboykis.com/2009/10/19/russia-tries-to-cut-down-on-alcohol/)
   
-[[<img class="aligncenter size-full wp-image-2066" title="Picture 1" src="http://blog.vickiboykis.com/wp-content/uploads/2010/01/Picture-11.png" alt="" width="623" height="365" />](http://blog.vickiboykis.com/wp-content/uploads/2010/01/Picture-11.png)Orthodox Russian Christmas is today because of the Gregorian calendar.  Or the Julian calendar.  I can&#8217;t remember.  Whichever one makes us Russians celebrate Stariy Noviy God (Old New Year) on January 13th with foolish glee.  So imagine how excited I was to receive this personal greeting from Dmitriy Medvedev.
+[[<img class="aligncenter size-full wp-image-2066" title="Picture 1" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/01/Picture-11.png" alt="" width="623" height="365" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/01/Picture-11.png)Orthodox Russian Christmas is today because of the Gregorian calendar.  Or the Julian calendar.  I can&#8217;t remember.  Whichever one makes us Russians celebrate Stariy Noviy God (Old New Year) on January 13th with foolish glee.  So imagine how excited I was to receive this personal greeting from Dmitriy Medvedev.
 
 Translation:
 
@@ -51,7 +51,7 @@ Related on the blog:
   
 ](http://blog.vickiboykis.com/2009/09/16/gods-is-straight-up-messing-with-me/) 
   
-[[<img class="aligncenter size-full wp-image-2066" title="Picture 1" src="http://blog.vickiboykis.com/wp-content/uploads/2010/01/Picture-11.png" alt="" width="623" height="365" />](http://blog.vickiboykis.com/wp-content/uploads/2010/01/Picture-11.png)Orthodox Russian Christmas is today because of the Gregorian calendar.  Or the Julian calendar.  I can&#8217;t remember.  Whichever one makes us Russians celebrate Stariy Noviy God (Old New Year) on January 13th with foolish glee.  So imagine how excited I was to receive this personal greeting from Dmitriy Medvedev.
+[[<img class="aligncenter size-full wp-image-2066" title="Picture 1" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/01/Picture-11.png" alt="" width="623" height="365" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/01/Picture-11.png)Orthodox Russian Christmas is today because of the Gregorian calendar.  Or the Julian calendar.  I can&#8217;t remember.  Whichever one makes us Russians celebrate Stariy Noviy God (Old New Year) on January 13th with foolish glee.  So imagine how excited I was to receive this personal greeting from Dmitriy Medvedev.
 
 Translation:
 
@@ -71,7 +71,7 @@ Related on the blog:
   
 [Medvedev fails to curb Russian alcoholism](http://blog.vickiboykis.com/2009/10/19/russia-tries-to-cut-down-on-alcohol/)
   
-[[<img class="aligncenter size-full wp-image-2066" title="Picture 1" src="http://blog.vickiboykis.com/wp-content/uploads/2010/01/Picture-11.png" alt="" width="623" height="365" />](http://blog.vickiboykis.com/wp-content/uploads/2010/01/Picture-11.png)Orthodox Russian Christmas is today because of the Gregorian calendar.  Or the Julian calendar.  I can&#8217;t remember.  Whichever one makes us Russians celebrate Stariy Noviy God (Old New Year) on January 13th with foolish glee.  So imagine how excited I was to receive this personal greeting from Dmitriy Medvedev.
+[[<img class="aligncenter size-full wp-image-2066" title="Picture 1" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/01/Picture-11.png" alt="" width="623" height="365" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/01/Picture-11.png)Orthodox Russian Christmas is today because of the Gregorian calendar.  Or the Julian calendar.  I can&#8217;t remember.  Whichever one makes us Russians celebrate Stariy Noviy God (Old New Year) on January 13th with foolish glee.  So imagine how excited I was to receive this personal greeting from Dmitriy Medvedev.
 
 Translation:
 

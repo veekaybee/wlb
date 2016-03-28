@@ -15,17 +15,17 @@ tags:
 I&#8217;ve just discovered the extra special photobooth functions on my Mac and my life will never be the same.  So this is what people do with their weekends.
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2010/11/Photo-on-2010-11-04-at-21.29.jpg"><img class="aligncenter size-full wp-image-3852" title="Photo on 2010-11-04 at 21.29" src="http://blog.vickiboykis.com/wp-content/uploads/2010/11/Photo-on-2010-11-04-at-21.29.jpg" alt="" width="448" height="336" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/11/Photo-on-2010-11-04-at-21.29.jpg"><img class="aligncenter size-full wp-image-3852" title="Photo on 2010-11-04 at 21.29" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/11/Photo-on-2010-11-04-at-21.29.jpg" alt="" width="448" height="336" /></a>
 </p>
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2010/11/Photo-on-2010-11-04-at-21.28.jpg"><img class="aligncenter size-full wp-image-3853" title="Photo on 2010-11-04 at 21.28" src="http://blog.vickiboykis.com/wp-content/uploads/2010/11/Photo-on-2010-11-04-at-21.28.jpg" alt="" width="448" height="336" /></a><a href="http://blog.vickiboykis.com/wp-content/uploads/2010/11/Photo-on-2010-11-04-at-21.27.jpg"><img class="aligncenter size-full wp-image-3854" title="Photo on 2010-11-04 at 21.27" src="http://blog.vickiboykis.com/wp-content/uploads/2010/11/Photo-on-2010-11-04-at-21.27.jpg" alt="" width="448" height="336" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/11/Photo-on-2010-11-04-at-21.28.jpg"><img class="aligncenter size-full wp-image-3853" title="Photo on 2010-11-04 at 21.28" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/11/Photo-on-2010-11-04-at-21.28.jpg" alt="" width="448" height="336" /></a><a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/11/Photo-on-2010-11-04-at-21.27.jpg"><img class="aligncenter size-full wp-image-3854" title="Photo on 2010-11-04 at 21.27" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/11/Photo-on-2010-11-04-at-21.27.jpg" alt="" width="448" height="336" /></a>
 </p>
 
 Ok. That&#8217;s enough.
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2010/11/Photo-on-2010-11-04-at-21.45.jpg"><img class="aligncenter size-full wp-image-3855" title="Photo on 2010-11-04 at 21.45" src="http://blog.vickiboykis.com/wp-content/uploads/2010/11/Photo-on-2010-11-04-at-21.45.jpg" alt="" width="448" height="336" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/11/Photo-on-2010-11-04-at-21.45.jpg"><img class="aligncenter size-full wp-image-3855" title="Photo on 2010-11-04 at 21.45" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/11/Photo-on-2010-11-04-at-21.45.jpg" alt="" width="448" height="336" /></a>
 </p>
 
 <p style="text-align: left;">

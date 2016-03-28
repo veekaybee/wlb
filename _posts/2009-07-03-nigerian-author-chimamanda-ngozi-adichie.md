@@ -20,7 +20,7 @@ tags:
 ---
 Today was a beautiful day  in DC.
 
-[<img class="aligncenter size-full wp-image-670" title="books" src="http://blog.vickiboykis.com/wp-content/uploads/2009/07/books.jpg" alt="books" width="351" height="265" />](http://blog.vickiboykis.com/wp-content/uploads/2009/07/books.jpg)
+[<img class="aligncenter size-full wp-image-670" title="books" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/07/books.jpg" alt="books" width="351" height="265" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/07/books.jpg)
 
 I wanted to take advantage of it as much as possible, so I grabbed Mr. B and we went to dinner at Delhi Dhaba and afterwards stopped over at Politics and Prose to listen to [Chimamanda Ngozi Adichie](http://en.wikipedia.org/wiki/Chimamanda_Ngozi_Adichie) speak.   The reason we were so excited to hear her speak is that we had heard about her on NPR a couple weeks ago.  While sitting in our Prius.  Sipping lattes.  And using Safari.  Just kidding.   We were using Firefox.
 
@@ -28,13 +28,13 @@ The great thing about DC is that you can hear about a writer, and bam, a week la
 
 Chimamanda is Nigerian, quintessentially so.  But she is also &#8220;Westernized&#8221;, having gone to school in America, first in Philadelphia, then in Connecticut.   She fuses both to write about a variety of Nigerian-American issues.  Obviously, the fact that she is an immigrant (although that&#8217;s not quite how she defines herself, just as someone who went to college in the US and has come back several times) is close to my heart in that it makes me feel fluttery light that someone can make loads of money off their weird childhoods.  She also has  a voice that is very hypnotic. She was on NPR promoting her third book, [The Thing Around Your Neck](http://www.amazon.com/Thing-Around-Your-Neck/dp/0307271072/ref=sr_1_1?ie=UTF8&s=books&qid=1241910497&sr=1-1), which is a collection of short stories about Nigeria and America and the relationships between both, which is how we first heard about her.
 
-[<img class="aligncenter size-full wp-image-665" title="neck" src="http://blog.vickiboykis.com/wp-content/uploads/2009/07/neck.jpg" alt="neck" width="409" height="409" />](http://blog.vickiboykis.com/wp-content/uploads/2009/07/neck.jpg)
+[<img class="aligncenter size-full wp-image-665" title="neck" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/07/neck.jpg" alt="neck" width="409" height="409" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/07/neck.jpg)
 
 Here is her [NPR segment and an excerpt](http://www.npr.org/templates/story/story.php?storyId=105588688) from her book.
 
 When we went, we found out that A) She was just as mellifluous in person and B)She was gorgeous, for which an iPhone pic doesn&#8217;t do justice.
 
-[<img class="aligncenter size-full wp-image-666" title="img_0088" src="http://blog.vickiboykis.com/wp-content/uploads/2009/07/img_0088.jpg" alt="img_0088" width="519" height="850" />](http://blog.vickiboykis.com/wp-content/uploads/2009/07/img_0088.jpg)
+[<img class="aligncenter size-full wp-image-666" title="img_0088" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/07/img_0088.jpg" alt="img_0088" width="519" height="850" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/07/img_0088.jpg)
 
 She talked about a couple key things in the writing process, a process I am constantly interested in.  I have been hoping to write my Great American Novel seriously since I was 5 years old.  I had stories to tell back then.
 
@@ -45,5 +45,5 @@ She talked about a couple key things in the writing process, a process I am cons
 I loved her.  I haven&#8217;t read anything that she had written, yet, but it&#8217;s definitely going on my list.  And so is her hair, because, damn, how can I have that?
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2009/07/img_0091.jpg"><img class="aligncenter size-full wp-image-667" title="img_0091" src="http://blog.vickiboykis.com/wp-content/uploads/2009/07/img_0091.jpg" alt="img_0091" width="571" height="762" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/07/img_0091.jpg"><img class="aligncenter size-full wp-image-667" title="img_0091" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/07/img_0091.jpg" alt="img_0091" width="571" height="762" /></a>
 </p>

@@ -19,7 +19,7 @@ Mr. B and I are, amazingly, not going anywhere this weekend.   I have no idea 
 </p>
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2010/08/DSC_0659.jpg"><img class="aligncenter size-full wp-image-3467" title="DSC_0659" src="http://blog.vickiboykis.com/wp-content/uploads/2010/08/DSC_0659.jpg" alt="" width="490" height="737" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/08/DSC_0659.jpg"><img class="aligncenter size-full wp-image-3467" title="DSC_0659" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/08/DSC_0659.jpg" alt="" width="490" height="737" /></a>
 </p>
 
 **Blogs:**

@@ -13,7 +13,7 @@ tags:
   - book
   - Russia
 ---
-[<img class="aligncenter size-full wp-image-349" title="sash" src="http://blog.vickiboykis.com/wp-content/uploads/2009/05/sash.jpg" alt="sash" width="303" height="416" />](http://blog.vickiboykis.com/wp-content/uploads/2009/05/sash.jpg)
+[<img class="aligncenter size-full wp-image-349" title="sash" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/05/sash.jpg" alt="sash" width="303" height="416" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/05/sash.jpg)
 
 When I was little, and even through today, my mom used to tell me, &#8220;Don&#8217;t be so serious, [Klara Tsetkin](http://en.wikipedia.org/wiki/Clara_Zetkin)!&#8221;  Who, of course, was a feminist and very political woman, subsequently banned in exile to the Soviet Union, where she died. I was never really as hardcore as she was, but I was very serious in my belief of equality for women in everything that encompassed short of calling myself a feminist.
 
@@ -29,12 +29,12 @@ From the very beginning, you know you are in for a ride that will take your imag
 
 All of this drastically changes as Sashenka becomes involved in Marxism through her uncle Mendel.  The first third of the book takes you through her youth as she, Mendel, and others struggle in the dusk of the tsarist era to build a Marxist government.
 
-[<img class="aligncenter size-full wp-image-354" title="5" src="http://blog.vickiboykis.com/wp-content/uploads/2009/05/5.jpg" alt="5" width="414" height="500" />](http://blog.vickiboykis.com/wp-content/uploads/2009/05/5.jpg)
+[<img class="aligncenter size-full wp-image-354" title="5" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/05/5.jpg" alt="5" width="414" height="500" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/05/5.jpg)
 
 In the second, we see her at the height of glory as one of the inner circles of the party.  The third part of the book is devoted to the post-Soviet Moscow of 1994 and Sashenka and her family after the collapse of everything she worked her whole life for.  Throughout, Montefiore provides rich detailing and characterization of Sashenka and her world.
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2009/05/stalin_hunting.jpg"><img class="aligncenter size-full wp-image-353" title="stalin_hunting" src="http://blog.vickiboykis.com/wp-content/uploads/2009/05/stalin_hunting.jpg" alt="stalin_hunting" width="421" height="321" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/05/stalin_hunting.jpg"><img class="aligncenter size-full wp-image-353" title="stalin_hunting" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/05/stalin_hunting.jpg" alt="stalin_hunting" width="421" height="321" /></a>
 </p>
 
 For anyone interested in history, particularly of the Stalinist era, this book is amazing.  Montefiore describes the look, smell, and feel of Russia in an epic novel spanning almost 100 years in scope and featuring an incredible amount of cameos, including Stalin and his wretched henchman Lavrenti Beria, at whose hands died hundreds of thousands of innocent people.

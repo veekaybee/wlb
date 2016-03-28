@@ -15,7 +15,7 @@ tags:
 I had such a great birthday yesterday, right up until the part when all of our power went out and only came back at 10:00 at night.  BTW, this is where I was last week:
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2010/08/DSC_0581.jpg"><img class="aligncenter size-full wp-image-3451" title="DSC_0581" src="http://blog.vickiboykis.com/wp-content/uploads/2010/08/DSC_0581.jpg" alt="" width="737" height="490" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/08/DSC_0581.jpg"><img class="aligncenter size-full wp-image-3451" title="DSC_0581" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/08/DSC_0581.jpg" alt="" width="737" height="490" /></a>
 </p>
 
 **From blogs:**
@@ -25,7 +25,7 @@ I had such a great birthday yesterday, right up until the part when all of our p
   3. [I had such a great birthday yesterday, right up until the part when all of our power went out and only came back at 10:00 at night.  BTW, this is where I was last week:
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2010/08/DSC_0581.jpg"><img class="aligncenter size-full wp-image-3451" title="DSC_0581" src="http://blog.vickiboykis.com/wp-content/uploads/2010/08/DSC_0581.jpg" alt="" width="737" height="490" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/08/DSC_0581.jpg"><img class="aligncenter size-full wp-image-3451" title="DSC_0581" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/08/DSC_0581.jpg" alt="" width="737" height="490" /></a>
 </p>
 
 **From blogs:**

@@ -26,7 +26,7 @@ Now, I don&#8217;t know who&#8217;s managing what over there,  and I&#8217;m su
 
 As a result,  every time we go visit the grandparents it&#8217;s like a jackpot of semi-edible, non-perishable kosher products.
 
-[<img class="aligncenter size-full wp-image-5870" title="Screen shot 2011-10-26 at 7.13.05 AM" src="http://blog.vickiboykis.com/wp-content/uploads/2011/10/Screen-shot-2011-10-26-at-7.13.05-AM.png" alt="" width="356" height="270" />](http://blog.vickiboykis.com/wp-content/uploads/2011/10/Screen-shot-2011-10-26-at-7.13.05-AM.png)
+[<img class="aligncenter size-full wp-image-5870" title="Screen shot 2011-10-26 at 7.13.05 AM" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/10/Screen-shot-2011-10-26-at-7.13.05-AM.png" alt="" width="356" height="270" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/10/Screen-shot-2011-10-26-at-7.13.05-AM.png)
 
 We try to refuse.  We beg. We plead.  We argue that there are people who need it, rather than us. But in the end, we have four packages of kosher egg noodles in our pantry.
 

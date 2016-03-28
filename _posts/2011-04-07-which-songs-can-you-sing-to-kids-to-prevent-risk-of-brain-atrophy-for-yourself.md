@@ -26,7 +26,7 @@ tags:
 The reason I had to get my nails done this weekend is because I was attending a birthday party for a [one-year-old](http://blog.vickiboykis.com/2010/03/30/life-goes-on/) that was full of Russian women waiting to judge me.
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2011/04/DSC_0413-2.jpg"><img class="aligncenter size-full wp-image-4758" title="DSC_0413-2" src="http://blog.vickiboykis.com/wp-content/uploads/2011/04/DSC_0413-2.jpg" alt="" width="331" height="551" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/04/DSC_0413-2.jpg"><img class="aligncenter size-full wp-image-4758" title="DSC_0413-2" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/04/DSC_0413-2.jpg" alt="" width="331" height="551" /></a>
 </p>
 
 If a one-year-old does not remember a birthday party, did the party happen?  This is a philosophical question for another day, a day when I need more site traffic from BlogHer.
@@ -34,7 +34,7 @@ If a one-year-old does not remember a birthday party, did the party happen?  Th
 What I&#8217;d really like to talk about is the quality of music at children&#8217;s birthday parties:
 
 <p style="text-align: left;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2011/04/Screen-shot-2011-04-05-at-1.00.32-PM.png"><img class="aligncenter size-full wp-image-4738" title="Screen shot 2011-04-05 at 1.00.32 PM" src="http://blog.vickiboykis.com/wp-content/uploads/2011/04/Screen-shot-2011-04-05-at-1.00.32-PM.png" alt="" width="412" height="141" /></a>Because how many times can you listen to &#8220;If You&#8217;re Happy and You Know It?&#8221;  and Rafi rap before you become homicidal? For me, the answer is three. Three times.
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/04/Screen-shot-2011-04-05-at-1.00.32-PM.png"><img class="aligncenter size-full wp-image-4738" title="Screen shot 2011-04-05 at 1.00.32 PM" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/04/Screen-shot-2011-04-05-at-1.00.32-PM.png" alt="" width="412" height="141" /></a>Because how many times can you listen to &#8220;If You&#8217;re Happy and You Know It?&#8221;  and Rafi rap before you become homicidal? For me, the answer is three. Three times.
 </p>
 
 One of the songs that looped constantly throughout the party was _The Lion Sleeps Tonight_, which is actually a song we should be singing to children.  If you think about it because it&#8217;s  [a lesson in politics,](http://en.wikipedia.org/wiki/The_Lion_Sleeps_Tonight) OR a lesson in being badass and killing lions OR a lesson in white people appropriating African culture disguised by _AWHEEEEEEEEEEEOOOOOEEEEEE Wimbaway_:
@@ -53,7 +53,7 @@ Which got me to thinking.  Which other songs are potentially simple, but decept
   6. [The reason I had to get my nails done this weekend is because I was attending a birthday party for a [one-year-old](http://blog.vickiboykis.com/2010/03/30/life-goes-on/) that was full of Russian women waiting to judge me.
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2011/04/DSC_0413-2.jpg"><img class="aligncenter size-full wp-image-4758" title="DSC_0413-2" src="http://blog.vickiboykis.com/wp-content/uploads/2011/04/DSC_0413-2.jpg" alt="" width="331" height="551" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/04/DSC_0413-2.jpg"><img class="aligncenter size-full wp-image-4758" title="DSC_0413-2" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/04/DSC_0413-2.jpg" alt="" width="331" height="551" /></a>
 </p>
 
 If a one-year-old does not remember a birthday party, did the party happen?  This is a philosophical question for another day, a day when I need more site traffic from BlogHer.
@@ -61,7 +61,7 @@ If a one-year-old does not remember a birthday party, did the party happen?  Th
 What I&#8217;d really like to talk about is the quality of music at children&#8217;s birthday parties:
 
 <p style="text-align: left;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2011/04/Screen-shot-2011-04-05-at-1.00.32-PM.png"><img class="aligncenter size-full wp-image-4738" title="Screen shot 2011-04-05 at 1.00.32 PM" src="http://blog.vickiboykis.com/wp-content/uploads/2011/04/Screen-shot-2011-04-05-at-1.00.32-PM.png" alt="" width="412" height="141" /></a>Because how many times can you listen to &#8220;If You&#8217;re Happy and You Know It?&#8221;  and Rafi rap before you become homicidal? For me, the answer is three. Three times.
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/04/Screen-shot-2011-04-05-at-1.00.32-PM.png"><img class="aligncenter size-full wp-image-4738" title="Screen shot 2011-04-05 at 1.00.32 PM" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/04/Screen-shot-2011-04-05-at-1.00.32-PM.png" alt="" width="412" height="141" /></a>Because how many times can you listen to &#8220;If You&#8217;re Happy and You Know It?&#8221;  and Rafi rap before you become homicidal? For me, the answer is three. Three times.
 </p>
 
 One of the songs that looped constantly throughout the party was _The Lion Sleeps Tonight_, which is actually a song we should be singing to children.  If you think about it because it&#8217;s  [a lesson in politics,](http://en.wikipedia.org/wiki/The_Lion_Sleeps_Tonight) OR a lesson in being badass and killing lions OR a lesson in white people appropriating African culture disguised by _AWHEEEEEEEEEEEOOOOOEEEEEE Wimbaway_:
@@ -81,7 +81,7 @@ Which got me to thinking.  Which other songs are potentially simple, but decept
   7. [The reason I had to get my nails done this weekend is because I was attending a birthday party for a [one-year-old](http://blog.vickiboykis.com/2010/03/30/life-goes-on/) that was full of Russian women waiting to judge me.
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2011/04/DSC_0413-2.jpg"><img class="aligncenter size-full wp-image-4758" title="DSC_0413-2" src="http://blog.vickiboykis.com/wp-content/uploads/2011/04/DSC_0413-2.jpg" alt="" width="331" height="551" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/04/DSC_0413-2.jpg"><img class="aligncenter size-full wp-image-4758" title="DSC_0413-2" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/04/DSC_0413-2.jpg" alt="" width="331" height="551" /></a>
 </p>
 
 If a one-year-old does not remember a birthday party, did the party happen?  This is a philosophical question for another day, a day when I need more site traffic from BlogHer.
@@ -89,7 +89,7 @@ If a one-year-old does not remember a birthday party, did the party happen?  Th
 What I&#8217;d really like to talk about is the quality of music at children&#8217;s birthday parties:
 
 <p style="text-align: left;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2011/04/Screen-shot-2011-04-05-at-1.00.32-PM.png"><img class="aligncenter size-full wp-image-4738" title="Screen shot 2011-04-05 at 1.00.32 PM" src="http://blog.vickiboykis.com/wp-content/uploads/2011/04/Screen-shot-2011-04-05-at-1.00.32-PM.png" alt="" width="412" height="141" /></a>Because how many times can you listen to &#8220;If You&#8217;re Happy and You Know It?&#8221;  and Rafi rap before you become homicidal? For me, the answer is three. Three times.
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/04/Screen-shot-2011-04-05-at-1.00.32-PM.png"><img class="aligncenter size-full wp-image-4738" title="Screen shot 2011-04-05 at 1.00.32 PM" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/04/Screen-shot-2011-04-05-at-1.00.32-PM.png" alt="" width="412" height="141" /></a>Because how many times can you listen to &#8220;If You&#8217;re Happy and You Know It?&#8221;  and Rafi rap before you become homicidal? For me, the answer is three. Three times.
 </p>
 
 One of the songs that looped constantly throughout the party was _The Lion Sleeps Tonight_, which is actually a song we should be singing to children.  If you think about it because it&#8217;s  [a lesson in politics,](http://en.wikipedia.org/wiki/The_Lion_Sleeps_Tonight) OR a lesson in being badass and killing lions OR a lesson in white people appropriating African culture disguised by _AWHEEEEEEEEEEEOOOOOEEEEEE Wimbaway_:
@@ -108,7 +108,7 @@ Which got me to thinking.  Which other songs are potentially simple, but decept
   6. [The reason I had to get my nails done this weekend is because I was attending a birthday party for a [one-year-old](http://blog.vickiboykis.com/2010/03/30/life-goes-on/) that was full of Russian women waiting to judge me.
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2011/04/DSC_0413-2.jpg"><img class="aligncenter size-full wp-image-4758" title="DSC_0413-2" src="http://blog.vickiboykis.com/wp-content/uploads/2011/04/DSC_0413-2.jpg" alt="" width="331" height="551" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/04/DSC_0413-2.jpg"><img class="aligncenter size-full wp-image-4758" title="DSC_0413-2" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/04/DSC_0413-2.jpg" alt="" width="331" height="551" /></a>
 </p>
 
 If a one-year-old does not remember a birthday party, did the party happen?  This is a philosophical question for another day, a day when I need more site traffic from BlogHer.
@@ -116,7 +116,7 @@ If a one-year-old does not remember a birthday party, did the party happen?  Th
 What I&#8217;d really like to talk about is the quality of music at children&#8217;s birthday parties:
 
 <p style="text-align: left;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2011/04/Screen-shot-2011-04-05-at-1.00.32-PM.png"><img class="aligncenter size-full wp-image-4738" title="Screen shot 2011-04-05 at 1.00.32 PM" src="http://blog.vickiboykis.com/wp-content/uploads/2011/04/Screen-shot-2011-04-05-at-1.00.32-PM.png" alt="" width="412" height="141" /></a>Because how many times can you listen to &#8220;If You&#8217;re Happy and You Know It?&#8221;  and Rafi rap before you become homicidal? For me, the answer is three. Three times.
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/04/Screen-shot-2011-04-05-at-1.00.32-PM.png"><img class="aligncenter size-full wp-image-4738" title="Screen shot 2011-04-05 at 1.00.32 PM" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/04/Screen-shot-2011-04-05-at-1.00.32-PM.png" alt="" width="412" height="141" /></a>Because how many times can you listen to &#8220;If You&#8217;re Happy and You Know It?&#8221;  and Rafi rap before you become homicidal? For me, the answer is three. Three times.
 </p>
 
 One of the songs that looped constantly throughout the party was _The Lion Sleeps Tonight_, which is actually a song we should be singing to children.  If you think about it because it&#8217;s  [a lesson in politics,](http://en.wikipedia.org/wiki/The_Lion_Sleeps_Tonight) OR a lesson in being badass and killing lions OR a lesson in white people appropriating African culture disguised by _AWHEEEEEEEEEEEOOOOOEEEEEE Wimbaway_:

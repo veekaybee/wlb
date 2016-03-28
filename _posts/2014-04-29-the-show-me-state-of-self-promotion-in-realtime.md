@@ -15,11 +15,11 @@ tags:
   - Russian
   - Twitter
 ---
-[<img class="aligncenter size-medium wp-image-9692" src="http://blog.vickiboykis.com/wp-content/uploads/2014/04/lenta-580x502.jpg" alt="lenta" width="580" height="502" />](http://blog.vickiboykis.com/wp-content/uploads/2014/04/lenta.jpg)
+[<img class="aligncenter size-medium wp-image-9692" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2014/04/lenta-580x502.jpg" alt="lenta" width="580" height="502" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2014/04/lenta.jpg)
 
 A couple months ago, Paul Ford, one of my favorite internets writers, tweeted that he was sick of self-promotion.
 
-[<img class="aligncenter size-medium wp-image-9690" src="http://blog.vickiboykis.com/wp-content/uploads/2014/04/Screen-Shot-2014-04-29-at-6.48.54-AM-580x261.png" alt="Screen Shot 2014-04-29 at 6.48.54 AM" width="580" height="261" />](http://blog.vickiboykis.com/wp-content/uploads/2014/04/Screen-Shot-2014-04-29-at-6.48.54-AM.png)
+[<img class="aligncenter size-medium wp-image-9690" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2014/04/Screen-Shot-2014-04-29-at-6.48.54-AM-580x261.png" alt="Screen Shot 2014-04-29 at 6.48.54 AM" width="580" height="261" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2014/04/Screen-Shot-2014-04-29-at-6.48.54-AM.png)
 
 There&#8217;s a reason over 150 people retweeted it, and it&#8217;s because we&#8217;re constantly deluged with announcements of other people&#8217;s success.
 

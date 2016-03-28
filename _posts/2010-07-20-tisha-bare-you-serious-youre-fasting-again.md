@@ -16,7 +16,7 @@ tags:
   - Jewish
 ---
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2010/07/DSC01528.jpg"><img class="aligncenter size-full wp-image-3373" title="DSC01528" src="http://blog.vickiboykis.com/wp-content/uploads/2010/07/DSC01528.jpg" alt="" width="384" height="288" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/07/DSC01528.jpg"><img class="aligncenter size-full wp-image-3373" title="DSC01528" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/07/DSC01528.jpg" alt="" width="384" height="288" /></a>
 </p>
 
 This year, [as last year](http://blog.vickiboykis.com/2009/07/28/are-you-fasting-on-thursday/) and at least three years before that, I&#8217;m fasting for Tisha B&#8217;Av because I consider it more of a national Jewish holiday than a religious fast like Yom Kipur, and I think it&#8217;s a shame that more secular Jews don&#8217;t participate in a day completely devoted to feeling depressed about the state of our people.  (When I tried guilting Mr. B into fasting this year, he said he would &#8220;try to eat less.&#8221;)

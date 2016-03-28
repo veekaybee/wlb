@@ -12,7 +12,7 @@ categories:
 Don&#8217;t worry. They&#8217;re still here. They&#8217;re just in a different place now, every week:
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2012/10/blogerator.jpg"><img class="aligncenter  wp-image-7745" title="blogerator" src="http://blog.vickiboykis.com/wp-content/uploads/2012/10/blogerator-1024x486.jpg" alt="" width="574" height="272" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/10/blogerator.jpg"><img class="aligncenter  wp-image-7745" title="blogerator" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/10/blogerator-1024x486.jpg" alt="" width="574" height="272" /></a>
 </p>
 
 <p style="text-align: center;">

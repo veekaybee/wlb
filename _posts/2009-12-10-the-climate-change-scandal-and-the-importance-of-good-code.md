@@ -29,7 +29,7 @@ _
   <br /> 
   
   <div id="attachment_1857" style="width: 454px" class="wp-caption alignnone">
-    <em><a href="http://blog.vickiboykis.com/wp-content/uploads/2009/12/earth-egg.jpg"><img class="size-full wp-image-1857" title="earth egg" src="http://blog.vickiboykis.com/wp-content/uploads/2009/12/earth-egg.jpg" alt="CC azrainman via Flickr" width="444" height="467" /></a></em>
+    <em><a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/12/earth-egg.jpg"><img class="size-full wp-image-1857" title="earth egg" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/12/earth-egg.jpg" alt="CC azrainman via Flickr" width="444" height="467" /></a></em>
     
     <p class="wp-caption-text">
       CC azrainman via Flickr

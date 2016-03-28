@@ -15,7 +15,7 @@ tags:
 The thing about Philly is that if you get lost, you find stuff like synagogues and churches.  Moseying my way over to my parents&#8217; this weekend to hear all about their trip to Israel and celebrate Mr. B&#8217;s 26th.  He&#8217;s kind of bummed out about it because his age isn&#8217;t a perfect square anymore.
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2010/11/wpid-IMAG0468.jpg"><img class="aligncenter size-full wp-image-3875" title="wpid-IMAG0468.jpg" src="http://blog.vickiboykis.com/wp-content/uploads/2010/11/wpid-IMAG0468.jpg" alt="" width="350" height="583" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/11/wpid-IMAG0468.jpg"><img class="aligncenter size-full wp-image-3875" title="wpid-IMAG0468.jpg" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/11/wpid-IMAG0468.jpg" alt="" width="350" height="583" /></a>
 </p>
 
 **From the blogs:**
@@ -24,7 +24,7 @@ The thing about Philly is that if you get lost, you find stuff like synagogues a
   2. [The thing about Philly is that if you get lost, you find stuff like synagogues and churches.  Moseying my way over to my parents&#8217; this weekend to hear all about their trip to Israel and celebrate Mr. B&#8217;s 26th.  He&#8217;s kind of bummed out about it because his age isn&#8217;t a perfect square anymore.
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2010/11/wpid-IMAG0468.jpg"><img class="aligncenter size-full wp-image-3875" title="wpid-IMAG0468.jpg" src="http://blog.vickiboykis.com/wp-content/uploads/2010/11/wpid-IMAG0468.jpg" alt="" width="350" height="583" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/11/wpid-IMAG0468.jpg"><img class="aligncenter size-full wp-image-3875" title="wpid-IMAG0468.jpg" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/11/wpid-IMAG0468.jpg" alt="" width="350" height="583" /></a>
 </p>
 
 **From the blogs:**
@@ -41,7 +41,7 @@ The thing about Philly is that if you get lost, you find stuff like synagogues a
   1. I [The thing about Philly is that if you get lost, you find stuff like synagogues and churches.  Moseying my way over to my parents&#8217; this weekend to hear all about their trip to Israel and celebrate Mr. B&#8217;s 26th.  He&#8217;s kind of bummed out about it because his age isn&#8217;t a perfect square anymore.
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2010/11/wpid-IMAG0468.jpg"><img class="aligncenter size-full wp-image-3875" title="wpid-IMAG0468.jpg" src="http://blog.vickiboykis.com/wp-content/uploads/2010/11/wpid-IMAG0468.jpg" alt="" width="350" height="583" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/11/wpid-IMAG0468.jpg"><img class="aligncenter size-full wp-image-3875" title="wpid-IMAG0468.jpg" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/11/wpid-IMAG0468.jpg" alt="" width="350" height="583" /></a>
 </p>
 
 **From the blogs:**
@@ -50,7 +50,7 @@ The thing about Philly is that if you get lost, you find stuff like synagogues a
   2. [The thing about Philly is that if you get lost, you find stuff like synagogues and churches.  Moseying my way over to my parents&#8217; this weekend to hear all about their trip to Israel and celebrate Mr. B&#8217;s 26th.  He&#8217;s kind of bummed out about it because his age isn&#8217;t a perfect square anymore.
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2010/11/wpid-IMAG0468.jpg"><img class="aligncenter size-full wp-image-3875" title="wpid-IMAG0468.jpg" src="http://blog.vickiboykis.com/wp-content/uploads/2010/11/wpid-IMAG0468.jpg" alt="" width="350" height="583" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/11/wpid-IMAG0468.jpg"><img class="aligncenter size-full wp-image-3875" title="wpid-IMAG0468.jpg" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/11/wpid-IMAG0468.jpg" alt="" width="350" height="583" /></a>
 </p>
 
 **From the blogs:**
@@ -70,7 +70,7 @@ The thing about Philly is that if you get lost, you find stuff like synagogues a
   4. [The thing about Philly is that if you get lost, you find stuff like synagogues and churches.  Moseying my way over to my parents&#8217; this weekend to hear all about their trip to Israel and celebrate Mr. B&#8217;s 26th.  He&#8217;s kind of bummed out about it because his age isn&#8217;t a perfect square anymore.
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2010/11/wpid-IMAG0468.jpg"><img class="aligncenter size-full wp-image-3875" title="wpid-IMAG0468.jpg" src="http://blog.vickiboykis.com/wp-content/uploads/2010/11/wpid-IMAG0468.jpg" alt="" width="350" height="583" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/11/wpid-IMAG0468.jpg"><img class="aligncenter size-full wp-image-3875" title="wpid-IMAG0468.jpg" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/11/wpid-IMAG0468.jpg" alt="" width="350" height="583" /></a>
 </p>
 
 **From the blogs:**
@@ -79,7 +79,7 @@ The thing about Philly is that if you get lost, you find stuff like synagogues a
   2. [The thing about Philly is that if you get lost, you find stuff like synagogues and churches.  Moseying my way over to my parents&#8217; this weekend to hear all about their trip to Israel and celebrate Mr. B&#8217;s 26th.  He&#8217;s kind of bummed out about it because his age isn&#8217;t a perfect square anymore.
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2010/11/wpid-IMAG0468.jpg"><img class="aligncenter size-full wp-image-3875" title="wpid-IMAG0468.jpg" src="http://blog.vickiboykis.com/wp-content/uploads/2010/11/wpid-IMAG0468.jpg" alt="" width="350" height="583" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/11/wpid-IMAG0468.jpg"><img class="aligncenter size-full wp-image-3875" title="wpid-IMAG0468.jpg" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/11/wpid-IMAG0468.jpg" alt="" width="350" height="583" /></a>
 </p>
 
 **From the blogs:**
@@ -96,7 +96,7 @@ The thing about Philly is that if you get lost, you find stuff like synagogues a
   1. I [The thing about Philly is that if you get lost, you find stuff like synagogues and churches.  Moseying my way over to my parents&#8217; this weekend to hear all about their trip to Israel and celebrate Mr. B&#8217;s 26th.  He&#8217;s kind of bummed out about it because his age isn&#8217;t a perfect square anymore.
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2010/11/wpid-IMAG0468.jpg"><img class="aligncenter size-full wp-image-3875" title="wpid-IMAG0468.jpg" src="http://blog.vickiboykis.com/wp-content/uploads/2010/11/wpid-IMAG0468.jpg" alt="" width="350" height="583" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/11/wpid-IMAG0468.jpg"><img class="aligncenter size-full wp-image-3875" title="wpid-IMAG0468.jpg" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/11/wpid-IMAG0468.jpg" alt="" width="350" height="583" /></a>
 </p>
 
 **From the blogs:**
@@ -105,7 +105,7 @@ The thing about Philly is that if you get lost, you find stuff like synagogues a
   2. [The thing about Philly is that if you get lost, you find stuff like synagogues and churches.  Moseying my way over to my parents&#8217; this weekend to hear all about their trip to Israel and celebrate Mr. B&#8217;s 26th.  He&#8217;s kind of bummed out about it because his age isn&#8217;t a perfect square anymore.
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2010/11/wpid-IMAG0468.jpg"><img class="aligncenter size-full wp-image-3875" title="wpid-IMAG0468.jpg" src="http://blog.vickiboykis.com/wp-content/uploads/2010/11/wpid-IMAG0468.jpg" alt="" width="350" height="583" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/11/wpid-IMAG0468.jpg"><img class="aligncenter size-full wp-image-3875" title="wpid-IMAG0468.jpg" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/11/wpid-IMAG0468.jpg" alt="" width="350" height="583" /></a>
 </p>
 
 **From the blogs:**
@@ -128,7 +128,7 @@ The thing about Philly is that if you get lost, you find stuff like synagogues a
   7. How can I get some [The thing about Philly is that if you get lost, you find stuff like synagogues and churches.  Moseying my way over to my parents&#8217; this weekend to hear all about their trip to Israel and celebrate Mr. B&#8217;s 26th.  He&#8217;s kind of bummed out about it because his age isn&#8217;t a perfect square anymore.
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2010/11/wpid-IMAG0468.jpg"><img class="aligncenter size-full wp-image-3875" title="wpid-IMAG0468.jpg" src="http://blog.vickiboykis.com/wp-content/uploads/2010/11/wpid-IMAG0468.jpg" alt="" width="350" height="583" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/11/wpid-IMAG0468.jpg"><img class="aligncenter size-full wp-image-3875" title="wpid-IMAG0468.jpg" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/11/wpid-IMAG0468.jpg" alt="" width="350" height="583" /></a>
 </p>
 
 **From the blogs:**
@@ -137,7 +137,7 @@ The thing about Philly is that if you get lost, you find stuff like synagogues a
   2. [The thing about Philly is that if you get lost, you find stuff like synagogues and churches.  Moseying my way over to my parents&#8217; this weekend to hear all about their trip to Israel and celebrate Mr. B&#8217;s 26th.  He&#8217;s kind of bummed out about it because his age isn&#8217;t a perfect square anymore.
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2010/11/wpid-IMAG0468.jpg"><img class="aligncenter size-full wp-image-3875" title="wpid-IMAG0468.jpg" src="http://blog.vickiboykis.com/wp-content/uploads/2010/11/wpid-IMAG0468.jpg" alt="" width="350" height="583" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/11/wpid-IMAG0468.jpg"><img class="aligncenter size-full wp-image-3875" title="wpid-IMAG0468.jpg" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/11/wpid-IMAG0468.jpg" alt="" width="350" height="583" /></a>
 </p>
 
 **From the blogs:**
@@ -154,7 +154,7 @@ The thing about Philly is that if you get lost, you find stuff like synagogues a
   1. I [The thing about Philly is that if you get lost, you find stuff like synagogues and churches.  Moseying my way over to my parents&#8217; this weekend to hear all about their trip to Israel and celebrate Mr. B&#8217;s 26th.  He&#8217;s kind of bummed out about it because his age isn&#8217;t a perfect square anymore.
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2010/11/wpid-IMAG0468.jpg"><img class="aligncenter size-full wp-image-3875" title="wpid-IMAG0468.jpg" src="http://blog.vickiboykis.com/wp-content/uploads/2010/11/wpid-IMAG0468.jpg" alt="" width="350" height="583" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/11/wpid-IMAG0468.jpg"><img class="aligncenter size-full wp-image-3875" title="wpid-IMAG0468.jpg" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/11/wpid-IMAG0468.jpg" alt="" width="350" height="583" /></a>
 </p>
 
 **From the blogs:**
@@ -163,7 +163,7 @@ The thing about Philly is that if you get lost, you find stuff like synagogues a
   2. [The thing about Philly is that if you get lost, you find stuff like synagogues and churches.  Moseying my way over to my parents&#8217; this weekend to hear all about their trip to Israel and celebrate Mr. B&#8217;s 26th.  He&#8217;s kind of bummed out about it because his age isn&#8217;t a perfect square anymore.
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2010/11/wpid-IMAG0468.jpg"><img class="aligncenter size-full wp-image-3875" title="wpid-IMAG0468.jpg" src="http://blog.vickiboykis.com/wp-content/uploads/2010/11/wpid-IMAG0468.jpg" alt="" width="350" height="583" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/11/wpid-IMAG0468.jpg"><img class="aligncenter size-full wp-image-3875" title="wpid-IMAG0468.jpg" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/11/wpid-IMAG0468.jpg" alt="" width="350" height="583" /></a>
 </p>
 
 **From the blogs:**
@@ -183,7 +183,7 @@ The thing about Philly is that if you get lost, you find stuff like synagogues a
   4. [The thing about Philly is that if you get lost, you find stuff like synagogues and churches.  Moseying my way over to my parents&#8217; this weekend to hear all about their trip to Israel and celebrate Mr. B&#8217;s 26th.  He&#8217;s kind of bummed out about it because his age isn&#8217;t a perfect square anymore.
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2010/11/wpid-IMAG0468.jpg"><img class="aligncenter size-full wp-image-3875" title="wpid-IMAG0468.jpg" src="http://blog.vickiboykis.com/wp-content/uploads/2010/11/wpid-IMAG0468.jpg" alt="" width="350" height="583" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/11/wpid-IMAG0468.jpg"><img class="aligncenter size-full wp-image-3875" title="wpid-IMAG0468.jpg" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/11/wpid-IMAG0468.jpg" alt="" width="350" height="583" /></a>
 </p>
 
 **From the blogs:**
@@ -192,7 +192,7 @@ The thing about Philly is that if you get lost, you find stuff like synagogues a
   2. [The thing about Philly is that if you get lost, you find stuff like synagogues and churches.  Moseying my way over to my parents&#8217; this weekend to hear all about their trip to Israel and celebrate Mr. B&#8217;s 26th.  He&#8217;s kind of bummed out about it because his age isn&#8217;t a perfect square anymore.
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2010/11/wpid-IMAG0468.jpg"><img class="aligncenter size-full wp-image-3875" title="wpid-IMAG0468.jpg" src="http://blog.vickiboykis.com/wp-content/uploads/2010/11/wpid-IMAG0468.jpg" alt="" width="350" height="583" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/11/wpid-IMAG0468.jpg"><img class="aligncenter size-full wp-image-3875" title="wpid-IMAG0468.jpg" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/11/wpid-IMAG0468.jpg" alt="" width="350" height="583" /></a>
 </p>
 
 **From the blogs:**
@@ -209,7 +209,7 @@ The thing about Philly is that if you get lost, you find stuff like synagogues a
   1. I [The thing about Philly is that if you get lost, you find stuff like synagogues and churches.  Moseying my way over to my parents&#8217; this weekend to hear all about their trip to Israel and celebrate Mr. B&#8217;s 26th.  He&#8217;s kind of bummed out about it because his age isn&#8217;t a perfect square anymore.
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2010/11/wpid-IMAG0468.jpg"><img class="aligncenter size-full wp-image-3875" title="wpid-IMAG0468.jpg" src="http://blog.vickiboykis.com/wp-content/uploads/2010/11/wpid-IMAG0468.jpg" alt="" width="350" height="583" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/11/wpid-IMAG0468.jpg"><img class="aligncenter size-full wp-image-3875" title="wpid-IMAG0468.jpg" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/11/wpid-IMAG0468.jpg" alt="" width="350" height="583" /></a>
 </p>
 
 **From the blogs:**
@@ -218,7 +218,7 @@ The thing about Philly is that if you get lost, you find stuff like synagogues a
   2. [The thing about Philly is that if you get lost, you find stuff like synagogues and churches.  Moseying my way over to my parents&#8217; this weekend to hear all about their trip to Israel and celebrate Mr. B&#8217;s 26th.  He&#8217;s kind of bummed out about it because his age isn&#8217;t a perfect square anymore.
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2010/11/wpid-IMAG0468.jpg"><img class="aligncenter size-full wp-image-3875" title="wpid-IMAG0468.jpg" src="http://blog.vickiboykis.com/wp-content/uploads/2010/11/wpid-IMAG0468.jpg" alt="" width="350" height="583" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/11/wpid-IMAG0468.jpg"><img class="aligncenter size-full wp-image-3875" title="wpid-IMAG0468.jpg" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/11/wpid-IMAG0468.jpg" alt="" width="350" height="583" /></a>
 </p>
 
 **From the blogs:**
@@ -242,7 +242,7 @@ The thing about Philly is that if you get lost, you find stuff like synagogues a
   8. [The thing about Philly is that if you get lost, you find stuff like synagogues and churches.  Moseying my way over to my parents&#8217; this weekend to hear all about their trip to Israel and celebrate Mr. B&#8217;s 26th.  He&#8217;s kind of bummed out about it because his age isn&#8217;t a perfect square anymore.
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2010/11/wpid-IMAG0468.jpg"><img class="aligncenter size-full wp-image-3875" title="wpid-IMAG0468.jpg" src="http://blog.vickiboykis.com/wp-content/uploads/2010/11/wpid-IMAG0468.jpg" alt="" width="350" height="583" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/11/wpid-IMAG0468.jpg"><img class="aligncenter size-full wp-image-3875" title="wpid-IMAG0468.jpg" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/11/wpid-IMAG0468.jpg" alt="" width="350" height="583" /></a>
 </p>
 
 **From the blogs:**
@@ -251,7 +251,7 @@ The thing about Philly is that if you get lost, you find stuff like synagogues a
   2. [The thing about Philly is that if you get lost, you find stuff like synagogues and churches.  Moseying my way over to my parents&#8217; this weekend to hear all about their trip to Israel and celebrate Mr. B&#8217;s 26th.  He&#8217;s kind of bummed out about it because his age isn&#8217;t a perfect square anymore.
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2010/11/wpid-IMAG0468.jpg"><img class="aligncenter size-full wp-image-3875" title="wpid-IMAG0468.jpg" src="http://blog.vickiboykis.com/wp-content/uploads/2010/11/wpid-IMAG0468.jpg" alt="" width="350" height="583" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/11/wpid-IMAG0468.jpg"><img class="aligncenter size-full wp-image-3875" title="wpid-IMAG0468.jpg" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/11/wpid-IMAG0468.jpg" alt="" width="350" height="583" /></a>
 </p>
 
 **From the blogs:**
@@ -268,7 +268,7 @@ The thing about Philly is that if you get lost, you find stuff like synagogues a
   1. I [The thing about Philly is that if you get lost, you find stuff like synagogues and churches.  Moseying my way over to my parents&#8217; this weekend to hear all about their trip to Israel and celebrate Mr. B&#8217;s 26th.  He&#8217;s kind of bummed out about it because his age isn&#8217;t a perfect square anymore.
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2010/11/wpid-IMAG0468.jpg"><img class="aligncenter size-full wp-image-3875" title="wpid-IMAG0468.jpg" src="http://blog.vickiboykis.com/wp-content/uploads/2010/11/wpid-IMAG0468.jpg" alt="" width="350" height="583" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/11/wpid-IMAG0468.jpg"><img class="aligncenter size-full wp-image-3875" title="wpid-IMAG0468.jpg" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/11/wpid-IMAG0468.jpg" alt="" width="350" height="583" /></a>
 </p>
 
 **From the blogs:**
@@ -277,7 +277,7 @@ The thing about Philly is that if you get lost, you find stuff like synagogues a
   2. [The thing about Philly is that if you get lost, you find stuff like synagogues and churches.  Moseying my way over to my parents&#8217; this weekend to hear all about their trip to Israel and celebrate Mr. B&#8217;s 26th.  He&#8217;s kind of bummed out about it because his age isn&#8217;t a perfect square anymore.
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2010/11/wpid-IMAG0468.jpg"><img class="aligncenter size-full wp-image-3875" title="wpid-IMAG0468.jpg" src="http://blog.vickiboykis.com/wp-content/uploads/2010/11/wpid-IMAG0468.jpg" alt="" width="350" height="583" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/11/wpid-IMAG0468.jpg"><img class="aligncenter size-full wp-image-3875" title="wpid-IMAG0468.jpg" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/11/wpid-IMAG0468.jpg" alt="" width="350" height="583" /></a>
 </p>
 
 **From the blogs:**
@@ -297,7 +297,7 @@ The thing about Philly is that if you get lost, you find stuff like synagogues a
   4. [The thing about Philly is that if you get lost, you find stuff like synagogues and churches.  Moseying my way over to my parents&#8217; this weekend to hear all about their trip to Israel and celebrate Mr. B&#8217;s 26th.  He&#8217;s kind of bummed out about it because his age isn&#8217;t a perfect square anymore.
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2010/11/wpid-IMAG0468.jpg"><img class="aligncenter size-full wp-image-3875" title="wpid-IMAG0468.jpg" src="http://blog.vickiboykis.com/wp-content/uploads/2010/11/wpid-IMAG0468.jpg" alt="" width="350" height="583" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/11/wpid-IMAG0468.jpg"><img class="aligncenter size-full wp-image-3875" title="wpid-IMAG0468.jpg" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/11/wpid-IMAG0468.jpg" alt="" width="350" height="583" /></a>
 </p>
 
 **From the blogs:**
@@ -306,7 +306,7 @@ The thing about Philly is that if you get lost, you find stuff like synagogues a
   2. [The thing about Philly is that if you get lost, you find stuff like synagogues and churches.  Moseying my way over to my parents&#8217; this weekend to hear all about their trip to Israel and celebrate Mr. B&#8217;s 26th.  He&#8217;s kind of bummed out about it because his age isn&#8217;t a perfect square anymore.
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2010/11/wpid-IMAG0468.jpg"><img class="aligncenter size-full wp-image-3875" title="wpid-IMAG0468.jpg" src="http://blog.vickiboykis.com/wp-content/uploads/2010/11/wpid-IMAG0468.jpg" alt="" width="350" height="583" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/11/wpid-IMAG0468.jpg"><img class="aligncenter size-full wp-image-3875" title="wpid-IMAG0468.jpg" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/11/wpid-IMAG0468.jpg" alt="" width="350" height="583" /></a>
 </p>
 
 **From the blogs:**
@@ -323,7 +323,7 @@ The thing about Philly is that if you get lost, you find stuff like synagogues a
   1. I [The thing about Philly is that if you get lost, you find stuff like synagogues and churches.  Moseying my way over to my parents&#8217; this weekend to hear all about their trip to Israel and celebrate Mr. B&#8217;s 26th.  He&#8217;s kind of bummed out about it because his age isn&#8217;t a perfect square anymore.
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2010/11/wpid-IMAG0468.jpg"><img class="aligncenter size-full wp-image-3875" title="wpid-IMAG0468.jpg" src="http://blog.vickiboykis.com/wp-content/uploads/2010/11/wpid-IMAG0468.jpg" alt="" width="350" height="583" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/11/wpid-IMAG0468.jpg"><img class="aligncenter size-full wp-image-3875" title="wpid-IMAG0468.jpg" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/11/wpid-IMAG0468.jpg" alt="" width="350" height="583" /></a>
 </p>
 
 **From the blogs:**
@@ -332,7 +332,7 @@ The thing about Philly is that if you get lost, you find stuff like synagogues a
   2. [The thing about Philly is that if you get lost, you find stuff like synagogues and churches.  Moseying my way over to my parents&#8217; this weekend to hear all about their trip to Israel and celebrate Mr. B&#8217;s 26th.  He&#8217;s kind of bummed out about it because his age isn&#8217;t a perfect square anymore.
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2010/11/wpid-IMAG0468.jpg"><img class="aligncenter size-full wp-image-3875" title="wpid-IMAG0468.jpg" src="http://blog.vickiboykis.com/wp-content/uploads/2010/11/wpid-IMAG0468.jpg" alt="" width="350" height="583" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/11/wpid-IMAG0468.jpg"><img class="aligncenter size-full wp-image-3875" title="wpid-IMAG0468.jpg" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/11/wpid-IMAG0468.jpg" alt="" width="350" height="583" /></a>
 </p>
 
 **From the blogs:**
@@ -355,7 +355,7 @@ The thing about Philly is that if you get lost, you find stuff like synagogues a
   7. How can I get some [The thing about Philly is that if you get lost, you find stuff like synagogues and churches.  Moseying my way over to my parents&#8217; this weekend to hear all about their trip to Israel and celebrate Mr. B&#8217;s 26th.  He&#8217;s kind of bummed out about it because his age isn&#8217;t a perfect square anymore.
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2010/11/wpid-IMAG0468.jpg"><img class="aligncenter size-full wp-image-3875" title="wpid-IMAG0468.jpg" src="http://blog.vickiboykis.com/wp-content/uploads/2010/11/wpid-IMAG0468.jpg" alt="" width="350" height="583" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/11/wpid-IMAG0468.jpg"><img class="aligncenter size-full wp-image-3875" title="wpid-IMAG0468.jpg" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/11/wpid-IMAG0468.jpg" alt="" width="350" height="583" /></a>
 </p>
 
 **From the blogs:**
@@ -364,7 +364,7 @@ The thing about Philly is that if you get lost, you find stuff like synagogues a
   2. [The thing about Philly is that if you get lost, you find stuff like synagogues and churches.  Moseying my way over to my parents&#8217; this weekend to hear all about their trip to Israel and celebrate Mr. B&#8217;s 26th.  He&#8217;s kind of bummed out about it because his age isn&#8217;t a perfect square anymore.
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2010/11/wpid-IMAG0468.jpg"><img class="aligncenter size-full wp-image-3875" title="wpid-IMAG0468.jpg" src="http://blog.vickiboykis.com/wp-content/uploads/2010/11/wpid-IMAG0468.jpg" alt="" width="350" height="583" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/11/wpid-IMAG0468.jpg"><img class="aligncenter size-full wp-image-3875" title="wpid-IMAG0468.jpg" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/11/wpid-IMAG0468.jpg" alt="" width="350" height="583" /></a>
 </p>
 
 **From the blogs:**
@@ -381,7 +381,7 @@ The thing about Philly is that if you get lost, you find stuff like synagogues a
   1. I [The thing about Philly is that if you get lost, you find stuff like synagogues and churches.  Moseying my way over to my parents&#8217; this weekend to hear all about their trip to Israel and celebrate Mr. B&#8217;s 26th.  He&#8217;s kind of bummed out about it because his age isn&#8217;t a perfect square anymore.
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2010/11/wpid-IMAG0468.jpg"><img class="aligncenter size-full wp-image-3875" title="wpid-IMAG0468.jpg" src="http://blog.vickiboykis.com/wp-content/uploads/2010/11/wpid-IMAG0468.jpg" alt="" width="350" height="583" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/11/wpid-IMAG0468.jpg"><img class="aligncenter size-full wp-image-3875" title="wpid-IMAG0468.jpg" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/11/wpid-IMAG0468.jpg" alt="" width="350" height="583" /></a>
 </p>
 
 **From the blogs:**
@@ -390,7 +390,7 @@ The thing about Philly is that if you get lost, you find stuff like synagogues a
   2. [The thing about Philly is that if you get lost, you find stuff like synagogues and churches.  Moseying my way over to my parents&#8217; this weekend to hear all about their trip to Israel and celebrate Mr. B&#8217;s 26th.  He&#8217;s kind of bummed out about it because his age isn&#8217;t a perfect square anymore.
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2010/11/wpid-IMAG0468.jpg"><img class="aligncenter size-full wp-image-3875" title="wpid-IMAG0468.jpg" src="http://blog.vickiboykis.com/wp-content/uploads/2010/11/wpid-IMAG0468.jpg" alt="" width="350" height="583" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/11/wpid-IMAG0468.jpg"><img class="aligncenter size-full wp-image-3875" title="wpid-IMAG0468.jpg" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/11/wpid-IMAG0468.jpg" alt="" width="350" height="583" /></a>
 </p>
 
 **From the blogs:**
@@ -410,7 +410,7 @@ The thing about Philly is that if you get lost, you find stuff like synagogues a
   4. [The thing about Philly is that if you get lost, you find stuff like synagogues and churches.  Moseying my way over to my parents&#8217; this weekend to hear all about their trip to Israel and celebrate Mr. B&#8217;s 26th.  He&#8217;s kind of bummed out about it because his age isn&#8217;t a perfect square anymore.
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2010/11/wpid-IMAG0468.jpg"><img class="aligncenter size-full wp-image-3875" title="wpid-IMAG0468.jpg" src="http://blog.vickiboykis.com/wp-content/uploads/2010/11/wpid-IMAG0468.jpg" alt="" width="350" height="583" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/11/wpid-IMAG0468.jpg"><img class="aligncenter size-full wp-image-3875" title="wpid-IMAG0468.jpg" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/11/wpid-IMAG0468.jpg" alt="" width="350" height="583" /></a>
 </p>
 
 **From the blogs:**
@@ -419,7 +419,7 @@ The thing about Philly is that if you get lost, you find stuff like synagogues a
   2. [The thing about Philly is that if you get lost, you find stuff like synagogues and churches.  Moseying my way over to my parents&#8217; this weekend to hear all about their trip to Israel and celebrate Mr. B&#8217;s 26th.  He&#8217;s kind of bummed out about it because his age isn&#8217;t a perfect square anymore.
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2010/11/wpid-IMAG0468.jpg"><img class="aligncenter size-full wp-image-3875" title="wpid-IMAG0468.jpg" src="http://blog.vickiboykis.com/wp-content/uploads/2010/11/wpid-IMAG0468.jpg" alt="" width="350" height="583" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/11/wpid-IMAG0468.jpg"><img class="aligncenter size-full wp-image-3875" title="wpid-IMAG0468.jpg" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/11/wpid-IMAG0468.jpg" alt="" width="350" height="583" /></a>
 </p>
 
 **From the blogs:**
@@ -436,7 +436,7 @@ The thing about Philly is that if you get lost, you find stuff like synagogues a
   1. I [The thing about Philly is that if you get lost, you find stuff like synagogues and churches.  Moseying my way over to my parents&#8217; this weekend to hear all about their trip to Israel and celebrate Mr. B&#8217;s 26th.  He&#8217;s kind of bummed out about it because his age isn&#8217;t a perfect square anymore.
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2010/11/wpid-IMAG0468.jpg"><img class="aligncenter size-full wp-image-3875" title="wpid-IMAG0468.jpg" src="http://blog.vickiboykis.com/wp-content/uploads/2010/11/wpid-IMAG0468.jpg" alt="" width="350" height="583" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/11/wpid-IMAG0468.jpg"><img class="aligncenter size-full wp-image-3875" title="wpid-IMAG0468.jpg" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/11/wpid-IMAG0468.jpg" alt="" width="350" height="583" /></a>
 </p>
 
 **From the blogs:**
@@ -445,7 +445,7 @@ The thing about Philly is that if you get lost, you find stuff like synagogues a
   2. [The thing about Philly is that if you get lost, you find stuff like synagogues and churches.  Moseying my way over to my parents&#8217; this weekend to hear all about their trip to Israel and celebrate Mr. B&#8217;s 26th.  He&#8217;s kind of bummed out about it because his age isn&#8217;t a perfect square anymore.
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2010/11/wpid-IMAG0468.jpg"><img class="aligncenter size-full wp-image-3875" title="wpid-IMAG0468.jpg" src="http://blog.vickiboykis.com/wp-content/uploads/2010/11/wpid-IMAG0468.jpg" alt="" width="350" height="583" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/11/wpid-IMAG0468.jpg"><img class="aligncenter size-full wp-image-3875" title="wpid-IMAG0468.jpg" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/11/wpid-IMAG0468.jpg" alt="" width="350" height="583" /></a>
 </p>
 
 **From the blogs:**

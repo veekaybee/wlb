@@ -18,7 +18,7 @@ Blind item!
 This little girl has a pretty big, round-number, important birthday today:
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2011/08/Scans-003.jpg"><img class="aligncenter size-full wp-image-5627" title="Scans 003" src="http://blog.vickiboykis.com/wp-content/uploads/2011/08/Scans-003.jpg" alt="" width="457" height="618" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/08/Scans-003.jpg"><img class="aligncenter size-full wp-image-5627" title="Scans 003" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/08/Scans-003.jpg" alt="" width="457" height="618" /></a>
 </p>
 
 Can you guess who it is?
@@ -30,13 +30,13 @@ She&#8217;s <a href="http://blog.vickiboykis.com/?s=mom" target="_blank">made me
 Can you guess now?
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2011/08/DSC_0516.jpg"><img class="aligncenter size-full wp-image-5628" title="DSC_0516" src="http://blog.vickiboykis.com/wp-content/uploads/2011/08/DSC_0516.jpg" alt="" width="631" height="420" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/08/DSC_0516.jpg"><img class="aligncenter size-full wp-image-5628" title="DSC_0516" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/08/DSC_0516.jpg" alt="" width="631" height="420" /></a>
 </p>
 
 Let&#8217;s try again.
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2011/08/DSC02123.jpg"><img class="aligncenter size-full wp-image-5629" title="DSC02123" src="http://blog.vickiboykis.com/wp-content/uploads/2011/08/DSC02123.jpg" alt="" width="520" height="425" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/08/DSC02123.jpg"><img class="aligncenter size-full wp-image-5629" title="DSC02123" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/08/DSC02123.jpg" alt="" width="520" height="425" /></a>
 </p>
 
 Better.

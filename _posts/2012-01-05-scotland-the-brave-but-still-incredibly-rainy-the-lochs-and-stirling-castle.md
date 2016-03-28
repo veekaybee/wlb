@@ -25,19 +25,19 @@ tags:
 When we last left off, <a href="http://blog.vickiboykis.com/2011/12/28/scotland-the-brave-and-also-rainy-edinburgh/" target="_blank">we were still in Edinburgh</a>.  In between Edinburgh and Glasgow (and kind of during), we took <a href="http://www.rabbies.com/" target="_blank">two day tours</a>, one to <a href="http://www.rabbies.com/tours_scotland_edinburgh/stirling_castle_loch_lomond_1_day_tour.asp?lng=en" target="_blank">Loch Lomond</a> and the other to the <a href="http://www.rabbies.com/tours_scotland_glasgow/loch_ness_glencoe_highlands_1_day_tour.asp?lng=en" target="_blank">Highlands</a>.  This is where the real Scotland is, the one you can&#8217; t feel when you&#8217;re in the cities (although, by God, it was hard to leave our warm and comfortable apartment in Edinburgh for the Highlands, where the weather forecast is always <a href="http://www.youtube.com/watch?v=ktAKHww9wPo" target="_blank">this</a>.
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2012/01/DSC_0664.jpg"><img class="aligncenter size-large wp-image-6138" title="DSC_0664" src="http://blog.vickiboykis.com/wp-content/uploads/2012/01/DSC_0664-1024x680.jpg" alt="" width="502" height="333" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/01/DSC_0664.jpg"><img class="aligncenter size-large wp-image-6138" title="DSC_0664" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/01/DSC_0664-1024x680.jpg" alt="" width="502" height="333" /></a>
 </p>
 
 P.S. On BBC (or, none of this CNN bullshit, as they call it in the native dialect), there&#8217;s half an hour where they do both news AND British sign language. \*dies of classiness\*
 
-[<img class="aligncenter" title="DSC_0670" src="http://blog.vickiboykis.com/wp-content/uploads/2012/01/DSC_0670-1024x680.jpg" alt="" width="502" height="333" />](http://blog.vickiboykis.com/wp-content/uploads/2012/01/DSC_0670.jpg)
+[<img class="aligncenter" title="DSC_0670" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/01/DSC_0670-1024x680.jpg" alt="" width="502" height="333" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/01/DSC_0670.jpg)
 
 &nbsp;
 
 P.P.S. Oh, look!  I found a Scottish weather forecast!
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2012/01/IMAG1154.jpg"><img class="aligncenter size-large wp-image-6139" title="IMAG1154" src="http://blog.vickiboykis.com/wp-content/uploads/2012/01/IMAG1154-614x1024.jpg" alt="" width="258" height="430" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/01/IMAG1154.jpg"><img class="aligncenter size-large wp-image-6139" title="IMAG1154" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/01/IMAG1154-614x1024.jpg" alt="" width="258" height="430" /></a>
 </p>
 
 &nbsp;
@@ -47,13 +47,13 @@ Anyway, We left Edinburgh behind for a day and traveled to Stirling Castle while
 The day was, unsurprisingly, cold and rainy, but by the time we got to Stirling Castle, the weather had really turned up. Namely, it had stopped raining hard and was only misting.
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2012/01/DSC_0685.jpg"><img class="aligncenter size-large wp-image-6142" title="DSC_0685" src="http://blog.vickiboykis.com/wp-content/uploads/2012/01/DSC_0685-1024x680.jpg" alt="" width="614" height="408" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/01/DSC_0685.jpg"><img class="aligncenter size-large wp-image-6142" title="DSC_0685" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/01/DSC_0685-1024x680.jpg" alt="" width="614" height="408" /></a>
 </p>
 
 <a href="http://www.instirling.com/sight/castle.htm" target="_blank">Stirling Castle</a> is impressive for many reasons. The first thing that impressed me is that everything in the Middle Ages is conveniently Vicki-sized.
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2012/01/DSC_06861.jpg"><img class="aligncenter size-large wp-image-6145" title="DSC_0686" src="http://blog.vickiboykis.com/wp-content/uploads/2012/01/DSC_06861-680x1024.jpg" alt="" width="381" height="574" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/01/DSC_06861.jpg"><img class="aligncenter size-large wp-image-6145" title="DSC_0686" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/01/DSC_06861-680x1024.jpg" alt="" width="381" height="574" /></a>
 </p>
 
 Doesn&#8217;t matter that the reason it is so is because pretty much everyone had dysentery and scurvy and didn&#8217;t grow properly.
@@ -61,13 +61,13 @@ Doesn&#8217;t matter that the reason it is so is because pretty much everyone ha
 The other impressive thing is that there were almost NO Asian tourists there since it was a few days before Christmas, so we had the castle almost all to ourselves. It should be noted that I am in no way racist against Asians.  <a href="http://www.newyorker.com/reporting/2011/04/18/110418fa_fact_osnos" target="_blank">Just Asian tourists. </a>
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2012/01/DSC_0694.jpg"><img class="aligncenter size-large wp-image-6146" title="DSC_0694" src="http://blog.vickiboykis.com/wp-content/uploads/2012/01/DSC_0694-1024x680.jpg" alt="" width="502" height="333" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/01/DSC_0694.jpg"><img class="aligncenter size-large wp-image-6146" title="DSC_0694" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/01/DSC_0694-1024x680.jpg" alt="" width="502" height="333" /></a>
 </p>
 
  It&#8217;s good to be the king.  You can have as many naked chicks as you want.
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2012/01/DSC_0697.jpg"><img class="aligncenter size-large wp-image-6147" title="DSC_0697" src="http://blog.vickiboykis.com/wp-content/uploads/2012/01/DSC_0697-1024x680.jpg" alt="" width="614" height="408" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/01/DSC_0697.jpg"><img class="aligncenter size-large wp-image-6147" title="DSC_0697" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/01/DSC_0697-1024x680.jpg" alt="" width="614" height="408" /></a>
 </p>
 
  This one just happens to be Venus.  Lucky bastard.
@@ -75,7 +75,7 @@ The other impressive thing is that there were almost NO Asian tourists there sin
 There&#8217;s also a good view from the castle&#8230;of the Scottish weather.
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2012/01/DSC_0691.jpg"><img class="aligncenter size-large wp-image-6148" title="DSC_0691" src="http://blog.vickiboykis.com/wp-content/uploads/2012/01/DSC_0691-1024x680.jpg" alt="" width="602" height="400" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/01/DSC_0691.jpg"><img class="aligncenter size-large wp-image-6148" title="DSC_0691" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/01/DSC_0691-1024x680.jpg" alt="" width="602" height="400" /></a>
 </p>
 
 &nbsp;
@@ -95,7 +95,7 @@ I don&#8217;t know what it was about this song, but, combined with the fact that
 By the time, I was completely enamored with Loch Lomond and <a href="http://en.wikipedia.org/wiki/Ben_Lomond" target="_blank">Ben Lomond</a> peering out from the mist, our tour guide announced that we were-Oh God-getting out  and TAKING A HIKE. In the RAIN. Who does that?  Scots, that&#8217;s who.  And, it turns out, wet Russian Jews. But it was 1000% worth it.  Because it was BEAUTIFUL.  Everything was silent. No hikers.  Just the crunch of our own footsteps, the frost of our breath, and the Scottish Highlands, across Loch Lomond, staring back at us.
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2012/01/DSC_0714.jpg"><img class="aligncenter size-large wp-image-6151" title="DSC_0714" src="http://blog.vickiboykis.com/wp-content/uploads/2012/01/DSC_0714-1024x680.jpg" alt="" width="717" height="476" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/01/DSC_0714.jpg"><img class="aligncenter size-large wp-image-6151" title="DSC_0714" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/01/DSC_0714-1024x680.jpg" alt="" width="717" height="476" /></a>
 </p>
 
 <p style="text-align: left;">
@@ -103,11 +103,11 @@ By the time, I was completely enamored with Loch Lomond and <a href="http://en.w
 </p>
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2012/01/DSC_0718.jpg"><img class="aligncenter size-large wp-image-6152" title="DSC_0718" src="http://blog.vickiboykis.com/wp-content/uploads/2012/01/DSC_0718-1024x680.jpg" alt="" width="614" height="408" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/01/DSC_0718.jpg"><img class="aligncenter size-large wp-image-6152" title="DSC_0718" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/01/DSC_0718-1024x680.jpg" alt="" width="614" height="408" /></a>
 </p>
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2012/01/DSC_0721.jpg"><img class="aligncenter size-large wp-image-6153" title="DSC_0721" src="http://blog.vickiboykis.com/wp-content/uploads/2012/01/DSC_0721-1024x680.jpg" alt="" width="614" height="408" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/01/DSC_0721.jpg"><img class="aligncenter size-large wp-image-6153" title="DSC_0721" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/01/DSC_0721-1024x680.jpg" alt="" width="614" height="408" /></a>
 </p>
 
 <p style="text-align: left;">
@@ -119,7 +119,7 @@ By the time, I was completely enamored with Loch Lomond and <a href="http://en.w
 </p>
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2012/01/DSC_0722.jpg"><img class="aligncenter size-large wp-image-6155" title="DSC_0722" src="http://blog.vickiboykis.com/wp-content/uploads/2012/01/DSC_0722-1024x680.jpg" alt="" width="717" height="476" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/01/DSC_0722.jpg"><img class="aligncenter size-large wp-image-6155" title="DSC_0722" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/01/DSC_0722-1024x680.jpg" alt="" width="717" height="476" /></a>
 </p>
 
 <p style="text-align: left;">

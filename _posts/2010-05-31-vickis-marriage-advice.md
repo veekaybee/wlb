@@ -16,7 +16,7 @@ tags:
   - no pressure to have kids yet
 ---
 <div id="attachment_3044" style="width: 353px" class="wp-caption aligncenter">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2010/05/Classic-Photo-306.jpg"><img class="size-full wp-image-3044" title="Classic Photo 306" src="http://blog.vickiboykis.com/wp-content/uploads/2010/05/Classic-Photo-306.jpg" alt="" width="343" height="512" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/05/Classic-Photo-306.jpg"><img class="size-full wp-image-3044" title="Classic Photo 306" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/05/Classic-Photo-306.jpg" alt="" width="343" height="512" /></a>
   
   <p class="wp-caption-text">
     The Boykis wedding torte. I hear it was delicious.And the Aladdin cake topper, which I struggled valiantly for, since certain family members thought it was "too terrorist."
@@ -30,7 +30,7 @@ As  a fellow Jew and one that has been married for almost two years, I feel com
 But, regardless, I think we&#8217;ve had a pretty solid marriage so far.
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2010/05/DSC00501.jpg"><img class="aligncenter size-full wp-image-3045" title="DSC00501" src="http://blog.vickiboykis.com/wp-content/uploads/2010/05/DSC00501.jpg" alt="" width="448" height="336" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/05/DSC00501.jpg"><img class="aligncenter size-full wp-image-3045" title="DSC00501" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/05/DSC00501.jpg" alt="" width="448" height="336" /></a>
 </p>
 
 <p style="text-align: left;">
@@ -38,7 +38,7 @@ But, regardless, I think we&#8217;ve had a pretty solid marriage so far.
 </p>
 
   1. [<div id="attachment_3044" style="width: 353px" class="wp-caption aligncenter">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2010/05/Classic-Photo-306.jpg"><img class="size-full wp-image-3044" title="Classic Photo 306" src="http://blog.vickiboykis.com/wp-content/uploads/2010/05/Classic-Photo-306.jpg" alt="" width="343" height="512" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/05/Classic-Photo-306.jpg"><img class="size-full wp-image-3044" title="Classic Photo 306" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/05/Classic-Photo-306.jpg" alt="" width="343" height="512" /></a>
   
   <p class="wp-caption-text">
     The Boykis wedding torte. I hear it was delicious.And the Aladdin cake topper, which I struggled valiantly for, since certain family members thought it was "too terrorist."
@@ -52,7 +52,7 @@ As  a fellow Jew and one that has been married for almost two years, I feel com
 But, regardless, I think we&#8217;ve had a pretty solid marriage so far.
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2010/05/DSC00501.jpg"><img class="aligncenter size-full wp-image-3045" title="DSC00501" src="http://blog.vickiboykis.com/wp-content/uploads/2010/05/DSC00501.jpg" alt="" width="448" height="336" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/05/DSC00501.jpg"><img class="aligncenter size-full wp-image-3045" title="DSC00501" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/05/DSC00501.jpg" alt="" width="448" height="336" /></a>
 </p>
 
 <p style="text-align: left;">

@@ -20,7 +20,7 @@ _Note: This book graciously provided to me by Hannah Friedman._
 I spent approximately 45% of high school in my room and crying because I was weird/no one &#8220;got&#8221; me/had self-esteem issues/was working on homework until 2 am/had a [Nutella emergency](http://blog.vickiboykis.com/2009/05/27/one-of-these-nutellas-is-not-like-the-other/).
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2009/10/everything-sucks.jpg"><img class="aligncenter size-full wp-image-1493" title="everything-sucks" src="http://blog.vickiboykis.com/wp-content/uploads/2009/10/everything-sucks.jpg" alt="everything-sucks" width="303" height="466" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/10/everything-sucks.jpg"><img class="aligncenter size-full wp-image-1493" title="everything-sucks" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/10/everything-sucks.jpg" alt="everything-sucks" width="303" height="466" /></a>
 </p>
 
 Hannah Friedman&#8217;s high school experiences were even worse, mainly because she had a monkey instead of a sister, but also because she had the additional pressure of a private school.   So much worse, in fact, that she wrote a book called [Everything Sucks](http://www.amazon.com/Everything-Sucks-Losing-Finding-Myself/dp/0757307752) about her formative years in a private school in New York.

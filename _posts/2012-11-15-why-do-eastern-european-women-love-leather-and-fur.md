@@ -24,13 +24,13 @@ Long story short, we had to buy clothes on vacation.
 First things first. Oh, the irony:
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2012/11/IMG_20121109_082918.jpg"><img class="aligncenter  wp-image-7849" title="IMG_20121109_082918" src="http://blog.vickiboykis.com/wp-content/uploads/2012/11/IMG_20121109_082918-768x1024.jpg" alt="" width="377" height="502" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/11/IMG_20121109_082918.jpg"><img class="aligncenter  wp-image-7849" title="IMG_20121109_082918" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/11/IMG_20121109_082918-768x1024.jpg" alt="" width="377" height="502" /></a>
 </p>
 
 Then, for five seconds, this was an option:
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2012/11/IMG_20121027_131947.jpg"><img class="aligncenter  wp-image-7848" title="IMG_20121027_131947" src="http://blog.vickiboykis.com/wp-content/uploads/2012/11/IMG_20121027_131947-768x1024.jpg" alt="" width="377" height="502" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/11/IMG_20121027_131947.jpg"><img class="aligncenter  wp-image-7848" title="IMG_20121027_131947" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/11/IMG_20121027_131947-768x1024.jpg" alt="" width="377" height="502" /></a>
 </p>
 
 <p style="text-align: left;">
@@ -46,7 +46,7 @@ Then, for five seconds, this was an option:
 </p>
 
 <p style="text-align: left;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2012/11/Screen-shot-2012-11-15-at-7.50.12-AM.png"><img class="aligncenter size-full wp-image-7851" title="Screen shot 2012-11-15 at 7.50.12 AM" src="http://blog.vickiboykis.com/wp-content/uploads/2012/11/Screen-shot-2012-11-15-at-7.50.12-AM.png" alt="" width="567" height="320" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/11/Screen-shot-2012-11-15-at-7.50.12-AM.png"><img class="aligncenter size-full wp-image-7851" title="Screen shot 2012-11-15 at 7.50.12 AM" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/11/Screen-shot-2012-11-15-at-7.50.12-AM.png" alt="" width="567" height="320" /></a>
 </p>
 
 <p style="text-align: left;">
@@ -58,5 +58,5 @@ Then, for five seconds, this was an option:
 </p>
 
 <p style="text-align: left;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2012/11/Screen-shot-2012-11-15-at-7.45.09-AM.png"><img class="aligncenter size-full wp-image-7850" title="Screen shot 2012-11-15 at 7.45.09 AM" src="http://blog.vickiboykis.com/wp-content/uploads/2012/11/Screen-shot-2012-11-15-at-7.45.09-AM.png" alt="" width="412" height="140" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/11/Screen-shot-2012-11-15-at-7.45.09-AM.png"><img class="aligncenter size-full wp-image-7850" title="Screen shot 2012-11-15 at 7.45.09 AM" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/11/Screen-shot-2012-11-15-at-7.45.09-AM.png" alt="" width="412" height="140" /></a>
 </p>

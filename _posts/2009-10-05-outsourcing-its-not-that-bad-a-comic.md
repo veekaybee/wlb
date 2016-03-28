@@ -18,7 +18,7 @@ tags:
   - outsourcing
 ---
 <div id="attachment_1390" style="width: 510px" class="wp-caption aligncenter">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2009/10/695552959_65ef276586.jpg"><img class="size-full wp-image-1390" title="695552959_65ef276586" src="http://blog.vickiboykis.com/wp-content/uploads/2009/10/695552959_65ef276586.jpg" alt="695552959_65ef276586" width="500" height="375" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/10/695552959_65ef276586.jpg"><img class="size-full wp-image-1390" title="695552959_65ef276586" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/10/695552959_65ef276586.jpg" alt="695552959_65ef276586" width="500" height="375" /></a>
   
   <p class="wp-caption-text">
     From Flickr: John LeGear
@@ -65,11 +65,11 @@ tags:
   </p>
   
   <p>
-    <img class="aligncenter size-full wp-image-1380" title="Page_1" src="http://blog.vickiboykis.com/wp-content/uploads/2009/10/Page_1.jpg" alt="Page_1" width="612" height="792" /><br /> So, I call up my contact in <a href="http://www.informationweek.com/news/global-cio/outsourcing/showArticle.jhtml?articleID=161601028">Bangalore</a>, which is the outsourcing capital in India, due in part to state government support of computer industries there.
+    <img class="aligncenter size-full wp-image-1380" title="Page_1" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/10/Page_1.jpg" alt="Page_1" width="612" height="792" /><br /> So, I call up my contact in <a href="http://www.informationweek.com/news/global-cio/outsourcing/showArticle.jhtml?articleID=161601028">Bangalore</a>, which is the outsourcing capital in India, due in part to state government support of computer industries there.
   </p>
   
   <p>
-    <a href="http://blog.vickiboykis.com/wp-content/uploads/2009/10/Page_22.jpg"><img class="aligncenter size-full wp-image-1382" title="Page_2" src="http://blog.vickiboykis.com/wp-content/uploads/2009/10/Page_22.jpg" alt="Page_2" width="612" height="792" /></a>
+    <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/10/Page_22.jpg"><img class="aligncenter size-full wp-image-1382" title="Page_2" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/10/Page_22.jpg" alt="Page_2" width="612" height="792" /></a>
   </p>
   
   <p>

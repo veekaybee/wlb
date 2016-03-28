@@ -28,7 +28,7 @@ So, what do you do when you feel like you&#8217;re 55 instead of 25 and you&#821
 Take a field trip to Boston.
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2011/08/DSC_0044.jpg"><img class="aligncenter size-full wp-image-5620" title="DSC_0044" src="http://blog.vickiboykis.com/wp-content/uploads/2011/08/DSC_0044.jpg" alt="" width="632" height="420" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/08/DSC_0044.jpg"><img class="aligncenter size-full wp-image-5620" title="DSC_0044" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/08/DSC_0044.jpg" alt="" width="632" height="420" /></a>
 </p>
 
 Leave your house at 3 in the afternoon on a Sunday. Your house gets further and further away and you&#8217;re not flying out of the country, but you still feel a little bit like <a href="http://en.wikipedia.org/wiki/Paul_Theroux" target="_blank">Paul Theroux</a> when his <a href="http://www.amazon.com/Ghost-Train-Eastern-Star-Railway/dp/0618418873" target="_blank">train is speeding through England</a>, to France, and eventually to India. Grit your teeth through North Jersey traffic so that you can watch the sun set over Manhattan. Feel amazed that you live in the United States and can see stuff like that.  _<a href="http://www.youtube.com/watch?v=QeWBS0JBNzQ" target="_blank">Edge of Glory</a>_ comes on the radio just as you are going over the George Washington Bridge, and you look at the water and the apartments and the skyline and you feel alive and like you&#8217;re 25 again. You haven&#8217;t felt 25 in a long time, probably <a href="http://blog.vickiboykis.com/2011/02/28/two-stupid-roads-diverged-in-a-yellow-wood/" target="_blank">since you left D.C</a>.
@@ -46,7 +46,7 @@ You&#8217;re only 6 hours away from home, but somehow you feel like you&#8217;re
 You go to your <a href="http://www.copleysquarehotel.com/" target="_blank">hotel</a> and collapse. Or take pictures.
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2011/08/DSC_0036.jpg"><img class="aligncenter size-full wp-image-5639" title="DSC_0036" src="http://blog.vickiboykis.com/wp-content/uploads/2011/08/DSC_0036.jpg" alt="" width="541" height="360" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/08/DSC_0036.jpg"><img class="aligncenter size-full wp-image-5639" title="DSC_0036" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/08/DSC_0036.jpg" alt="" width="541" height="360" /></a>
 </p>
 
  It&#8217;s a very nice hotel by the way, and you feel the need to switch into first, or at least second, person so this post doesn&#8217;t continue to read like one of those <a href="http://thoughtcatalog.com/2010/how-to-live-in-new-york-city/" target="_blank">angsty pieces from </a>Thought Catalog.
@@ -54,7 +54,7 @@ You go to your <a href="http://www.copleysquarehotel.com/" target="_blank">hotel
 Here&#8217;s our room.  It comes free with a nice Jewish programmer of your choice.
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2011/08/DSC_0031.jpg"><img class="aligncenter size-full wp-image-5640" title="DSC_0031" src="http://blog.vickiboykis.com/wp-content/uploads/2011/08/DSC_0031.jpg" alt="" width="631" height="420" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/08/DSC_0031.jpg"><img class="aligncenter size-full wp-image-5640" title="DSC_0031" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/08/DSC_0031.jpg" alt="" width="631" height="420" /></a>
 </p>
 
 <p style="text-align: left;">
@@ -86,7 +86,7 @@ Here&#8217;s our room.  It comes free with a nice Jewish programmer of your cho
 </p>
 
 <p style="text-align: left;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2011/08/IMAG0915.jpg"><img class="aligncenter size-full wp-image-5641" title="IMAG0915" src="http://blog.vickiboykis.com/wp-content/uploads/2011/08/IMAG0915.jpg" alt="" width="384" height="640" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/08/IMAG0915.jpg"><img class="aligncenter size-full wp-image-5641" title="IMAG0915" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/08/IMAG0915.jpg" alt="" width="384" height="640" /></a>
 </p>
 
 <p style="text-align: left;">
@@ -94,7 +94,7 @@ Here&#8217;s our room.  It comes free with a nice Jewish programmer of your cho
 </p>
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2011/08/IMAG0929.jpg"><img class="aligncenter size-full wp-image-5643" title="IMAG0929" src="http://blog.vickiboykis.com/wp-content/uploads/2011/08/IMAG0929.jpg" alt="" width="547" height="328" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/08/IMAG0929.jpg"><img class="aligncenter size-full wp-image-5643" title="IMAG0929" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/08/IMAG0929.jpg" alt="" width="547" height="328" /></a>
 </p>
 
 <p style="text-align: left;">
@@ -106,7 +106,7 @@ Here&#8217;s our room.  It comes free with a nice Jewish programmer of your cho
 </p>
 
 <p style="text-align: left;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2011/08/IMAG0917.jpg"><img class="aligncenter size-full wp-image-5644" title="IMAG0917" src="http://blog.vickiboykis.com/wp-content/uploads/2011/08/IMAG0917.jpg" alt="" width="384" height="640" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/08/IMAG0917.jpg"><img class="aligncenter size-full wp-image-5644" title="IMAG0917" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/08/IMAG0917.jpg" alt="" width="384" height="640" /></a>
 </p>
 
 <p style="text-align: left;">
@@ -114,7 +114,7 @@ Here&#8217;s our room.  It comes free with a nice Jewish programmer of your cho
 </p>
 
 <p style="text-align: left;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2011/08/IMAG0919.jpg"><img class="aligncenter size-full wp-image-5645" title="IMAG0919" src="http://blog.vickiboykis.com/wp-content/uploads/2011/08/IMAG0919.jpg" alt="" width="384" height="640" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/08/IMAG0919.jpg"><img class="aligncenter size-full wp-image-5645" title="IMAG0919" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/08/IMAG0919.jpg" alt="" width="384" height="640" /></a>
 </p>
 
 <p style="text-align: left;">
@@ -122,7 +122,7 @@ Here&#8217;s our room.  It comes free with a nice Jewish programmer of your cho
 </p>
 
 <p style="text-align: left;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2011/08/IMAG0928.jpg"><img class="aligncenter size-full wp-image-5647" title="IMAG0928" src="http://blog.vickiboykis.com/wp-content/uploads/2011/08/IMAG0928.jpg" alt="" width="384" height="640" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/08/IMAG0928.jpg"><img class="aligncenter size-full wp-image-5647" title="IMAG0928" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/08/IMAG0928.jpg" alt="" width="384" height="640" /></a>
 </p>
 
 <p style="text-align: left;">
@@ -154,7 +154,7 @@ Here&#8217;s our room.  It comes free with a nice Jewish programmer of your cho
 </p>
 
 <p style="text-align: left;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2011/08/IMAG0932.jpg"><img class="aligncenter size-full wp-image-5649" title="IMAG0932" src="http://blog.vickiboykis.com/wp-content/uploads/2011/08/IMAG0932.jpg" alt="" width="384" height="640" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/08/IMAG0932.jpg"><img class="aligncenter size-full wp-image-5649" title="IMAG0932" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/08/IMAG0932.jpg" alt="" width="384" height="640" /></a>
 </p>
 
 <p style="text-align: left;">
@@ -162,7 +162,7 @@ Here&#8217;s our room.  It comes free with a nice Jewish programmer of your cho
 </p>
 
 <p style="text-align: left;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2011/08/IMAG0931.jpg"><img class="aligncenter size-full wp-image-5650" title="IMAG0931" src="http://blog.vickiboykis.com/wp-content/uploads/2011/08/IMAG0931.jpg" alt="" width="384" height="640" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/08/IMAG0931.jpg"><img class="aligncenter size-full wp-image-5650" title="IMAG0931" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/08/IMAG0931.jpg" alt="" width="384" height="640" /></a>
 </p>
 
 <p style="text-align: left;">

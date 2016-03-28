@@ -17,7 +17,7 @@ tags:
 It&#8217;s rare to find a really good satire that involves [flyovers](http://en.wikipedia.org/wiki/Flyover) AND Bryan Adams these days. It&#8217;s even harder if, before reading that satire, you have no idea what a flyover actually is.  That&#8217;s why I was so exited to find [Family Planning](http://www.amazon.com/Family-Planning-Novel-Karan-Mahajan/dp/006153725X), the first novel by witty and insightful flyover expert and author [Karan Mahajan](http://en.wikipedia.org/wiki/Karan_Mahajan).
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2009/08/mahajancover.jpg"><img class="size-full wp-image-936 aligncenter" title="mahajancover" src="http://blog.vickiboykis.com/wp-content/uploads/2009/08/mahajancover.jpg" alt="mahajancover" width="336" height="503" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/08/mahajancover.jpg"><img class="size-full wp-image-936 aligncenter" title="mahajancover" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/08/mahajancover.jpg" alt="mahajancover" width="336" height="503" /></a>
 </p>
 
 _Family Planning_ is a satire of the Indian bureaucratic political system, large middle-class Indian families, wannabe-rocker teenagers, and soap-opera-watching Indian housewives.  It also tackles love/arranged marriage, adoption, life for [NRIs](http://en.wikipedia.org/wiki/Non-resident_Indian_and_Person_of_Indian_Origin) in America.  But it&#8217;s not meant specifically for an Indian audience.  Above all, it&#8217;s extraordinarily witty (did I mention this?)
@@ -27,7 +27,7 @@ The premise of the novel is that the protagonist Arjun Ahuja&#8217;s father, Rak
 Rakesh&#8217;s wife, Sangita, communicates with the family by watching Indian soap operas, and may or may not be Arjun&#8217;s real mother.  All of this comes together in front of  a rich backdrop of New Delhi.  This book was very informative for me because, as [you may know](http://blog.vickiboykis.com/2009/04/24/voting-in-india/), I [love Indian culture](http://blog.vickiboykis.com/2009/06/12/a-russian-in-bollywood/), but will unfortunately never get to visit New Delhi because I am  cheap.  Additionally, it&#8217;s one of the few books where I actually bookmarked pages in my library version (criminal.) because I laughed out loud on several occasions. My favorite is Rakesh&#8217;s resignation letter, which is about halfway through the book.  You can read the first [couple pages as an excerpt here](http://www.npr.org/templates/story/story.php?storyId=100569823#100575308).
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2009/08/karan.jpg"><img class="size-full wp-image-952 aligncenter" title="karan" src="http://blog.vickiboykis.com/wp-content/uploads/2009/08/karan.jpg" alt="karan" width="256" height="333" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/08/karan.jpg"><img class="size-full wp-image-952 aligncenter" title="karan" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/08/karan.jpg" alt="karan" width="256" height="333" /></a>
 </p>
 
 After reading the book, I had the pleasure of interviewing Karan about some of his thoughts that go into writing satire, particularly one aimed at your fellow countrymen, and satire that aims to span cultures:

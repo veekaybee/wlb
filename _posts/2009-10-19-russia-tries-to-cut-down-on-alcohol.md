@@ -21,7 +21,7 @@ The gist is this. The Russian president has now woken up to the fact that there 
 And just now, he&#8217;s realized that he has a demographics crisis on his hands.  Because the average Russian male&#8217;s life expectancy is [horrifyingly low compared to some countries](http://en.wikipedia.org/wiki/List_of_countries_by_life_expectancy), and the country is huge, and the [Russian Muslim population is on the rise](http://www.asiantribune.com/index.php?q=node/211), which is bad news bears for a country that very strongly is trying to retain its national identity (reading Dostoevsky and complaining about having to read Dostoevsky.)
 
 <p style="text-align: left;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2009/10/Alcoholism1.png"><img class="aligncenter size-full wp-image-1472" title="Alcoholism" src="http://blog.vickiboykis.com/wp-content/uploads/2009/10/Alcoholism1.png" alt="Alcoholism" width="566" height="433" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/10/Alcoholism1.png"><img class="aligncenter size-full wp-image-1472" title="Alcoholism" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/10/Alcoholism1.png" alt="Alcoholism" width="566" height="433" /></a>
 </p>
 
 <p style="text-align: left;">

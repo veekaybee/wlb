@@ -13,7 +13,7 @@ tags:
   - writing
 ---
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2010/08/Vermeer_A_Lady_Writing.jpg"><img class="aligncenter size-full wp-image-3526" title="Vermeer_A_Lady_Writing" src="http://blog.vickiboykis.com/wp-content/uploads/2010/08/Vermeer_A_Lady_Writing.jpg" alt="" width="500" height="558" /></a><em>source: some chick named Jan Vermeer</em>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/08/Vermeer_A_Lady_Writing.jpg"><img class="aligncenter size-full wp-image-3526" title="Vermeer_A_Lady_Writing" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/08/Vermeer_A_Lady_Writing.jpg" alt="" width="500" height="558" /></a><em>source: some chick named Jan Vermeer</em>
 </p>
 
 I&#8217;m in the process of unsubscribing from a bunch of blogs that I used to read because when I subscribed to them I thought it was cool to read those blogs.   I was a beginning blogger, and they appealed to me and I became wistful and awestruck at how many people were in their comment sections, how wonderful every paragraph they wrote was, how cute their stock photos were, and how they were whisked away to conferences and given blogger goodies.
@@ -25,7 +25,7 @@ I don&#8217;t want to read about Generation Y anymore, and I don&#8217;t want to
 I want to read stuff that teaches me more about the world and that makes me feel like I&#8217;m a part of your life. I want to read bloggers whose writing is so good that it encourages me to work on my turn of phrase.   Most importantly, I want to read bloggers that don&#8217;t feel the need to try and impress me by being pretentious and specious and getting more blog hits.
 
 I want to read about [girls that voluntarily work in the Emirates](http://gubbiofarabia.tumblr.com/), [people that describe life in Israel](http://www.treppenwitz.com/) in a style that is uniquely theirs, [about doctors that are also mothers](http://theunderweardrawer.blogspot.com/), and  [<p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2010/08/Vermeer_A_Lady_Writing.jpg"><img class="aligncenter size-full wp-image-3526" title="Vermeer_A_Lady_Writing" src="http://blog.vickiboykis.com/wp-content/uploads/2010/08/Vermeer_A_Lady_Writing.jpg" alt="" width="500" height="558" /></a><em>source: some chick named Jan Vermeer</em>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/08/Vermeer_A_Lady_Writing.jpg"><img class="aligncenter size-full wp-image-3526" title="Vermeer_A_Lady_Writing" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/08/Vermeer_A_Lady_Writing.jpg" alt="" width="500" height="558" /></a><em>source: some chick named Jan Vermeer</em>
 </p>
 
 I&#8217;m in the process of unsubscribing from a bunch of blogs that I used to read because when I subscribed to them I thought it was cool to read those blogs.   I was a beginning blogger, and they appealed to me and I became wistful and awestruck at how many people were in their comment sections, how wonderful every paragraph they wrote was, how cute their stock photos were, and how they were whisked away to conferences and given blogger goodies.

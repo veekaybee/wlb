@@ -25,7 +25,7 @@ As the sun was setting, we sped past signs for Delaware beaches and over the ver
 When we reached the Dover city limits,  I finally relaxed enough to realize we were going to make it, and I started realizing that I would be trading in [Erica](http://blog.vickiboykis.com/2010/12/26/the-winter-solstice-is-over/), my 2000 Honda Accord.
 
 <div id="attachment_4991" style="width: 510px" class="wp-caption aligncenter">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2011/05/wpid-IMAG0659.jpg"><img class="size-full wp-image-4991" title="wpid-IMAG0659.jpg" src="http://blog.vickiboykis.com/wp-content/uploads/2011/05/wpid-IMAG0659.jpg" alt="" width="500" height="300" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/05/wpid-IMAG0659.jpg"><img class="size-full wp-image-4991" title="wpid-IMAG0659.jpg" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/05/wpid-IMAG0659.jpg" alt="" width="500" height="300" /></a>
   
   <p class="wp-caption-text">
     On one of our last trips to DC to visit Mr. B when we were living apart
@@ -38,7 +38,7 @@ When we reached the Dover city limits,  I finally relaxed enough to realize we 
   </p>
   
   <p>
-    <a href="http://blog.vickiboykis.com/wp-content/uploads/2011/05/wpid-IMAG0815.jpg"><img class="aligncenter size-full wp-image-4984" title="wpid-IMAG0815.jpg" src="http://blog.vickiboykis.com/wp-content/uploads/2011/05/wpid-IMAG0815.jpg" alt="" width="500" height="300" /></a>
+    <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/05/wpid-IMAG0815.jpg"><img class="aligncenter size-full wp-image-4984" title="wpid-IMAG0815.jpg" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/05/wpid-IMAG0815.jpg" alt="" width="500" height="300" /></a>
   </p>
   
   <p>
@@ -46,7 +46,7 @@ When we reached the Dover city limits,  I finally relaxed enough to realize we 
   </p>
   
   <div id="attachment_4987" style="width: 290px" class="wp-caption aligncenter">
-    <a href="http://blog.vickiboykis.com/wp-content/uploads/2011/05/wpid-IMAG0818.jpg"><img class="size-full wp-image-4987 " title="wpid-IMAG0818.jpg" src="http://blog.vickiboykis.com/wp-content/uploads/2011/05/wpid-IMAG0818.jpg" alt="" width="280" height="466" /></a>
+    <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/05/wpid-IMAG0818.jpg"><img class="size-full wp-image-4987 " title="wpid-IMAG0818.jpg" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/05/wpid-IMAG0818.jpg" alt="" width="280" height="466" /></a>
     
     <p class="wp-caption-text">
       Trip down memory lane: parking pass from my senior year of college.
@@ -70,7 +70,7 @@ When we reached the Dover city limits,  I finally relaxed enough to realize we 
   </p>
   
   <p style="text-align: center;">
-    <img class="aligncenter" title="wpid-IMAG0817.jpg" src="http://blog.vickiboykis.com/wp-content/uploads/2011/05/wpid-IMAG0817.jpg" alt="" width="500" height="300" />
+    <img class="aligncenter" title="wpid-IMAG0817.jpg" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/05/wpid-IMAG0817.jpg" alt="" width="500" height="300" />
   </p>
   
   <p>
@@ -86,7 +86,7 @@ When we reached the Dover city limits,  I finally relaxed enough to realize we 
   </p>
   
   <p>
-    <a href="http://blog.vickiboykis.com/wp-content/uploads/2011/05/wpid-IMAG0820.jpg"></a><a href="http://blog.vickiboykis.com/wp-content/uploads/2011/05/Screen-shot-2011-05-24-at-8.43.57-AM.png"><img class="aligncenter size-full wp-image-4993" title="Screen shot 2011-05-24 at 8.43.57 AM" src="http://blog.vickiboykis.com/wp-content/uploads/2011/05/Screen-shot-2011-05-24-at-8.43.57-AM.png" alt="" width="494" height="621" /></a>
+    <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/05/wpid-IMAG0820.jpg"></a><a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/05/Screen-shot-2011-05-24-at-8.43.57-AM.png"><img class="aligncenter size-full wp-image-4993" title="Screen shot 2011-05-24 at 8.43.57 AM" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/05/Screen-shot-2011-05-24-at-8.43.57-AM.png" alt="" width="494" height="621" /></a>
   </p>
   
   <div>

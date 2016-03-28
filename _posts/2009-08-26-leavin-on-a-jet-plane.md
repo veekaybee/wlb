@@ -23,6 +23,6 @@ tags:
   <span style="font-family: Verdana; color: #0033cc;">-Yehuda HaLevi<br /> </span>
 </p>
 
-[<img class="aligncenter size-full wp-image-1181" title="israel" src="http://blog.vickiboykis.com/wp-content/uploads/2009/08/israel.jpg" alt="israel" width="525" height="348" />](http://blog.vickiboykis.com/wp-content/uploads/2009/08/israel.jpg)
+[<img class="aligncenter size-full wp-image-1181" title="israel" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/08/israel.jpg" alt="israel" width="525" height="348" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/08/israel.jpg)
 
 But don&#8217;t worry.  I have plenty of guest posts lined up by talented writers whom I have had the prividlege come to know online.  So check back here often.  I&#8217;ll be back.  Eventaully.

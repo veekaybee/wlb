@@ -15,7 +15,7 @@ tags:
   - shanking
 ---
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2010/03/firebird.jpg"><img class="aligncenter size-full wp-image-2614" title="firebird" src="http://blog.vickiboykis.com/wp-content/uploads/2010/03/firebird.jpg" alt="" width="445" height="627" /></a><a href="http://ecokot.ru/d/66644/d/dev_fi.jpg">Source. </a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/03/firebird.jpg"><img class="aligncenter size-full wp-image-2614" title="firebird" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/03/firebird.jpg" alt="" width="445" height="627" /></a><a href="http://ecokot.ru/d/66644/d/dev_fi.jpg">Source. </a>
 </p>
 
 Once upon a time, there was a princess named Tori, who lived in the small but happy Russian kingdom of Zakabyakino.  There, she was engaged in learning about the art of taming the [zhar-ptitsa](http://en.wikipedia.org/wiki/Firebird_%28Slavic_folklore%29), which happened to live in her kingdom but was very rare and wild, but enormously valuable for its feathers, which the tamer of the bird could cultivate.  Somehow, the talent to find and feel where the zhar-ptitsa was had been passed down to Tori through the generations.
@@ -25,7 +25,7 @@ After she had learned all she could about the zhar-ptitsa, the royal family, inc
 So, painfully, Princess Tori parted ways with the family, and with the kingdom, and headed south on her own, in a magical Japanese carriage (the kind that has brakes, not the other kind).  Before she left, she asked the prince to join her, because, she knew, whenever she found the zhar-ptitsa, she would be happy to be near the magical beast, but that she would still be alone, and that the bird would sense the sorrow and feast on the ill will Tori&#8217;s soul, leaving a shell of her.  The only way to ensure this was if the prince was nearby.
 
 The prince had his own duties in Zakabyakino, including caring for the royal family and working on his own royal responsibilities- taming the [<p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2010/03/firebird.jpg"><img class="aligncenter size-full wp-image-2614" title="firebird" src="http://blog.vickiboykis.com/wp-content/uploads/2010/03/firebird.jpg" alt="" width="445" height="627" /></a><a href="http://ecokot.ru/d/66644/d/dev_fi.jpg">Source. </a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/03/firebird.jpg"><img class="aligncenter size-full wp-image-2614" title="firebird" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/03/firebird.jpg" alt="" width="445" height="627" /></a><a href="http://ecokot.ru/d/66644/d/dev_fi.jpg">Source. </a>
 </p>
 
 Once upon a time, there was a princess named Tori, who lived in the small but happy Russian kingdom of Zakabyakino.  There, she was engaged in learning about the art of taming the [zhar-ptitsa](http://en.wikipedia.org/wiki/Firebird_%28Slavic_folklore%29), which happened to live in her kingdom but was very rare and wild, but enormously valuable for its feathers, which the tamer of the bird could cultivate.  Somehow, the talent to find and feel where the zhar-ptitsa was had been passed down to Tori through the generations.

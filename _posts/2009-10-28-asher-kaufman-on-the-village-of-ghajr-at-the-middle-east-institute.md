@@ -17,7 +17,7 @@ tags:
   - Syria
 ---
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2009/10/1027091240.jpg"><img class="aligncenter size-full wp-image-1584" title="1027091240" src="http://blog.vickiboykis.com/wp-content/uploads/2009/10/1027091240.jpg" alt="1027091240" width="595" height="446" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/10/1027091240.jpg"><img class="aligncenter size-full wp-image-1584" title="1027091240" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/10/1027091240.jpg" alt="1027091240" width="595" height="446" /></a>
 </p>
 
 <p style="text-align: left;">
@@ -35,7 +35,7 @@ tags:
 </p>
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2009/10/al-ghajar.jpg"><img class="aligncenter size-full wp-image-1586" title="al ghajar" src="http://blog.vickiboykis.com/wp-content/uploads/2009/10/al-ghajar.jpg" alt="al ghajar" width="531" height="466" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/10/al-ghajar.jpg"><img class="aligncenter size-full wp-image-1586" title="al ghajar" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/10/al-ghajar.jpg" alt="al ghajar" width="531" height="466" /></a>
 </p>
 
 <p style="text-align: left;">
@@ -55,7 +55,7 @@ tags:
 </p>
 
 <p style="text-align: left;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2009/10/alghajar.jpg"><img class="aligncenter size-full wp-image-1588" title="alghajar" src="http://blog.vickiboykis.com/wp-content/uploads/2009/10/alghajar.jpg" alt="alghajar" width="626" height="469" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/10/alghajar.jpg"><img class="aligncenter size-full wp-image-1588" title="alghajar" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/10/alghajar.jpg" alt="alghajar" width="626" height="469" /></a>
 </p>
 
 <p style="text-align: left;">

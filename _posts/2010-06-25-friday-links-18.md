@@ -13,14 +13,14 @@ tags:
   - Friday
 ---
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2010/06/DSC_0275.jpg"><img class="aligncenter size-full wp-image-3197" title="DSC_0275" src="http://blog.vickiboykis.com/wp-content/uploads/2010/06/DSC_0275.jpg" alt="" width="420" height="632" /></a>Being touristy with Mr. B from a couple weeks ago.  This weekend?  Hoping to bike around D.C.
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/06/DSC_0275.jpg"><img class="aligncenter size-full wp-image-3197" title="DSC_0275" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/06/DSC_0275.jpg" alt="" width="420" height="632" /></a>Being touristy with Mr. B from a couple weeks ago.  This weekend?  Hoping to bike around D.C.
 </p>
 
 **From the blogs**
 
   1. Frum satire on [feminism and Judaism](http://www.bloglovin.com/m/1786510/102893513/fb/0/aHR0cCUzQSUyRiUyRnd3dy5mcnVtc2F0aXJlLm5ldCUyRjIwMTAlMkYwNiUyRjIyJTJGaS1kb250LXVuZGVyc3RhbmQtZmVtaW5pc3RzJTJG) ;also, along the same vein on the same site, [a single trapped in a religion of married people](http://www.frumsatire.net/2010/06/08/a-single-trapped-in-a-religion-of-married-people/)
   2. [<p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2010/06/DSC_0275.jpg"><img class="aligncenter size-full wp-image-3197" title="DSC_0275" src="http://blog.vickiboykis.com/wp-content/uploads/2010/06/DSC_0275.jpg" alt="" width="420" height="632" /></a>Being touristy with Mr. B from a couple weeks ago.  This weekend?  Hoping to bike around D.C.
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/06/DSC_0275.jpg"><img class="aligncenter size-full wp-image-3197" title="DSC_0275" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/06/DSC_0275.jpg" alt="" width="420" height="632" /></a>Being touristy with Mr. B from a couple weeks ago.  This weekend?  Hoping to bike around D.C.
 </p>
 
 **From the blogs**
@@ -28,14 +28,14 @@ tags:
   1. Frum satire on [feminism and Judaism](http://www.bloglovin.com/m/1786510/102893513/fb/0/aHR0cCUzQSUyRiUyRnd3dy5mcnVtc2F0aXJlLm5ldCUyRjIwMTAlMkYwNiUyRjIyJTJGaS1kb250LXVuZGVyc3RhbmQtZmVtaW5pc3RzJTJG) ;also, along the same vein on the same site, [a single trapped in a religion of married people](http://www.frumsatire.net/2010/06/08/a-single-trapped-in-a-religion-of-married-people/)
   2.](http://wendiaarons.com/2010/06/the-reluctant-triathlete-part-2-the-last-gasp.html) through her triathlon
   3. Roba on a [<p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2010/06/DSC_0275.jpg"><img class="aligncenter size-full wp-image-3197" title="DSC_0275" src="http://blog.vickiboykis.com/wp-content/uploads/2010/06/DSC_0275.jpg" alt="" width="420" height="632" /></a>Being touristy with Mr. B from a couple weeks ago.  This weekend?  Hoping to bike around D.C.
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/06/DSC_0275.jpg"><img class="aligncenter size-full wp-image-3197" title="DSC_0275" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/06/DSC_0275.jpg" alt="" width="420" height="632" /></a>Being touristy with Mr. B from a couple weeks ago.  This weekend?  Hoping to bike around D.C.
 </p>
 
 **From the blogs**
 
   1. Frum satire on [feminism and Judaism](http://www.bloglovin.com/m/1786510/102893513/fb/0/aHR0cCUzQSUyRiUyRnd3dy5mcnVtc2F0aXJlLm5ldCUyRjIwMTAlMkYwNiUyRjIyJTJGaS1kb250LXVuZGVyc3RhbmQtZmVtaW5pc3RzJTJG) ;also, along the same vein on the same site, [a single trapped in a religion of married people](http://www.frumsatire.net/2010/06/08/a-single-trapped-in-a-religion-of-married-people/)
   2. [<p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2010/06/DSC_0275.jpg"><img class="aligncenter size-full wp-image-3197" title="DSC_0275" src="http://blog.vickiboykis.com/wp-content/uploads/2010/06/DSC_0275.jpg" alt="" width="420" height="632" /></a>Being touristy with Mr. B from a couple weeks ago.  This weekend?  Hoping to bike around D.C.
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/06/DSC_0275.jpg"><img class="aligncenter size-full wp-image-3197" title="DSC_0275" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/06/DSC_0275.jpg" alt="" width="420" height="632" /></a>Being touristy with Mr. B from a couple weeks ago.  This weekend?  Hoping to bike around D.C.
 </p>
 
 **From the blogs**

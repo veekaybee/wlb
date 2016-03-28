@@ -20,7 +20,7 @@ In the meantime, might I interest you in <a href="http://blogs.forward.com/blogn
 Also, enjoy some of my favorite posts from the archives and this picture of a very Scottish man I saw on the train last week.
 
 <p style="text-align: center;">
-  <img class="aligncenter" src="http://blog.vickiboykis.com/wp-content/uploads/2012/02/wpid-IMG_20120206_200701.jpg" alt="image" width="280" height="374" />
+  <img class="aligncenter" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/02/wpid-IMG_20120206_200701.jpg" alt="image" width="280" height="374" />
 </p>
 
   * <a href="http://blog.vickiboykis.com/2011/08/24/ways-that-i-did-not-want-to-experience-adventure-in-my-life/" target="_blank">Ways I did not want to experience adventure in my life. </a>

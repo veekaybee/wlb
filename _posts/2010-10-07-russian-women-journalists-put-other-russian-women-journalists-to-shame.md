@@ -24,20 +24,20 @@ This calendar below, from the same school,  focuses on less sexytime and more o
   When will <a href="http://en.wikipedia.org/wiki/Mikhail_Khodorkovsky">Khodorkovsky</a> be freed? (Margarita Zhuravlyeva, Junior)
 </p>
 
-[<img class="aligncenter size-full wp-image-3705" title="1margo" src="http://blog.vickiboykis.com/wp-content/uploads/2010/10/1margo.jpg" alt="" width="700" height="467" />](http://blog.vickiboykis.com/wp-content/uploads/2010/10/1margo.jpg)
+[<img class="aligncenter size-full wp-image-3705" title="1margo" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/10/1margo.jpg" alt="" width="700" height="467" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/10/1margo.jpg)
 
 <p style="text-align: center;">
-  How will inflation impact bribes? (Svetlana Muhina, Senior)<br /> <a href="http://blog.vickiboykis.com/wp-content/uploads/2010/10/3sveta.jpg"></a>
+  How will inflation impact bribes? (Svetlana Muhina, Senior)<br /> <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/10/3sveta.jpg"></a>
 </p>
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2010/10/3sveta.jpg"><img class="aligncenter size-full wp-image-3706" title="3sveta" src="http://blog.vickiboykis.com/wp-content/uploads/2010/10/3sveta.jpg" alt="" width="700" height="467" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/10/3sveta.jpg"><img class="aligncenter size-full wp-image-3706" title="3sveta" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/10/3sveta.jpg" alt="" width="700" height="467" /></a>
 </p>
 
 <p style="text-align: center;">
-  Freedom of gathering everywhere and at every time? (Maria Tsitsyurskaya, Junior)<br /> <a href="http://blog.vickiboykis.com/wp-content/uploads/2010/10/4masha.jpg"><img class="aligncenter size-full wp-image-3707" title="4masha" src="http://blog.vickiboykis.com/wp-content/uploads/2010/10/4masha.jpg" alt="" width="700" height="467" /></a>
+  Freedom of gathering everywhere and at every time? (Maria Tsitsyurskaya, Junior)<br /> <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/10/4masha.jpg"><img class="aligncenter size-full wp-image-3707" title="4masha" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/10/4masha.jpg" alt="" width="700" height="467" /></a>
 </p>
 
 <p style="text-align: center;">
-  When will the next act of terrorism be? (Tatyana Kartashova, Junior)<br /> <a href="http://blog.vickiboykis.com/wp-content/uploads/2010/10/6tanya.jpg"><img class="aligncenter size-full wp-image-3708" title="6tanya" src="http://blog.vickiboykis.com/wp-content/uploads/2010/10/6tanya.jpg" alt="" width="700" height="465" /></a>
+  When will the next act of terrorism be? (Tatyana Kartashova, Junior)<br /> <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/10/6tanya.jpg"><img class="aligncenter size-full wp-image-3708" title="6tanya" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/10/6tanya.jpg" alt="" width="700" height="465" /></a>
 </p>

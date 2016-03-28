@@ -16,7 +16,7 @@ tags:
 Happy Friday. Check it out:
 
 <p style="text-align: left;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2011/01/wpid-IMAG0544.jpg"><img class="aligncenter size-full wp-image-4182" title="wpid-IMAG0544.jpg" src="http://blog.vickiboykis.com/wp-content/uploads/2011/01/wpid-IMAG0544.jpg" alt="" width="350" height="210" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/01/wpid-IMAG0544.jpg"><img class="aligncenter size-full wp-image-4182" title="wpid-IMAG0544.jpg" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/01/wpid-IMAG0544.jpg" alt="" width="350" height="210" /></a>
 </p>
 
 <p style="text-align: left;">
@@ -24,7 +24,7 @@ Happy Friday. Check it out:
 </p>
 
 <p style="text-align: left;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2011/01/death.png"><img class="aligncenter size-full wp-image-4185" title="death" src="http://blog.vickiboykis.com/wp-content/uploads/2011/01/death.png" alt="" width="456" height="159" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/01/death.png"><img class="aligncenter size-full wp-image-4185" title="death" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/01/death.png" alt="" width="456" height="159" /></a>
 </p>
 
 <p style="text-align: left;">

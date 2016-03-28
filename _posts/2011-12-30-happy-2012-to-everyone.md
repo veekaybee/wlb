@@ -24,6 +24,6 @@ I am especially excited since 2012 <a href="http://blog.californiapsychics.com/b
 
 Thanks so much for reading my blog and for enriching my life. Stick around. 2012 is going to be great.  Except for the following picture.
 
-[<img class="aligncenter size-full wp-image-6103" title="Photo on 2011-12-30 at 07.06" src="http://blog.vickiboykis.com/wp-content/uploads/2011/12/Photo-on-2011-12-30-at-07.061.png" alt="" width="640" height="480" />](http://blog.vickiboykis.com/wp-content/uploads/2011/12/Photo-on-2011-12-30-at-07.061.png)
+[<img class="aligncenter size-full wp-image-6103" title="Photo on 2011-12-30 at 07.06" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/12/Photo-on-2011-12-30-at-07.061.png" alt="" width="640" height="480" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/12/Photo-on-2011-12-30-at-07.061.png)
 
 &nbsp;

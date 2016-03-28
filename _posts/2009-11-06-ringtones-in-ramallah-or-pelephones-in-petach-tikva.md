@@ -17,7 +17,7 @@ tags:
   - Palestine
 ---
 <div id="attachment_1631" style="width: 542px" class="wp-caption aligncenter">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2009/11/West-BankJPG.JPG"><img class="size-full wp-image-1631" title="West BankJPG" src="http://blog.vickiboykis.com/wp-content/uploads/2009/11/West-BankJPG.JPG" alt="West BankJPG" width="532" height="399" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/11/West-BankJPG.JPG"><img class="size-full wp-image-1631" title="West BankJPG" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/11/West-BankJPG.JPG" alt="West BankJPG" width="532" height="399" /></a>
   
   <p class="wp-caption-text">
     One of my pictures from the West Bank. It's one of the most beautiful places in Israel. Or outside of it. Pick your poison.
@@ -36,7 +36,7 @@ I have to admit, as I read this article, I didn&#8217;t know anything about the 
 
 I started by digging deeper.  All I found to begin with [was this](http://books.google.com/books?id=ggO4zz1jJ1MC&lpg=PA30&ots=Wz7Wp2Ou10&dq=palestinian%20cell%20phone%20companies&lr=&pg=PA30#v=onepage&q=&f=false) (written by a professor at my alma mater, Penn State, and one I got to meet, Amit Shechter!)  which is interesting in its own right and describes the early history and culture of cell phone communication in Israel.  One of my favorite tidbits from the book is this:
 
-[<img class="aligncenter size-full wp-image-1635" title="schejter cell phone" src="http://blog.vickiboykis.com/wp-content/uploads/2009/11/schejter-cell-phone.JPG" alt="schejter cell phone" width="565" height="151" />](http://blog.vickiboykis.com/wp-content/uploads/2009/11/schejter-cell-phone.JPG)
+[<img class="aligncenter size-full wp-image-1635" title="schejter cell phone" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/11/schejter-cell-phone.JPG" alt="schejter cell phone" width="565" height="151" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/11/schejter-cell-phone.JPG)
 
 And it&#8217;s very interesting because the first company, Bezeq, was a monopoly much like the West Bank&#8217;s [Jawwal](http://www.jawwal.ps/) was, with a second carrier only being added in 1994.  Of course, the historical timeframe and political situations are much different, so it&#8217;s not exactly an apples-to-apples comparison.
 

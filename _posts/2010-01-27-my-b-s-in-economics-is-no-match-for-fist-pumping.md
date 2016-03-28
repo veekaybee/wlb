@@ -20,7 +20,7 @@ tags:
 Today on Facebook, I was lamenting my life, as usual:
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2010/01/jerseyunfair.png"><img class="aligncenter size-full wp-image-2179" title="jerseyunfair" src="http://blog.vickiboykis.com/wp-content/uploads/2010/01/jerseyunfair.png" alt="" width="700" height="112" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/01/jerseyunfair.png"><img class="aligncenter size-full wp-image-2179" title="jerseyunfair" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/01/jerseyunfair.png" alt="" width="700" height="112" /></a>
 </p>
 
 <p style="text-align: left;">

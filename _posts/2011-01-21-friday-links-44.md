@@ -20,7 +20,7 @@ So I looked at it.
 
 P.S. If this is your car, I would like a ride.
 
-[<img class="aligncenter size-full wp-image-4260" title="wpid-IMAG0572.jpg" src="http://blog.vickiboykis.com/wp-content/uploads/2011/01/wpid-IMAG0572.jpg" alt="" width="500" height="300" />](http://blog.vickiboykis.com/wp-content/uploads/2011/01/wpid-IMAG0572.jpg)
+[<img class="aligncenter size-full wp-image-4260" title="wpid-IMAG0572.jpg" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/01/wpid-IMAG0572.jpg" alt="" width="500" height="300" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/01/wpid-IMAG0572.jpg)
 
 **Links:**
 
@@ -43,7 +43,7 @@ So I looked at it.
 
 P.S. If this is your car, I would like a ride.
 
-[<img class="aligncenter size-full wp-image-4260" title="wpid-IMAG0572.jpg" src="http://blog.vickiboykis.com/wp-content/uploads/2011/01/wpid-IMAG0572.jpg" alt="" width="500" height="300" />](http://blog.vickiboykis.com/wp-content/uploads/2011/01/wpid-IMAG0572.jpg)
+[<img class="aligncenter size-full wp-image-4260" title="wpid-IMAG0572.jpg" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/01/wpid-IMAG0572.jpg" alt="" width="500" height="300" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/01/wpid-IMAG0572.jpg)
 
 **Links:**
 

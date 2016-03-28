@@ -23,7 +23,7 @@ So whereas before my blog post thought process went something like this,
 &#8220;Hm.  I think I&#8217;ll write a post making <a href="http://blog.vickiboykis.com/2009/07/19/hortex/" target="_blank">fun of Polish juice</a>.   As I write, I have an image of an audience in my head.  For most writers, they try to write to a generalization and I do as well, but I can&#8217;t help but picture my audience reading it:
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2011/07/DSC_0299.jpg"><img class="aligncenter size-full wp-image-5353" title="DSC_0299" src="http://blog.vickiboykis.com/wp-content/uploads/2011/07/DSC_0299.jpg" alt="" width="504" height="335" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/07/DSC_0299.jpg"><img class="aligncenter size-full wp-image-5353" title="DSC_0299" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/07/DSC_0299.jpg" alt="" width="504" height="335" /></a>
 </p>
 
 &nbsp;
@@ -32,7 +32,7 @@ I&#8217;ll show Mr. B my post to see if he thinks it&#8217;s funny and Nice! Pos
 
 But now, since I&#8217;m very aware of my audience, I feel like I&#8217;m writing to this:
 
-[<img class="aligncenter size-full wp-image-5354" title="Huge Crowd" src="http://blog.vickiboykis.com/wp-content/uploads/2011/07/Huge-Crowd.jpg" alt="" width="522" height="410" />](http://blog.vickiboykis.com/wp-content/uploads/2011/07/Huge-Crowd.jpg) which I know is stupid because I only get, like, 60 blog hits every day, but somehow everyone always brings it up at in-life social gatherings.  So I&#8217;ll start brainstorming a post, and the process will go something like,
+[<img class="aligncenter size-full wp-image-5354" title="Huge Crowd" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/07/Huge-Crowd.jpg" alt="" width="522" height="410" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/07/Huge-Crowd.jpg) which I know is stupid because I only get, like, 60 blog hits every day, but somehow everyone always brings it up at in-life social gatherings.  So I&#8217;ll start brainstorming a post, and the process will go something like,
 
 &#8220;Why don&#8217;t I write about my job and my career&#8230;ohhhhh terrible idea.  Well, why don&#8217;t I write about a family member that irritates meohhhhhnooooo. Well, why don&#8217;t I write about this restaurant we went to ohhhmannn they might be checking their Google Alerts.  Well, why not something that Russians do that annoys me. Nooooo because someone that&#8217;s Russian and reading might get offended.  I might as well be writing about abortion and prostitutes.  If I swear in my post, will that offend my family?  If I don&#8217;t swear, will it be edgy enough for the Internet?  What about <a href="http://heebmagazine.com/interview-with-matthew-hess-of-foreskin-man/26787" target="_blank">The Foreskin Man</a>?  No, too racy and too opinionated.  Wait!  I can write about Polish juice!  But ohhhh what if Polish people read my blog.  WHAT IF JUICES READ MY BLOG AND ARE OFFENDED?  OHMYGOD CRIPPLING INDECISION.&#8221;
 
@@ -40,11 +40,11 @@ So then you get posts <a href="http://blog.vickiboykis.com/2011/07/13/how-to-mak
 
 So, how can I break out of
 
-[<img class="aligncenter" title="Huge Crowd" src="http://blog.vickiboykis.com/wp-content/uploads/2011/07/Huge-Crowd.jpg" alt="" width="522" height="410" />](http://blog.vickiboykis.com/wp-content/uploads/2011/07/Huge-Crowd.jpg)
+[<img class="aligncenter" title="Huge Crowd" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/07/Huge-Crowd.jpg" alt="" width="522" height="410" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/07/Huge-Crowd.jpg)
 
 and remember that I&#8217;m only writing for
 
-[<img class="aligncenter" title="DSC_0299" src="http://blog.vickiboykis.com/wp-content/uploads/2011/07/DSC_0299.jpg" alt="" width="504" height="335" />](http://blog.vickiboykis.com/wp-content/uploads/2011/07/DSC_0299.jpg)
+[<img class="aligncenter" title="DSC_0299" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/07/DSC_0299.jpg" alt="" width="504" height="335" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/07/DSC_0299.jpg)
 
 &nbsp;
 

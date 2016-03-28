@@ -13,7 +13,7 @@ tags:
   - writing
 ---
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2013/02/Kulikov_Writer_E.N.Chirikov_1904.jpg"><img class="aligncenter  wp-image-8387" alt="Kulikov_Writer_E.N.Chirikov_1904" src="http://blog.vickiboykis.com/wp-content/uploads/2013/02/Kulikov_Writer_E.N.Chirikov_1904-580x487.jpg" width="406" height="341" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/02/Kulikov_Writer_E.N.Chirikov_1904.jpg"><img class="aligncenter  wp-image-8387" alt="Kulikov_Writer_E.N.Chirikov_1904" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/02/Kulikov_Writer_E.N.Chirikov_1904-580x487.jpg" width="406" height="341" /></a>
 </p>
 
 <p style="text-align: center;">

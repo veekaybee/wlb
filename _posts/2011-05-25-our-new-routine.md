@@ -78,6 +78,6 @@ tags:
   * Work
   * Think about how you will have to go to IKEA today again after work.
   * Contemplate homicide.
-  * Read your [to-do list](http://blog.vickiboykis.com/wp-content/uploads/2011/05/judgementday.jpg)
+  * Read your [to-do list](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/05/judgementday.jpg)
   * It is not getting any smaller.
   * Cry quietly.

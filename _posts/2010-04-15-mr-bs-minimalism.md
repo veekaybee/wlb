@@ -16,7 +16,7 @@ tags:
 ---
 Mr. B owns a bunch of t-shirts that I HATE because they make him look like an antisocial programmer and he LOVES because they make him look like an antisocial programmer.  They are all around six to seven years vintage. I&#8217;ve been quietly throwing most of them away, but one was left, [this one](http://www.thinkgeek.com/tshirts-apparel/unisex/itdepartment/5b81/):
 
-[<img class="aligncenter size-full wp-image-2769" title="syn-ack" src="http://blog.vickiboykis.com/wp-content/uploads/2010/04/syn-ack.jpg" alt="" width="332" height="440" />](http://blog.vickiboykis.com/wp-content/uploads/2010/04/syn-ack.jpg) [If you have to ask](http://en.wikipedia.org/wiki/Transmission_Control_Protocol), you aren&#8217;t cool enough.
+[<img class="aligncenter size-full wp-image-2769" title="syn-ack" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/04/syn-ack.jpg" alt="" width="332" height="440" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/04/syn-ack.jpg) [If you have to ask](http://en.wikipedia.org/wiki/Transmission_Control_Protocol), you aren&#8217;t cool enough.
 
 Anyway, so as we were moving stuff, I quietly managed to throw out this shirt.  Or so I thought.  As we were walking out the door yesterday, Mr. B said, &#8220;I know you threw out my shirt.  Don&#8217;t think I didn&#8217;t notice it in the trash.  So I put it on top of the trash bag.  To remind myself.&#8221;  And indeed, there it was.
 

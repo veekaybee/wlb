@@ -18,5 +18,5 @@ I&#8217;ve been at quite a few holiday parties over the past couple weeks (ok, t
 Although my tree is somewhere deep in Mr. B&#8217;s mom&#8217;s basement and my New Year plans are uncertain as we speak, I&#8217;m still indulging in the New Year spirit through Youtube and through [this picture](http://500px.com/photo/264919), which I can&#8217;t take credit for at all. .
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2010/12/4.jpeg"><img class="aligncenter size-full wp-image-4061" title="4" src="http://blog.vickiboykis.com/wp-content/uploads/2010/12/4.jpeg" alt="" width="540" height="360" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/12/4.jpeg"><img class="aligncenter size-full wp-image-4061" title="4" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/12/4.jpeg" alt="" width="540" height="360" /></a>
 </p>

@@ -17,7 +17,7 @@ tags:
   - women
 ---
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2010/03/3722144616_973c7a342d.jpg"><img class="aligncenter size-full wp-image-2663" title="3722144616_973c7a342d" src="http://blog.vickiboykis.com/wp-content/uploads/2010/03/3722144616_973c7a342d.jpg" alt="" width="421" height="500" /></a><a href="http://www.flickr.com/photos/mediaatmidnight/3722144616/">source. </a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/03/3722144616_973c7a342d.jpg"><img class="aligncenter size-full wp-image-2663" title="3722144616_973c7a342d" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/03/3722144616_973c7a342d.jpg" alt="" width="421" height="500" /></a><a href="http://www.flickr.com/photos/mediaatmidnight/3722144616/">source. </a>
 </p>
 
 _Warning: Spoilers of the latest Alice in Wonderland are in this post._ 
@@ -31,7 +31,7 @@ What I like most about this movie is that it has female characters in almost all
 Unfortunately, women often get this message to be funneled into domesticity in the real world too. Either you are a homemaker- the stereotypical mom-or you are a sex goddess, or you are a corporate bitch.  There&#8217;s nothing in between and it&#8217;s impossible for women to take on multiple roles.  I forget where, but I read last week that in this season&#8217;s Dancing with the Stars, Kate Gosselin is introduced as &#8220;the mom&#8221; and Pamela Anderson as the &#8220;sex symbol,&#8221; even though Pamela Anderson hasn&#8217;t been a sex symbol in a long time, and Kate Gosselin is no longer really a mom in her public life.  It&#8217;s impossible to have the audience believe a more multi-dimensional approach to either woman.
 
 The thing that I am most upset about is [<p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2010/03/3722144616_973c7a342d.jpg"><img class="aligncenter size-full wp-image-2663" title="3722144616_973c7a342d" src="http://blog.vickiboykis.com/wp-content/uploads/2010/03/3722144616_973c7a342d.jpg" alt="" width="421" height="500" /></a><a href="http://www.flickr.com/photos/mediaatmidnight/3722144616/">source. </a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/03/3722144616_973c7a342d.jpg"><img class="aligncenter size-full wp-image-2663" title="3722144616_973c7a342d" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/03/3722144616_973c7a342d.jpg" alt="" width="421" height="500" /></a><a href="http://www.flickr.com/photos/mediaatmidnight/3722144616/">source. </a>
 </p>
 
 _Warning: Spoilers of the latest Alice in Wonderland are in this post._ 
@@ -54,9 +54,9 @@ Having written, painfully, an undergrad thesis that was nowhere nearly as ground
 
 And [what kind of buzz is going on around her in the econ blogosphere](http://www.marginalrevolution.com/marginalrevolution/2010/03/the-harvard-thesis-that-everyone-is-talking-about.html)?
 
-[<img class="aligncenter size-full wp-image-2657" title="Picture 1" src="http://blog.vickiboykis.com/wp-content/uploads/2010/03/Picture-1.png" alt="" width="534" height="49" />](http://blog.vickiboykis.com/wp-content/uploads/2010/03/Picture-1.png)
+[<img class="aligncenter size-full wp-image-2657" title="Picture 1" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/03/Picture-1.png" alt="" width="534" height="49" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/03/Picture-1.png)
 
-[<img class="aligncenter size-full wp-image-2658" title="Picture 2" src="http://blog.vickiboykis.com/wp-content/uploads/2010/03/Picture-2.png" alt="" width="601" height="58" />](http://blog.vickiboykis.com/wp-content/uploads/2010/03/Picture-2.png)
+[<img class="aligncenter size-full wp-image-2658" title="Picture 2" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/03/Picture-2.png" alt="" width="601" height="58" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/03/Picture-2.png)
 
 Sure, these were in the minority.  But, as someone working in the same industry as her, it makes me want to bash skulls.  [So does this](http://www.reddit.com/r/AskReddit/comments/bilww). How do we encourage women to go into non women-intensive fields like engineering, math, economics, etc?  By not having men like this be part of our work culture.  Why can&#8217;t Barnett-Hart be judged solely on her economic merit?  What if she were, [or masqueraded as](http://www.copyblogger.com/james-chartrand-underpants/), a man?   Can&#8217;t she be ostensibly pretty and smart, too? Or does she now fit into one category of Econ Hottie, unable to be anything else?  Maybe that&#8217;s why she doesn&#8217;t go by Anne Katherine, but A.K.
 

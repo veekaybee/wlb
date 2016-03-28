@@ -11,4 +11,4 @@ categories:
 tags:
   - small talk
 ---
-[<img class="aligncenter size-medium wp-image-9297" alt="smalltalk" src="http://blog.vickiboykis.com/wp-content/uploads/2013/12/smalltalk-580x385.png" width="580" height="385" />](http://blog.vickiboykis.com/wp-content/uploads/2013/12/smalltalk.png)
+[<img class="aligncenter size-medium wp-image-9297" alt="smalltalk" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/12/smalltalk-580x385.png" width="580" height="385" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/12/smalltalk.png)

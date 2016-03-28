@@ -13,7 +13,7 @@ tags:
   - comic
 ---
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2010/08/bd321e61a05b4d7baf6b53e4b709d08e.png"><img class="aligncenter size-full wp-image-3445" title="bd321e61a05b4d7baf6b53e4b709d08e" src="http://blog.vickiboykis.com/wp-content/uploads/2010/08/bd321e61a05b4d7baf6b53e4b709d08e.png" alt="" width="578" height="447" /></a><a href="http://browse.deviantart.com/?qh=&section=&q=birthday#/d1utbxd">source. </a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/08/bd321e61a05b4d7baf6b53e4b709d08e.png"><img class="aligncenter size-full wp-image-3445" title="bd321e61a05b4d7baf6b53e4b709d08e" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/08/bd321e61a05b4d7baf6b53e4b709d08e.png" alt="" width="578" height="447" /></a><a href="http://browse.deviantart.com/?qh=&section=&q=birthday#/d1utbxd">source. </a>
 </p>
 
 Today is my birthday, yet again somehow. Here&#8217;s my post from [last year](http://blog.vickiboykis.com/2009/08/05/the-victorian-error-birthday/).
@@ -22,4 +22,4 @@ I am really, really lucky to be celebrating amidst a time when everything is ok 
 
 For my birthday, I solicited some advice:
 
-[<img class="aligncenter size-full wp-image-3446" title="Page_2" src="http://blog.vickiboykis.com/wp-content/uploads/2010/08/Page_2.jpg" alt="" width="600" height="1400" />](http://blog.vickiboykis.com/wp-content/uploads/2010/08/Page_2.jpg)
+[<img class="aligncenter size-full wp-image-3446" title="Page_2" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/08/Page_2.jpg" alt="" width="600" height="1400" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/08/Page_2.jpg)

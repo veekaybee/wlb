@@ -10,7 +10,7 @@ categories:
   - Uncategorized
 ---
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2011/08/japanese_matryoshka.jpg"><img class="aligncenter size-full wp-image-5547" title="japanese_matryoshka" src="http://blog.vickiboykis.com/wp-content/uploads/2011/08/japanese_matryoshka.jpg" alt="" width="270" height="169" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/08/japanese_matryoshka.jpg"><img class="aligncenter size-full wp-image-5547" title="japanese_matryoshka" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/08/japanese_matryoshka.jpg" alt="" width="270" height="169" /></a>
 </p>
 
 For some background reading, check out:

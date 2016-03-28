@@ -9,7 +9,7 @@ permalink: /2014/01/the-two-types-of-cold/
 categories:
   - Uncategorized
 ---
-[<img class="aligncenter size-medium wp-image-9422" alt="The-Way-Back-30910_8" src="http://blog.vickiboykis.com/wp-content/uploads/2014/01/The-Way-Back-30910_82-580x344.jpg" width="580" height="344" />](http://blog.vickiboykis.com/wp-content/uploads/2014/01/The-Way-Back-30910_82.jpg)
+[<img class="aligncenter size-medium wp-image-9422" alt="The-Way-Back-30910_8" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2014/01/The-Way-Back-30910_82-580x344.jpg" width="580" height="344" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2014/01/The-Way-Back-30910_82.jpg)
 
 &nbsp;
 
@@ -19,7 +19,7 @@ For the first half of the cold, I hide away from it, the American way, with blan
 
 We are, masochistically, watching and reading things about the cold. First, we watch The Way Back, a movie about escaping from a Siberian gulag featuring the guy from Cloud Atlas and Colin Farrell&#8217;s eyebrows.
 
-[<img class="aligncenter size-medium wp-image-9427" alt="Valka (Colin Farrell) & Janusz (Jim Sturgess)" src="http://blog.vickiboykis.com/wp-content/uploads/2014/01/The-Way-Back-still1-580x385.jpg" width="580" height="385" />](http://blog.vickiboykis.com/wp-content/uploads/2014/01/The-Way-Back-still1.jpg)
+[<img class="aligncenter size-medium wp-image-9427" alt="Valka (Colin Farrell) & Janusz (Jim Sturgess)" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2014/01/The-Way-Back-still1-580x385.jpg" width="580" height="385" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2014/01/The-Way-Back-still1.jpg)
 
 The Cloud Atlas Guy is Polish and accused of crimes he didn&#8217;t commit, so he goes to the Gulag, along with an American guy and other Russians. The first half of the movie is of them doing brutal, backbreaking work, and just cold, brutal cold.  My hands become numb in my gloves while I&#8217;m walking to the car, and I can&#8217;t even imagine this cold. I can&#8217;t imagine how humans can survive it. I can&#8217;t imagine having to unthaw from that.
 
@@ -37,7 +37,7 @@ I realize I&#8217;m doing it wrong when <a href="https://www.sbnation.com/longfo
 
 If she can be outside, so can I.  Mr. B and I go to New York, and even though it&#8217;s snowing, or raining, or haling, I  put on my mittens and my boots and go walking through the city. I run outside in the winter, and it&#8217;s the most liberating experience in the world. We take hour-long walks, and we see deer.
 
-[<img class="aligncenter size-medium wp-image-9429" alt="IMG_20131228_101438-SNOW" src="http://blog.vickiboykis.com/wp-content/uploads/2014/01/IMG_20131228_101438-SNOW-580x773.gif" width="580" height="773" />](http://blog.vickiboykis.com/wp-content/uploads/2014/01/IMG_20131228_101438-SNOW.gif)
+[<img class="aligncenter size-medium wp-image-9429" alt="IMG_20131228_101438-SNOW" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2014/01/IMG_20131228_101438-SNOW-580x773.gif" width="580" height="773" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2014/01/IMG_20131228_101438-SNOW.gif)
 
 &nbsp;
 

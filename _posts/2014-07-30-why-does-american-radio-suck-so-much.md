@@ -19,7 +19,7 @@ tags:
   - top 40
   - work
 ---
-[<img class="aligncenter size-full wp-image-9781" src="http://blog.vickiboykis.com/wp-content/uploads/2014/07/the-san-giobbe-altarpiece-detail-of-music-making-angels-1480.jpgBlog.jpg" alt="the-san-giobbe-altarpiece-detail-of-music-making-angels-1480.jpg!Blog" width="399" height="500" />](http://blog.vickiboykis.com/wp-content/uploads/2014/07/the-san-giobbe-altarpiece-detail-of-music-making-angels-1480.jpgBlog.jpg)
+[<img class="aligncenter size-full wp-image-9781" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2014/07/the-san-giobbe-altarpiece-detail-of-music-making-angels-1480.jpgBlog.jpg" alt="the-san-giobbe-altarpiece-detail-of-music-making-angels-1480.jpg!Blog" width="399" height="500" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2014/07/the-san-giobbe-altarpiece-detail-of-music-making-angels-1480.jpgBlog.jpg)
 
 Every time I start driving to get to work, <a href="http://blog.vickiboykis.com/2010/11/in-philadelphia-traffic-everyones-an-engineer/" target="_blank">I get progressively angrier</a>. Thankfully, this time my new job&#8217;s only 25 minutes away, but that&#8217;s 25 minutes of either radio or audiobooks. I love both audiobooks and public radio, and would highly recommend both to anyone doing a commute, but sometimes I get tired of  NPR gently telling me that global warming, racism,  ISIS and gluten-intolerance are all my fault,  and I  just want to listen to music.
 

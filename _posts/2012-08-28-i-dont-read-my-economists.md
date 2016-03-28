@@ -28,7 +28,7 @@ We get _The Economist_ once a week and I put it on our coffee table to make it l
 
 I fan it out for extra effect when people are coming over. If I&#8217;m feeling especially snooty, I&#8217;ll throw a couple <a href="http://www.monocle.com/" target="_blank">Monocles on top</a>. (&#8220;Did you know the Boykises are unapproachably pretentious? They are!&#8221;)
 
-<img class="aligncenter" src="http://blog.vickiboykis.com/wp-content/uploads/2012/08/wpid-IMG_20120828_204401.jpg" alt="image" width="350" height="467" />
+<img class="aligncenter" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/08/wpid-IMG_20120828_204401.jpg" alt="image" width="350" height="467" />
 
 &nbsp;
 
@@ -38,7 +38,7 @@ In high school, I would spend _hours_ at my local Barnes and Noble, drinking fra
 
 Anyway lately, my _Economists_ and my italics have been piling up.  When my parents come, I gift them generously and Jewishly to my mom.  Otherwise, they go to recycling. So I&#8217;ve been feeling a little guilty that I&#8217;m paying a lot money for what is essentially the literary equivalent of a straight-to-DVD movie, and yesterday at dinner, I was finally reading when I happened to find <a href="http://www.economist.com/node/21560899" target="_blank">this</a>:
 
-[<img class="aligncenter size-full wp-image-7446" title="Screen shot 2012-08-28 at 8.41.00 PM" src="http://blog.vickiboykis.com/wp-content/uploads/2012/08/Screen-shot-2012-08-28-at-8.41.00-PM.png" alt="" width="573" height="559" />](http://blog.vickiboykis.com/wp-content/uploads/2012/08/Screen-shot-2012-08-28-at-8.41.00-PM.png)
+[<img class="aligncenter size-full wp-image-7446" title="Screen shot 2012-08-28 at 8.41.00 PM" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/08/Screen-shot-2012-08-28-at-8.41.00-PM.png" alt="" width="573" height="559" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/08/Screen-shot-2012-08-28-at-8.41.00-PM.png)
 
 to which I say, I wish I never started reading _The Economist_ again.
 
@@ -50,7 +50,7 @@ So what&#8217;s the holdup?   Why?  Why, Scottish women?
 
 Are you kidding? What do you not love about a man who wears plaid pants and takes pictures in bars? By the way, check out that Geniune Scottish Dude drunk in the corner.
 
-[<img class="aligncenter size-full wp-image-7447" title="Screen shot 2012-08-28 at 9.16.23 PM" src="http://blog.vickiboykis.com/wp-content/uploads/2012/08/Screen-shot-2012-08-28-at-9.16.23-PM.png" alt="" width="497" height="518" />](http://blog.vickiboykis.com/wp-content/uploads/2012/08/Screen-shot-2012-08-28-at-9.16.23-PM.png)
+[<img class="aligncenter size-full wp-image-7447" title="Screen shot 2012-08-28 at 9.16.23 PM" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/08/Screen-shot-2012-08-28-at-9.16.23-PM.png" alt="" width="497" height="518" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/08/Screen-shot-2012-08-28-at-9.16.23-PM.png)
 
 Alex Salmond is THE MAN.
 
@@ -61,7 +61,7 @@ Who are these women who don&#8217;t want independence?
 Let&#8217;s take a look.
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2012/08/screeeeen.jpg"><img class="aligncenter  wp-image-7450" title="screeeeen" src="http://blog.vickiboykis.com/wp-content/uploads/2012/08/screeeeen.jpg" alt="" width="679" height="361" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/08/screeeeen.jpg"><img class="aligncenter  wp-image-7450" title="screeeeen" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/08/screeeeen.jpg" alt="" width="679" height="361" /></a>
 </p>
 
 <p style="text-align: left;">

@@ -20,7 +20,7 @@ tags:
 ---
 I don&#8217;t know about you, but I always love a good story about how the U.S. government screws over its constituents. [Turkmeniscam by Ken Silverstein](http://www.amazon.com/Turkmeniscam-Washington-Lobbyists-Stalinist-Dictatorship/dp/140006743X) (journalist and fellow Jew) promises such a story and delivers with style. The subtitle, &#8220;How Washington Lobbyists Fought to Flack for a Stalinist Dictatorship,&#8221; says it all.
 
-[<img class="aligncenter size-full wp-image-458" title="turkmeniscam_350" src="http://blog.vickiboykis.com/wp-content/uploads/2009/06/turkmeniscam_350.jpg" alt="turkmeniscam_350" width="260" height="396" />](http://blog.vickiboykis.com/wp-content/uploads/2009/06/turkmeniscam_350.jpg)
+[<img class="aligncenter size-full wp-image-458" title="turkmeniscam_350" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/06/turkmeniscam_350.jpg" alt="turkmeniscam_350" width="260" height="396" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/06/turkmeniscam_350.jpg)
 
 The amount of corruption that Silverstein uncovers in the United States government is alarming.  He starts with the background of the fallout against Jack Abramoff and other lobbyists in the fall of 2006, and goes on to explore the ultrashady relationship between, specifically, international lobbyists willing to shill dictatorships for large amounts of money.
 

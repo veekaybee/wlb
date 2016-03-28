@@ -14,7 +14,7 @@ tags:
   - reviews
   - Russian Jews
 ---
-[<img class="aligncenter size-full wp-image-1800" title="Picture 1" src="http://blog.vickiboykis.com/wp-content/uploads/2009/12/Picture-1.png" alt="Picture 1" width="494" height="101" />](http://blog.vickiboykis.com/wp-content/uploads/2009/12/Picture-1.png)
+[<img class="aligncenter size-full wp-image-1800" title="Picture 1" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/12/Picture-1.png" alt="Picture 1" width="494" height="101" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/12/Picture-1.png)
 
 _Note: I am being comped for my tickets to these movies.  How sweet is that? But you know I would never go see movies that didn&#8217;t interest me.  That is, movies that are Russian, Jewish, and depressing._ 
 
@@ -27,7 +27,7 @@ I&#8217;ll give you a hint:
 [Gift to Stalin](http://washingtondcjcc.org/center-for-arts/film/WJFF/films2009/gift-to-stalin.html)
 
 <div id="attachment_1799" style="width: 425px" class="wp-caption aligncenter">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2009/12/GIFT-TO-STALIN_boy-and-train-hi-res_1.JPG"><img class="size-full wp-image-1799" title="GIFT-TO-STALIN_boy-and-train-hi-res_1" src="http://blog.vickiboykis.com/wp-content/uploads/2009/12/GIFT-TO-STALIN_boy-and-train-hi-res_1.JPG" alt="GIFT-TO-STALIN_boy-and-train-hi-res_1" width="415" height="278" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/12/GIFT-TO-STALIN_boy-and-train-hi-res_1.JPG"><img class="size-full wp-image-1799" title="GIFT-TO-STALIN_boy-and-train-hi-res_1" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/12/GIFT-TO-STALIN_boy-and-train-hi-res_1.JPG" alt="GIFT-TO-STALIN_boy-and-train-hi-res_1" width="415" height="278" /></a>
   
   <p class="wp-caption-text">
     The hint is it's something Russian, Jewish, and depressing, yet informative of my rich cultural heritage.
@@ -36,12 +36,12 @@ I&#8217;ll give you a hint:
 
 [Srugim](http://washingtondcjcc.org/center-for-arts/film/WJFF/films2009/srugim.html):
 
-[<img class="aligncenter size-full wp-image-1808" title="SRUGIM-Shabbat_meal-hi-res" src="http://blog.vickiboykis.com/wp-content/uploads/2009/12/SRUGIM-Shabbat_meal-hi-res.jpg" alt="SRUGIM-Shabbat_meal-hi-res" width="415" height="277" />](http://blog.vickiboykis.com/wp-content/uploads/2009/12/SRUGIM-Shabbat_meal-hi-res.jpg)
+[<img class="aligncenter size-full wp-image-1808" title="SRUGIM-Shabbat_meal-hi-res" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/12/SRUGIM-Shabbat_meal-hi-res.jpg" alt="SRUGIM-Shabbat_meal-hi-res" width="415" height="277" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/12/SRUGIM-Shabbat_meal-hi-res.jpg)
 
 [Father&#8217;s Footsteps](http://washingtondcjcc.org/center-for-arts/film/WJFF/films2009/fathers-footsteps.html):
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2009/12/FATHERS-FOOTSTEPS-Family-in-car-courtesy-of-National-Center-for-Jewish-Film.jpg"><img class="aligncenter size-full wp-image-1809" title="FATHER'S FOOTSTEPS - Family in car-courtesy of National Center for Jewish Film" src="http://blog.vickiboykis.com/wp-content/uploads/2009/12/FATHERS-FOOTSTEPS-Family-in-car-courtesy-of-National-Center-for-Jewish-Film.jpg" alt="FATHER'S FOOTSTEPS - Family in car-courtesy of National Center for Jewish Film" width="557" height="372" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/12/FATHERS-FOOTSTEPS-Family-in-car-courtesy-of-National-Center-for-Jewish-Film.jpg"><img class="aligncenter size-full wp-image-1809" title="FATHER'S FOOTSTEPS - Family in car-courtesy of National Center for Jewish Film" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/12/FATHERS-FOOTSTEPS-Family-in-car-courtesy-of-National-Center-for-Jewish-Film.jpg" alt="FATHER'S FOOTSTEPS - Family in car-courtesy of National Center for Jewish Film" width="557" height="372" /></a>
 </p>
 
 <p style="text-align: left;">
@@ -49,7 +49,7 @@ I&#8217;ll give you a hint:
 </p>
 
 <p style="text-align: left;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2009/12/10-WEITZMAN-STREET-Family-on-street-Courtesy-of-Go2Films.jpg"><img class="aligncenter size-full wp-image-1810" title="10 WEITZMAN STREET- Family on street Courtesy of Go2Films" src="http://blog.vickiboykis.com/wp-content/uploads/2009/12/10-WEITZMAN-STREET-Family-on-street-Courtesy-of-Go2Films.jpg" alt="10 WEITZMAN STREET- Family on street Courtesy of Go2Films" width="544" height="463" /></a><a href="http://washingtondcjcc.org/center-for-arts/film/WJFF/films2009/brothers.html"></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/12/10-WEITZMAN-STREET-Family-on-street-Courtesy-of-Go2Films.jpg"><img class="aligncenter size-full wp-image-1810" title="10 WEITZMAN STREET- Family on street Courtesy of Go2Films" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/12/10-WEITZMAN-STREET-Family-on-street-Courtesy-of-Go2Films.jpg" alt="10 WEITZMAN STREET- Family on street Courtesy of Go2Films" width="544" height="463" /></a><a href="http://washingtondcjcc.org/center-for-arts/film/WJFF/films2009/brothers.html"></a>
 </p>
 
 <p style="text-align: left;">
@@ -57,7 +57,7 @@ I&#8217;ll give you a hint:
 </p>
 
 <p style="text-align: left;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2009/12/BROTHERS-Aharon-Baruch-Brener-and-Shelly-Orna-Fitoussi-as-opposing-lawyers-courtesy-of-Troubadour-Films.JPG"><img class="aligncenter size-full wp-image-1811" title="BROTHERS Aharon (Baruch Brener) and Shelly (Orna Fitoussi) as opposing lawyers-courtesy of Troubadour Films" src="http://blog.vickiboykis.com/wp-content/uploads/2009/12/BROTHERS-Aharon-Baruch-Brener-and-Shelly-Orna-Fitoussi-as-opposing-lawyers-courtesy-of-Troubadour-Films.JPG" alt="BROTHERS Aharon (Baruch Brener) and Shelly (Orna Fitoussi) as opposing lawyers-courtesy of Troubadour Films" width="614" height="408" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/12/BROTHERS-Aharon-Baruch-Brener-and-Shelly-Orna-Fitoussi-as-opposing-lawyers-courtesy-of-Troubadour-Films.JPG"><img class="aligncenter size-full wp-image-1811" title="BROTHERS Aharon (Baruch Brener) and Shelly (Orna Fitoussi) as opposing lawyers-courtesy of Troubadour Films" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/12/BROTHERS-Aharon-Baruch-Brener-and-Shelly-Orna-Fitoussi-as-opposing-lawyers-courtesy-of-Troubadour-Films.JPG" alt="BROTHERS Aharon (Baruch Brener) and Shelly (Orna Fitoussi) as opposing lawyers-courtesy of Troubadour Films" width="614" height="408" /></a>
 </p>
 
 <p style="text-align: left;">

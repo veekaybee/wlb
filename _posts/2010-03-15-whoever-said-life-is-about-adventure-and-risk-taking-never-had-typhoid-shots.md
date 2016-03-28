@@ -21,11 +21,11 @@ _UPDATED:  [Just found out our malaria pills](http://tenfoldindia.blogspot.com/
 
 Following on the heels of [our previous India excitement](http://blog.vickiboykis.com/2010/03/08/a-conversation-with-my-parents-about-india/), Mr. B and I took a trip to the [doctor&#8217;s office](http://travelclinicmd.com/) on Friday to get prepped for our trip to India with [some shots](http://www.youtube.com/watch?v=XNtTEibFvlQ).  The visit started out fairly innocently; over the phone, they&#8217;d told me that we would need probably two shots and a malaria pill.  We waited in a very cool, adventure-themed room while the doctor came:
 
-[<img class="aligncenter size-full wp-image-2513" title="504529610_1775222331_0.jpeg" src="http://blog.vickiboykis.com/wp-content/uploads/2010/03/504529610_1775222331_0.jpeg.jpg" alt="" width="351" height="265" />](http://blog.vickiboykis.com/wp-content/uploads/2010/03/504529610_1775222331_0.jpeg.jpg)
+[<img class="aligncenter size-full wp-image-2513" title="504529610_1775222331_0.jpeg" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/03/504529610_1775222331_0.jpeg.jpg" alt="" width="351" height="265" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/03/504529610_1775222331_0.jpeg.jpg)
 
 which had the following image in it:
 
-[<img class="aligncenter size-full wp-image-2514" title="travdiah" src="http://blog.vickiboykis.com/wp-content/uploads/2010/03/travdiah.jpg" alt="" width="550" height="421" />](http://blog.vickiboykis.com/wp-content/uploads/2010/03/travdiah.jpg)
+[<img class="aligncenter size-full wp-image-2514" title="travdiah" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/03/travdiah.jpg" alt="" width="550" height="421" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/03/travdiah.jpg)
 
 And, hooray!  Because India is on the V.I.P. list.  Although, to be fair, so are Mexico and Israel, and the most I&#8217;ve ever been in Mexico is almost mugged and the most dangerous situation in Israel was that time an Israeli Arab almost shanked me and Mr. B but really he just wanted to know if we had cigarettes.   So, no biggie so far.
 
@@ -85,7 +85,7 @@ I hopped up on the chair.  The shots didn&#8217;t hurt, mainly because I knew t
 
 We left the clinic, knowing that our India adventure had begun.  Mr. B held my hand, as much as to show his love despite the fact that I&#8217;m clinically insane as much as the fact that neither of us could completely walk straight.  Woozy from the diseases ravaging our bodies as much from the knowledge that according to the doctor, this is what India is like:
 
-[<img class="aligncenter size-full wp-image-2541" title="temple_of_doom_flaming-heart" src="http://blog.vickiboykis.com/wp-content/uploads/2010/03/temple_of_doom_flaming-heart.jpg" alt="" width="267" height="260" />](http://blog.vickiboykis.com/wp-content/uploads/2010/03/temple_of_doom_flaming-heart.jpg)
+[<img class="aligncenter size-full wp-image-2541" title="temple_of_doom_flaming-heart" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/03/temple_of_doom_flaming-heart.jpg" alt="" width="267" height="260" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/03/temple_of_doom_flaming-heart.jpg)
 
 That&#8217;s what my body felt like for a couple hours after the shot.
 
@@ -93,4 +93,4 @@ So, that&#8217;s the story of how we got our shots.
 
 Here&#8217;s a reenactment of our experience:
 
-![](file:///private/var/tmp/folders.502/TemporaryItems/com.apple.PhotoBooth-T0x308cd0.tmp.eGHSe0/Photo%20117.jpg)[<img class="aligncenter size-full wp-image-2512" title="Photo 117" src="http://blog.vickiboykis.com/wp-content/uploads/2010/03/Photo-117.jpg" alt="" width="640" height="480" />](http://blog.vickiboykis.com/wp-content/uploads/2010/03/Photo-117.jpg)
+![](file:///private/var/tmp/folders.502/TemporaryItems/com.apple.PhotoBooth-T0x308cd0.tmp.eGHSe0/Photo%20117.jpg)[<img class="aligncenter size-full wp-image-2512" title="Photo 117" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/03/Photo-117.jpg" alt="" width="640" height="480" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/03/Photo-117.jpg)

@@ -22,5 +22,5 @@ tags:
 It&#8217;s been a while since <a href="http://blog.vickiboykis.com/tag/comic/" target="_blank">one of these</a>, right?
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2012/08/PAINTINGS.jpg"><img class="aligncenter  wp-image-7382" title="PAINTINGS" src="http://blog.vickiboykis.com/wp-content/uploads/2012/08/PAINTINGS.jpg" alt="" width="450" height="582" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/08/PAINTINGS.jpg"><img class="aligncenter  wp-image-7382" title="PAINTINGS" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/08/PAINTINGS.jpg" alt="" width="450" height="582" /></a>
 </p>

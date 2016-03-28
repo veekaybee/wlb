@@ -65,7 +65,7 @@ Soon after, we arrived at Sam&#8217;s Club, and we pretty much had sensory overl
 Look at this jar of pickles we bought:
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2011/06/wpid-IMAG0847.jpg"><img class="aligncenter size-full wp-image-5064" title="wpid-IMAG0847.jpg" src="http://blog.vickiboykis.com/wp-content/uploads/2011/06/wpid-IMAG0847.jpg" alt="" width="350" height="583" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/06/wpid-IMAG0847.jpg"><img class="aligncenter size-full wp-image-5064" title="wpid-IMAG0847.jpg" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/06/wpid-IMAG0847.jpg" alt="" width="350" height="583" /></a>
 </p>
 
 If we ate all the pickles in this jar, we would have enough room to fit a baby in there, [Brave New World-style](http://www.huxley.net/bnw/one.html).  Or maybe a goat.

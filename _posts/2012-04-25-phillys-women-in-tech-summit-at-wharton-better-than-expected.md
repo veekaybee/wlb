@@ -17,7 +17,7 @@ tags:
   - women
 ---
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2012/04/IMG_20120421_094839.jpg"><img class="aligncenter  wp-image-6762" title="IMG_20120421_094839" src="http://blog.vickiboykis.com/wp-content/uploads/2012/04/IMG_20120421_094839-1024x768.jpg" alt="" width="502" height="377" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/04/IMG_20120421_094839.jpg"><img class="aligncenter  wp-image-6762" title="IMG_20120421_094839" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/04/IMG_20120421_094839-1024x768.jpg" alt="" width="502" height="377" /></a>
 </p>
 
 &nbsp;
@@ -32,7 +32,7 @@ I was expecting the worst when I saw that the website was pink.  Because <a hre
 
 Luckily, the conference went way uphill from there:
 
-[<img class="aligncenter size-full wp-image-6768" title="Screen shot 2012-04-25 at 7.29.51 AM" src="http://blog.vickiboykis.com/wp-content/uploads/2012/04/Screen-shot-2012-04-25-at-7.29.51-AM.png" alt="" width="405" height="200" />](http://blog.vickiboykis.com/wp-content/uploads/2012/04/Screen-shot-2012-04-25-at-7.29.51-AM.png)
+[<img class="aligncenter size-full wp-image-6768" title="Screen shot 2012-04-25 at 7.29.51 AM" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/04/Screen-shot-2012-04-25-at-7.29.51-AM.png" alt="" width="405" height="200" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/04/Screen-shot-2012-04-25-at-7.29.51-AM.png)
 
 &nbsp;
 
@@ -44,17 +44,17 @@ Once I registered, I wandered around.  Most of the women were already talking i
 
 Like most introverts, I HATE networking with a passion.
 
-[<img class="aligncenter size-full wp-image-6763" title="Screen shot 2012-04-24 at 7.26.47 AM" src="http://blog.vickiboykis.com/wp-content/uploads/2012/04/Screen-shot-2012-04-24-at-7.26.47-AM.png" alt="" width="409" height="192" />](http://blog.vickiboykis.com/wp-content/uploads/2012/04/Screen-shot-2012-04-24-at-7.26.47-AM.png)
+[<img class="aligncenter size-full wp-image-6763" title="Screen shot 2012-04-24 at 7.26.47 AM" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/04/Screen-shot-2012-04-24-at-7.26.47-AM.png" alt="" width="409" height="192" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/04/Screen-shot-2012-04-24-at-7.26.47-AM.png)
 
 After forcing myself to be social, I went to a couple of sessions that were really interesting: one about test-driven development, <a href="https://twitter.com/#!/auditty" target="_blank">led by Audrey</a>. (<a href="http://blogs.captechconsulting.com/blog/kristin-arias/cool-things-i-saw-the-women%E2%80%99s-tech-summit%E2%80%A6-part-1" target="_blank">Here&#8217;s more detail</a> if you&#8217;re interested)
 
-[<img class="aligncenter" title="IMG_20120421_100728" src="http://blog.vickiboykis.com/wp-content/uploads/2012/04/IMG_20120421_100728-768x1024.jpg" alt="" width="377" height="502" />](http://blog.vickiboykis.com/wp-content/uploads/2012/04/IMG_20120421_100728.jpg)
+[<img class="aligncenter" title="IMG_20120421_100728" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/04/IMG_20120421_100728-768x1024.jpg" alt="" width="377" height="502" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/04/IMG_20120421_100728.jpg)
 
 &nbsp;
 
 and  one about working with open data, <a href="https://twitter.com/#!/geography76" target="_blank">led by Dana</a>.  <a href="http://www.flyingkitemedia.com/features/womenintechsummit0424.aspx" target="_blank">Here are some pictures from that workshop.  </a>These were both really interesting, especially the second one, because I work in data, and it was fun to complain about data issues:
 
-[<img class="aligncenter size-full wp-image-6769" title="Screen shot 2012-04-25 at 7.37.21 AM" src="http://blog.vickiboykis.com/wp-content/uploads/2012/04/Screen-shot-2012-04-25-at-7.37.21-AM.png" alt="" width="388" height="187" />](http://blog.vickiboykis.com/wp-content/uploads/2012/04/Screen-shot-2012-04-25-at-7.37.21-AM.png)
+[<img class="aligncenter size-full wp-image-6769" title="Screen shot 2012-04-25 at 7.37.21 AM" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/04/Screen-shot-2012-04-25-at-7.37.21-AM.png" alt="" width="388" height="187" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/04/Screen-shot-2012-04-25-at-7.37.21-AM.png)
 
 What was more interesting was the twitter feed of the sessions I wasn&#8217;t in.  At the workshops, I was pleasantly surprised to see that we were not covering anything related to equality, or why there aren&#8217;t enough women in the workforce, or work/life balance.  The women presenting and attending were women were actually just&#8230;doing it. There were <a href="https://twitter.com/#!/corey_latislaw" target="_blank">Android developers</a>, <a href="https://twitter.com/#!/realeesky" target="_blank">project managers</a>, and, in the case of Audrey, new moms.  <a href="http://blog.vickiboykis.com/2011/11/why-every-woman-should-know-how-her-blog-works-orwhy-women-are-still-marginalized/" target="_blank">They were  leading by example</a>.
 
@@ -62,13 +62,13 @@ The generalist sessions focused more on how it felt to be a woman in the workpla
 
 So you could easily tell the tweets coming from the generalist and the non-generalist sessions apart:
 
-[<img class="aligncenter size-full wp-image-6770" title="Screen shot 2012-04-25 at 7.46.23 AM" src="http://blog.vickiboykis.com/wp-content/uploads/2012/04/Screen-shot-2012-04-25-at-7.46.23-AM.png" alt="" width="521" height="305" />](http://blog.vickiboykis.com/wp-content/uploads/2012/04/Screen-shot-2012-04-25-at-7.46.23-AM.png)
+[<img class="aligncenter size-full wp-image-6770" title="Screen shot 2012-04-25 at 7.46.23 AM" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/04/Screen-shot-2012-04-25-at-7.46.23-AM.png" alt="" width="521" height="305" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/04/Screen-shot-2012-04-25-at-7.46.23-AM.png)
 
 &nbsp;
 
 This is one of my other favorite tweets:
 
-[<img class="aligncenter size-full wp-image-6767" title="Screen shot 2012-04-24 at 7.37.26 AM" src="http://blog.vickiboykis.com/wp-content/uploads/2012/04/Screen-shot-2012-04-24-at-7.37.26-AM1.png" alt="" width="408" height="208" />](http://blog.vickiboykis.com/wp-content/uploads/2012/04/Screen-shot-2012-04-24-at-7.37.26-AM1.png)
+[<img class="aligncenter size-full wp-image-6767" title="Screen shot 2012-04-24 at 7.37.26 AM" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/04/Screen-shot-2012-04-24-at-7.37.26-AM1.png" alt="" width="408" height="208" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/04/Screen-shot-2012-04-24-at-7.37.26-AM1.png)
 
 &nbsp;
 
@@ -83,7 +83,7 @@ This is one of my other favorite tweets:
 </p>
 
 <p style="text-align: left;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2012/04/Screen-shot-2012-04-25-at-7.51.33-AM.png"><img class="aligncenter size-full wp-image-6772" title="Screen shot 2012-04-25 at 7.51.33 AM" src="http://blog.vickiboykis.com/wp-content/uploads/2012/04/Screen-shot-2012-04-25-at-7.51.33-AM.png" alt="" width="525" height="260" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/04/Screen-shot-2012-04-25-at-7.51.33-AM.png"><img class="aligncenter size-full wp-image-6772" title="Screen shot 2012-04-25 at 7.51.33 AM" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/04/Screen-shot-2012-04-25-at-7.51.33-AM.png" alt="" width="525" height="260" /></a>
 </p>
 
 <p style="text-align: left;">
@@ -91,7 +91,7 @@ This is one of my other favorite tweets:
 </p>
 
 <p style="text-align: left;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2012/04/Screen-shot-2012-04-25-at-7.50.38-AM.png"><img class="aligncenter size-full wp-image-6771" title="Screen shot 2012-04-25 at 7.50.38 AM" src="http://blog.vickiboykis.com/wp-content/uploads/2012/04/Screen-shot-2012-04-25-at-7.50.38-AM.png" alt="" width="532" height="205" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/04/Screen-shot-2012-04-25-at-7.50.38-AM.png"><img class="aligncenter size-full wp-image-6771" title="Screen shot 2012-04-25 at 7.50.38 AM" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/04/Screen-shot-2012-04-25-at-7.50.38-AM.png" alt="" width="532" height="205" /></a>
 </p>
 
 <p style="text-align: left;">

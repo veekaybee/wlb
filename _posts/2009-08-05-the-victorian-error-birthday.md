@@ -21,7 +21,7 @@ _Today is my birthday.  I&#8217;ve decided to celebrate by remembering  birthd
 This particular birthday took place in Israel, when I was interning for [Bank HaPoalim](http://www.bankhapoalim.com/), the biggest bank in Israel and also the biggest provider of yummy after-lunch snacks in the country.  At the time, I was living with three roommates, also on the internship, and we were in a semi-contentious state.
 
 <p style="text-align: center;">
-  <img class="aligncenter size-full wp-image-967" title="2183485510075656412nvlfqw_ph" src="http://blog.vickiboykis.com/wp-content/uploads/2009/08/2183485510075656412nvlfqw_ph.jpg" alt="2183485510075656412nvlfqw_ph" width="520" height="390" /><strong>The snack in question</strong>
+  <img class="aligncenter size-full wp-image-967" title="2183485510075656412nvlfqw_ph" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/08/2183485510075656412nvlfqw_ph.jpg" alt="2183485510075656412nvlfqw_ph" width="520" height="390" /><strong>The snack in question</strong>
 </p>
 
 <p style="text-align: left;">
@@ -30,7 +30,7 @@ This particular birthday took place in Israel, when I was interning for [Bank Ha
 
 Nevertheless, we&#8217;d agreed previously that we&#8217;d all go out for my birthday.  Since it had been a little hard for me to accommodate to their dietary needs and miss out on great Tel Aviv eating opportunities when I was more flexible, we&#8217;d agreed to go to a place I was interested in.  The place I was interested in was a Russian restaurant, becuase, no matter which country they are in, Russian restaurants offer an authentic dining experience that I didn&#8217;t think my roommates would get anywhere else.
 
-[<img class="aligncenter size-full wp-image-968" title="2550097080075656412dxewbp_ph" src="http://blog.vickiboykis.com/wp-content/uploads/2009/08/2550097080075656412dxewbp_ph.jpg" alt="2550097080075656412dxewbp_ph" width="608" height="456" />](http://blog.vickiboykis.com/wp-content/uploads/2009/08/2550097080075656412dxewbp_ph.jpg)
+[<img class="aligncenter size-full wp-image-968" title="2550097080075656412dxewbp_ph" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/08/2550097080075656412dxewbp_ph.jpg" alt="2550097080075656412dxewbp_ph" width="608" height="456" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/08/2550097080075656412dxewbp_ph.jpg)
 
 <p style="text-align: center;">
   <strong>The den of debauchery</strong>
@@ -39,7 +39,7 @@ Nevertheless, we&#8217;d agreed previously that we&#8217;d all go out for my bir
 The day of my birthday, we&#8217;d already gotten in several spats. One of these spats resulted from the fact that I told them the Russian restaurant might not be kosher, and who were they to regulate me on my birthday. I was feeling bitter, so I decided to start the night off early with some drinks.  For some reason, we had two bottles of vodka in the refrigerator (and not much else.)  I drank two shots.  I almost keeled over.  Tense, the four of us left.
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2009/08/2288485300075656412iipqhi_ph.jpg"><img class="aligncenter size-full wp-image-971" title="2288485300075656412iipqhi_ph" src="http://blog.vickiboykis.com/wp-content/uploads/2009/08/2288485300075656412iipqhi_ph.jpg" alt="2288485300075656412iipqhi_ph" width="539" height="404" /></a><strong>The view from our apartment.</strong>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/08/2288485300075656412iipqhi_ph.jpg"><img class="aligncenter size-full wp-image-971" title="2288485300075656412iipqhi_ph" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/08/2288485300075656412iipqhi_ph.jpg" alt="2288485300075656412iipqhi_ph" width="539" height="404" /></a><strong>The view from our apartment.</strong>
 </p>
 
 I stumbled up the street to the Russian restaurant, roommates in tow, an angry fog forming in my brain. I decided I would ask the place about its  menu to make sure the roommates could eat there. I opened the door to the restaurant.  A wave of techno music blasted me right back out into the street.  Through my buzz, I could see well-dressed Russians looking at me like I was crazy.  The roommates followed meekly behind.  I walked up to the woman taking reservations.  &#8220;Are you a kosher restaurant,&#8221; I slurred to her, my eyes not quite focusing on the menu.

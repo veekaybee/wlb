@@ -17,7 +17,7 @@ tags:
   - writing
 ---
 <p style="text-align: left;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2010/05/editorial.jpg"><img class="aligncenter size-full wp-image-2991" title="editorial" src="http://blog.vickiboykis.com/wp-content/uploads/2010/05/editorial.jpg" alt="" width="642" height="353" /></a>I wrote a piece for work for industry publication<a href="http://www.americanshipper.com/newweb/index.asp"> American Shipper</a>, which <a href="http://www.americanshipper.com/NewWeb/reports/index.asp">you can read here</a>, under &#8220;Trade Forecast 2010&#8243; (requires registration but is free.) I&#8217;m pretty proud of it.
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/05/editorial.jpg"><img class="aligncenter size-full wp-image-2991" title="editorial" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/05/editorial.jpg" alt="" width="642" height="353" /></a>I wrote a piece for work for industry publication<a href="http://www.americanshipper.com/newweb/index.asp"> American Shipper</a>, which <a href="http://www.americanshipper.com/NewWeb/reports/index.asp">you can read here</a>, under &#8220;Trade Forecast 2010&#8243; (requires registration but is free.) I&#8217;m pretty proud of it.
 </p>
 
 <p style="text-align: left;">

@@ -25,7 +25,7 @@ EDIT: Thanks to Matt for pointing out that it was NOT rotoscoping, as I initiall
 It begins as he meets with a friend in a bar who keeps having a recurring dream of exactly 26 dogs chasing him. It turns out that this is a repression of memories of what he did during the war, which was shoot dogs near terrorist&#8217;s houses, dogs that were put there on purpose to bark and notify inhabitants of approaching Israeli soldiers.
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2009/01/waltz_with_bashir1.jpg"><img class="size-full wp-image-97 aligncenter" title="waltz_with_bashir1" src="http://blog.vickiboykis.com/wp-content/uploads/2009/01/waltz_with_bashir1.jpg" alt="waltz_with_bashir1" width="290" height="163" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/01/waltz_with_bashir1.jpg"><img class="size-full wp-image-97 aligncenter" title="waltz_with_bashir1" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/01/waltz_with_bashir1.jpg" alt="waltz_with_bashir1" width="290" height="163" /></a>
 </p>
 
 When his friend asks Ari about what he remembers from the war, Ari says he doesn&#8217;t remember anything. It&#8217;s all blocked out because of the enormity of the trauma. To rediscover what he&#8217;s blocked out, he talks to friends that he was with during the war.
@@ -33,7 +33,7 @@ When his friend asks Ari about what he remembers from the war, Ari says he doesn
 As he talks to them, they tell their stories of what happened when they were drafted in &#8217;82 and sent to Lebanon. And through this, he pieces together what happened to him, particularly with regard to his implicit participation or non-participation in the [massacre of Palestinian civilians at the Sabra and Shatila](http://en.wikipedia.org/wiki/Sabra_and_Shatila_massacre) refugee camps.
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2009/02/waltz-with-bashir-001-433.jpg"><img class="size-full wp-image-102 aligncenter" title="waltz-with-bashir" src="http://blog.vickiboykis.com/wp-content/uploads/2009/02/waltz-with-bashir-001-433.jpg" alt="waltz-with-bashir" width="380" height="287" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/02/waltz-with-bashir-001-433.jpg"><img class="size-full wp-image-102 aligncenter" title="waltz-with-bashir" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/02/waltz-with-bashir-001-433.jpg" alt="waltz-with-bashir" width="380" height="287" /></a>
 </p>
 
 > Let me pause here for a minute to discuss what are my personal convictions on this matter.  Obviously, they don&#8217;t account for much because I don&#8217;t actually live in Israel or have (much to my regret) served in the Israeli army.  So, my opinion is much less valid than those who have.   I think that Israelis going into Lebanon were somewhat justified, but that also it was an attempt at show of bravado for Sharon and Begin, who weren&#8217;t used to fighting wars they couldn&#8217;t win.
@@ -57,7 +57,7 @@ In the end, this movie, to me, was not about whether Israel was right or wrong, 
 A beautiful, haunting shot of Beirut from the movie.  I think Folman&#8217;s decision to animate it made it all the more powerful. The soundtrack was also exactly what was needed.
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2009/02/1.jpg"><img class="size-full wp-image-100 aligncenter" title="1" src="http://blog.vickiboykis.com/wp-content/uploads/2009/02/1.jpg" alt="1" width="400" height="215" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/02/1.jpg"><img class="size-full wp-image-100 aligncenter" title="1" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/02/1.jpg" alt="1" width="400" height="215" /></a>
 </p>
 
 <p style="text-align: left;">

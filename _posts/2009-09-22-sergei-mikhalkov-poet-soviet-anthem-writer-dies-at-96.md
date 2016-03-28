@@ -15,7 +15,7 @@ tags:
   - Russia
 ---
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2009/09/sergei_mikhaklov-son.jpg"><img class="aligncenter size-full wp-image-1296" title="sergei_mikhaklov son" src="http://blog.vickiboykis.com/wp-content/uploads/2009/09/sergei_mikhaklov-son.jpg" alt="sergei_mikhaklov son" width="358" height="512" /></a>source: visualrian.com
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/09/sergei_mikhaklov-son.jpg"><img class="aligncenter size-full wp-image-1296" title="sergei_mikhaklov son" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/09/sergei_mikhaklov-son.jpg" alt="sergei_mikhaklov son" width="358" height="512" /></a>source: visualrian.com
 </p>
 
 Thanks to [Atul Acharya](http://innowiser.com/blog/) ([@atulacharya](http://twitter.com/atulacharya)) for pointing out this link to me in [The Economist](http://www.economist.com/obituary/displaystory.cfm?story_id=14400914), about Sergei Mikhalkov.  He then asked for my reaction.  Too bad I had no idea who Sergei Mikhalkov was, although the name sounded familiar.  It turns out that ,

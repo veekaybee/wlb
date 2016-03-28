@@ -20,7 +20,7 @@ Are you guys <a href="http://www.sheepsheadbites.com/2011/07/first-look-russian-
 
 I don&#8217;t think I&#8217;m ready.
 
-[<img class="aligncenter size-full wp-image-5365" title="Screen shot 2011-07-26 at 11.45.53 AM" src="http://blog.vickiboykis.com/wp-content/uploads/2011/07/Screen-shot-2011-07-26-at-11.45.53-AM.png" alt="" width="571" height="484" />](http://blog.vickiboykis.com/wp-content/uploads/2011/07/Screen-shot-2011-07-26-at-11.45.53-AM.png)
+[<img class="aligncenter size-full wp-image-5365" title="Screen shot 2011-07-26 at 11.45.53 AM" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/07/Screen-shot-2011-07-26-at-11.45.53-AM.png" alt="" width="571" height="484" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/07/Screen-shot-2011-07-26-at-11.45.53-AM.png)
 
 &nbsp;
 

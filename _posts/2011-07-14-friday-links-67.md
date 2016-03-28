@@ -13,7 +13,7 @@ tags:
   - comic
   - Friday
 ---
-[<img class="aligncenter size-full wp-image-5292" title="Page_1" src="http://blog.vickiboykis.com/wp-content/uploads/2011/07/Page_1.jpg" alt="" width="400" height="3000" />](http://blog.vickiboykis.com/wp-content/uploads/2011/07/Page_1.jpg)
+[<img class="aligncenter size-full wp-image-5292" title="Page_1" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/07/Page_1.jpg" alt="" width="400" height="3000" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/07/Page_1.jpg)
 
 Links:
 

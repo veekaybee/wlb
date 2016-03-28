@@ -19,7 +19,7 @@ We interrupt this blog for a SERIOUSBUSINESS post on economics.
 I&#8217;ve been <a href="https://plus.google.com/u/0/109559468956003699562/" target="_blank">on Google+</a> for about two weeks now, and I&#8217;m really hoping everyone switches over from Facebook, if only because you can get quality conversations like this (and also <a href="http://techplugged.com/2011/07/11/google-plus-supports-animated-gif%E2%80%99s-takes-back-to-geocities-era/" target="_blank">for the animated GIFs</a>)
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2011/07/Screen-shot-2011-07-19-at-8.34.08-AM.png"><img class="aligncenter size-full wp-image-5325" title="Screen shot 2011-07-19 at 8.34.08 AM" src="http://blog.vickiboykis.com/wp-content/uploads/2011/07/Screen-shot-2011-07-19-at-8.34.08-AM.png" alt="" width="550" height="454" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/07/Screen-shot-2011-07-19-at-8.34.08-AM.png"><img class="aligncenter size-full wp-image-5325" title="Screen shot 2011-07-19 at 8.34.08 AM" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/07/Screen-shot-2011-07-19-at-8.34.08-AM.png" alt="" width="550" height="454" /></a>
 </p>
 
 &nbsp;

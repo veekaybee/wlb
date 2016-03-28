@@ -21,6 +21,6 @@ Well, now I&#8217;ve handed it over to Editor Vicki for the first round of revis
 
 Editor Vicki is evil, and she kills my will to live with her frequent, nasty comments,
 
-[<img class="aligncenter size-full wp-image-2377" title="64957105" src="http://blog.vickiboykis.com/wp-content/uploads/2010/02/64957105.png" alt="" width="600" height="453" />](http://blog.vickiboykis.com/wp-content/uploads/2010/02/64957105.png)
+[<img class="aligncenter size-full wp-image-2377" title="64957105" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/02/64957105.png" alt="" width="600" height="453" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/02/64957105.png)
 
 If my editor doesn&#8217;t cut out making these depraved remarks, I am going to have to fire her.  Or maybe stab her.  Because I don&#8217;t see how else I can keep working on my manuscript without _constructive_ criticism.

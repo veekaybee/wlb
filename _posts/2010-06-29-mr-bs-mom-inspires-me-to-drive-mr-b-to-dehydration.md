@@ -11,7 +11,7 @@ categories:
 ---
 Somehow, I talked Mr. B into running [Somehow, I talked Mr. B into running](http://www.active.com/running/washington-crossing-pa/revolutionary-run-2010) with me on July 4.  Also, Mr. B&#8217;s mom.  My parents declined to participate, despite the fact that they also run and bike actively, probably because they are intimidated by Mr. B&#8217;s mom:
 
-[<img class="aligncenter size-full wp-image-3226" title="IMAG0123" src="http://blog.vickiboykis.com/wp-content/uploads/2010/06/IMAG0123.jpg" alt="" width="307" height="512" />](http://blog.vickiboykis.com/wp-content/uploads/2010/06/IMAG0123.jpg)
+[<img class="aligncenter size-full wp-image-3226" title="IMAG0123" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/06/IMAG0123.jpg" alt="" width="307" height="512" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/06/IMAG0123.jpg)
 
 That&#8217;s her beasting before we went biking together last month.  I have to admit that I am terrified of her.  Not only has she has proven her [mental prowess](http://blog.vickiboykis.com/2010/03/08/a-conversation-with-my-parents-about-india/), she bikes 30 miles per week in addition to tennis and running.
 
@@ -19,7 +19,7 @@ This woman will be running the 5k with us. And she will place ahead of both of 
 
 So, to train and to not be embarrassed, I prodded Mr. B to bike along along the [Mount Vernon trail](http://bikewashington.org/trails/vernon/index.php) last Saturday.
 
-<img class="aligncenter size-full wp-image-3231" title="IMAG0171" src="http://blog.vickiboykis.com/wp-content/uploads/2010/06/IMAG0171.jpg" alt="" width="307" height="512" />
+<img class="aligncenter size-full wp-image-3231" title="IMAG0171" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/06/IMAG0171.jpg" alt="" width="307" height="512" />
 
 The only problem was, by the time we&#8217;d eaten breakfast and walked to the bike rental place (a mile away), it was already 11:30 on a June Saturday in Heatwavington, D.C., and I could feel my skin melting into the sidewalk.  By the time we got on the trail, it was about 95 degrees Fahrenheit and, even though we were drinking water, that water was completing the hydration cycle quickly by going right into the pavement via our sweat.
 
@@ -28,7 +28,7 @@ After an hour, we&#8217;d only gone about 10 miles and had to head back to the b
 I honestly could have gone further, mainly because I had this mental picture, the mental picture of a woman about to crush you.
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2010/06/IMAG0123.jpg"><img class="aligncenter" title="IMAG0123" src="http://blog.vickiboykis.com/wp-content/uploads/2010/06/IMAG0123.jpg" alt="" width="307" height="512" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/06/IMAG0123.jpg"><img class="aligncenter" title="IMAG0123" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/06/IMAG0123.jpg" alt="" width="307" height="512" /></a>
 </p>
 
 Mr. B and I recovered, but I don&#8217;t know how we&#8217;ll fare in the 5k this weekend.  I&#8217;m not too worried, though, because I think if we pass out, Mr. B&#8217;s mom will pick both of us up and run with us over her shoulders.  It&#8217;ll be more challenging and enjoyable  for her that way.

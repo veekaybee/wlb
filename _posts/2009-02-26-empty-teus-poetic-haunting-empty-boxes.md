@@ -18,7 +18,7 @@ One of the things I track at work are the movements of  TEUs ([twenty-food equi
 
 <p style="text-align: center;">
   <div id="attachment_162" style="width: 471px" class="wp-caption aligncenter">
-    <a href="http://blog.vickiboykis.com/wp-content/uploads/2009/02/container_01_kmj.jpg"><img class="size-full wp-image-162" title="container_01_kmj" src="http://blog.vickiboykis.com/wp-content/uploads/2009/02/container_01_kmj.jpg" alt="From Wikimedia Commons" width="461" height="344" /></a>
+    <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/02/container_01_kmj.jpg"><img class="size-full wp-image-162" title="container_01_kmj" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/02/container_01_kmj.jpg" alt="From Wikimedia Commons" width="461" height="344" /></a>
     
     <p class="wp-caption-text">
       From Wikimedia Commons
@@ -30,7 +30,7 @@ One of the things I track at work are the movements of  TEUs ([twenty-food equi
   </p>
   
   <div id="attachment_163" style="width: 556px" class="wp-caption aligncenter">
-    <a href="http://blog.vickiboykis.com/wp-content/uploads/2009/02/teus.jpg"><img class="size-full wp-image-163" title="teus" src="http://blog.vickiboykis.com/wp-content/uploads/2009/02/teus.jpg" alt="From the Port of YanTian in China" width="546" height="361" /></a>
+    <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/02/teus.jpg"><img class="size-full wp-image-163" title="teus" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/02/teus.jpg" alt="From the Port of YanTian in China" width="546" height="361" /></a>
     
     <p class="wp-caption-text">
       From the Port of YanTian in Chin, cargonewsasia.com
@@ -38,7 +38,7 @@ One of the things I track at work are the movements of  TEUs ([twenty-food equi
   </div>
   
   <div id="attachment_164" style="width: 585px" class="wp-caption aligncenter">
-    <a href="http://blog.vickiboykis.com/wp-content/uploads/2009/02/0218pod13.jpg"><img class="size-full wp-image-164" title="HONGKONG" src="http://blog.vickiboykis.com/wp-content/uploads/2009/02/0218pod13.jpg" alt="HONGKONG" width="575" height="380" /></a>
+    <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/02/0218pod13.jpg"><img class="size-full wp-image-164" title="HONGKONG" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/02/0218pod13.jpg" alt="HONGKONG" width="575" height="380" /></a>
     
     <p class="wp-caption-text">
       TEUs pile up in the port of Hong Kong. Reuters via WSJ Photo of the Day.
@@ -47,7 +47,7 @@ One of the things I track at work are the movements of  TEUs ([twenty-food equi
   
   <p style="text-align: center;">
     <div id="attachment_165" style="width: 365px" class="wp-caption aligncenter">
-      <a href="http://blog.vickiboykis.com/wp-content/uploads/2009/02/teus2.jpg"><img class="size-full wp-image-165" title="teus2" src="http://blog.vickiboykis.com/wp-content/uploads/2009/02/teus2.jpg" alt="From AFP" width="355" height="236" /></a>
+      <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/02/teus2.jpg"><img class="size-full wp-image-165" title="teus2" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/02/teus2.jpg" alt="From AFP" width="355" height="236" /></a>
       
       <p class="wp-caption-text">
         From AFP

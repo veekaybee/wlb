@@ -16,7 +16,7 @@ tags:
 I have become one of Those People.  The Bluetooth people.
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2010/12/Photo-on-2010-12-20-at-21.33.jpg"><img class="aligncenter size-full wp-image-4068" title="Photo on 2010-12-20 at 21.33" src="http://blog.vickiboykis.com/wp-content/uploads/2010/12/Photo-on-2010-12-20-at-21.33.jpg" alt="" width="358" height="316" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/12/Photo-on-2010-12-20-at-21.33.jpg"><img class="aligncenter size-full wp-image-4068" title="Photo on 2010-12-20 at 21.33" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/12/Photo-on-2010-12-20-at-21.33.jpg" alt="" width="358" height="316" /></a>
 </p>
 
 Pennsylvania&#8217;s driving laws have become so Draconian that they now require you to have a headset while you&#8217;re driving and using the cell phone.  Although this rule has been in enforcement in the free world (aka Israel) since the beginning of time or approximately 2000, whichever happened first, it was only a couple years ago that New York became the first state to start this insanity here.

@@ -31,34 +31,34 @@ Today, I thought it would be fun to share the iterations I made in creating the 
 
 My first draft was really serious and rigid. And my title was So Serious.   So here&#8217;s the first cover I made, using one of my own photographs of Loch Ness:  Very <a href="http://upload.wikimedia.org/wikipedia/en/7/78/Jonathan-franzen-freedom.jpg" target="_blank">Franzen</a>, no?  I knew I wanted to use blue since it&#8217;s both a Scottish and Israeli color. It&#8217;s also my favorite color. I also knew I wanted the Scottish flag in there somewhere, but not to be too blatantly obvious.
 
-[<img class="aligncenter size-full wp-image-6669" title="ScotlandCover" src="http://blog.vickiboykis.com/wp-content/uploads/2012/04/ScotlandCover.png" alt="" width="385" height="553" />](http://blog.vickiboykis.com/wp-content/uploads/2012/04/ScotlandCover.png)
+[<img class="aligncenter size-full wp-image-6669" title="ScotlandCover" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/04/ScotlandCover.png" alt="" width="385" height="553" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/04/ScotlandCover.png)
 
 &nbsp;
 
 Then, right after I decided I loved it, I knew it had to change. Because it&#8217;s way too much text and no one can see anything.  So I picked another image that I&#8217;d taken that I really liked, of a statue juxtaposed with Edinburgh Castle. By that time, I&#8217;d been struggling with a title for three weeks, and I started brainstorming for something better.  You can kind of still see the flag from the previous cover. I was ambivalent about leaving it in.  But at least I was loosening up in my writing.
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2012/04/ScotlandCover_5.png"><img class="aligncenter  wp-image-6670" title="ScotlandCover_5" src="http://blog.vickiboykis.com/wp-content/uploads/2012/04/ScotlandCover_5.png" alt="" width="480" height="640" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/04/ScotlandCover_5.png"><img class="aligncenter  wp-image-6670" title="ScotlandCover_5" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/04/ScotlandCover_5.png" alt="" width="480" height="640" /></a>
 </p>
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2012/04/ScotlandCover_4.png"><img class="aligncenter  wp-image-6671" title="ScotlandCover_4" src="http://blog.vickiboykis.com/wp-content/uploads/2012/04/ScotlandCover_4.png" alt="" width="480" height="640" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/04/ScotlandCover_4.png"><img class="aligncenter  wp-image-6671" title="ScotlandCover_4" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/04/ScotlandCover_4.png" alt="" width="480" height="640" /></a>
 </p>
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2012/04/ScotlandCover_6.png"><img class="aligncenter  wp-image-6672" title="ScotlandCover_6" src="http://blog.vickiboykis.com/wp-content/uploads/2012/04/ScotlandCover_6.png" alt="" width="480" height="640" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/04/ScotlandCover_6.png"><img class="aligncenter  wp-image-6672" title="ScotlandCover_6" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/04/ScotlandCover_6.png" alt="" width="480" height="640" /></a>
 </p>
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2012/04/ScotlandCover_3.png"><img class="aligncenter  wp-image-6673" title="ScotlandCover_3" src="http://blog.vickiboykis.com/wp-content/uploads/2012/04/ScotlandCover_3.png" alt="" width="480" height="640" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/04/ScotlandCover_3.png"><img class="aligncenter  wp-image-6673" title="ScotlandCover_3" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/04/ScotlandCover_3.png" alt="" width="480" height="640" /></a>
 </p>
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2012/04/ScotlandCover_11.png"><img class="aligncenter  wp-image-6675" title="ScotlandCover_11" src="http://blog.vickiboykis.com/wp-content/uploads/2012/04/ScotlandCover_11.png" alt="" width="480" height="640" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/04/ScotlandCover_11.png"><img class="aligncenter  wp-image-6675" title="ScotlandCover_11" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/04/ScotlandCover_11.png" alt="" width="480" height="640" /></a>
 </p>
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2012/04/ScotlandCover_9.png"><img class="aligncenter  wp-image-6680" title="ScotlandCover_9" src="http://blog.vickiboykis.com/wp-content/uploads/2012/04/ScotlandCover_9.png" alt="" width="480" height="640" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/04/ScotlandCover_9.png"><img class="aligncenter  wp-image-6680" title="ScotlandCover_9" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/04/ScotlandCover_9.png" alt="" width="480" height="640" /></a>
 </p>
 
 <p style="text-align: left;">
@@ -66,7 +66,7 @@ Then, right after I decided I loved it, I knew it had to change. Because it&#821
 </p>
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2012/04/ScotlandCover_Vodka.jpg"><img class="aligncenter  wp-image-6674" title="ScotlandCover_Vodka" src="http://blog.vickiboykis.com/wp-content/uploads/2012/04/ScotlandCover_Vodka.jpg" alt="" width="480" height="640" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/04/ScotlandCover_Vodka.jpg"><img class="aligncenter  wp-image-6674" title="ScotlandCover_Vodka" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/04/ScotlandCover_Vodka.jpg" alt="" width="480" height="640" /></a>
 </p>
 
 <p style="text-align: left;">
@@ -74,13 +74,13 @@ Then, right after I decided I loved it, I knew it had to change. Because it&#821
 </p>
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2012/04/ScotlandCover_8-copy-2.png"><img class="aligncenter  wp-image-6676" title="ScotlandCover_8 copy 2" src="http://blog.vickiboykis.com/wp-content/uploads/2012/04/ScotlandCover_8-copy-2.png" alt="" width="480" height="640" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/04/ScotlandCover_8-copy-2.png"><img class="aligncenter  wp-image-6676" title="ScotlandCover_8 copy 2" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/04/ScotlandCover_8-copy-2.png" alt="" width="480" height="640" /></a>
 </p>
 
 But I also knew that it had to be a quirky font. The cover was also too light. Too hipster.   I tried brush strokes first.  Too Amy Tan.
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2012/04/ScotlandCover_8-copy-3.png"><img class="aligncenter  wp-image-6677" title="ScotlandCover_8 copy 3" src="http://blog.vickiboykis.com/wp-content/uploads/2012/04/ScotlandCover_8-copy-3.png" alt="" width="480" height="640" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/04/ScotlandCover_8-copy-3.png"><img class="aligncenter  wp-image-6677" title="ScotlandCover_8 copy 3" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/04/ScotlandCover_8-copy-3.png" alt="" width="480" height="640" /></a>
 </p>
 
 <p style="text-align: left;">
@@ -88,7 +88,7 @@ But I also knew that it had to be a quirky font. The cover was also too light. T
 </p>
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2012/04/ScotlandCover_8-copy-4.jpg"><img class="aligncenter  wp-image-6678" title="ScotlandCover_8 copy 4" src="http://blog.vickiboykis.com/wp-content/uploads/2012/04/ScotlandCover_8-copy-4.jpg" alt="" width="480" height="640" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/04/ScotlandCover_8-copy-4.jpg"><img class="aligncenter  wp-image-6678" title="ScotlandCover_8 copy 4" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/04/ScotlandCover_8-copy-4.jpg" alt="" width="480" height="640" /></a>
 </p>
 
 <p style="text-align: left;">
@@ -96,7 +96,7 @@ But I also knew that it had to be a quirky font. The cover was also too light. T
 </p>
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2012/04/ScotlandCover.jpg"><img class="aligncenter  wp-image-6679" title="ScotlandCover" src="http://blog.vickiboykis.com/wp-content/uploads/2012/04/ScotlandCover.jpg" alt="" width="480" height="640" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/04/ScotlandCover.jpg"><img class="aligncenter  wp-image-6679" title="ScotlandCover" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/04/ScotlandCover.jpg" alt="" width="480" height="640" /></a>
 </p>
 
 &nbsp;

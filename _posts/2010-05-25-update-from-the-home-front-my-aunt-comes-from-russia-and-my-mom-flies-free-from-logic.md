@@ -17,7 +17,7 @@ tags:
 Today, a two-for-the-price of one story treat.
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2010/05/DSC_0085.jpg"><img class="aligncenter size-full wp-image-2996" title="DSC_0085" src="http://blog.vickiboykis.com/wp-content/uploads/2010/05/DSC_0085.jpg" alt="" width="476" height="384" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/05/DSC_0085.jpg"><img class="aligncenter size-full wp-image-2996" title="DSC_0085" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/05/DSC_0085.jpg" alt="" width="476" height="384" /></a>
 </p>
 
 <p style="text-align: center;">
@@ -62,7 +62,7 @@ Today, a two-for-the-price of one story treat.
   </p>
   
   <p style="text-align: center;">
-    <a href="http://blog.vickiboykis.com/wp-content/uploads/2010/05/DSC_0087.jpg"><img class="aligncenter size-full wp-image-2997" title="DSC_0087" src="http://blog.vickiboykis.com/wp-content/uploads/2010/05/DSC_0087.jpg" alt="" width="541" height="360" /></a>
+    <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/05/DSC_0087.jpg"><img class="aligncenter size-full wp-image-2997" title="DSC_0087" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/05/DSC_0087.jpg" alt="" width="541" height="360" /></a>
   </p>
   
   <p style="text-align: left;">

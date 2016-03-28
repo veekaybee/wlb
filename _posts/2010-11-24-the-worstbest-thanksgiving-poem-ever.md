@@ -18,7 +18,7 @@ tags:
   - thanksgiving
 ---
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2010/11/Screen-shot-2010-11-24-at-8.12.58-AM.png"><img class="aligncenter size-full wp-image-3927" title="Screen shot 2010-11-24 at 8.12.58 AM" src="http://blog.vickiboykis.com/wp-content/uploads/2010/11/Screen-shot-2010-11-24-at-8.12.58-AM.png" alt="" width="310" height="415" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/11/Screen-shot-2010-11-24-at-8.12.58-AM.png"><img class="aligncenter size-full wp-image-3927" title="Screen shot 2010-11-24 at 8.12.58 AM" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/11/Screen-shot-2010-11-24-at-8.12.58-AM.png" alt="" width="310" height="415" /></a>
 </p>
 
 <p style="text-align: center;">

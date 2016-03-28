@@ -17,7 +17,7 @@ tags:
   - women
 ---
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2011/02/wpid-IMAG0625.jpg"><img class="aligncenter size-full wp-image-4403" title="wpid-IMAG0625.jpg" src="http://blog.vickiboykis.com/wp-content/uploads/2011/02/wpid-IMAG0625.jpg" alt="" width="350" height="583" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/02/wpid-IMAG0625.jpg"><img class="aligncenter size-full wp-image-4403" title="wpid-IMAG0625.jpg" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/02/wpid-IMAG0625.jpg" alt="" width="350" height="583" /></a>
 </p>
 
 Dambisa Moyo is [crazy smart](http://en.wikipedia.org/wiki/Dambisa_Moyo).  Also, she does everything I want to be doing with my life (except with the former Soviet Union instead of Africa.)  Except for blog about Nutella.  I one-upped her on that.
@@ -27,7 +27,7 @@ So when I found out she was coming to the Hinterland, I took myself on a sushi-l
 She was at the [Free Library](http://libwww.freelibrary.org/authorevents/) two weeks ago as part of her kick-off book tour for [her new book](http://dambisamoyo.com/books/?book=how-the-west-was-lost) and to do a recap of Dead Aid, the book for which she became controversially successful.  Her main thesis is that African countries should be weaned off IMF and World Bank because these banks do more to hurt than to help with regards to foreign aid, and her new book talks about the Apocalypse, I mean the Recession.  While the IMF and World Bank are frequently pilloried in international development circles, it&#8217;s not something that comes across as much in the mainstream media and I think the fact that she is OMGAfrican and an OMGWoman means that she gets more attention. Maybe.
 
 While I was interested in everything she was saying, what  was equally interesting was how confident she was in her assertions [<p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2011/02/wpid-IMAG0625.jpg"><img class="aligncenter size-full wp-image-4403" title="wpid-IMAG0625.jpg" src="http://blog.vickiboykis.com/wp-content/uploads/2011/02/wpid-IMAG0625.jpg" alt="" width="350" height="583" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/02/wpid-IMAG0625.jpg"><img class="aligncenter size-full wp-image-4403" title="wpid-IMAG0625.jpg" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/02/wpid-IMAG0625.jpg" alt="" width="350" height="583" /></a>
 </p>
 
 Dambisa Moyo is [crazy smart](http://en.wikipedia.org/wiki/Dambisa_Moyo).  Also, she does everything I want to be doing with my life (except with the former Soviet Union instead of Africa.)  Except for blog about Nutella.  I one-upped her on that.

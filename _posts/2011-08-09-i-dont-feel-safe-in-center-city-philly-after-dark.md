@@ -15,7 +15,7 @@ tags:
 ---
 Two Fridays ago, Mr. B and I took his mom out for her birthday, to <a href="http://www.almadecubarestaurant.com/" target="_blank">Alma de Cuba</a> in <a href="http://www.centercityphila.org/" target="_blank">Center City</a> Philly around 7:30 pm. The goal was for her to relax and enjoy.  We had an excellent dinner, followed by <a href="http://www.tfyogurt.com/" target="_blank">frozen yogurt down the street</a>. A mojito and two cocktails later between the three of us, we were pretty relaxed. By the time we were leaving to head back to our car, parked in a garage at <a href="http://www.shopsatliberty.com/" target="_blank">Liberty Shops</a>,  it was really dark out, maybe 9:30 or so. While there were definitely some people walking around, it wasn&#8217;t too crowded.
 
-[<img class="aligncenter size-full wp-image-5525" title="IMAG0909" src="http://blog.vickiboykis.com/wp-content/uploads/2011/08/IMAG0909.jpg" alt="" width="240" height="400" />](http://blog.vickiboykis.com/wp-content/uploads/2011/08/IMAG0909.jpg)
+[<img class="aligncenter size-full wp-image-5525" title="IMAG0909" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/08/IMAG0909.jpg" alt="" width="240" height="400" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/08/IMAG0909.jpg)
 
 As we turned onto 16th Street from Walnut Street, all of a sudden, a group what I thought to be maybe 30 or 40 pre-teen and teenage kids, mostly black, although maybe some others as well, rounded the corner and moved at us.
 

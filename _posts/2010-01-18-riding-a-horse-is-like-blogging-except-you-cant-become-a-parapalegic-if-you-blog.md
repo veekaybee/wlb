@@ -19,15 +19,15 @@ tags:
 ---
 This Saturday, when the weather decided to become more clement (see chart of weather clement-ness below,) Mr. B and I went horseback riding in Virginia.  My friend Christina is an avid rider and in the process of purchasing a horse, and she wanted to go see it this weekend, so I asked if we could tag along.
 
-[<img class="aligncenter size-full wp-image-2123" title="Weather" src="http://blog.vickiboykis.com/wp-content/uploads/2010/01/Weather.png" alt="" width="492" height="436" />](http://blog.vickiboykis.com/wp-content/uploads/2010/01/Weather.png)
+[<img class="aligncenter size-full wp-image-2123" title="Weather" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/01/Weather.png" alt="" width="492" height="436" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/01/Weather.png)
 
 We&#8217;d been riding before, once in the Golan Heights at [Vered HaGalil](http://www.veredhagalil.com/) and once in Bucks County, Pennsylvania, and we liked it a lot, so we were really excited to go to [JAS Stables](http://www.jasstables.com/JAS_Stables/Home.html) where we actually got to learn how to brush horses and do horse-related things like try to feed them candy which they love, unless apparently they are being fed by one of us.
 
-[<img class="aligncenter size-full wp-image-2133" title="Picture 3" src="http://blog.vickiboykis.com/wp-content/uploads/2010/01/Picture-3.png" alt="" width="664" height="501" />](http://blog.vickiboykis.com/wp-content/uploads/2010/01/Picture-3.png)
+[<img class="aligncenter size-full wp-image-2133" title="Picture 3" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/01/Picture-3.png" alt="" width="664" height="501" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/01/Picture-3.png)
 
 However, for some reason, I had a sense of foreboding that would, I thought, lead to imminent death, mostly because I was afraid I&#8217;d end up like Christopher Reeve.
 
-[<img class="aligncenter size-full wp-image-2132" title="horsie" src="http://blog.vickiboykis.com/wp-content/uploads/2010/01/horsie.jpg" alt="" width="604" height="339" />](http://blog.vickiboykis.com/wp-content/uploads/2010/01/horsie.jpg)
+[<img class="aligncenter size-full wp-image-2132" title="horsie" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/01/horsie.jpg" alt="" width="604" height="339" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/01/horsie.jpg)
 
 Even though Jon, one of the owners of the stables, is awesome and extremely safety-conscious, I am always paranoid in that I, like [Shalom Auslander](http://en.wikipedia.org/wiki/Shalom_Auslander), think God is trying to kill me just when I am happy and mostly unawares.  This is why I never go to weddings where there is lots of alcohol.  Based on this fact, Mr. B and I had the following 20-minute conversation before AND after we went:
 

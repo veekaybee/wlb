@@ -14,7 +14,7 @@ tags:
   - Washington
 ---
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2010/07/wpid-IMAG0216.jpg"><img class="aligncenter size-full wp-image-3409" title="wpid-IMAG0216.jpg" src="http://blog.vickiboykis.com/wp-content/uploads/2010/07/wpid-IMAG0216.jpg" alt="" width="500" height="300" /></a>at a water stop.
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/07/wpid-IMAG0216.jpg"><img class="aligncenter size-full wp-image-3409" title="wpid-IMAG0216.jpg" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/07/wpid-IMAG0216.jpg" alt="" width="500" height="300" /></a>at a water stop.
 </p>
 
 Thoughts I had while biking the Mt. Vernon trail [from Crystal City to almost-Mt. Vernon](http://www.mapmyride.com/route/us/va/arlington/435128014927076741) this weekend in [record-high temperatures](http://voices.washingtonpost.com/capitalweathergang/2010/07/forecast_hottest_day_in_hottes.html) (Mr. B abstained from joining me, for some reason):

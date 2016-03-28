@@ -20,7 +20,7 @@ What I learned is that 87% of the Russian movies released in the past year are a
 
 To be clear, World War 2 was important.
 
-[<img class="aligncenter size-full wp-image-7102" title="Screen shot 2012-07-04 at 10.57.22 AM" src="http://blog.vickiboykis.com/wp-content/uploads/2012/07/Screen-shot-2012-07-04-at-10.57.22-AM.png" alt="" width="417" height="319" />](http://blog.vickiboykis.com/wp-content/uploads/2012/07/Screen-shot-2012-07-04-at-10.57.22-AM.png)
+[<img class="aligncenter size-full wp-image-7102" title="Screen shot 2012-07-04 at 10.57.22 AM" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/07/Screen-shot-2012-07-04-at-10.57.22-AM.png" alt="" width="417" height="319" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/07/Screen-shot-2012-07-04-at-10.57.22-AM.png)
 
 But to still be making the majority of your movies as a country more than sixty years later about Ze Great Patriotic War is kind of like that uncle who tells the same story about something funny that happened 20 years ago at the dinner table.  &#8220;Hey guys, remember how we tried to get our drycleaning, but-&#8221;
 
@@ -30,17 +30,17 @@ But to still be making the majority of your movies as a country more than sixty 
 
 &#8220;And not only are we JUST going to make World War II movies, we are going to make all of them in 8 parts so you can really focus on the details of how much ass we kicked over and over again.&#8221;
 
-[<img class="aligncenter size-full wp-image-7103" title="1340283385_match_3" src="http://blog.vickiboykis.com/wp-content/uploads/2012/07/1340283385_match_3.jpg" alt="" width="350" height="500" />](http://blog.vickiboykis.com/wp-content/uploads/2012/07/1340283385_match_3.jpg)
+[<img class="aligncenter size-full wp-image-7103" title="1340283385_match_3" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/07/1340283385_match_3.jpg" alt="" width="350" height="500" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/07/1340283385_match_3.jpg)
 
-[<img class="aligncenter size-full wp-image-7084" title="1335231705_0" src="http://blog.vickiboykis.com/wp-content/uploads/2012/07/1335231705_0.jpg" alt="" width="350" height="500" />](http://blog.vickiboykis.com/wp-content/uploads/2012/07/1335231705_0.jpg)
+[<img class="aligncenter size-full wp-image-7084" title="1335231705_0" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/07/1335231705_0.jpg" alt="" width="350" height="500" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/07/1335231705_0.jpg)
 
-[<img class="aligncenter size-full wp-image-7104" title="1341017960_2100x1416-dvdcover.pp.ua-1810961" src="http://blog.vickiboykis.com/wp-content/uploads/2012/07/1341017960_2100x1416-dvdcover.pp_.ua-1810961.jpg" alt="" width="350" height="500" />](http://blog.vickiboykis.com/wp-content/uploads/2012/07/1341017960_2100x1416-dvdcover.pp_.ua-1810961.jpg)
+[<img class="aligncenter size-full wp-image-7104" title="1341017960_2100x1416-dvdcover.pp.ua-1810961" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/07/1341017960_2100x1416-dvdcover.pp_.ua-1810961.jpg" alt="" width="350" height="500" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/07/1341017960_2100x1416-dvdcover.pp_.ua-1810961.jpg)
 
-[<img class="aligncenter size-full wp-image-7106" title="1338011063_0_2" src="http://blog.vickiboykis.com/wp-content/uploads/2012/07/1338011063_0_2.jpg" alt="" width="350" height="500" />](http://blog.vickiboykis.com/wp-content/uploads/2012/07/1338011063_0_2.jpg)
+[<img class="aligncenter size-full wp-image-7106" title="1338011063_0_2" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/07/1338011063_0_2.jpg" alt="" width="350" height="500" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/07/1338011063_0_2.jpg)
 
-[<img class="aligncenter size-full wp-image-7105" title="1340751759_sssr_3" src="http://blog.vickiboykis.com/wp-content/uploads/2012/07/1340751759_sssr_3.jpg" alt="" width="350" height="500" />](http://blog.vickiboykis.com/wp-content/uploads/2012/07/1340751759_sssr_3.jpg)
+[<img class="aligncenter size-full wp-image-7105" title="1340751759_sssr_3" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/07/1340751759_sssr_3.jpg" alt="" width="350" height="500" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/07/1340751759_sssr_3.jpg)
 
-[<img class="aligncenter size-full wp-image-7108" title="1338610311_0" src="http://blog.vickiboykis.com/wp-content/uploads/2012/07/1338610311_0.jpg" alt="" width="350" height="500" />](http://blog.vickiboykis.com/wp-content/uploads/2012/07/1338610311_0.jpg)
+[<img class="aligncenter size-full wp-image-7108" title="1338610311_0" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/07/1338610311_0.jpg" alt="" width="350" height="500" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/07/1338610311_0.jpg)
 
 I can just imagine diplomatic meetings.
 

@@ -18,7 +18,7 @@ tags:
 Let&#8217;s talk Fourth of July and why I love America.
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2011/07/DSC_0628.jpg"><img class="aligncenter size-full wp-image-5227" title="DSC_0628" src="http://blog.vickiboykis.com/wp-content/uploads/2011/07/DSC_0628.jpg" alt="" width="384" height="256" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/07/DSC_0628.jpg"><img class="aligncenter size-full wp-image-5227" title="DSC_0628" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/07/DSC_0628.jpg" alt="" width="384" height="256" /></a>
 </p>
 
 So this weekend we went to the beach with the <a href="http://smellslikeborscht.blogspot.com/" target="_blank">Borscht family</a> and a bunch of other friends, two of whom were visiting from Russia and made me think.  There are some inherent differences between Russians from Russia and Russians that have been in America for a while.  For example, Russians from Russia don&#8217;t do summer well, because summers in Russia are colder than <a href="http://blog.vickiboykis.com/2010/01/18/riding-a-horse-is-like-blogging-except-you-cant-become-a-parapalegic-if-you-blog/" target="_blank">spring in Tora Bora</a>.  As I type, it&#8217;s about 77 degrees in Moscow.  This is considered HOT.  Summers are also regrettably short, much like the average Russian&#8217;s life span.  Hence, no one has air conditioning.

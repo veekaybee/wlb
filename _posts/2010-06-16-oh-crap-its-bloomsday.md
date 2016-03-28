@@ -17,7 +17,7 @@ tags:
 ---
 I was startled this morning by the following in my Facebook feed from  friend  [Monica](http://mjwitzig.blogspot.com/).
 
-[<img class="aligncenter size-full wp-image-3152" title="bloomsday" src="http://blog.vickiboykis.com/wp-content/uploads/2010/06/bloomsday.jpg" alt="" width="543" height="87" />](http://blog.vickiboykis.com/wp-content/uploads/2010/06/bloomsday.jpg)And I thought, &#8220;Oh, crap.&#8221;
+[<img class="aligncenter size-full wp-image-3152" title="bloomsday" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/06/bloomsday.jpg" alt="" width="543" height="87" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/06/bloomsday.jpg)And I thought, &#8220;Oh, crap.&#8221;
 
 Because, you see, I&#8217;ve been trying to get through Ulysses this year in time for [Bloomsday](http://en.wikipedia.org/wiki/Bloomsday).  It&#8217;s not like I wasn&#8217;t warned it was impossible. I  remembered [Marinka&#8217;s attempts to get through it](http://www.motherhoodinnyc.com/things-that-go-through-my-mind-as-im) and, though she struggled valiantly, finishing the world&#8217;s best novel wasn&#8217;t in her cards.
 

@@ -16,7 +16,7 @@ tags:
   - kids
 ---
 > <p style="text-align: center;">
->   <a href="http://blog.vickiboykis.com/wp-content/uploads/2010/07/indianamerican.jpg"><img class="aligncenter size-full wp-image-3279" title="indianamerican" src="http://blog.vickiboykis.com/wp-content/uploads/2010/07/indianamerican.jpg" alt="" width="445" height="500" /></a><a href="http://www.flickr.com/photos/kptyson/329172985/">source</a>
+>   <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/07/indianamerican.jpg"><img class="aligncenter size-full wp-image-3279" title="indianamerican" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/07/indianamerican.jpg" alt="" width="445" height="500" /></a><a href="http://www.flickr.com/photos/kptyson/329172985/">source</a>
 > </p>
 > 
 > <p style="text-align: left;">

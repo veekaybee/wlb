@@ -16,5 +16,5 @@ tags:
   - winter
 ---
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2012/02/Groundhog2012.jpg"><img class="aligncenter  wp-image-6410" title="Groundhog2012" src="http://blog.vickiboykis.com/wp-content/uploads/2012/02/Groundhog2012.jpg" alt="" width="551" height="713" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/02/Groundhog2012.jpg"><img class="aligncenter  wp-image-6410" title="Groundhog2012" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/02/Groundhog2012.jpg" alt="" width="551" height="713" /></a>
 </p>

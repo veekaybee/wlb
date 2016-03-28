@@ -15,7 +15,7 @@ tags:
 ---
 _Full disclosure:  Thank you to [Akira Ohiso](http://zincplatepressblog.wordpress.com/) for kindly providing me with a copy of Surviving to review._ 
 
-_[<img class="aligncenter size-full wp-image-768" title="surviving" src="http://blog.vickiboykis.com/wp-content/uploads/2009/07/surviving.jpg" alt="surviving" width="434" height="429" />](http://blog.vickiboykis.com/wp-content/uploads/2009/07/surviving.jpg)
+_[<img class="aligncenter size-full wp-image-768" title="surviving" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/07/surviving.jpg" alt="surviving" width="434" height="429" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/07/surviving.jpg)
   
 _ 
 
@@ -24,7 +24,7 @@ You know that saying, &#8220;A Jew is whoever wants to call themselves one?&#822
 But it&#8217;s not that radical to vacillate between Jewish and Russian, especially when it comes to the fine bridge between Russian cautiousness and Jewish, shall we say, parsimony.  It&#8217;s close to impossible to vacillate between being Japanese and being Jewish.  But Akira Ohiso does so admirably in his book, called, simply, [Surviving](http://www.ohiso.com/).
 
 <div id="attachment_773" style="width: 414px" class="wp-caption aligncenter">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2009/07/akira.jpg"><img class="size-full wp-image-773" title="akira" src="http://blog.vickiboykis.com/wp-content/uploads/2009/07/akira.jpg" alt="akira" width="404" height="301" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/07/akira.jpg"><img class="size-full wp-image-773" title="akira" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/07/akira.jpg" alt="akira" width="404" height="301" /></a>
   
   <p class="wp-caption-text">
     The author

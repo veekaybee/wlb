@@ -19,7 +19,7 @@ tags:
   - travel
   - USSR
 ---
-[<img class="aligncenter size-medium wp-image-8540" alt="SUNSET-OVER-ROME-a23078288" src="http://blog.vickiboykis.com/wp-content/uploads/2013/04/SUNSET-OVER-ROME-a23078288-580x386.jpg" width="580" height="386" />](http://blog.vickiboykis.com/wp-content/uploads/2013/04/SUNSET-OVER-ROME-a23078288.jpg)
+[<img class="aligncenter size-medium wp-image-8540" alt="SUNSET-OVER-ROME-a23078288" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/04/SUNSET-OVER-ROME-a23078288-580x386.jpg" width="580" height="386" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/04/SUNSET-OVER-ROME-a23078288.jpg)
 
 <p style="text-align: center;">
    <a href="http://www.fotocommunity.com/pc/pc/display/23078288" target="_blank">Photo source. </a>
@@ -38,7 +38,7 @@ Often, American Jewish organizations would help pay for housing and offer some m
 As I was looking through <a href="https://www.airbnb.com/wishlists/places-that-made-history" target="_blank">AirBnB&#8217;s historical collection</a>, an idea came to me, and I started searching for &#8220;Soviet&#8221; and &#8220;Jewish&#8221; in Rome. And BOOOM. There it was:
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2013/04/airbnb.png"><img class="aligncenter  wp-image-8538" alt="airbnb" src="http://blog.vickiboykis.com/wp-content/uploads/2013/04/airbnb.png" width="743" height="442" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/04/airbnb.png"><img class="aligncenter  wp-image-8538" alt="airbnb" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/04/airbnb.png" width="743" height="442" /></a>
 </p>
 
 I haven&#8217;t linked to it because I don&#8217;t want any of you suckers getting this place before we can book it, but here&#8217;s the description in case you&#8217;re interested:
@@ -49,7 +49,7 @@ Isn&#8217;t that awesome?! Can&#8217;t you imagine this guy who owns this place?
 
 To be honest, the pictures look kind of discomforting, but I emailed the guy, Pietro, and he said it would be furnished by the time we came.
 
-[<img class="aligncenter size-medium wp-image-8539" alt="866" src="http://blog.vickiboykis.com/wp-content/uploads/2013/04/866-580x387.jpg" width="580" height="387" />](http://blog.vickiboykis.com/wp-content/uploads/2013/04/866.jpg)
+[<img class="aligncenter size-medium wp-image-8539" alt="866" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/04/866-580x387.jpg" width="580" height="387" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/04/866.jpg)
 
 If not, that&#8217;s cool, too. I told Pietro we want the full authentic Soviet emgire experience, and he said we might have to bring an air mattress but then burn it afterwards because there might be lice. I asked him what people did in the 80s when that happend, and he said they usually paid for one geltao, passed it around a five-people family, and walked around the Colosseum and cried.
 

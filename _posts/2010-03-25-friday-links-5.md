@@ -14,7 +14,7 @@ tags:
 ---
 <p style="text-align: center;">
   <div id="attachment_2640" style="width: 510px" class="wp-caption aligncenter">
-    <a href="http://blog.vickiboykis.com/wp-content/uploads/2010/03/250891059_40759757f6.jpg"><img class="size-full wp-image-2640" title="250891059_40759757f6" src="http://blog.vickiboykis.com/wp-content/uploads/2010/03/250891059_40759757f6.jpg" alt="" width="500" height="385" /></a>
+    <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/03/250891059_40759757f6.jpg"><img class="size-full wp-image-2640" title="250891059_40759757f6" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/03/250891059_40759757f6.jpg" alt="" width="500" height="385" /></a>
     
     <p class="wp-caption-text">
       I still have dreams about my collie, Babe, so here's a picture of a collie romping in a spring field.

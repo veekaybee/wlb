@@ -13,7 +13,7 @@ tags:
   - philly
 ---
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2012/11/roy-lichtenstein-pop-prints-crying-girl.jpeg"><img class="aligncenter  wp-image-7797" title="roy-lichtenstein-pop-prints-crying-girl" src="http://blog.vickiboykis.com/wp-content/uploads/2012/11/roy-lichtenstein-pop-prints-crying-girl-1024x720.jpeg" alt="" width="430" height="302" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/11/roy-lichtenstein-pop-prints-crying-girl.jpeg"><img class="aligncenter  wp-image-7797" title="roy-lichtenstein-pop-prints-crying-girl" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/11/roy-lichtenstein-pop-prints-crying-girl-1024x720.jpeg" alt="" width="430" height="302" /></a>
 </p>
 
 <p style="text-align: center;">

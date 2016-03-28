@@ -15,7 +15,7 @@ tags:
 I took a picture on my way to work today:
 
 <p style="text-align: left;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2011/07/Sahara_Typical-Sahara-landscape_2484.jpg"><img class="aligncenter size-full wp-image-5346" title="Sahara_Typical-Sahara-landscape_2484" src="http://blog.vickiboykis.com/wp-content/uploads/2011/07/Sahara_Typical-Sahara-landscape_2484.jpg" alt="" width="480" height="360" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/07/Sahara_Typical-Sahara-landscape_2484.jpg"><img class="aligncenter size-full wp-image-5346" title="Sahara_Typical-Sahara-landscape_2484" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/07/Sahara_Typical-Sahara-landscape_2484.jpg" alt="" width="480" height="360" /></a>
 </p>
 
 <p style="text-align: left;">

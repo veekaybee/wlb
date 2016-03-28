@@ -15,7 +15,7 @@ tags:
   - USSR
   - work
 ---
-[<img class="aligncenter size-full wp-image-7350" title="crowd-of-people-looking-in-a-car-window-in-the-soviet-union" src="http://blog.vickiboykis.com/wp-content/uploads/2012/08/crowd-of-people-looking-in-a-car-window-in-the-soviet-union.jpeg" alt="" width="500" height="347" />](http://blog.vickiboykis.com/wp-content/uploads/2012/08/crowd-of-people-looking-in-a-car-window-in-the-soviet-union.jpeg)
+[<img class="aligncenter size-full wp-image-7350" title="crowd-of-people-looking-in-a-car-window-in-the-soviet-union" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/08/crowd-of-people-looking-in-a-car-window-in-the-soviet-union.jpeg" alt="" width="500" height="347" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/08/crowd-of-people-looking-in-a-car-window-in-the-soviet-union.jpeg)
 
 &nbsp;
 
@@ -25,7 +25,7 @@ You always read those stories about how we don&#8217;t have privacy anymore in t
 
 But something has specifically triggered alarm bells for me.  For some time now, Amazon has been letting you advertise what you&#8217;ve purchased, immediately after you&#8217;ve purchased it.  Here&#8217;s one from something I bought last night:
 
-[<img class="aligncenter size-full wp-image-7343" title="Screen shot 2012-08-14 at 7.55.26 AM" src="http://blog.vickiboykis.com/wp-content/uploads/2012/08/Screen-shot-2012-08-14-at-7.55.26-AM.png" alt="" width="619" height="186" />](http://blog.vickiboykis.com/wp-content/uploads/2012/08/Screen-shot-2012-08-14-at-7.55.26-AM.png)
+[<img class="aligncenter size-full wp-image-7343" title="Screen shot 2012-08-14 at 7.55.26 AM" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/08/Screen-shot-2012-08-14-at-7.55.26-AM.png" alt="" width="619" height="186" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/08/Screen-shot-2012-08-14-at-7.55.26-AM.png)
 
 The first time I saw this feature come up, I was scared out of my mind.  I think was buying <a href="http://www.amazon.com/gp/product/B0032TNPOE/ref=oh_details_o00_s00_i00" target="_blank">this</a>. Who wants the whole world to know that you&#8217;re buying a scale? Or one of the numerous other private things you can buy from Amazon?  Underwear? Weight loss pills? Cream for when you have a pimple breakout? Food in bulk?
 
@@ -34,13 +34,13 @@ Buying these things in and of themselves is not embarrassing.   Amazon is beni
 <a href="http://aws.typepad.com/aws/2012/02/pulse-using-big-data-analytics-to-drive-rich-user-features-.html" target="_blank">Some of the ways t</a>his data is analyzed is efficient and scarily accurate. As most data scientists (me!) know, though, data is messy and inefficient, and unless you really know what you&#8217;re doing, it can be an immense struggle to create linkages and make a model of a person from raw numbers that you get.  For example, that story about how <a href="http://www.forbes.com/sites/kashmirhill/2012/02/16/how-target-figured-out-a-teen-girl-was-pregnant-before-her-father-did/" target="_blank">Target figured out a girl was pregnant</a> before her father did probably took years of analytics, and they couldn&#8217;t do it at all before they had Target.com.   As a data analyst almost anywhere, you will spend 80% of your time establishing the data and standardizing it, and only 20% of your time really digging into figuring out what will happen.
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2012/08/metrics_analysis_pyramid2.jpeg"><img class="aligncenter  wp-image-7344" title="metrics_analysis_pyramid2" src="http://blog.vickiboykis.com/wp-content/uploads/2012/08/metrics_analysis_pyramid2.jpeg" alt="" width="491" height="269" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/08/metrics_analysis_pyramid2.jpeg"><img class="aligncenter  wp-image-7344" title="metrics_analysis_pyramid2" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/08/metrics_analysis_pyramid2.jpeg" alt="" width="491" height="269" /></a>
 </p>
 
 The really scary part is when companies scale to the peak of the pyramid and hit the golden 20%. They then change your understanding of what they know about you and how that knowledge can get to other people. I freaked out when Amazon offered me the option to share my purchases, and when Google Chrome offered me the option to sign in, I knew immediately that they wanted to link my browsing history everywhere and had the capability, which I didn&#8217;t realize they had before:
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2012/08/Screen-shot-2012-08-15-at-7.34.39-AM.png"><img class="aligncenter  wp-image-7346" title="Screen shot 2012-08-15 at 7.34.39 AM" src="http://blog.vickiboykis.com/wp-content/uploads/2012/08/Screen-shot-2012-08-15-at-7.34.39-AM.png" alt="" width="642" height="266" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/08/Screen-shot-2012-08-15-at-7.34.39-AM.png"><img class="aligncenter  wp-image-7346" title="Screen shot 2012-08-15 at 7.34.39 AM" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/08/Screen-shot-2012-08-15-at-7.34.39-AM.png" alt="" width="642" height="266" /></a>
 </p>
 
  I was also made extremely uncomfortable when Quora, <a href="http://www.quora.com/Vicki-Boykis" target="_blank">a company I was beginning</a> to really like,  <a href="http://giantrobotlasers.com/post/29340797003/this-is-a-bit-fucked-quora" target="_blank">changed its settings recently</a> to allow anyone to see what questions you&#8217;ve viewed, and that to view anonymously you have to opt out or completely log out of Quora altogether.   I then found out that Quora is made up of ex-Facebookers, and it began to make lots of sense.

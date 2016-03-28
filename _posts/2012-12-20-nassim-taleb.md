@@ -18,7 +18,7 @@ tags:
   - life
   - taleb
 ---
-<a href="http://blog.vickiboykis.com/2012/12/nassim-taleb/taleb-illustration_2415090b/" rel="attachment wp-att-8070"><img class="aligncenter size-full wp-image-8070" alt="taleb-illustration_2415090b" src="http://blog.vickiboykis.com/wp-content/uploads/2012/12/taleb-illustration_2415090b.jpg" width="620" height="387" /></a>
+<a href="http://blog.vickiboykis.com/2012/12/nassim-taleb/taleb-illustration_2415090b/" rel="attachment wp-att-8070"><img class="aligncenter size-full wp-image-8070" alt="taleb-illustration_2415090b" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/12/taleb-illustration_2415090b.jpg" width="620" height="387" /></a>
 
 &nbsp;
 

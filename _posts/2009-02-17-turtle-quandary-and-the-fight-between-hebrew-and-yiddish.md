@@ -18,7 +18,7 @@ tags:
 I&#8217;ve been all around with clients, caught up in Valetine&#8217;s Day, and generally thinking of other good excuses to slack. For today, I have two deep questions to ponder. The first, is shown below:
 
 <p style="text-align: left;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2009/02/dsc01047.jpg"><img class="size-full wp-image-138 aligncenter" title="dsc01047" src="http://blog.vickiboykis.com/wp-content/uploads/2009/02/dsc01047.jpg" alt="dsc01047" width="480" height="359" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/02/dsc01047.jpg"><img class="size-full wp-image-138 aligncenter" title="dsc01047" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/02/dsc01047.jpg" alt="dsc01047" width="480" height="359" /></a>
 </p>
 
 <p style="text-align: left;">
@@ -34,7 +34,7 @@ I&#8217;ve been all around with clients, caught up in Valetine&#8217;s Day, and 
 </p>
 
 <p style="text-align: left;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2009/02/panneau_mea_shearim.jpg"><img class="aligncenter size-full wp-image-139" title="Mea Sharim" src="http://blog.vickiboykis.com/wp-content/uploads/2009/02/panneau_mea_shearim.jpg" alt="Mea Sharim" width="460" height="214" /></a>So, anyway, my position on this whole thing is pretty clear, since I half-taught myself, half-took in college Hebrew so I could feel more connected to being Jewish and now use it on a somewhat regular basis to make snarky comments about random people on the street.
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/02/panneau_mea_shearim.jpg"><img class="aligncenter size-full wp-image-139" title="Mea Sharim" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/02/panneau_mea_shearim.jpg" alt="Mea Sharim" width="460" height="214" /></a>So, anyway, my position on this whole thing is pretty clear, since I half-taught myself, half-took in college Hebrew so I could feel more connected to being Jewish and now use it on a somewhat regular basis to make snarky comments about random people on the street.
 </p>
 
 <p style="text-align: left;">

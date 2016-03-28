@@ -17,11 +17,11 @@ tags:
   - Stalin
   - Стиляги
 ---
-[<img class="aligncenter size-full wp-image-7233" title="IMG_20120720_190821" src="http://blog.vickiboykis.com/wp-content/uploads/2012/07/IMG_20120720_190821.jpeg" alt="" width="322" height="429" />](http://blog.vickiboykis.com/wp-content/uploads/2012/07/IMG_20120720_190821.jpeg)
+[<img class="aligncenter size-full wp-image-7233" title="IMG_20120720_190821" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/07/IMG_20120720_190821.jpeg" alt="" width="322" height="429" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/07/IMG_20120720_190821.jpeg)
 
 Thanks to the fact that I&#8217;ve worked my ass off this past year, Mr. B and I were able to enjoy a Phillies game for free at the ninth row last week. Don&#8217;t ask me who they played, because I have no idea what any of the teams are, I just <a href="http://blog.vickiboykis.com/2010/08/friday-links-27/" target="_blank">understand how baseball</a> works.
 
-[<img class="aligncenter size-full wp-image-7254" title="IMG_20120720_190331" src="http://blog.vickiboykis.com/wp-content/uploads/2012/07/IMG_20120720_190331.jpeg" alt="" width="298" height="398" />](http://blog.vickiboykis.com/wp-content/uploads/2012/07/IMG_20120720_190331.jpeg)
+[<img class="aligncenter size-full wp-image-7254" title="IMG_20120720_190331" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/07/IMG_20120720_190331.jpeg" alt="" width="298" height="398" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/07/IMG_20120720_190331.jpeg)
 
 <p style="text-align: center;">
   The closest Jews get to playing sports.
@@ -36,7 +36,7 @@ Thanks to the fact that I&#8217;ve worked my ass off this past year, Mr. B and I
 </p>
 
 <p style="text-align: left;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2012/07/IMG_20120720_1908211.jpeg"><img class="aligncenter size-full wp-image-7255" title="IMG_20120720_190821" src="http://blog.vickiboykis.com/wp-content/uploads/2012/07/IMG_20120720_1908211.jpeg" alt="" width="293" height="391" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/07/IMG_20120720_1908211.jpeg"><img class="aligncenter size-full wp-image-7255" title="IMG_20120720_190821" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/07/IMG_20120720_1908211.jpeg" alt="" width="293" height="391" /></a>
 </p>
 
 <p style="text-align: left;">

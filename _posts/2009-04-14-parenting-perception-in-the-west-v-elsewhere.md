@@ -11,7 +11,7 @@ categories:
 ---
 <blockquote style="text-align: center;">
   <p>
-    <a href="http://blog.vickiboykis.com/wp-content/uploads/2009/04/kids.jpg"><img class="size-full wp-image-251 alignleft" title="kids" src="http://blog.vickiboykis.com/wp-content/uploads/2009/04/kids.jpg" alt="kids" width="541" height="282" /></a>
+    <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/04/kids.jpg"><img class="size-full wp-image-251 alignleft" title="kids" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/04/kids.jpg" alt="kids" width="541" height="282" /></a>
   </p>
 </blockquote>
 
@@ -104,7 +104,7 @@ categories:
                   
                   <blockquote style="text-align: left;">
                     <p>
-                      <a href="http://www.wjh.harvard.edu/%7Edtg/gilbert.htm"></a><a href="http://blog.vickiboykis.com/wp-content/uploads/2009/04/quote.bmp"><img class="aligncenter size-full wp-image-255" title="quote" src="http://blog.vickiboykis.com/wp-content/uploads/2009/04/quote.bmp" alt="quote" /></a>
+                      <a href="http://www.wjh.harvard.edu/%7Edtg/gilbert.htm"></a><a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/04/quote.bmp"><img class="aligncenter size-full wp-image-255" title="quote" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/04/quote.bmp" alt="quote" /></a>
                     </p>
                   </blockquote>
                   

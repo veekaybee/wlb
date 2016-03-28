@@ -16,7 +16,7 @@ tags:
 Mr. B&#8217;s birthday is this weekend, and I thoughtfully already have the champagne out and I am hosting and cooking a Very Awesome Mediterranean Meal with Pesto and Whatnot.   Mr. B is crying because I&#8217;m cooking.
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2011/11/01.jpg"><img class="aligncenter size-full wp-image-5912" title="01" src="http://blog.vickiboykis.com/wp-content/uploads/2011/11/01.jpg" alt="" width="379" height="589" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/11/01.jpg"><img class="aligncenter size-full wp-image-5912" title="01" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/11/01.jpg" alt="" width="379" height="589" /></a>
 </p>
 
 **Links:**

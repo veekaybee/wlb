@@ -19,7 +19,7 @@ tags:
   - "wendy's"
 ---
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2012/09/confess.jpeg"><img class="aligncenter  wp-image-7557" title="confess" src="http://blog.vickiboykis.com/wp-content/uploads/2012/09/confess.jpeg" alt="" width="478" height="592" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/09/confess.jpeg"><img class="aligncenter  wp-image-7557" title="confess" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/09/confess.jpeg" alt="" width="478" height="592" /></a>
 </p>
 
 <p style="text-align: center;">
@@ -57,7 +57,7 @@ tags:
 &#8220;Campus food options are delicious and wrong.  So I think all day about what I&#8217;ll be able to eat before class that will count as dinner. I put the dinner food on my <a href="http://sparkpeople.com/" target="_blank">calorie counter</a> and see how it&#8217;s going to affect my daily bottom line.&#8221;
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2012/09/IMG_20120917_180106.jpg"><img class="aligncenter  wp-image-7559" title="IMG_20120917_180106" src="http://blog.vickiboykis.com/wp-content/uploads/2012/09/IMG_20120917_180106-768x1024.jpg" alt="" width="461" height="614" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/09/IMG_20120917_180106.jpg"><img class="aligncenter  wp-image-7559" title="IMG_20120917_180106" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/09/IMG_20120917_180106-768x1024.jpg" alt="" width="461" height="614" /></a>
 </p>
 
 &#8220;You could have brought dinner with you?&#8221;
@@ -73,7 +73,7 @@ tags:
 &#8220;But then I realized if I kept doing pho, at some point I would just go crazy and eat all of it. Because <a href="http://www.amazon.com/Mindless-Eating-More-Than-Think/dp/0553804340" target="_blank">people can&#8217;t control portions</a>:&#8221;
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2012/09/Screen-shot-2012-09-19-at-7.24.22-AM.png"><img class="aligncenter  wp-image-7564" title="Screen shot 2012-09-19 at 7.24.22 AM" src="http://blog.vickiboykis.com/wp-content/uploads/2012/09/Screen-shot-2012-09-19-at-7.24.22-AM.png" alt="" width="697" height="131" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/09/Screen-shot-2012-09-19-at-7.24.22-AM.png"><img class="aligncenter  wp-image-7564" title="Screen shot 2012-09-19 at 7.24.22 AM" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/09/Screen-shot-2012-09-19-at-7.24.22-AM.png" alt="" width="697" height="131" /></a>
 </p>
 
 &#8220;So for this week, I needed an alternative.&#8221;

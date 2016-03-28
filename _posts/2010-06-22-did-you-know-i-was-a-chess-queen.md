@@ -28,4 +28,4 @@ The problem here is that, as a Russian, I am expected to play [excellent chess t
 
 However,  since I have almost zero logic skills (the kind that would make you consider a career in computer programming and, say, create programs to steal fractions of a cent over time,) I am stuck losing every single time.  So, until Mr. B gets his act together, I will be forced to continuously play the games as depicted below, in hopes that I will be in shape to play for [the big bucks](http://www.chesstour.com/wo10.htm).  Someone has to make the money in this family.
 
-[<img class="aligncenter size-full wp-image-3172" title="Page_1" src="http://blog.vickiboykis.com/wp-content/uploads/2010/06/Page_14.jpg" alt="" width="612" height="792" />](http://blog.vickiboykis.com/wp-content/uploads/2010/06/Page_14.jpg)
+[<img class="aligncenter size-full wp-image-3172" title="Page_1" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/06/Page_14.jpg" alt="" width="612" height="792" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/06/Page_14.jpg)

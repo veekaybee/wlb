@@ -17,7 +17,7 @@ tags:
   - writing
 ---
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2009/12/shiraz-analytics.bmp"><img class="aligncenter size-full wp-image-2001" title="shiraz analytics" src="http://blog.vickiboykis.com/wp-content/uploads/2009/12/shiraz-analytics.bmp" alt="shiraz analytics" width="574" height="333" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/12/shiraz-analytics.bmp"><img class="aligncenter size-full wp-image-2001" title="shiraz analytics" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/12/shiraz-analytics.bmp" alt="shiraz analytics" width="574" height="333" /></a>
 </p>
 
 <p style="text-align: left;">
@@ -33,7 +33,7 @@ tags:
 </p>
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2009/12/Tashkent-Road-Sign.jpg"><img class="aligncenter size-full wp-image-2004" title="Wegweiser am SÃ¼drand von Taschkent" src="http://blog.vickiboykis.com/wp-content/uploads/2009/12/Tashkent-Road-Sign.jpg" alt="Wegweiser am SÃ¼drand von Taschkent" width="372" height="512" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/12/Tashkent-Road-Sign.jpg"><img class="aligncenter size-full wp-image-2004" title="Wegweiser am SÃ¼drand von Taschkent" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/12/Tashkent-Road-Sign.jpg" alt="Wegweiser am SÃ¼drand von Taschkent" width="372" height="512" /></a>
 </p>
 
 <p style="text-align: left;">

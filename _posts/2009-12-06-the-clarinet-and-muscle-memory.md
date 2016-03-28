@@ -31,5 +31,5 @@ I found out that this concept is called [muscle memory](http://en.wikipedia.org/
 And here&#8217;s my horrible Photoshop for today:
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2009/12/Bad-Romance.jpg"><img class="aligncenter size-full wp-image-1837" title="Bad Romance" src="http://blog.vickiboykis.com/wp-content/uploads/2009/12/Bad-Romance.jpg" alt="Bad Romance" width="600" height="600" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/12/Bad-Romance.jpg"><img class="aligncenter size-full wp-image-1837" title="Bad Romance" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/12/Bad-Romance.jpg" alt="Bad Romance" width="600" height="600" /></a>
 </p>

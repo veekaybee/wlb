@@ -15,15 +15,15 @@ tags:
 ---
 I ran a <a href="http://jenkintown.net/summer-sunset-5k-run/" target="_blank">5k last week</a> (Mr. B was still &#8220;recovering from illness&#8221;.) Because we haven&#8217;t run <a href="http://blog.vickiboykis.com/2011/04/11/our-cherry-blossom-run/" target="_blank">in over a month</a> since we were busy with house stuff, this was the hardest race I&#8217;ve ever run, especially since the second half was uphill. Can you tell?
 
-<img style="display: block; margin-right: auto; margin-left: auto;" src="http://blog.vickiboykis.com/wp-content/uploads/2011/06/wpid-IMAG0865.jpg" alt="image" />
+<img style="display: block; margin-right: auto; margin-left: auto;" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/06/wpid-IMAG0865.jpg" alt="image" />
 
 I barely managed to finish under 40 minutes, but that&#8217;s ok, because two things were in my favor: the free pretzels afterwards:
 
-<img style="display: block; margin-right: auto; margin-left: auto;" src="http://blog.vickiboykis.com/wp-content/uploads/2011/06/wpid-IMAG0866.jpg" alt="image" />
+<img style="display: block; margin-right: auto; margin-left: auto;" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/06/wpid-IMAG0866.jpg" alt="image" />
 
 and the fact that I got a new pair of running shoes because I accidentally left my old ones out in the rain and they acquired a smell I can only imagine is imported directly from the public toilets in Moscow.
 
-[<img class="aligncenter size-full wp-image-5178" title="wpid-IMAG0860.jpg" src="http://blog.vickiboykis.com/wp-content/uploads/2011/06/wpid-IMAG0860.jpg" alt="" width="500" height="300" />](http://blog.vickiboykis.com/wp-content/uploads/2011/06/wpid-IMAG0860.jpg)
+[<img class="aligncenter size-full wp-image-5178" title="wpid-IMAG0860.jpg" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/06/wpid-IMAG0860.jpg" alt="" width="500" height="300" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/06/wpid-IMAG0860.jpg)
 
 The thing about running shoes is that once you run a lot, you need special shoes, and a special person to tell you what kind of shoes you need.
 

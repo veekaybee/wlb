@@ -18,12 +18,12 @@ tags:
 &nbsp;
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2012/08/Woman-before-the-Mirror.jpeg"><img class="aligncenter  wp-image-7282" title="Woman-before-the-Mirror" src="http://blog.vickiboykis.com/wp-content/uploads/2012/08/Woman-before-the-Mirror.jpeg" alt="" width="388" height="519" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/08/Woman-before-the-Mirror.jpeg"><img class="aligncenter  wp-image-7282" title="Woman-before-the-Mirror" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/08/Woman-before-the-Mirror.jpeg" alt="" width="388" height="519" /></a>
 </p>
 
 For my upcoming birthday, I contemplated getting myself some perfume because I am out of whatever it is I bought a couple years ago. That makes me sound all mysterious and in-the-know, but what I really bought is this <a href="http://www.victoriassecret.com/beauty/mists/fragrance-mist-victorias-secret-pink?ProductID=4852&CatalogueType=OLS" target="_blank">Pink stuff from Victoria&#8217;s Secret</a> that&#8217;s not even technically a perfume but a spray.  It&#8217;s really embarrassing.  I don&#8217;t even want to show you because it screams fourth-grade gym class.  Ok, here it is.
 
-[<img class="aligncenter size-full wp-image-7281" title="IMG_20120802_073646" src="http://blog.vickiboykis.com/wp-content/uploads/2012/08/IMG_20120802_073646.jpeg" alt="" width="291" height="388" />](http://blog.vickiboykis.com/wp-content/uploads/2012/08/IMG_20120802_073646.jpeg)
+[<img class="aligncenter size-full wp-image-7281" title="IMG_20120802_073646" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/08/IMG_20120802_073646.jpeg" alt="" width="291" height="388" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/08/IMG_20120802_073646.jpeg)
 
 &nbsp;
 
@@ -43,13 +43,13 @@ I never wear makeup except special occasions because it takes too long to put on
 
 This is my daily facial care routine.
 
-[<img class="aligncenter size-full wp-image-7279" title="IMG_20120802_073659" src="http://blog.vickiboykis.com/wp-content/uploads/2012/08/IMG_20120802_073659.jpeg" alt="" width="291" height="388" />](http://blog.vickiboykis.com/wp-content/uploads/2012/08/IMG_20120802_073659.jpeg)
+[<img class="aligncenter size-full wp-image-7279" title="IMG_20120802_073659" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/08/IMG_20120802_073659.jpeg" alt="" width="291" height="388" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/08/IMG_20120802_073659.jpeg)
 
 &nbsp;
 
 This is literally what&#8217;s in my purse right now.  My writing notebook, my research book, paint swatches for the guest bedroom, extra pens, my wallet, and chapstick that I never use.
 
-[<img class="aligncenter size-full wp-image-7283" title="IMG_20120802_073614" src="http://blog.vickiboykis.com/wp-content/uploads/2012/08/IMG_20120802_073614.jpeg" alt="" width="291" height="388" />](http://blog.vickiboykis.com/wp-content/uploads/2012/08/IMG_20120802_073614.jpeg)
+[<img class="aligncenter size-full wp-image-7283" title="IMG_20120802_073614" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/08/IMG_20120802_073614.jpeg" alt="" width="291" height="388" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/08/IMG_20120802_073614.jpeg)
 
 &nbsp;
 
@@ -68,7 +68,7 @@ Creepy books about gualgs n&#8217;stuff.
 AWWW YEAH.
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2012/08/IMG_20120802_081627.jpg"><img class="aligncenter  wp-image-7285" title="IMG_20120802_081627" src="http://blog.vickiboykis.com/wp-content/uploads/2012/08/IMG_20120802_081627.jpg" alt="" width="411" height="308" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/08/IMG_20120802_081627.jpg"><img class="aligncenter  wp-image-7285" title="IMG_20120802_081627" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/08/IMG_20120802_081627.jpg" alt="" width="411" height="308" /></a>
 </p>
 
 &nbsp;

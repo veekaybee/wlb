@@ -18,7 +18,7 @@ This weekend, I&#8217;m going to DC for the Sanity Rally to see my two favorite 
 Here&#8217;s a picture of one of the [Philadelphia murals](http://muralarts.org/about/mission) near where I work that I took yesterday for [Philly Photo Day](http://citypaper.net/blogs/criticalmass/2010/10/28/philly-photo-day-are-you-taking-pictures-yet/):
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2010/10/IMAG0457.jpg"><img class="aligncenter size-full wp-image-3812" title="IMAG0457" src="http://blog.vickiboykis.com/wp-content/uploads/2010/10/IMAG0457.jpg" alt="" width="369" height="614" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/10/IMAG0457.jpg"><img class="aligncenter size-full wp-image-3812" title="IMAG0457" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/10/IMAG0457.jpg" alt="" width="369" height="614" /></a>
 </p>
 
 **On le blogs:**
@@ -37,7 +37,7 @@ Here&#8217;s a picture of one of the [Philadelphia murals](http://muralarts.org/
 Here&#8217;s a picture of one of the [Philadelphia murals](http://muralarts.org/about/mission) near where I work that I took yesterday for [Philly Photo Day](http://citypaper.net/blogs/criticalmass/2010/10/28/philly-photo-day-are-you-taking-pictures-yet/):
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2010/10/IMAG0457.jpg"><img class="aligncenter size-full wp-image-3812" title="IMAG0457" src="http://blog.vickiboykis.com/wp-content/uploads/2010/10/IMAG0457.jpg" alt="" width="369" height="614" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/10/IMAG0457.jpg"><img class="aligncenter size-full wp-image-3812" title="IMAG0457" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/10/IMAG0457.jpg" alt="" width="369" height="614" /></a>
 </p>
 
 **On le blogs:**

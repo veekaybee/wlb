@@ -27,5 +27,5 @@ So, stay tuned.
 I am so, so, so excited to share it with you.
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2012/04/Ebookcover.png"><img class="aligncenter  wp-image-6664" title="Ebookcover" src="http://blog.vickiboykis.com/wp-content/uploads/2012/04/Ebookcover.png" alt="" width="420" height="560" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/04/Ebookcover.png"><img class="aligncenter  wp-image-6664" title="Ebookcover" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/04/Ebookcover.png" alt="" width="420" height="560" /></a>
 </p>

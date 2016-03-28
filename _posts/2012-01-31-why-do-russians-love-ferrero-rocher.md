@@ -16,7 +16,7 @@ tags:
   - Russians
 ---
 <p style="text-align: center;">
-  <img class="aligncenter" src="http://blog.vickiboykis.com/wp-content/uploads/2012/01/wpid-IMG_20120131_065359.jpg" alt="image" width="350" height="467" />
+  <img class="aligncenter" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/01/wpid-IMG_20120131_065359.jpg" alt="image" width="350" height="467" />
 </p>
 
 <p style="text-align: left;">
@@ -36,7 +36,7 @@ tags:
 </p>
 
 <p style="text-align: left;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2012/01/Screen-shot-2012-01-31-at-7.11.23-AM.png"><img class="aligncenter size-full wp-image-6403" title="Screen shot 2012-01-31 at 7.11.23 AM" src="http://blog.vickiboykis.com/wp-content/uploads/2012/01/Screen-shot-2012-01-31-at-7.11.23-AM.png" alt="" width="378" height="365" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/01/Screen-shot-2012-01-31-at-7.11.23-AM.png"><img class="aligncenter size-full wp-image-6403" title="Screen shot 2012-01-31 at 7.11.23 AM" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/01/Screen-shot-2012-01-31-at-7.11.23-AM.png" alt="" width="378" height="365" /></a>
 </p>
 
 <p style="text-align: center;">

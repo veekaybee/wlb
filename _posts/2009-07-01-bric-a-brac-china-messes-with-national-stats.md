@@ -21,7 +21,7 @@ I like to do a lot reading about the [BRIC](http://en.wikipedia.org/wiki/BRIC) c
 Since I work a lot with economics trade data, this came as a bit of a shock to me.  It&#8217;s true that customs data and international trade data in general are in shift and data for 2007 may be revised again in 2008 and 2009.  But this comes from just general complications in reporting the entry and exit of every good for a given time period, not because the country is crazy Communist propoganda stylin&#8217;.  The Journal article states several examples of statistics manipulation.
 
 <div id="attachment_637" style="width: 395px" class="wp-caption aligncenter">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2009/06/panda.jpg"><img class="size-full wp-image-637" title="panda" src="http://blog.vickiboykis.com/wp-content/uploads/2009/06/panda.jpg" alt="panda" width="385" height="478" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/06/panda.jpg"><img class="size-full wp-image-637" title="panda" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/06/panda.jpg" alt="panda" width="385" height="478" /></a>
   
   <p class="wp-caption-text">
     Caught with your hands up, GDPanda.
@@ -59,7 +59,7 @@ Since I work a lot with economics trade data, this came as a bit of a shock to m
   </blockquote>
   
   <div id="attachment_638" style="width: 360px" class="wp-caption aligncenter">
-    <a href="http://blog.vickiboykis.com/wp-content/uploads/2009/06/chowchow.jpg"><img class="size-full wp-image-638" title="chowchow" src="http://blog.vickiboykis.com/wp-content/uploads/2009/06/chowchow.jpg" alt="chowchow" width="350" height="340" /></a>
+    <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/06/chowchow.jpg"><img class="size-full wp-image-638" title="chowchow" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/06/chowchow.jpg" alt="chowchow" width="350" height="340" /></a>
     
     <p class="wp-caption-text">
       How now, cheating chow chow?
@@ -89,7 +89,7 @@ Since I work a lot with economics trade data, this came as a bit of a shock to m
       <p style="text-align: left;">
         <p style="text-align: center;">
           <div id="attachment_639" style="width: 424px" class="wp-caption aligncenter">
-            <a href="http://blog.vickiboykis.com/wp-content/uploads/2009/06/tamarinl.jpg"><img class="size-full wp-image-639" title="tamarinl" src="http://blog.vickiboykis.com/wp-content/uploads/2009/06/tamarinl.jpg" alt="Are you lying, golden lion tamarin?" width="414" height="310" /></a>
+            <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/06/tamarinl.jpg"><img class="size-full wp-image-639" title="tamarinl" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/06/tamarinl.jpg" alt="Are you lying, golden lion tamarin?" width="414" height="310" /></a>
             
             <p class="wp-caption-text">
               Are you lying, golden lion tamarin?

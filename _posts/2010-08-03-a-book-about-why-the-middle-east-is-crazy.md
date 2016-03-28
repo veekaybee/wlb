@@ -17,7 +17,7 @@ tags:
 I&#8217;ve been going on non-stop about [I&#8217;ve been going on non-stop about](http://www.amazon.com/Relations-Department-Hizbollah-Wishes-Birthday/dp/1586486357) on Twitter for the past couple of days now, but I really loved it and I think it&#8217;s really an important read for anyone involved in any sphere of Middle Eastern relations, even as a navel-gazer.
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2010/08/mediarelationsdept.jpg"><img class="aligncenter size-full wp-image-3440" title="mediarelationsdept" src="http://blog.vickiboykis.com/wp-content/uploads/2010/08/mediarelationsdept.jpg" alt="" width="286" height="433" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/08/mediarelationsdept.jpg"><img class="aligncenter size-full wp-image-3440" title="mediarelationsdept" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/08/mediarelationsdept.jpg" alt="" width="286" height="433" /></a>
 </p>
 
 MacFarquhar, who grew up in an expat compound in Libya, writes about his long experience in the region as a reporter and as someone who is constantly amused, amazed, and frustrated by movements there.

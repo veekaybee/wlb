@@ -14,7 +14,7 @@ tags:
   - traffic
 ---
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2010/11/Photo-on-2010-11-22-at-08.18.jpg"></a><a href="http://blog.vickiboykis.com/wp-content/uploads/2010/11/wpid-IMAG0436.jpg"><img class="aligncenter size-full wp-image-3905" title="wpid-IMAG0436.jpg" src="http://blog.vickiboykis.com/wp-content/uploads/2010/11/wpid-IMAG0436.jpg" alt="" width="350" height="583" /></a><em>Welcome to Hell! We have cheesesteak! </em>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/11/Photo-on-2010-11-22-at-08.18.jpg"></a><a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/11/wpid-IMAG0436.jpg"><img class="aligncenter size-full wp-image-3905" title="wpid-IMAG0436.jpg" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/11/wpid-IMAG0436.jpg" alt="" width="350" height="583" /></a><em>Welcome to Hell! We have cheesesteak! </em>
 </p>
 
 <p style="text-align: left;">
@@ -22,7 +22,7 @@ tags:
 </p>
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2010/11/Photo-on-2010-11-22-at-08.18.jpg"><img class="aligncenter" title="Photo on 2010-11-22 at 08.18" src="http://blog.vickiboykis.com/wp-content/uploads/2010/11/Photo-on-2010-11-22-at-08.18.jpg" alt="" width="448" height="336" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/11/Photo-on-2010-11-22-at-08.18.jpg"><img class="aligncenter" title="Photo on 2010-11-22 at 08.18" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/11/Photo-on-2010-11-22-at-08.18.jpg" alt="" width="448" height="336" /></a>
 </p>
 
 <p style="text-align: center;">

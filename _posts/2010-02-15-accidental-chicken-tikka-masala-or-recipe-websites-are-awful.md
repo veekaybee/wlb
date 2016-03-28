@@ -34,7 +34,7 @@ Scouring the Intertubes, I came [across this recipe](http://allrecipes.com/Recip
 
 Unfortunately, I did not have 70% of this ingredients list, but it gave me a chance to go to an Asian grocery store and stock up on all kinds of crazy food.  And in the end, I did make this dish, although, no matter how hard I tried to make curry, I made tikka masala by mistake.
 
-[<img class="aligncenter size-full wp-image-2329" title="Masala" src="http://blog.vickiboykis.com/wp-content/uploads/2010/02/Masala.png" alt="" width="599" height="448" />](http://blog.vickiboykis.com/wp-content/uploads/2010/02/Masala.png)
+[<img class="aligncenter size-full wp-image-2329" title="Masala" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/02/Masala.png" alt="" width="599" height="448" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/02/Masala.png)
 
 I&#8217;ve gone completely off-topic in this post, which originally was meant to be, why do so many recipes on line require ridiculous ingredients that you never have? For example, from the quick and easy recipe department, [chicken with Brie and vermouth](http://allrecipes.com/Recipe/Chicken-with-Brie-and-Caramelized-Onions/Detail.aspx).   Why, yes, let me just get that bottle of vermouth out of that liquor cabinet I keep stocked in times like this, in its original packaging from a men&#8217;s club in 1963.  Or, how about some [gnocchi with sweet Italian sausage and San Maranzano tomatoes](http://ideas.thenest.com/dinner-recipes/weekly-menu/Blogs/recipe-of-the-day-2-12-10.aspx?), fresh from Sicily?
 

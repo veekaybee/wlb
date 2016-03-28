@@ -23,7 +23,7 @@ tags:
   - unterzakhn
 ---
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/2012/12/im-a-book-hoarder/print/" rel="attachment wp-att-8065"><img class="aligncenter size-full wp-image-8065" alt="Print" src="http://blog.vickiboykis.com/wp-content/uploads/2012/12/tumblr_lthjrrKy8T1qkirl2o1_400.jpg" width="400" height="458" /></a><em>and to procrastinate. </em>
+  <a href="http://blog.vickiboykis.com/2012/12/im-a-book-hoarder/print/" rel="attachment wp-att-8065"><img class="aligncenter size-full wp-image-8065" alt="Print" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/12/tumblr_lthjrrKy8T1qkirl2o1_400.jpg" width="400" height="458" /></a><em>and to procrastinate. </em>
 </p>
 
 When the semester was going on, I was stressed out by school. Now,I have a whole month to work on <a href="http://blog.vickiboykis.com/2012/07/hey-hows-your-novel-going/" target="_blank">my novel</a>, which is also stressing me out, since I think what I&#8217;ve written so far is complete crap.
@@ -39,7 +39,7 @@ Here they are, arranged in a tasteful hipster way among my belongings and photog
 **Alif the Unseen** and **Operation Bonnet**: Both bought because of their covers, but also because the contents are pretty interesting. Started Operation Bonnet, kind of funny, but not enough to devote 100% to. Mr. B is currently reading Alif, so I can&#8217;t read it.  It&#8217;s about a hacker in a Middle Eastern-like oligarchy.
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/2012/12/im-a-book-hoarder/img_20121219_070240/" rel="attachment wp-att-8056"><img class="aligncenter  wp-image-8056" alt="IMG_20121219_070240" src="http://blog.vickiboykis.com/wp-content/uploads/2012/12/IMG_20121219_070240-580x654.jpg" width="418" height="470" /></a>
+  <a href="http://blog.vickiboykis.com/2012/12/im-a-book-hoarder/img_20121219_070240/" rel="attachment wp-att-8056"><img class="aligncenter  wp-image-8056" alt="IMG_20121219_070240" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/12/IMG_20121219_070240-580x654.jpg" width="418" height="470" /></a>
 </p>
 
 <p style="text-align: center;">
@@ -52,7 +52,7 @@ Here they are, arranged in a tasteful hipster way among my belongings and photog
   </p>
   
   <p style="text-align: center;">
-    <a href="http://blog.vickiboykis.com/2012/12/im-a-book-hoarder/img_20121219_070339/" rel="attachment wp-att-8057"><img class="aligncenter  wp-image-8057" alt="IMG_20121219_070339" src="http://blog.vickiboykis.com/wp-content/uploads/2012/12/IMG_20121219_070339-580x773.jpg" width="464" height="618" /></a>
+    <a href="http://blog.vickiboykis.com/2012/12/im-a-book-hoarder/img_20121219_070339/" rel="attachment wp-att-8057"><img class="aligncenter  wp-image-8057" alt="IMG_20121219_070339" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/12/IMG_20121219_070339-580x773.jpg" width="464" height="618" /></a>
   </p>
   
   <p>
@@ -64,7 +64,7 @@ Here they are, arranged in a tasteful hipster way among my belongings and photog
   </p>
   
   <p style="text-align: center;">
-    <a href="http://blog.vickiboykis.com/2012/12/im-a-book-hoarder/img_20121219_070440/" rel="attachment wp-att-8058"><img class="aligncenter  wp-image-8058" alt="IMG_20121219_070440" src="http://blog.vickiboykis.com/wp-content/uploads/2012/12/IMG_20121219_070440-580x773.jpg" width="406" height="541" /></a>
+    <a href="http://blog.vickiboykis.com/2012/12/im-a-book-hoarder/img_20121219_070440/" rel="attachment wp-att-8058"><img class="aligncenter  wp-image-8058" alt="IMG_20121219_070440" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/12/IMG_20121219_070440-580x773.jpg" width="406" height="541" /></a>
   </p>
   
   <p style="text-align: center;">
@@ -73,7 +73,7 @@ Here they are, arranged in a tasteful hipster way among my belongings and photog
     </p>
     
     <p style="text-align: center;">
-      <a href="http://blog.vickiboykis.com/2012/12/im-a-book-hoarder/12-1/" rel="attachment wp-att-8060"><img class="aligncenter  wp-image-8060" alt="12 - 1" src="http://blog.vickiboykis.com/wp-content/uploads/2012/12/12-1-580x773.jpg" width="464" height="618" /></a>
+      <a href="http://blog.vickiboykis.com/2012/12/im-a-book-hoarder/12-1/" rel="attachment wp-att-8060"><img class="aligncenter  wp-image-8060" alt="12 - 1" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/12/12-1-580x773.jpg" width="464" height="618" /></a>
     </p>
     
     <p style="text-align: center;">
@@ -82,7 +82,7 @@ Here they are, arranged in a tasteful hipster way among my belongings and photog
       </p>
       
       <p style="text-align: center;">
-        <a href="http://blog.vickiboykis.com/2012/12/im-a-book-hoarder/12-3/" rel="attachment wp-att-8061"><img class="aligncenter  wp-image-8061" alt="12 - 3" src="http://blog.vickiboykis.com/wp-content/uploads/2012/12/12-3-580x690.jpg" width="464" height="552" /></a>
+        <a href="http://blog.vickiboykis.com/2012/12/im-a-book-hoarder/12-3/" rel="attachment wp-att-8061"><img class="aligncenter  wp-image-8061" alt="12 - 3" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/12/12-3-580x690.jpg" width="464" height="552" /></a>
       </p>
       
       <p style="text-align: left;">
@@ -90,7 +90,7 @@ Here they are, arranged in a tasteful hipster way among my belongings and photog
       </p>
       
       <p style="text-align: center;">
-        <a href="http://blog.vickiboykis.com/2012/12/im-a-book-hoarder/12-2/" rel="attachment wp-att-8063"><img class="aligncenter  wp-image-8063" alt="12 - 2" src="http://blog.vickiboykis.com/wp-content/uploads/2012/12/12-2-580x773.jpg" width="464" height="618" /></a>
+        <a href="http://blog.vickiboykis.com/2012/12/im-a-book-hoarder/12-2/" rel="attachment wp-att-8063"><img class="aligncenter  wp-image-8063" alt="12 - 2" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/12/12-2-580x773.jpg" width="464" height="618" /></a>
       </p>
       
       <p style="text-align: left;">
@@ -99,7 +99,7 @@ Here they are, arranged in a tasteful hipster way among my belongings and photog
         </p>
         
         <p style="text-align: center;">
-          <a href="http://blog.vickiboykis.com/2012/12/im-a-book-hoarder/img_20121219_070428/" rel="attachment wp-att-8062"><img class="aligncenter  wp-image-8062" alt="IMG_20121219_070428" src="http://blog.vickiboykis.com/wp-content/uploads/2012/12/IMG_20121219_070428-580x773.jpg" width="464" height="618" /></a>
+          <a href="http://blog.vickiboykis.com/2012/12/im-a-book-hoarder/img_20121219_070428/" rel="attachment wp-att-8062"><img class="aligncenter  wp-image-8062" alt="IMG_20121219_070428" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/12/IMG_20121219_070428-580x773.jpg" width="464" height="618" /></a>
         </p>
         
         <p style="text-align: left;">

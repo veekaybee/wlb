@@ -14,4 +14,4 @@ tags:
 ---
 Can you tell I don&#8217;t have enough time?
   
-[<img class="aligncenter size-full wp-image-5838" title="Page_1" src="http://blog.vickiboykis.com/wp-content/uploads/2011/10/Page_1.jpg" alt="" width="612" height="2500" />](http://blog.vickiboykis.com/wp-content/uploads/2011/10/Page_1.jpg)
+[<img class="aligncenter size-full wp-image-5838" title="Page_1" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/10/Page_1.jpg" alt="" width="612" height="2500" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/10/Page_1.jpg)

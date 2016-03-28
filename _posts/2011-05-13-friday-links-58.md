@@ -15,7 +15,7 @@ tags:
 This is what we come home to every day, in a variety of rooms:
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2011/05/wpid-IMAG0779.jpg"><img class="aligncenter size-full wp-image-4957" title="wpid-IMAG0779.jpg" src="http://blog.vickiboykis.com/wp-content/uploads/2011/05/wpid-IMAG0779.jpg" alt="" width="350" height="583" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/05/wpid-IMAG0779.jpg"><img class="aligncenter size-full wp-image-4957" title="wpid-IMAG0779.jpg" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/05/wpid-IMAG0779.jpg" alt="" width="350" height="583" /></a>
 </p>
 
 So needless to say, I haven&#8217;t been up to writing lately. I wanted to write this really long post about how my dad came to help us paint last weekend, and one about _The Tudors_, which I started watching last night, and another one about  Israel&#8217;s Independence Day, and another about how we hung our mezuzah, but honestly, I am just exhausted every day and that last bit of energy goes to finding my Nutella.

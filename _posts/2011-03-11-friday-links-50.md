@@ -17,7 +17,7 @@ Another week, another accidental drive through [the most depressing](http://en.w
 
 P.S. I am trying out having links open in a new window. Is it irritating or funsies?
 
-[<img class="aligncenter size-full wp-image-4545" title="wpid-IMAG0675.jpg" src="http://blog.vickiboykis.com/wp-content/uploads/2011/03/wpid-IMAG0675.jpg" alt="" width="500" height="300" />](http://blog.vickiboykis.com/wp-content/uploads/2011/03/wpid-IMAG0675.jpg)
+[<img class="aligncenter size-full wp-image-4545" title="wpid-IMAG0675.jpg" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/03/wpid-IMAG0675.jpg" alt="" width="500" height="300" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/03/wpid-IMAG0675.jpg)
 
 **Links:**
 

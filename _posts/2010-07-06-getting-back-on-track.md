@@ -20,13 +20,13 @@ Sabs, you&#8217;re working on setting up an online store so I can buy these for 
 Click to enjoy in full-size glory.
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2010/07/28715_635615404807_33607928_35745731_2035238_n.jpg"><img class="aligncenter size-full wp-image-3261" title="28715_635615404807_33607928_35745731_2035238_n" src="http://blog.vickiboykis.com/wp-content/uploads/2010/07/28715_635615404807_33607928_35745731_2035238_n.jpg" alt="" width="504" height="315" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/07/28715_635615404807_33607928_35745731_2035238_n.jpg"><img class="aligncenter size-full wp-image-3261" title="28715_635615404807_33607928_35745731_2035238_n" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/07/28715_635615404807_33607928_35745731_2035238_n.jpg" alt="" width="504" height="315" /></a>
 </p>
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2010/07/grandmama.jpg"><img class="aligncenter size-full wp-image-3262" title="grandmama" src="http://blog.vickiboykis.com/wp-content/uploads/2010/07/grandmama.jpg" alt="" width="504" height="315" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/07/grandmama.jpg"><img class="aligncenter size-full wp-image-3262" title="grandmama" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/07/grandmama.jpg" alt="" width="504" height="315" /></a>
 </p>
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2010/07/ira.jpg"><img class="aligncenter size-full wp-image-3263" title="ira" src="http://blog.vickiboykis.com/wp-content/uploads/2010/07/ira.jpg" alt="" width="504" height="339" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/07/ira.jpg"><img class="aligncenter size-full wp-image-3263" title="ira" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/07/ira.jpg" alt="" width="504" height="339" /></a>
 </p>

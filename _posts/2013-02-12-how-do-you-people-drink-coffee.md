@@ -20,7 +20,7 @@ tags:
   - work
 ---
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2013/02/IMG_20130115_082838.jpg"><img class="aligncenter  wp-image-8357" alt="IMG_20130115_082838" src="http://blog.vickiboykis.com/wp-content/uploads/2013/02/IMG_20130115_082838-580x773.jpg" width="464" height="618" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/02/IMG_20130115_082838.jpg"><img class="aligncenter  wp-image-8357" alt="IMG_20130115_082838" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/02/IMG_20130115_082838-580x773.jpg" width="464" height="618" /></a>
 </p>
 
 &nbsp;
@@ -47,7 +47,7 @@ I did some searching, and it turned out that the place downstairs uses ReAnimato
 
 ReAnimator is a coffee based in Philadelphia, and this is the picture they have <a href="http://www.reanimatorcoffee.com/" target="_blank">on their website</a>:
 
-[<img class="aligncenter size-full wp-image-8359" alt="Screen shot 2013-02-12 at 7.46.26 AM" src="http://blog.vickiboykis.com/wp-content/uploads/2013/02/Screen-shot-2013-02-12-at-7.46.26-AM.png" width="559" height="485" />](http://blog.vickiboykis.com/wp-content/uploads/2013/02/Screen-shot-2013-02-12-at-7.46.26-AM.png)
+[<img class="aligncenter size-full wp-image-8359" alt="Screen shot 2013-02-12 at 7.46.26 AM" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/02/Screen-shot-2013-02-12-at-7.46.26-AM.png" width="559" height="485" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/02/Screen-shot-2013-02-12-at-7.46.26-AM.png)
 
 That&#8217;s exactly how I was feeling at 10:45.
 

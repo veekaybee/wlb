@@ -14,7 +14,7 @@ tags:
 ---
 being done with my novel!
 
-[<img class="aligncenter size-full wp-image-1755" title="Page_1" src="http://blog.vickiboykis.com/wp-content/uploads/2009/11/Page_11.jpg" alt="Page_1" width="586" height="117" />](http://blog.vickiboykis.com/wp-content/uploads/2009/11/Page_11.jpg)
+[<img class="aligncenter size-full wp-image-1755" title="Page_1" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/11/Page_11.jpg" alt="Page_1" width="586" height="117" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/11/Page_11.jpg)
 
 I closed in yesterday with 50,035 words and am taking a major break. Towards the end, it was really bad.  But your support helped me out so much, and I want to thank you for answering my questions and commenting on my blog posts, which is part of what kept me going and kept me semi-sane.
 

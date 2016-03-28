@@ -36,7 +36,7 @@ tags:
 </div>
 
 <div style="text-align: center;">
-  <em><a href="http://blog.vickiboykis.com/wp-content/uploads/2009/09/277221852_476e8916f0.jpg"><img class="aligncenter size-full wp-image-1170" title="277221852_476e8916f0" src="http://blog.vickiboykis.com/wp-content/uploads/2009/09/277221852_476e8916f0.jpg" alt="277221852_476e8916f0" width="500" height="375" /></a>Via hamed on flickr.<br /> </em>
+  <em><a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/09/277221852_476e8916f0.jpg"><img class="aligncenter size-full wp-image-1170" title="277221852_476e8916f0" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/09/277221852_476e8916f0.jpg" alt="277221852_476e8916f0" width="500" height="375" /></a>Via hamed on flickr.<br /> </em>
 </div>
 
 <div>

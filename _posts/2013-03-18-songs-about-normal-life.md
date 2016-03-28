@@ -11,7 +11,7 @@ categories:
 tags:
   - music
 ---
-[<img class="aligncenter size-medium wp-image-8479" alt="Screen Shot 2013-03-18 at 7.29.08 AM" src="http://blog.vickiboykis.com/wp-content/uploads/2013/03/Screen-Shot-2013-03-18-at-7.29.08-AM-580x633.png" width="580" height="633" />](http://blog.vickiboykis.com/wp-content/uploads/2013/03/Screen-Shot-2013-03-18-at-7.29.08-AM.png)
+[<img class="aligncenter size-medium wp-image-8479" alt="Screen Shot 2013-03-18 at 7.29.08 AM" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/03/Screen-Shot-2013-03-18-at-7.29.08-AM-580x633.png" width="580" height="633" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/03/Screen-Shot-2013-03-18-at-7.29.08-AM.png)
 
 I like to listen to Jay-Z and Kanye West, because my life is nothing like theirs.  The closest I will get to a Ferrari is <a href="http://blog.vickiboykis.com/2013/01/you-cant-understand-a-man-until-you-cruise-a-mile-in-his-beemer/" target="_blank">renting a BMW</a>, and the closest I will get to being Kim Kardashian is reading <a href="http://yerevanmagazine.com/" target="_blank">Yerevan</a> Magazine.   But sometimes, you don&#8217;t want to listen to songs that say &#8220;<a href="http://www.youtube.com/watch?v=L53gjP-TtGE" target="_blank">My furs is Mongolian</a>/ my ice brought the goalies in,&#8221; no matter how much rhetorical talent Kanye admittedly has. Sometimes you don&#8217;t want to be reminded that Kanye&#8217;s single <a href="http://rapgenius.com/Game-jesus-piece-lyrics" target="_blank">Jesus piece</a> is the cost of your MBA.  That sometimes is usually when you&#8217;re paying your semester tuition bill.
 

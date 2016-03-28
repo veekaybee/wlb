@@ -22,7 +22,7 @@ I will never be able to understand or even process what people in Haiti are goin
 
 [Julie Minevich](http://www.julieminevich.com/where-to-support-haiti-earthquake-relief-efforts/) has a nice write-up of why you should be critical of aid organizations giving to Haiti right now, based on  my tweet:
 
-[<img class="aligncenter size-full wp-image-2126" title="Picture 2" src="http://blog.vickiboykis.com/wp-content/uploads/2010/01/Picture-21.png" alt="" width="636" height="252" />](http://blog.vickiboykis.com/wp-content/uploads/2010/01/Picture-21.png)I stumbled across [this post](http://www.reddit.com/r/worldnews/comments/ap5kz/please_go_to_wwwredcrossorg_and_donate_at_least/) on Reddit which details all the ways that the Red Cross is not helpful and organizations like [Medicins Sans Frontieres](http://www.msf.org/) (Doctors Without Borders) are.
+[<img class="aligncenter size-full wp-image-2126" title="Picture 2" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/01/Picture-21.png" alt="" width="636" height="252" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/01/Picture-21.png)I stumbled across [this post](http://www.reddit.com/r/worldnews/comments/ap5kz/please_go_to_wwwredcrossorg_and_donate_at_least/) on Reddit which details all the ways that the Red Cross is not helpful and organizations like [Medicins Sans Frontieres](http://www.msf.org/) (Doctors Without Borders) are.
 
 <div>
   <div>

@@ -23,7 +23,7 @@ tags:
   - wtf is london so expensive
   - young
 ---
-<a href="http://blog.vickiboykis.com/2012/12/pocahontas-at-26-versus-9/414px-pocahontas_by_simon_van_de_passe_1616/" rel="attachment wp-att-7945"><img class="aligncenter size-full wp-image-7945" alt="414px-Pocahontas_by_Simon_van_de_Passe_1616" src="http://blog.vickiboykis.com/wp-content/uploads/2012/12/414px-Pocahontas_by_Simon_van_de_Passe_1616.jpg" width="414" height="599" /></a>
+<a href="http://blog.vickiboykis.com/2012/12/pocahontas-at-26-versus-9/414px-pocahontas_by_simon_van_de_passe_1616/" rel="attachment wp-att-7945"><img class="aligncenter size-full wp-image-7945" alt="414px-Pocahontas_by_Simon_van_de_Passe_1616" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/12/414px-Pocahontas_by_Simon_van_de_Passe_1616.jpg" width="414" height="599" /></a>
 
 The semester ended for me last night and I went crazy by cleaning the house and intermittently watching Pocahontas.  That movie seems different now.
 
@@ -34,7 +34,7 @@ The semester ended for me last night and I went crazy by cleaning the house and 
 **Now Me:** Oh wow, that&#8217;s London! A modest meal for two people at a fast food restaurant costs ! No wonder they had to sail somewhere else.
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/2012/12/pocahontas-at-26-versus-9/pocahontas-disneyscreencaps-com-2/" rel="attachment wp-att-7942"><img class="aligncenter  wp-image-7942" alt="pocahontas-disneyscreencaps.com-2" src="http://blog.vickiboykis.com/wp-content/uploads/2012/12/pocahontas-disneyscreencaps.com-2-1024x556.jpg" width="655" height="356" /></a>
+  <a href="http://blog.vickiboykis.com/2012/12/pocahontas-at-26-versus-9/pocahontas-disneyscreencaps-com-2/" rel="attachment wp-att-7942"><img class="aligncenter  wp-image-7942" alt="pocahontas-disneyscreencaps.com-2" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/12/pocahontas-disneyscreencaps.com-2-1024x556.jpg" width="655" height="356" /></a>
 </p>
 
 <p style="text-align: left;">
@@ -42,19 +42,19 @@ The semester ended for me last night and I went crazy by cleaning the house and 
 </p>
 
 <p style="text-align: left;">
-  <a href="http://blog.vickiboykis.com/2012/12/pocahontas-at-26-versus-9/pocahontas-disneyscreencaps-com-70/" rel="attachment wp-att-7943"><img class="aligncenter  wp-image-7943" alt="pocahontas-disneyscreencaps.com-70" src="http://blog.vickiboykis.com/wp-content/uploads/2012/12/pocahontas-disneyscreencaps.com-70-1024x556.jpg" width="645" height="350" /></a>
+  <a href="http://blog.vickiboykis.com/2012/12/pocahontas-at-26-versus-9/pocahontas-disneyscreencaps-com-70/" rel="attachment wp-att-7943"><img class="aligncenter  wp-image-7943" alt="pocahontas-disneyscreencaps.com-70" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/12/pocahontas-disneyscreencaps.com-70-1024x556.jpg" width="645" height="350" /></a>
 </p>
 
 ALSO. What if we has really just an [artisan](http://www.medieval-life-and-times.info/medieval-england/medieval-jobs.htm)? And lived with his parents?
 
-<a href="http://blog.vickiboykis.com/2012/12/pocahontas-at-26-versus-9/tumblr_ljph7qmt3y1qgc8nlo1_500/" rel="attachment wp-att-7944"><img class="aligncenter size-full wp-image-7944" alt="tumblr_ljph7qMt3y1qgc8nlo1_500" src="http://blog.vickiboykis.com/wp-content/uploads/2012/12/tumblr_ljph7qMt3y1qgc8nlo1_500.jpg" width="500" height="360" /></a>
+<a href="http://blog.vickiboykis.com/2012/12/pocahontas-at-26-versus-9/tumblr_ljph7qmt3y1qgc8nlo1_500/" rel="attachment wp-att-7944"><img class="aligncenter size-full wp-image-7944" alt="tumblr_ljph7qMt3y1qgc8nlo1_500" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/12/tumblr_ljph7qMt3y1qgc8nlo1_500.jpg" width="500" height="360" /></a>
 
 **Young Me:** Feather pens!
   
 **Now Me:**  Indentured servitude and brain drain means the time is ripe for industrial revolution!
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/2012/12/pocahontas-at-26-versus-9/pocahontas-disneyscreencaps-com-9/" rel="attachment wp-att-7946"><img class="aligncenter  wp-image-7946" alt="pocahontas-disneyscreencaps.com-9" src="http://blog.vickiboykis.com/wp-content/uploads/2012/12/pocahontas-disneyscreencaps.com-9.jpg" width="574" height="312" /></a>
+  <a href="http://blog.vickiboykis.com/2012/12/pocahontas-at-26-versus-9/pocahontas-disneyscreencaps-com-9/" rel="attachment wp-att-7946"><img class="aligncenter  wp-image-7946" alt="pocahontas-disneyscreencaps.com-9" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/12/pocahontas-disneyscreencaps.com-9.jpg" width="574" height="312" /></a>
 </p>
 
 **Young Me: **Native Americans doing cool Native American stuff. Mmm salmon.
@@ -62,7 +62,7 @@ ALSO. What if we has really just an [artisan](http://www.medieval-life-and-time
 **Now Me:**  Jared Diamond was right. No wonder they were all killed off with <a href="http://en.wikipedia.org/wiki/Guns,_Germs,_and_Steel" target="_blank">germs, guns, and steel.</a> They were at a huge biological and geographical disadvantage.
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/2012/12/pocahontas-at-26-versus-9/pocahontas-disneyscreencaps-com-628/" rel="attachment wp-att-7949"><img class="aligncenter  wp-image-7949" alt="pocahontas-disneyscreencaps.com-628" src="http://blog.vickiboykis.com/wp-content/uploads/2012/12/pocahontas-disneyscreencaps.com-628.jpg" width="614" height="334" /></a>
+  <a href="http://blog.vickiboykis.com/2012/12/pocahontas-at-26-versus-9/pocahontas-disneyscreencaps-com-628/" rel="attachment wp-att-7949"><img class="aligncenter  wp-image-7949" alt="pocahontas-disneyscreencaps.com-628" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/12/pocahontas-disneyscreencaps.com-628.jpg" width="614" height="334" /></a>
 </p>
 
 <p style="text-align: left;">
@@ -70,7 +70,7 @@ ALSO. What if we has really just an [artisan](http://www.medieval-life-and-time
 </p>
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/2012/12/pocahontas-at-26-versus-9/pocahontas-disneyscreencaps-com-1017/" rel="attachment wp-att-7950"><img class="aligncenter  wp-image-7950" alt="pocahontas-disneyscreencaps.com-1017" src="http://blog.vickiboykis.com/wp-content/uploads/2012/12/pocahontas-disneyscreencaps.com-1017.jpg" width="614" height="334" /></a>
+  <a href="http://blog.vickiboykis.com/2012/12/pocahontas-at-26-versus-9/pocahontas-disneyscreencaps-com-1017/" rel="attachment wp-att-7950"><img class="aligncenter  wp-image-7950" alt="pocahontas-disneyscreencaps.com-1017" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/12/pocahontas-disneyscreencaps.com-1017.jpg" width="614" height="334" /></a>
 </p>
 
 <p style="text-align: left;">
@@ -78,7 +78,7 @@ ALSO. What if we has really just an [artisan](http://www.medieval-life-and-time
 </p>
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/2012/12/pocahontas-at-26-versus-9/pocahontas-disneyscreencaps-com-1085/" rel="attachment wp-att-7951"><img class="aligncenter  wp-image-7951" alt="pocahontas-disneyscreencaps.com-1085" src="http://blog.vickiboykis.com/wp-content/uploads/2012/12/pocahontas-disneyscreencaps.com-1085.jpg" width="614" height="334" /></a>
+  <a href="http://blog.vickiboykis.com/2012/12/pocahontas-at-26-versus-9/pocahontas-disneyscreencaps-com-1085/" rel="attachment wp-att-7951"><img class="aligncenter  wp-image-7951" alt="pocahontas-disneyscreencaps.com-1085" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/12/pocahontas-disneyscreencaps.com-1085.jpg" width="614" height="334" /></a>
 </p>
 
 <p style="text-align: left;">
@@ -86,7 +86,7 @@ ALSO. What if we has really just an [artisan](http://www.medieval-life-and-time
 </p>
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/2012/12/pocahontas-at-26-versus-9/pocahontas-disneyscreencaps-com-1973/" rel="attachment wp-att-7952"><img class="aligncenter  wp-image-7952" alt="pocahontas-disneyscreencaps.com-1973" src="http://blog.vickiboykis.com/wp-content/uploads/2012/12/pocahontas-disneyscreencaps.com-1973.jpg" width="614" height="334" /></a>
+  <a href="http://blog.vickiboykis.com/2012/12/pocahontas-at-26-versus-9/pocahontas-disneyscreencaps-com-1973/" rel="attachment wp-att-7952"><img class="aligncenter  wp-image-7952" alt="pocahontas-disneyscreencaps.com-1973" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/12/pocahontas-disneyscreencaps.com-1973.jpg" width="614" height="334" /></a>
 </p>
 
 <p style="text-align: left;">
@@ -94,7 +94,7 @@ ALSO. What if we has really just an [artisan](http://www.medieval-life-and-time
 </p>
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/2012/12/pocahontas-at-26-versus-9/pocahontas-disneyscreencaps-com-2562/" rel="attachment wp-att-7953"><img class="aligncenter  wp-image-7953" alt="pocahontas-disneyscreencaps.com-2562" src="http://blog.vickiboykis.com/wp-content/uploads/2012/12/pocahontas-disneyscreencaps.com-2562.jpg" width="614" height="334" /></a>
+  <a href="http://blog.vickiboykis.com/2012/12/pocahontas-at-26-versus-9/pocahontas-disneyscreencaps-com-2562/" rel="attachment wp-att-7953"><img class="aligncenter  wp-image-7953" alt="pocahontas-disneyscreencaps.com-2562" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/12/pocahontas-disneyscreencaps.com-2562.jpg" width="614" height="334" /></a>
 </p>
 
 <p style="text-align: left;">
@@ -102,7 +102,7 @@ ALSO. What if we has really just an [artisan](http://www.medieval-life-and-time
 </p>
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/2012/12/pocahontas-at-26-versus-9/pocahontas-disneyscreencaps-com-2842/" rel="attachment wp-att-7955"><img class="aligncenter  wp-image-7955" alt="pocahontas-disneyscreencaps.com-2842" src="http://blog.vickiboykis.com/wp-content/uploads/2012/12/pocahontas-disneyscreencaps.com-2842.jpg" width="614" height="334" /></a>
+  <a href="http://blog.vickiboykis.com/2012/12/pocahontas-at-26-versus-9/pocahontas-disneyscreencaps-com-2842/" rel="attachment wp-att-7955"><img class="aligncenter  wp-image-7955" alt="pocahontas-disneyscreencaps.com-2842" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/12/pocahontas-disneyscreencaps.com-2842.jpg" width="614" height="334" /></a>
 </p>
 
 <p style="text-align: left;">
@@ -110,7 +110,7 @@ ALSO. What if we has really just an [artisan](http://www.medieval-life-and-time
 </p>
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/2012/12/pocahontas-at-26-versus-9/pocahontas-disneyscreencaps-com-2959/" rel="attachment wp-att-7956"><img class="aligncenter  wp-image-7956" alt="pocahontas-disneyscreencaps.com-2959" src="http://blog.vickiboykis.com/wp-content/uploads/2012/12/pocahontas-disneyscreencaps.com-2959.jpg" width="614" height="334" /></a>
+  <a href="http://blog.vickiboykis.com/2012/12/pocahontas-at-26-versus-9/pocahontas-disneyscreencaps-com-2959/" rel="attachment wp-att-7956"><img class="aligncenter  wp-image-7956" alt="pocahontas-disneyscreencaps.com-2959" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/12/pocahontas-disneyscreencaps.com-2959.jpg" width="614" height="334" /></a>
 </p>
 
 <p style="text-align: left;">
@@ -118,7 +118,7 @@ ALSO. What if we has really just an [artisan](http://www.medieval-life-and-time
 </p>
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/2012/12/pocahontas-at-26-versus-9/pocahontas-disneyscreencaps-com-3979/" rel="attachment wp-att-7958"><img class="aligncenter  wp-image-7958" alt="pocahontas-disneyscreencaps.com-3979" src="http://blog.vickiboykis.com/wp-content/uploads/2012/12/pocahontas-disneyscreencaps.com-3979.jpg" width="614" height="334" /></a>
+  <a href="http://blog.vickiboykis.com/2012/12/pocahontas-at-26-versus-9/pocahontas-disneyscreencaps-com-3979/" rel="attachment wp-att-7958"><img class="aligncenter  wp-image-7958" alt="pocahontas-disneyscreencaps.com-3979" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/12/pocahontas-disneyscreencaps.com-3979.jpg" width="614" height="334" /></a>
 </p>
 
 <p style="text-align: left;">
@@ -126,7 +126,7 @@ ALSO. What if we has really just an [artisan](http://www.medieval-life-and-time
 </p>
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/2012/12/pocahontas-at-26-versus-9/pocahontas-disneyscreencaps-com-4624/" rel="attachment wp-att-7959"><img class="aligncenter  wp-image-7959" alt="pocahontas-disneyscreencaps.com-4624" src="http://blog.vickiboykis.com/wp-content/uploads/2012/12/pocahontas-disneyscreencaps.com-4624.jpg" width="614" height="334" /></a>
+  <a href="http://blog.vickiboykis.com/2012/12/pocahontas-at-26-versus-9/pocahontas-disneyscreencaps-com-4624/" rel="attachment wp-att-7959"><img class="aligncenter  wp-image-7959" alt="pocahontas-disneyscreencaps.com-4624" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/12/pocahontas-disneyscreencaps.com-4624.jpg" width="614" height="334" /></a>
 </p>
 
 <p style="text-align: left;">
@@ -134,7 +134,7 @@ ALSO. What if we has really just an [artisan](http://www.medieval-life-and-time
 </p>
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/2012/12/pocahontas-at-26-versus-9/pocahontas-disneyscreencaps-com-4780/" rel="attachment wp-att-7960"><img class="aligncenter  wp-image-7960" alt="pocahontas-disneyscreencaps.com-4780" src="http://blog.vickiboykis.com/wp-content/uploads/2012/12/pocahontas-disneyscreencaps.com-4780.jpg" width="614" height="334" /></a>
+  <a href="http://blog.vickiboykis.com/2012/12/pocahontas-at-26-versus-9/pocahontas-disneyscreencaps-com-4780/" rel="attachment wp-att-7960"><img class="aligncenter  wp-image-7960" alt="pocahontas-disneyscreencaps.com-4780" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/12/pocahontas-disneyscreencaps.com-4780.jpg" width="614" height="334" /></a>
 </p>
 
 <p style="text-align: center;">
@@ -143,7 +143,7 @@ ALSO. What if we has really just an [artisan](http://www.medieval-life-and-time
   </p>
   
   <p style="text-align: center;">
-    <a href="http://blog.vickiboykis.com/2012/12/pocahontas-at-26-versus-9/pocahontas-disneyscreencaps-com-5379/" rel="attachment wp-att-7961"><img class="aligncenter  wp-image-7961" alt="pocahontas-disneyscreencaps.com-5379" src="http://blog.vickiboykis.com/wp-content/uploads/2012/12/pocahontas-disneyscreencaps.com-5379.jpg" width="614" height="334" /></a>
+    <a href="http://blog.vickiboykis.com/2012/12/pocahontas-at-26-versus-9/pocahontas-disneyscreencaps-com-5379/" rel="attachment wp-att-7961"><img class="aligncenter  wp-image-7961" alt="pocahontas-disneyscreencaps.com-5379" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/12/pocahontas-disneyscreencaps.com-5379.jpg" width="614" height="334" /></a>
   </p>
   
   <p style="text-align: center;">
@@ -152,7 +152,7 @@ ALSO. What if we has really just an [artisan](http://www.medieval-life-and-time
     </p>
     
     <p style="text-align: center;">
-      <a href="http://blog.vickiboykis.com/2012/12/pocahontas-at-26-versus-9/pocahontas-disneyscreencaps-com-7863/" rel="attachment wp-att-7962"><img class="aligncenter  wp-image-7962" alt="pocahontas-disneyscreencaps.com-7863" src="http://blog.vickiboykis.com/wp-content/uploads/2012/12/pocahontas-disneyscreencaps.com-7863.jpg" width="614" height="334" /></a>
+      <a href="http://blog.vickiboykis.com/2012/12/pocahontas-at-26-versus-9/pocahontas-disneyscreencaps-com-7863/" rel="attachment wp-att-7962"><img class="aligncenter  wp-image-7962" alt="pocahontas-disneyscreencaps.com-7863" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/12/pocahontas-disneyscreencaps.com-7863.jpg" width="614" height="334" /></a>
     </p>
     
     <p style="text-align: left;">
@@ -160,7 +160,7 @@ ALSO. What if we has really just an [artisan](http://www.medieval-life-and-time
     </p>
     
     <p style="text-align: center;">
-      <a href="http://blog.vickiboykis.com/2012/12/pocahontas-at-26-versus-9/pocahontas-disneyscreencaps-com-8055/" rel="attachment wp-att-7963"><img class="aligncenter  wp-image-7963" alt="pocahontas-disneyscreencaps.com-8055" src="http://blog.vickiboykis.com/wp-content/uploads/2012/12/pocahontas-disneyscreencaps.com-8055.jpg" width="614" height="334" /></a>
+      <a href="http://blog.vickiboykis.com/2012/12/pocahontas-at-26-versus-9/pocahontas-disneyscreencaps-com-8055/" rel="attachment wp-att-7963"><img class="aligncenter  wp-image-7963" alt="pocahontas-disneyscreencaps.com-8055" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/12/pocahontas-disneyscreencaps.com-8055.jpg" width="614" height="334" /></a>
     </p>
     
     <p style="text-align: left;">
@@ -168,7 +168,7 @@ ALSO. What if we has really just an [artisan](http://www.medieval-life-and-time
     </p>
     
     <p style="text-align: center;">
-      <a href="http://blog.vickiboykis.com/2012/12/pocahontas-at-26-versus-9/pocahontas-disneyscreencaps-com-8144/" rel="attachment wp-att-7964"><img class="aligncenter  wp-image-7964" alt="pocahontas-disneyscreencaps.com-8144" src="http://blog.vickiboykis.com/wp-content/uploads/2012/12/pocahontas-disneyscreencaps.com-8144.jpg" width="614" height="334" /></a>
+      <a href="http://blog.vickiboykis.com/2012/12/pocahontas-at-26-versus-9/pocahontas-disneyscreencaps-com-8144/" rel="attachment wp-att-7964"><img class="aligncenter  wp-image-7964" alt="pocahontas-disneyscreencaps.com-8144" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/12/pocahontas-disneyscreencaps.com-8144.jpg" width="614" height="334" /></a>
     </p>
     
     <p style="text-align: center;">

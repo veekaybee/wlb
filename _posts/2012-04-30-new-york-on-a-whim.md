@@ -22,7 +22,7 @@ We want to create a reading/TV-watching nook in our office/library  on the thir
 
 American furniture is 100% ugly, and Russian furniture is 98% ugly, AND Mr. B  and I don&#8217;t agree on anything, so I was extremely <a href="http://www.cb2.com/sofas/furniture/club-atomic-orange-sofa/f7236" target="_blank">lucky that we found one couch we agreed on</a>:
 
-[<img class="aligncenter size-full wp-image-6816" title="clubsofaFCSC12" src="http://blog.vickiboykis.com/wp-content/uploads/2012/04/clubsofaFCSC12.jpg" alt="" width="337" height="337" />](http://blog.vickiboykis.com/wp-content/uploads/2012/04/clubsofaFCSC12.jpg)
+[<img class="aligncenter size-full wp-image-6816" title="clubsofaFCSC12" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/04/clubsofaFCSC12.jpg" alt="" width="337" height="337" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/04/clubsofaFCSC12.jpg)
 
 &nbsp;
 
@@ -33,7 +33,7 @@ And the house was a mess. And I had homework to do. And I was lazy.
 But hey, it&#8217;s only spring once a year, right? And <a href="http://blog.vickiboykis.com/2010/07/the-city-that-doesnt-sleep-but-sure-as-hell-sweats-a-lot/" target="_blank">we love New York</a>. So we decided to go to Manhattan to see a couch.
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2012/04/IMG_20120428_131017.jpg"><img class="aligncenter  wp-image-6817" title="IMG_20120428_131017" src="http://blog.vickiboykis.com/wp-content/uploads/2012/04/IMG_20120428_131017-768x1024.jpg" alt="" width="538" height="717" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/04/IMG_20120428_131017.jpg"><img class="aligncenter  wp-image-6817" title="IMG_20120428_131017" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/04/IMG_20120428_131017-768x1024.jpg" alt="" width="538" height="717" /></a>
 </p>
 
 I&#8217;m so glad we went.  It was fun.   The weather was beautiful, the couch was perfect and we decided to buy it, and we spent the rest of the day wandering around the city.  I think we walked 6 miles.
@@ -43,13 +43,13 @@ There&#8217;s a certain vitality that New York has that not even my beloved DC c
 At <a href="http://www.pearlriver.com/v2/index.html" target="_blank">Pearl River Mart</a>.
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2012/04/IMG_20120428_134817.jpg"><img class="aligncenter  wp-image-6818" title="IMG_20120428_134817" src="http://blog.vickiboykis.com/wp-content/uploads/2012/04/IMG_20120428_134817-1024x768.jpg" alt="" width="430" height="323" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/04/IMG_20120428_134817.jpg"><img class="aligncenter  wp-image-6818" title="IMG_20120428_134817" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/04/IMG_20120428_134817-1024x768.jpg" alt="" width="430" height="323" /></a>
 </p>
 
 <p style="text-align: center;">
   <p style="text-align: center;">
     <p style="text-align: center;">
-      <a href="http://blog.vickiboykis.com/wp-content/uploads/2012/04/IMG_20120428_134938.jpg"><img class="aligncenter  wp-image-6819" title="IMG_20120428_134938" src="http://blog.vickiboykis.com/wp-content/uploads/2012/04/IMG_20120428_134938-768x1024.jpg" alt="" width="415" height="553" /></a>
+      <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/04/IMG_20120428_134938.jpg"><img class="aligncenter  wp-image-6819" title="IMG_20120428_134938" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/04/IMG_20120428_134938-768x1024.jpg" alt="" width="415" height="553" /></a>
     </p>
     
     <p>
@@ -57,7 +57,7 @@ At <a href="http://www.pearlriver.com/v2/index.html" target="_blank">Pearl River
     </p>
     
     <p style="text-align: center;">
-      <a href="http://blog.vickiboykis.com/wp-content/uploads/2012/04/IMG_20120428_141615.jpg"><img class="aligncenter  wp-image-6820" title="IMG_20120428_141615" src="http://blog.vickiboykis.com/wp-content/uploads/2012/04/IMG_20120428_141615-768x1024.jpg" alt="" width="323" height="430" /></a>
+      <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/04/IMG_20120428_141615.jpg"><img class="aligncenter  wp-image-6820" title="IMG_20120428_141615" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/04/IMG_20120428_141615-768x1024.jpg" alt="" width="323" height="430" /></a>
     </p>
     
     <p style="text-align: left;">
@@ -65,7 +65,7 @@ At <a href="http://www.pearlriver.com/v2/index.html" target="_blank">Pearl River
     </p>
     
     <p style="text-align: center;">
-      <a href="http://blog.vickiboykis.com/wp-content/uploads/2012/04/IMG_20120428_143413.jpg"><img class="aligncenter  wp-image-6821" title="IMG_20120428_143413" src="http://blog.vickiboykis.com/wp-content/uploads/2012/04/IMG_20120428_143413-768x1024.jpg" alt="" width="461" height="614" /></a>
+      <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/04/IMG_20120428_143413.jpg"><img class="aligncenter  wp-image-6821" title="IMG_20120428_143413" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/04/IMG_20120428_143413-768x1024.jpg" alt="" width="461" height="614" /></a>
     </p>
     
     <p style="text-align: left;">
@@ -81,7 +81,7 @@ At <a href="http://www.pearlriver.com/v2/index.html" target="_blank">Pearl River
     </p>
     
     <p style="text-align: center;">
-      <a href="http://blog.vickiboykis.com/wp-content/uploads/2012/04/IMG_20120428_185028.jpg"><img class="aligncenter  wp-image-6822" title="IMG_20120428_185028" src="http://blog.vickiboykis.com/wp-content/uploads/2012/04/IMG_20120428_185028-1024x768.jpg" alt="" width="368" height="277" /></a>
+      <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/04/IMG_20120428_185028.jpg"><img class="aligncenter  wp-image-6822" title="IMG_20120428_185028" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/04/IMG_20120428_185028-1024x768.jpg" alt="" width="368" height="277" /></a>
     </p>
     
     <p style="text-align: left;">

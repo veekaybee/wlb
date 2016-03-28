@@ -25,7 +25,7 @@ We first went to the [Art Museum](http://www.philamuseum.org/), which I&#8217;ve
 I don&#8217;t know why, but watching my mom look at art makes me really happy.
 
 <p style="text-align: left;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2011/01/wpid-IMAG0564.jpg"><img class="aligncenter size-full wp-image-4245" title="wpid-IMAG0564.jpg" src="http://blog.vickiboykis.com/wp-content/uploads/2011/01/wpid-IMAG0564.jpg" alt="" width="270" height="449" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/01/wpid-IMAG0564.jpg"><img class="aligncenter size-full wp-image-4245" title="wpid-IMAG0564.jpg" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/01/wpid-IMAG0564.jpg" alt="" width="270" height="449" /></a>
 </p>
 
 <p style="text-align: left;">
@@ -37,7 +37,7 @@ I don&#8217;t know why, but watching my mom look at art makes me really happy.
 </p>
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2011/01/wpid-IMAG0565.jpg"><img class="aligncenter size-full wp-image-4250" title="wpid-IMAG0565.jpg" src="http://blog.vickiboykis.com/wp-content/uploads/2011/01/wpid-IMAG0565.jpg" alt="" width="350" height="583" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/01/wpid-IMAG0565.jpg"><img class="aligncenter size-full wp-image-4250" title="wpid-IMAG0565.jpg" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/01/wpid-IMAG0565.jpg" alt="" width="350" height="583" /></a>
 </p>
 
 <p style="text-align: left;">
@@ -45,7 +45,7 @@ I don&#8217;t know why, but watching my mom look at art makes me really happy.
 </p>
 
 <p style="text-align: left;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2011/01/wpid-IMAG0570.jpg"><img class="aligncenter size-full wp-image-4247" title="wpid-IMAG0570.jpg" src="http://blog.vickiboykis.com/wp-content/uploads/2011/01/wpid-IMAG0570.jpg" alt="" width="500" height="300" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/01/wpid-IMAG0570.jpg"><img class="aligncenter size-full wp-image-4247" title="wpid-IMAG0570.jpg" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/01/wpid-IMAG0570.jpg" alt="" width="500" height="300" /></a>
 </p>
 
 <p style="text-align: left;">

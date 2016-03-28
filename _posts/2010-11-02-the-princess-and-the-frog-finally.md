@@ -14,7 +14,7 @@ tags:
   - women
 ---
 <div>
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2010/10/Screen-shot-2010-11-02-at-10.01.57-PM.png"><img class="size-full wp-image-3823" title="Screen shot 2010-11-02 at 10.01.57 PM" src="http://blog.vickiboykis.com/wp-content/uploads/2010/10/Screen-shot-2010-11-02-at-10.01.57-PM.png" alt="" width="479" height="337" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/10/Screen-shot-2010-11-02-at-10.01.57-PM.png"><img class="size-full wp-image-3823" title="Screen shot 2010-11-02 at 10.01.57 PM" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/10/Screen-shot-2010-11-02-at-10.01.57-PM.png" alt="" width="479" height="337" /></a>
 </div>
 
 _A fairytale: Me and Mr. B getting approved for a 4% interest rate mortgage and closing on a house.  And living. TOGETHER._ 
@@ -32,7 +32,7 @@ I love everything about this movie and the people that say it is racist, sexist,
   * [Women don&#8217;t want to have children](http://www.youtube.com/watch?v=UAVM-vwX8Pk) but want to pursue their dreams of being foodies and don&#8217;t need the help of men to get there.
   * Family values.
   * [How beautiful New Orleans and jazz and Southern culture is](http://www.youtube.com/watch?v=zBhO_T6mvco), without patronizing it, introducing it to a whole new generation.
-  * [Hot men with vague European accents that love you](http://www.youtube.com/watch?v=wfeK2FIRxRo) no matter how you look are compatible with feminism! (spoiler for the end of the movie, [also spoiler for this blog](http://blog.vickiboykis.com/wp-content/uploads/2010/09/Page_14.jpg)) Also, women can build stuff!
+  * [Hot men with vague European accents that love you](http://www.youtube.com/watch?v=wfeK2FIRxRo) no matter how you look are compatible with feminism! (spoiler for the end of the movie, [also spoiler for this blog](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/09/Page_14.jpg)) Also, women can build stuff!
   * Voodoo culture. So much so that it piqued my curiosity and I spent the whole evening reading about voodoo. Unfortunately, this ancient and mysterious practice has nothing of interest for Jews who would like to conjure up currency.
   * Awesome characters, including a jazz-playing alligator. LOTS OF TEACHABLE MOMENTS. And I don&#8217;t mean for little kids. I mean for me. I had to google Charlie Parker after seeing this movie.
 

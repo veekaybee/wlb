@@ -29,7 +29,7 @@ It&#8217;s hard to predict how you&#8217;ll act in a medical emergency, and the 
 I told her the olive oil was stupid, and she washed off his hand.  &#8220;The GAUZE! Get the GAUZE!&#8221; she yelled.  And grabbed some gauze, beginning to wrap Mr. B&#8217;s hand.  My dad came running in, because the medicine cabinet (of which this is a mere sample) is his domain:
 
 <p style="text-align: left;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2011/07/IMAG0893.jpg"><img class="aligncenter size-full wp-image-5314" title="IMAG0893" src="http://blog.vickiboykis.com/wp-content/uploads/2011/07/IMAG0893.jpg" alt="" width="560" height="336" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/07/IMAG0893.jpg"><img class="aligncenter size-full wp-image-5314" title="IMAG0893" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/07/IMAG0893.jpg" alt="" width="560" height="336" /></a>
 </p>
 
 <p style="text-align: left;">
@@ -49,7 +49,7 @@ I told her the olive oil was stupid, and she washed off his hand.  &#8220;The G
 </p>
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2011/07/batmanreturns_penguin.jpg"><img class="aligncenter size-full wp-image-5316" title="batmanreturns_penguin" src="http://blog.vickiboykis.com/wp-content/uploads/2011/07/batmanreturns_penguin.jpg" alt="" width="432" height="274" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/07/batmanreturns_penguin.jpg"><img class="aligncenter size-full wp-image-5316" title="batmanreturns_penguin" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/07/batmanreturns_penguin.jpg" alt="" width="432" height="274" /></a>
 </p>
 
 <p style="text-align: left;">

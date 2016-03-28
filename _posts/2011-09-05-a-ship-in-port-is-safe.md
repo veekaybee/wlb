@@ -12,7 +12,7 @@ categories:
 &nbsp;
 
 <p style="text-align: center;">
-  <a href="http://26.media.tumblr.com/tumblr_lpexzzm2RY1qb4nvco1_400.jpg"><img src="http://blog.vickiboykis.com/wp-content/uploads/2011/09/tumblr_lpexzzm2RY1qb4nvco1_400.jpg" alt="" /></a>
+  <a href="http://26.media.tumblr.com/tumblr_lpexzzm2RY1qb4nvco1_400.jpg"><img src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/09/tumblr_lpexzzm2RY1qb4nvco1_400.jpg" alt="" /></a>
 </p>
 
 &nbsp;

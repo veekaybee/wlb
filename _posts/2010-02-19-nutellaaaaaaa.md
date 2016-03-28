@@ -15,7 +15,7 @@ tags:
 ---
 Remember when I was [trying to lose weight through the power of economics](http://blog.vickiboykis.com/2009/11/10/this-is-how-economists-theoretically-lose-weight/)?  Well, I&#8217;m having another go at it.  So far&#8230;success!  Almost.    Also, remember how I used to have [links on Fridays](http://blog.vickiboykis.com/2009/11/19/friday-links-for-the-doomed/) and then I stopped and you were probably like, what the heck?  Well, I got lazy.  So I&#8217;m going to try to bring them back. At least for this week.   After the <span style="text-decoration: line-through;">trauma </span>comic.
 
-[<img class="aligncenter size-full wp-image-2383" title="Page_1" src="http://blog.vickiboykis.com/wp-content/uploads/2010/02/Page_1.jpg" alt="" width="612" height="792" />](http://blog.vickiboykis.com/wp-content/uploads/2010/02/Page_1.jpg)
+[<img class="aligncenter size-full wp-image-2383" title="Page_1" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/02/Page_1.jpg" alt="" width="612" height="792" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/02/Page_1.jpg)
 
 **Blog posts that were really cool this week:**
 
@@ -25,7 +25,7 @@ Remember when I was [trying to lose weight through the power of economics](http:
   
 3. Jodi of Economists Do it with Models covers [Remember when I was [trying to lose weight through the power of economics](http://blog.vickiboykis.com/2009/11/10/this-is-how-economists-theoretically-lose-weight/)?  Well, I&#8217;m having another go at it.  So far&#8230;success!  Almost.    Also, remember how I used to have [links on Fridays](http://blog.vickiboykis.com/2009/11/19/friday-links-for-the-doomed/) and then I stopped and you were probably like, what the heck?  Well, I got lazy.  So I&#8217;m going to try to bring them back. At least for this week.   After the <span style="text-decoration: line-through;">trauma </span>comic.
 
-[<img class="aligncenter size-full wp-image-2383" title="Page_1" src="http://blog.vickiboykis.com/wp-content/uploads/2010/02/Page_1.jpg" alt="" width="612" height="792" />](http://blog.vickiboykis.com/wp-content/uploads/2010/02/Page_1.jpg)
+[<img class="aligncenter size-full wp-image-2383" title="Page_1" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/02/Page_1.jpg" alt="" width="612" height="792" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/02/Page_1.jpg)
 
 **Blog posts that were really cool this week:**
 
@@ -49,7 +49,7 @@ Remember when I was [trying to lose weight through the power of economics](http:
   
 4.  [Remember when I was [trying to lose weight through the power of economics](http://blog.vickiboykis.com/2009/11/10/this-is-how-economists-theoretically-lose-weight/)?  Well, I&#8217;m having another go at it.  So far&#8230;success!  Almost.    Also, remember how I used to have [links on Fridays](http://blog.vickiboykis.com/2009/11/19/friday-links-for-the-doomed/) and then I stopped and you were probably like, what the heck?  Well, I got lazy.  So I&#8217;m going to try to bring them back. At least for this week.   After the <span style="text-decoration: line-through;">trauma </span>comic.
 
-[<img class="aligncenter size-full wp-image-2383" title="Page_1" src="http://blog.vickiboykis.com/wp-content/uploads/2010/02/Page_1.jpg" alt="" width="612" height="792" />](http://blog.vickiboykis.com/wp-content/uploads/2010/02/Page_1.jpg)
+[<img class="aligncenter size-full wp-image-2383" title="Page_1" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/02/Page_1.jpg" alt="" width="612" height="792" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/02/Page_1.jpg)
 
 **Blog posts that were really cool this week:**
 
@@ -59,7 +59,7 @@ Remember when I was [trying to lose weight through the power of economics](http:
   
 3. Jodi of Economists Do it with Models covers [Remember when I was [trying to lose weight through the power of economics](http://blog.vickiboykis.com/2009/11/10/this-is-how-economists-theoretically-lose-weight/)?  Well, I&#8217;m having another go at it.  So far&#8230;success!  Almost.    Also, remember how I used to have [links on Fridays](http://blog.vickiboykis.com/2009/11/19/friday-links-for-the-doomed/) and then I stopped and you were probably like, what the heck?  Well, I got lazy.  So I&#8217;m going to try to bring them back. At least for this week.   After the <span style="text-decoration: line-through;">trauma </span>comic.
 
-[<img class="aligncenter size-full wp-image-2383" title="Page_1" src="http://blog.vickiboykis.com/wp-content/uploads/2010/02/Page_1.jpg" alt="" width="612" height="792" />](http://blog.vickiboykis.com/wp-content/uploads/2010/02/Page_1.jpg)
+[<img class="aligncenter size-full wp-image-2383" title="Page_1" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/02/Page_1.jpg" alt="" width="612" height="792" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/02/Page_1.jpg)
 
 **Blog posts that were really cool this week:**
 

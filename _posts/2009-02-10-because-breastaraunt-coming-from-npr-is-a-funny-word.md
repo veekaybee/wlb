@@ -15,7 +15,7 @@ tags:
   - random
 ---
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2009/02/bettyboopdsm.jpg"><img class="alignnone size-full wp-image-132" title="bettyboopdsm" src="http://blog.vickiboykis.com/wp-content/uploads/2009/02/bettyboopdsm.jpg" alt="bettyboopdsm" width="169" height="198" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/02/bettyboopdsm.jpg"><img class="alignnone size-full wp-image-132" title="bettyboopdsm" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/02/bettyboopdsm.jpg" alt="bettyboopdsm" width="169" height="198" /></a>
 </p>
 
 <p style="text-align: center;">
@@ -23,7 +23,7 @@ tags:
 </p>
 
 [NPR](http://www.npr.org/blogs/monkeysee/2009/02/by_todd_kliman_bigtime_restaur.html#more) and [<p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2009/02/bettyboopdsm.jpg"><img class="alignnone size-full wp-image-132" title="bettyboopdsm" src="http://blog.vickiboykis.com/wp-content/uploads/2009/02/bettyboopdsm.jpg" alt="bettyboopdsm" width="169" height="198" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/02/bettyboopdsm.jpg"><img class="alignnone size-full wp-image-132" title="bettyboopdsm" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/02/bettyboopdsm.jpg" alt="bettyboopdsm" width="169" height="198" /></a>
 </p>
 
 <p style="text-align: center;">

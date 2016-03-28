@@ -11,7 +11,7 @@ categories:
   - Uncategorized
 ---
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2014/02/monumentsmen.jpeg"><img class="aligncenter size-medium wp-image-9513" alt="monumentsmen" src="http://blog.vickiboykis.com/wp-content/uploads/2014/02/monumentsmen-580x471.jpeg" width="580" height="471" /></a>The<a href="http://www.npr.org/2014/02/07/272512931/behind-the-movie-tales-from-the-real-life-monuments-men" target="_blank"> real</a> Monuments Men
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2014/02/monumentsmen.jpeg"><img class="aligncenter size-medium wp-image-9513" alt="monumentsmen" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2014/02/monumentsmen-580x471.jpeg" width="580" height="471" /></a>The<a href="http://www.npr.org/2014/02/07/272512931/behind-the-movie-tales-from-the-real-life-monuments-men" target="_blank"> real</a> Monuments Men
 </p>
 
 It&#8217;s still winter, and there&#8217;s still nothing to do outside.  There&#8217;s plenty to do inside: <a href="http://www.atadbig.com/?p=10" target="_blank">work</a>, schoolwork,a SQL class I was teaching, but when I&#8217;m done with all of that, there&#8217;s still winter. So Mr. B and I have decided, I guess, that we&#8217;re just going to watch terrible movies until the weather breaks 50 degrees, which is, I think, standard operating procedure in Finland.
@@ -32,27 +32,27 @@ But really, it&#8217;s all the same painting.
   <figure class='gallery-item'> 
   
   <div class='gallery-icon portrait'>
-    <a href='http://blog.vickiboykis.com/2014/02/you-really-shouldnt-have/madonna-and-child-madonna-benson-1470/'><img width="150" height="150" src="http://blog.vickiboykis.com/wp-content/uploads/2014/02/madonna-and-child-madonna-benson-1470-150x150.jpg" class="attachment-thumbnail" alt="madonna-and-child-madonna-benson-1470" /></a>
+    <a href='http://blog.vickiboykis.com/2014/02/you-really-shouldnt-have/madonna-and-child-madonna-benson-1470/'><img width="150" height="150" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2014/02/madonna-and-child-madonna-benson-1470-150x150.jpg" class="attachment-thumbnail" alt="madonna-and-child-madonna-benson-1470" /></a>
   </div></figure><figure class='gallery-item'> 
   
   <div class='gallery-icon portrait'>
-    <a href='http://blog.vickiboykis.com/2014/02/you-really-shouldnt-have/madonna-and-child-with-cherubs-1490-jpglarge/'><img width="150" height="150" src="http://blog.vickiboykis.com/wp-content/uploads/2014/02/madonna-and-child-with-cherubs-1490.jpgLarge-150x150.jpg" class="attachment-thumbnail" alt="madonna-and-child-with-cherubs-1490.jpg!Large" /></a>
+    <a href='http://blog.vickiboykis.com/2014/02/you-really-shouldnt-have/madonna-and-child-with-cherubs-1490-jpglarge/'><img width="150" height="150" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2014/02/madonna-and-child-with-cherubs-1490.jpgLarge-150x150.jpg" class="attachment-thumbnail" alt="madonna-and-child-with-cherubs-1490.jpg!Large" /></a>
   </div></figure><figure class='gallery-item'> 
   
   <div class='gallery-icon portrait'>
-    <a href='http://blog.vickiboykis.com/2014/02/you-really-shouldnt-have/madonna-with-a-flower-madonna-benois-jpglarge/'><img width="150" height="150" src="http://blog.vickiboykis.com/wp-content/uploads/2014/02/madonna-with-a-flower-madonna-benois.jpgLarge-150x150.jpg" class="attachment-thumbnail" alt="madonna-with-a-flower-madonna-benois.jpg!Large" /></a>
+    <a href='http://blog.vickiboykis.com/2014/02/you-really-shouldnt-have/madonna-with-a-flower-madonna-benois-jpglarge/'><img width="150" height="150" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2014/02/madonna-with-a-flower-madonna-benois.jpgLarge-150x150.jpg" class="attachment-thumbnail" alt="madonna-with-a-flower-madonna-benois.jpg!Large" /></a>
   </div></figure><figure class='gallery-item'> 
   
   <div class='gallery-icon landscape'>
-    <a href='http://blog.vickiboykis.com/2014/02/you-really-shouldnt-have/virgin-and-child-jpgblog-2/'><img width="150" height="150" src="http://blog.vickiboykis.com/wp-content/uploads/2014/02/virgin-and-child1.jpgBlog1-150x150.jpg" class="attachment-thumbnail" alt="virgin-and-child.jpg!Blog" /></a>
+    <a href='http://blog.vickiboykis.com/2014/02/you-really-shouldnt-have/virgin-and-child-jpgblog-2/'><img width="150" height="150" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2014/02/virgin-and-child1.jpgBlog1-150x150.jpg" class="attachment-thumbnail" alt="virgin-and-child.jpg!Blog" /></a>
   </div></figure><figure class='gallery-item'> 
   
   <div class='gallery-icon portrait'>
-    <a href='http://blog.vickiboykis.com/2014/02/you-really-shouldnt-have/madonna-with-st-mary-magdalene-and-st-john-the-baptist-15062-jpglarge/'><img width="150" height="150" src="http://blog.vickiboykis.com/wp-content/uploads/2014/02/madonna-with-st-mary-magdalene-and-st-john-the-baptist-15062.jpgLarge-150x150.jpg" class="attachment-thumbnail" alt="madonna-with-st-mary-magdalene-and-st-john-the-baptist-1506(2).jpg!Large" /></a>
+    <a href='http://blog.vickiboykis.com/2014/02/you-really-shouldnt-have/madonna-with-st-mary-magdalene-and-st-john-the-baptist-15062-jpglarge/'><img width="150" height="150" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2014/02/madonna-with-st-mary-magdalene-and-st-john-the-baptist-15062.jpgLarge-150x150.jpg" class="attachment-thumbnail" alt="madonna-with-st-mary-magdalene-and-st-john-the-baptist-1506(2).jpg!Large" /></a>
   </div></figure><figure class='gallery-item'> 
   
   <div class='gallery-icon portrait'>
-    <a href='http://blog.vickiboykis.com/2014/02/you-really-shouldnt-have/madonna-with-writing-child-1498-jpglarge/'><img width="150" height="150" src="http://blog.vickiboykis.com/wp-content/uploads/2014/02/madonna-with-writing-child-1498.jpgLarge-150x150.jpg" class="attachment-thumbnail" alt="madonna-with-writing-child-1498.jpg!Large" /></a>
+    <a href='http://blog.vickiboykis.com/2014/02/you-really-shouldnt-have/madonna-with-writing-child-1498-jpglarge/'><img width="150" height="150" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2014/02/madonna-with-writing-child-1498.jpgLarge-150x150.jpg" class="attachment-thumbnail" alt="madonna-with-writing-child-1498.jpg!Large" /></a>
   </div></figure>
 </div>
 
@@ -72,27 +72,27 @@ Then the fruit starts. Good Lord, do people love to paint fruit.  Grapes, pears
   <figure class='gallery-item'> 
   
   <div class='gallery-icon landscape'>
-    <a href='http://blog.vickiboykis.com/2014/02/you-really-shouldnt-have/still-life-fruit-jpglarge/'><img width="150" height="150" src="http://blog.vickiboykis.com/wp-content/uploads/2014/02/still-life-fruit.jpgLarge-150x150.jpg" class="attachment-thumbnail" alt="still-life-fruit.jpg!Large" /></a>
+    <a href='http://blog.vickiboykis.com/2014/02/you-really-shouldnt-have/still-life-fruit-jpglarge/'><img width="150" height="150" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2014/02/still-life-fruit.jpgLarge-150x150.jpg" class="attachment-thumbnail" alt="still-life-fruit.jpg!Large" /></a>
   </div></figure><figure class='gallery-item'> 
   
   <div class='gallery-icon landscape'>
-    <a href='http://blog.vickiboykis.com/2014/02/you-really-shouldnt-have/still-life-post-bottle-cup-and-fruit-jpglarge/'><img width="150" height="150" src="http://blog.vickiboykis.com/wp-content/uploads/2014/02/still-life-post-bottle-cup-and-fruit.jpgLarge-150x150.jpg" class="attachment-thumbnail" alt="still-life-post-bottle-cup-and-fruit.jpg!Large" /></a>
+    <a href='http://blog.vickiboykis.com/2014/02/you-really-shouldnt-have/still-life-post-bottle-cup-and-fruit-jpglarge/'><img width="150" height="150" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2014/02/still-life-post-bottle-cup-and-fruit.jpgLarge-150x150.jpg" class="attachment-thumbnail" alt="still-life-post-bottle-cup-and-fruit.jpg!Large" /></a>
   </div></figure><figure class='gallery-item'> 
   
   <div class='gallery-icon portrait'>
-    <a href='http://blog.vickiboykis.com/2014/02/you-really-shouldnt-have/still-life-with-a-carafe-flowers-and-fruit/'><img width="150" height="150" src="http://blog.vickiboykis.com/wp-content/uploads/2014/02/still-life-with-a-carafe-flowers-and-fruit-150x150.jpg" class="attachment-thumbnail" alt="still-life-with-a-carafe-flowers-and-fruit" /></a>
+    <a href='http://blog.vickiboykis.com/2014/02/you-really-shouldnt-have/still-life-with-a-carafe-flowers-and-fruit/'><img width="150" height="150" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2014/02/still-life-with-a-carafe-flowers-and-fruit-150x150.jpg" class="attachment-thumbnail" alt="still-life-with-a-carafe-flowers-and-fruit" /></a>
   </div></figure><figure class='gallery-item'> 
   
   <div class='gallery-icon landscape'>
-    <a href='http://blog.vickiboykis.com/2014/02/you-really-shouldnt-have/still-life-with-flowers-and-fruit-16011-jpglarge/'><img width="150" height="150" src="http://blog.vickiboykis.com/wp-content/uploads/2014/02/still-life-with-flowers-and-fruit-16011.jpgLarge-150x150.jpg" class="attachment-thumbnail" alt="still-life-with-flowers-and-fruit-1601(1).jpg!Large" /></a>
+    <a href='http://blog.vickiboykis.com/2014/02/you-really-shouldnt-have/still-life-with-flowers-and-fruit-16011-jpglarge/'><img width="150" height="150" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2014/02/still-life-with-flowers-and-fruit-16011.jpgLarge-150x150.jpg" class="attachment-thumbnail" alt="still-life-with-flowers-and-fruit-1601(1).jpg!Large" /></a>
   </div></figure><figure class='gallery-item'> 
   
   <div class='gallery-icon landscape'>
-    <a href='http://blog.vickiboykis.com/2014/02/you-really-shouldnt-have/still-life-with-fruit-jpgblog/'><img width="150" height="150" src="http://blog.vickiboykis.com/wp-content/uploads/2014/02/still-life-with-fruit.jpgBlog-150x150.jpg" class="attachment-thumbnail" alt="still-life-with-fruit.jpg!Blog" /></a>
+    <a href='http://blog.vickiboykis.com/2014/02/you-really-shouldnt-have/still-life-with-fruit-jpgblog/'><img width="150" height="150" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2014/02/still-life-with-fruit.jpgBlog-150x150.jpg" class="attachment-thumbnail" alt="still-life-with-fruit.jpg!Blog" /></a>
   </div></figure><figure class='gallery-item'> 
   
   <div class='gallery-icon portrait'>
-    <a href='http://blog.vickiboykis.com/2014/02/you-really-shouldnt-have/still-life-with-ostriches-fish-and-exotic-fruit-1842-jpgblog/'><img width="150" height="150" src="http://blog.vickiboykis.com/wp-content/uploads/2014/02/still-life-with-ostriches-fish-and-exotic-fruit-1842.jpgBlog-150x150.jpg" class="attachment-thumbnail" alt="still-life-with-ostriches-fish-and-exotic-fruit-1842.jpg!Blog" /></a>
+    <a href='http://blog.vickiboykis.com/2014/02/you-really-shouldnt-have/still-life-with-ostriches-fish-and-exotic-fruit-1842-jpgblog/'><img width="150" height="150" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2014/02/still-life-with-ostriches-fish-and-exotic-fruit-1842.jpgBlog-150x150.jpg" class="attachment-thumbnail" alt="still-life-with-ostriches-fish-and-exotic-fruit-1842.jpg!Blog" /></a>
   </div></figure>
 </div>
 
@@ -108,27 +108,27 @@ Nope. They&#8217;re all the same, with the same message, and that message is,  
   <figure class='gallery-item'> 
   
   <div class='gallery-icon portrait'>
-    <a href='http://blog.vickiboykis.com/2014/02/you-really-shouldnt-have/lady-delm-and-her-children-1780-jpghalfhd/'><img width="150" height="150" src="http://blog.vickiboykis.com/wp-content/uploads/2014/02/lady-delm-and-her-children-1780.jpgHalfHD-150x150.jpg" class="attachment-thumbnail" alt="lady-delm-and-her-children-1780.jpg!HalfHD" /></a>
+    <a href='http://blog.vickiboykis.com/2014/02/you-really-shouldnt-have/lady-delm-and-her-children-1780-jpghalfhd/'><img width="150" height="150" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2014/02/lady-delm-and-her-children-1780.jpgHalfHD-150x150.jpg" class="attachment-thumbnail" alt="lady-delm-and-her-children-1780.jpg!HalfHD" /></a>
   </div></figure><figure class='gallery-item'> 
   
   <div class='gallery-icon landscape'>
-    <a href='http://blog.vickiboykis.com/2014/02/you-really-shouldnt-have/george-clive-and-his-family-with-an-indian-maid-jpglarge/'><img width="150" height="150" src="http://blog.vickiboykis.com/wp-content/uploads/2014/02/george-clive-and-his-family-with-an-indian-maid.jpgLarge-150x150.jpg" class="attachment-thumbnail" alt="george-clive-and-his-family-with-an-indian-maid.jpg!Large" /></a>
+    <a href='http://blog.vickiboykis.com/2014/02/you-really-shouldnt-have/george-clive-and-his-family-with-an-indian-maid-jpglarge/'><img width="150" height="150" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2014/02/george-clive-and-his-family-with-an-indian-maid.jpgLarge-150x150.jpg" class="attachment-thumbnail" alt="george-clive-and-his-family-with-an-indian-maid.jpg!Large" /></a>
   </div></figure><figure class='gallery-item'> 
   
   <div class='gallery-icon landscape'>
-    <a href='http://blog.vickiboykis.com/2014/02/you-really-shouldnt-have/portrait-of-madame-a-f-aude-and-her-two-daughters-1899-jpglarge/'><img width="150" height="150" src="http://blog.vickiboykis.com/wp-content/uploads/2014/02/portrait-of-madame-a-f-aude-and-her-two-daughters-1899.jpgLarge-150x150.jpg" class="attachment-thumbnail" alt="portrait-of-madame-a-f-aude-and-her-two-daughters-1899.jpg!Large" /></a>
+    <a href='http://blog.vickiboykis.com/2014/02/you-really-shouldnt-have/portrait-of-madame-a-f-aude-and-her-two-daughters-1899-jpglarge/'><img width="150" height="150" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2014/02/portrait-of-madame-a-f-aude-and-her-two-daughters-1899.jpgLarge-150x150.jpg" class="attachment-thumbnail" alt="portrait-of-madame-a-f-aude-and-her-two-daughters-1899.jpg!Large" /></a>
   </div></figure><figure class='gallery-item'> 
   
   <div class='gallery-icon portrait'>
-    <a href='http://blog.vickiboykis.com/2014/02/you-really-shouldnt-have/rider-portrait-of-giovanina-and-amacilia-pacini-the-foster-children-of-countess-yu-p-samoilova-jpglarge/'><img width="150" height="150" src="http://blog.vickiboykis.com/wp-content/uploads/2014/02/rider-portrait-of-giovanina-and-amacilia-pacini-the-foster-children-of-countess-yu-p-samoilova.jpgLarge-150x150.jpg" class="attachment-thumbnail" alt="rider-portrait-of-giovanina-and-amacilia-pacini-the-foster-children-of-countess-yu-p-samoilova.jpg!Large" /></a>
+    <a href='http://blog.vickiboykis.com/2014/02/you-really-shouldnt-have/rider-portrait-of-giovanina-and-amacilia-pacini-the-foster-children-of-countess-yu-p-samoilova-jpglarge/'><img width="150" height="150" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2014/02/rider-portrait-of-giovanina-and-amacilia-pacini-the-foster-children-of-countess-yu-p-samoilova.jpgLarge-150x150.jpg" class="attachment-thumbnail" alt="rider-portrait-of-giovanina-and-amacilia-pacini-the-foster-children-of-countess-yu-p-samoilova.jpg!Large" /></a>
   </div></figure><figure class='gallery-item'> 
   
   <div class='gallery-icon portrait'>
-    <a href='http://blog.vickiboykis.com/2014/02/you-really-shouldnt-have/portrait-of-julia-samoylova-with-giovannina-pacini-and-black-boy-jpglarge/'><img width="150" height="150" src="http://blog.vickiboykis.com/wp-content/uploads/2014/02/portrait-of-julia-samoylova-with-giovannina-pacini-and-black-boy.jpgLarge-150x150.jpg" class="attachment-thumbnail" alt="portrait-of-julia-samoylova-with-giovannina-pacini-and-black-boy.jpg!Large" /></a>
+    <a href='http://blog.vickiboykis.com/2014/02/you-really-shouldnt-have/portrait-of-julia-samoylova-with-giovannina-pacini-and-black-boy-jpglarge/'><img width="150" height="150" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2014/02/portrait-of-julia-samoylova-with-giovannina-pacini-and-black-boy.jpgLarge-150x150.jpg" class="attachment-thumbnail" alt="portrait-of-julia-samoylova-with-giovannina-pacini-and-black-boy.jpg!Large" /></a>
   </div></figure><figure class='gallery-item'> 
   
   <div class='gallery-icon portrait'>
-    <a href='http://blog.vickiboykis.com/2014/02/you-really-shouldnt-have/portrait-of-general-ai-gorchakov-jpglarge/'><img width="150" height="150" src="http://blog.vickiboykis.com/wp-content/uploads/2014/02/portrait-of-general-ai-gorchakov.jpgLarge-150x150.jpg" class="attachment-thumbnail" alt="portrait-of-general-ai-gorchakov.jpg!Large" /></a>
+    <a href='http://blog.vickiboykis.com/2014/02/you-really-shouldnt-have/portrait-of-general-ai-gorchakov-jpglarge/'><img width="150" height="150" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2014/02/portrait-of-general-ai-gorchakov.jpgLarge-150x150.jpg" class="attachment-thumbnail" alt="portrait-of-general-ai-gorchakov.jpg!Large" /></a>
   </div></figure>
 </div>
 
@@ -138,6 +138,6 @@ Monuments Men risked life and limb trying to save countless pieces of art. But m
 
 If only people at least painted something different with their portraits of dudes in wigs or lemons. Something that&#8217;s not just a bunch of fruit lying on a plate. How about some fruit and a bunch of grape leaves? Oh, that&#8217;s been done already? Then how about some fruit and a creepy monkey? And toss a dead pheasant on there.  Also a cat that looks like it&#8217;s going to murder you in your sleep?  Now we&#8217;re talking. Mark this one for saving ASAP.
 
-[<img class="aligncenter size-medium wp-image-9528" alt="still-life-with-fruit-dead-game-vegetables-a-live-monkey-squirrel-and-cat" src="http://blog.vickiboykis.com/wp-content/uploads/2014/02/still-life-with-fruit-dead-game-vegetables-a-live-monkey-squirrel-and-cat-580x388.jpg" width="580" height="388" />](http://blog.vickiboykis.com/wp-content/uploads/2014/02/still-life-with-fruit-dead-game-vegetables-a-live-monkey-squirrel-and-cat.jpg)
+[<img class="aligncenter size-medium wp-image-9528" alt="still-life-with-fruit-dead-game-vegetables-a-live-monkey-squirrel-and-cat" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2014/02/still-life-with-fruit-dead-game-vegetables-a-live-monkey-squirrel-and-cat-580x388.jpg" width="580" height="388" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2014/02/still-life-with-fruit-dead-game-vegetables-a-live-monkey-squirrel-and-cat.jpg)
 
 By the way, I got all these paintings from <a href="http://www.wikipaintings.org/" target="_blank">WikiPaintings</a>, which is where they should be, tucked in neatly in their little digital galleries,  kept away from the public.

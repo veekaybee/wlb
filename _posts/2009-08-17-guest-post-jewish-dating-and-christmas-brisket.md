@@ -26,7 +26,7 @@ tags:
 </div>
 
 <div style="margin: 1ex; text-align: left;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2009/08/24chrismukkah.jpg"><img class="aligncenter size-full wp-image-1067" title="24chrismukkah" src="http://blog.vickiboykis.com/wp-content/uploads/2009/08/24chrismukkah.jpg" alt="24chrismukkah" width="486" height="282" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/08/24chrismukkah.jpg"><img class="aligncenter size-full wp-image-1067" title="24chrismukkah" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/08/24chrismukkah.jpg" alt="24chrismukkah" width="486" height="282" /></a>
 </div>
 
 <div style="margin: 1ex; text-align: left;">
@@ -51,7 +51,7 @@ tags:
   </p>
   
   <p style="text-align: center;">
-    <a href="http://blog.vickiboykis.com/wp-content/uploads/2009/08/gp_blt_jdate.jpg"><img class="size-full wp-image-1068 aligncenter" title="gp_blt_jdate" src="http://blog.vickiboykis.com/wp-content/uploads/2009/08/gp_blt_jdate.jpg" alt="gp_blt_jdate" width="216" height="396" /></a>
+    <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/08/gp_blt_jdate.jpg"><img class="size-full wp-image-1068 aligncenter" title="gp_blt_jdate" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/08/gp_blt_jdate.jpg" alt="gp_blt_jdate" width="216" height="396" /></a>
   </p>
   
   <p style="text-align: left;">

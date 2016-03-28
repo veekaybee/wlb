@@ -21,7 +21,7 @@ tags:
 ---
 Yesterday, I ran a 5k, <a href="http://blog.vickiboykis.com/2011/06/on-running-shoes-and-revenge/" target="_blank">the same one</a> I ran last year.
 
-[<img class="aligncenter size-full wp-image-7015" title="IMG_20120619_184401" src="http://blog.vickiboykis.com/wp-content/uploads/2012/06/IMG_20120619_184401.jpg" alt="" width="322" height="429" />](http://blog.vickiboykis.com/wp-content/uploads/2012/06/IMG_20120619_184401.jpg)
+[<img class="aligncenter size-full wp-image-7015" title="IMG_20120619_184401" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/06/IMG_20120619_184401.jpg" alt="" width="322" height="429" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/06/IMG_20120619_184401.jpg)
 
 Except this year I am weak and fatty because  all my various non-Olympic activities like <a href="http://blog.vickiboykis.com/2012/06/why-do-i-do-this-to-myself/" target="_blank">writing books</a>, my <a href="http://blog.vickiboykis.com/2012/05/i-basically-just-paid-myself-eight-cents-an-hour-to-learn-that-i-dont-need-an-mba/" target="_blank">MBA program</a>, <a href="http://blog.vickiboykis.com/2012/06/seattle-and-portland/" target="_blank">going to the West Coast</a>, and <a href="http://blog.vickiboykis.com/2012/04/i-found-another-russian-thing-that-is-terrible-for-everyone-russian-childrens-books/" target="_blank">laughing at the Russian publishing industry</a> have eaten into my running time.
 
@@ -57,7 +57,7 @@ Sometimes life is better than fiction, and I am not making this up at all when I
 
 And it pushed me through to the end.
 
-[<img class="aligncenter size-full wp-image-7017" title="IMG_20120619_194003" src="http://blog.vickiboykis.com/wp-content/uploads/2012/06/IMG_20120619_194003.jpg" alt="" width="322" height="430" />](http://blog.vickiboykis.com/wp-content/uploads/2012/06/IMG_20120619_194003.jpg)
+[<img class="aligncenter size-full wp-image-7017" title="IMG_20120619_194003" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/06/IMG_20120619_194003.jpg" alt="" width="322" height="430" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/06/IMG_20120619_194003.jpg)
 
 Mr. B came up to me after the race with a cold water bottle.
 
@@ -81,7 +81,7 @@ Mr. B came up to me after the race with a cold water bottle.
 
 &#8220;Smile,&#8221; said Mr. B.
 
-[<img class="aligncenter size-full wp-image-7016" title="eww" src="http://blog.vickiboykis.com/wp-content/uploads/2012/06/eww.jpg" alt="" width="322" height="429" />](http://blog.vickiboykis.com/wp-content/uploads/2012/06/eww.jpg)
+[<img class="aligncenter size-full wp-image-7016" title="eww" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/06/eww.jpg" alt="" width="322" height="429" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/06/eww.jpg)
 
 &nbsp;
 

@@ -15,7 +15,7 @@ tags:
   - me
   - professional development
 ---
-[<img class="aligncenter size-full wp-image-3473" title="workout" src="http://blog.vickiboykis.com/wp-content/uploads/2010/08/workout.jpg" alt="" width="293" height="471" />](http://blog.vickiboykis.com/wp-content/uploads/2010/08/workout.jpg)
+[<img class="aligncenter size-full wp-image-3473" title="workout" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/08/workout.jpg" alt="" width="293" height="471" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/08/workout.jpg)
 
 As I biked the last five miles of the thirty that I did on Saturday, I thought about what people&#8217;s motivations are for following through, on anything.
 
@@ -26,7 +26,7 @@ At that point, I was thinking more about whether to go home or to an emergency m
 A year ago, even five months ago, I wouldn&#8217;t have been able to do it.  In fact, when I went bike riding for the first time with my parents last spring,  I barely made it 10 miles:
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2010/08/DSC01253.jpg"><img class="aligncenter size-full wp-image-3474" title="DSC01253" src="http://blog.vickiboykis.com/wp-content/uploads/2010/08/DSC01253.jpg" alt="" width="432" height="324" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/08/DSC01253.jpg"><img class="aligncenter size-full wp-image-3474" title="DSC01253" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/08/DSC01253.jpg" alt="" width="432" height="324" /></a>
 </p>
 
 <p style="text-align: center;">
@@ -40,7 +40,7 @@ This spring, I  started to seriously work out again, exhausted and frustrated 
 I still don&#8217;t have healthy eating down, and haven&#8217;t lost more than five pounds, and even that fluctuates up and down.  But I do feel better and have possibly gained muscle as a result of running 2-3 times a week, training for 5ks, and every other weekend or so, biking. And people have remarked that I do look like I&#8217;ve lost weight, so maybe I have.
 
 <p style="text-align: center;">
-  <img class="aligncenter" src="http://blog.vickiboykis.com/wp-content/uploads/2010/08/wpid-IMAG0260.jpg" alt="image" />
+  <img class="aligncenter" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/08/wpid-IMAG0260.jpg" alt="image" />
 </p>
 
 <p style="text-align: center;">
@@ -58,5 +58,5 @@ This muscle used to be crazy  in college when I was up until 12 doing homework 
 And I have to say, I&#8217;m really glad to have it back because it&#8217;s one of the things that makes me, me.
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2010/08/wpid-IMAG0262.jpg"><img class="aligncenter size-full wp-image-3475" title="wpid-IMAG0262.jpg" src="http://blog.vickiboykis.com/wp-content/uploads/2010/08/wpid-IMAG0262.jpg" alt="" width="350" height="583" /></a><em>Biking past the </em><a href="http://en.wikipedia.org/wiki/Dyke_Marsh"><em>marshes in Alexandria.</em></a><em><br /> Grasses as far as the eye can see.<br /> Also, probably polluted runoff the eye can&#8217;t see. </em>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/08/wpid-IMAG0262.jpg"><img class="aligncenter size-full wp-image-3475" title="wpid-IMAG0262.jpg" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/08/wpid-IMAG0262.jpg" alt="" width="350" height="583" /></a><em>Biking past the </em><a href="http://en.wikipedia.org/wiki/Dyke_Marsh"><em>marshes in Alexandria.</em></a><em><br /> Grasses as far as the eye can see.<br /> Also, probably polluted runoff the eye can&#8217;t see. </em>
 </p>

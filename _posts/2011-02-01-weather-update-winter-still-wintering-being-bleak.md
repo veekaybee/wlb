@@ -19,11 +19,11 @@ Let me set the scene for you.
 6:58 in the morning. I am bleary and driving to work, listening to the radio:
 
 <p style="text-align: left;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2011/02/Screen-shot-2011-02-01-at-8.15.03-AM.png"><img class="aligncenter size-full wp-image-4315" title="Screen shot 2011-02-01 at 8.15.03 AM" src="http://blog.vickiboykis.com/wp-content/uploads/2011/02/Screen-shot-2011-02-01-at-8.15.03-AM.png" alt="" width="442" height="211" /></a>It is slushing and a little bit sleeting because goddamn you already February:
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/02/Screen-shot-2011-02-01-at-8.15.03-AM.png"><img class="aligncenter size-full wp-image-4315" title="Screen shot 2011-02-01 at 8.15.03 AM" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/02/Screen-shot-2011-02-01-at-8.15.03-AM.png" alt="" width="442" height="211" /></a>It is slushing and a little bit sleeting because goddamn you already February:
 </p>
 
 <p style="text-align: left;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2011/02/Screen-shot-2011-02-01-at-8.16.09-AM.png"><img class="aligncenter size-full wp-image-4317" title="Screen shot 2011-02-01 at 8.16.09 AM" src="http://blog.vickiboykis.com/wp-content/uploads/2011/02/Screen-shot-2011-02-01-at-8.16.09-AM.png" alt="" width="664" height="490" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/02/Screen-shot-2011-02-01-at-8.16.09-AM.png"><img class="aligncenter size-full wp-image-4317" title="Screen shot 2011-02-01 at 8.16.09 AM" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/02/Screen-shot-2011-02-01-at-8.16.09-AM.png" alt="" width="664" height="490" /></a>
 </p>
 
 <p style="text-align: left;">

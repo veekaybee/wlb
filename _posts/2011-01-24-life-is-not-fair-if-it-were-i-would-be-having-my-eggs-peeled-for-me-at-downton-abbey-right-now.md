@@ -17,23 +17,23 @@ tags:
 ---
 The absolute best thing to do when one is cold, alone, and without the comforts of Nutella to aid one&#8217;s diet is to warm up a nice spot of tea and watching hot British people in the 1920s be assholes to each other.
 
-[<img class="aligncenter size-full wp-image-4271" title="DowntonAbbey" src="http://blog.vickiboykis.com/wp-content/uploads/2011/01/DowntonAbbey.jpg" alt="" width="468" height="330" />](http://blog.vickiboykis.com/wp-content/uploads/2011/01/DowntonAbbey.jpg)
+[<img class="aligncenter size-full wp-image-4271" title="DowntonAbbey" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/01/DowntonAbbey.jpg" alt="" width="468" height="330" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/01/DowntonAbbey.jpg)
 
 Luckily for one (me), a series [that has already aired in Britain](http://www.npr.org/blogs/monkeysee/2011/01/09/132762688/downton-abbey-creator-julian-fellowes-on-his-british-hit-coming-to-pbs) has just made its way over to America: [The absolute best thing to do when one is cold, alone, and without the comforts of Nutella to aid one&#8217;s diet is to warm up a nice spot of tea and watching hot British people in the 1920s be assholes to each other.
 
-[<img class="aligncenter size-full wp-image-4271" title="DowntonAbbey" src="http://blog.vickiboykis.com/wp-content/uploads/2011/01/DowntonAbbey.jpg" alt="" width="468" height="330" />](http://blog.vickiboykis.com/wp-content/uploads/2011/01/DowntonAbbey.jpg)
+[<img class="aligncenter size-full wp-image-4271" title="DowntonAbbey" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/01/DowntonAbbey.jpg" alt="" width="468" height="330" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/01/DowntonAbbey.jpg)
 
 Luckily for one (me), a series [that has already aired in Britain](http://www.npr.org/blogs/monkeysee/2011/01/09/132762688/downton-abbey-creator-julian-fellowes-on-his-british-hit-coming-to-pbs) has just made its way over to America:](http://www.pbs.org/wgbh/masterpiece/downtonabbey/index.html) .  I love watching shows about class relations, history, and pretty hats, so I&#8217;ve been hitting the PBS website pretty hard, trying to find out when a new episode is up.  I have also been dreaming about [The absolute best thing to do when one is cold, alone, and without the comforts of Nutella to aid one&#8217;s diet is to warm up a nice spot of tea and watching hot British people in the 1920s be assholes to each other.
 
-[<img class="aligncenter size-full wp-image-4271" title="DowntonAbbey" src="http://blog.vickiboykis.com/wp-content/uploads/2011/01/DowntonAbbey.jpg" alt="" width="468" height="330" />](http://blog.vickiboykis.com/wp-content/uploads/2011/01/DowntonAbbey.jpg)
+[<img class="aligncenter size-full wp-image-4271" title="DowntonAbbey" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/01/DowntonAbbey.jpg" alt="" width="468" height="330" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/01/DowntonAbbey.jpg)
 
 Luckily for one (me), a series [that has already aired in Britain](http://www.npr.org/blogs/monkeysee/2011/01/09/132762688/downton-abbey-creator-julian-fellowes-on-his-british-hit-coming-to-pbs) has just made its way over to America: [The absolute best thing to do when one is cold, alone, and without the comforts of Nutella to aid one&#8217;s diet is to warm up a nice spot of tea and watching hot British people in the 1920s be assholes to each other.
 
-[<img class="aligncenter size-full wp-image-4271" title="DowntonAbbey" src="http://blog.vickiboykis.com/wp-content/uploads/2011/01/DowntonAbbey.jpg" alt="" width="468" height="330" />](http://blog.vickiboykis.com/wp-content/uploads/2011/01/DowntonAbbey.jpg)
+[<img class="aligncenter size-full wp-image-4271" title="DowntonAbbey" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/01/DowntonAbbey.jpg" alt="" width="468" height="330" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/01/DowntonAbbey.jpg)
 
 Luckily for one (me), a series [that has already aired in Britain](http://www.npr.org/blogs/monkeysee/2011/01/09/132762688/downton-abbey-creator-julian-fellowes-on-his-british-hit-coming-to-pbs) has just made its way over to America:](http://www.pbs.org/wgbh/masterpiece/downtonabbey/index.html) .  I love watching shows about class relations, history, and pretty hats, so I&#8217;ve been hitting the PBS website pretty hard, trying to find out when a new episode is up.  I have also been dreaming about](http://hookedonhouses.net/2011/01/23/highclere-castle-in-masterpieces-downton-abbey-series/) at the estate.
 
-[<img class="aligncenter size-full wp-image-4272" title="downtonabbey2" src="http://blog.vickiboykis.com/wp-content/uploads/2011/01/downtonabbey2.jpg" alt="" width="612" height="338" />](http://blog.vickiboykis.com/wp-content/uploads/2011/01/downtonabbey2.jpg)
+[<img class="aligncenter size-full wp-image-4272" title="downtonabbey2" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/01/downtonabbey2.jpg" alt="" width="612" height="338" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/01/downtonabbey2.jpg)
 
 Although there&#8217;s no way I&#8217;m a secret [duchess or even a baroness](http://en.wikipedia.org/wiki/Peerage), I can always dream about outsourcing some things in my life to make it easier, right?
 

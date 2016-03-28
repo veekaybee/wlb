@@ -16,7 +16,7 @@ tags:
 [As I was reminded](http://www.rubinary.com/2010/12/21/shortest-day-of-the-year-now/), last week was the winter solstice. Not to get all [[As I was reminded](http://www.rubinary.com/2010/12/21/shortest-day-of-the-year-now/), last week was the winter solstice. Not to get all ](http://m.jezebel.com/5715348/how-will-tonights-lunar-eclipse-affect-you) on you, but this is important.
 
 <div style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2010/12/wpid-IMAG0530.jpg"><img class="aligncenter size-full wp-image-4108" title="wpid-IMAG0530.jpg" src="http://blog.vickiboykis.com/wp-content/uploads/2010/12/wpid-IMAG0530.jpg" alt="" width="350" height="583" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/12/wpid-IMAG0530.jpg"><img class="aligncenter size-full wp-image-4108" title="wpid-IMAG0530.jpg" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/12/wpid-IMAG0530.jpg" alt="" width="350" height="583" /></a>
 </div>
 
 <p style="text-align: center;">
@@ -26,7 +26,7 @@ tags:
 The [[As I was reminded](http://www.rubinary.com/2010/12/21/shortest-day-of-the-year-now/), last week was the winter solstice. Not to get all [[As I was reminded](http://www.rubinary.com/2010/12/21/shortest-day-of-the-year-now/), last week was the winter solstice. Not to get all ](http://m.jezebel.com/5715348/how-will-tonights-lunar-eclipse-affect-you) on you, but this is important.
 
 <div style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2010/12/wpid-IMAG0530.jpg"><img class="aligncenter size-full wp-image-4108" title="wpid-IMAG0530.jpg" src="http://blog.vickiboykis.com/wp-content/uploads/2010/12/wpid-IMAG0530.jpg" alt="" width="350" height="583" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/12/wpid-IMAG0530.jpg"><img class="aligncenter size-full wp-image-4108" title="wpid-IMAG0530.jpg" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/12/wpid-IMAG0530.jpg" alt="" width="350" height="583" /></a>
 </div>
 
 <p style="text-align: center;">
@@ -46,28 +46,28 @@ However, the passing of the solstice means that there is more sunlight ahead fo
 When the days are small and miserable and cold and the nights are nothing but an exercise in mental aerobics, I think back to all the things we did during the long, warm days of the year, and I am posting these pictures  in hopes that the long days come again soon.
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2010/10/DSC_0983.jpg"><img class="aligncenter size-full wp-image-3756" title="DSC_0983" src="http://blog.vickiboykis.com/wp-content/uploads/2010/10/DSC_0983.jpg" alt="" width="541" height="360" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/10/DSC_0983.jpg"><img class="aligncenter size-full wp-image-3756" title="DSC_0983" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/10/DSC_0983.jpg" alt="" width="541" height="360" /></a>
 </p>
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2010/06/IMAG0171.jpg"><img class="aligncenter size-full wp-image-3231" title="IMAG0171" src="http://blog.vickiboykis.com/wp-content/uploads/2010/06/IMAG0171.jpg" alt="" width="307" height="512" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/06/IMAG0171.jpg"><img class="aligncenter size-full wp-image-3231" title="IMAG0171" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/06/IMAG0171.jpg" alt="" width="307" height="512" /></a>
 </p>
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2010/05/DSC_0351.jpg"><img class="aligncenter size-full wp-image-2950" title="DSC_0351" src="http://blog.vickiboykis.com/wp-content/uploads/2010/05/DSC_0351.jpg" alt="" width="384" height="256" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/05/DSC_0351.jpg"><img class="aligncenter size-full wp-image-2950" title="DSC_0351" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/05/DSC_0351.jpg" alt="" width="384" height="256" /></a>
 </p>
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2010/07/DSC_0221.jpg"><img class="aligncenter size-full wp-image-3363" title="DSC_0221" src="http://blog.vickiboykis.com/wp-content/uploads/2010/07/DSC_0221.jpg" alt="" width="336" height="223" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/07/DSC_0221.jpg"><img class="aligncenter size-full wp-image-3363" title="DSC_0221" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/07/DSC_0221.jpg" alt="" width="336" height="223" /></a>
 </p>
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2010/04/DSC03099.jpg"><img class="aligncenter size-full wp-image-2710" title="DSC03099" src="http://blog.vickiboykis.com/wp-content/uploads/2010/04/DSC03099.jpg" alt="" width="499" height="374" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/04/DSC03099.jpg"><img class="aligncenter size-full wp-image-2710" title="DSC03099" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/04/DSC03099.jpg" alt="" width="499" height="374" /></a>
 </p>
 
 <p style="text-align: center;">
   <p style="text-align: center;">
-    <a href="http://blog.vickiboykis.com/wp-content/uploads/2010/05/DSC_0787.jpg"><img class="aligncenter size-full wp-image-3024" title="DSC_0787" src="http://blog.vickiboykis.com/wp-content/uploads/2010/05/DSC_0787.jpg" alt="" width="448" height="298" /></a>
+    <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/05/DSC_0787.jpg"><img class="aligncenter size-full wp-image-3024" title="DSC_0787" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/05/DSC_0787.jpg" alt="" width="448" height="298" /></a>
   </p>
   
   <p>
@@ -75,5 +75,5 @@ When the days are small and miserable and cold and the nights are nothing but an
   </p>
   
   <p>
-    <a href="http://blog.vickiboykis.com/wp-content/uploads/2010/12/wpid-IMAG0531.jpg"><img class="aligncenter size-full wp-image-4110" title="wpid-IMAG0531.jpg" src="http://blog.vickiboykis.com/wp-content/uploads/2010/12/wpid-IMAG0531.jpg" alt="" width="500" height="300" /></a>
+    <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/12/wpid-IMAG0531.jpg"><img class="aligncenter size-full wp-image-4110" title="wpid-IMAG0531.jpg" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/12/wpid-IMAG0531.jpg" alt="" width="500" height="300" /></a>
   </p>

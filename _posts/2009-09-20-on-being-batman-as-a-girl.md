@@ -14,7 +14,7 @@ tags:
   - identity
   - Luke Skywalker
 ---
-[<img class="aligncenter size-full wp-image-1279" title="1024LukeSkywalkerXwing" src="http://blog.vickiboykis.com/wp-content/uploads/2009/09/1024LukeSkywalkerXwing.jpg" alt="1024LukeSkywalkerXwing" width="528" height="410" />](http://blog.vickiboykis.com/wp-content/uploads/2009/09/1024LukeSkywalkerXwing.jpg)
+[<img class="aligncenter size-full wp-image-1279" title="1024LukeSkywalkerXwing" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/09/1024LukeSkywalkerXwing.jpg" alt="1024LukeSkywalkerXwing" width="528" height="410" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/09/1024LukeSkywalkerXwing.jpg)
 
 When I was 6 and we&#8217;d just immigrated to America, I started watching the Batman cartoon, thus validating the entire reason my parents left behind their friends, family, culture, and whole way of life to move across the world and provide for me a climate in which I could be free economically, politically, and watch the animated antics of Batman and Robin.
 

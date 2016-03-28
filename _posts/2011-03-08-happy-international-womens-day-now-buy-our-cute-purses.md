@@ -18,7 +18,7 @@ tags:
   - women
 ---
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2011/03/8_марта.jpg"><img class="aligncenter size-full wp-image-4473" title="8_марта" src="http://blog.vickiboykis.com/wp-content/uploads/2011/03/8_марта.jpg" alt="" width="385" height="240" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/03/8_марта.jpg"><img class="aligncenter size-full wp-image-4473" title="8_марта" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/03/8_марта.jpg" alt="" width="385" height="240" /></a>
 </p>
 
 <p style="text-align: left;">
@@ -30,7 +30,7 @@ tags:
 </p>
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2011/03/Screen-shot-2011-03-08-at-6.36.12-AM.png"><img class="aligncenter size-full wp-image-4476" title="Screen shot 2011-03-08 at 6.36.12 AM" src="http://blog.vickiboykis.com/wp-content/uploads/2011/03/Screen-shot-2011-03-08-at-6.36.12-AM.png" alt="" width="484" height="350" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/03/Screen-shot-2011-03-08-at-6.36.12-AM.png"><img class="aligncenter size-full wp-image-4476" title="Screen shot 2011-03-08 at 6.36.12 AM" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/03/Screen-shot-2011-03-08-at-6.36.12-AM.png" alt="" width="484" height="350" /></a>
 </p>
 
 <p style="text-align: left;">
@@ -42,7 +42,7 @@ tags:
 </p>
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2011/03/wpid-IMAG0672.jpg"><img class="aligncenter size-full wp-image-4479" title="wpid-IMAG0672.jpg" src="http://blog.vickiboykis.com/wp-content/uploads/2011/03/wpid-IMAG0672.jpg" alt="" width="350" height="583" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/03/wpid-IMAG0672.jpg"><img class="aligncenter size-full wp-image-4479" title="wpid-IMAG0672.jpg" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/03/wpid-IMAG0672.jpg" alt="" width="350" height="583" /></a>
 </p>
 
 <p style="text-align: left;">

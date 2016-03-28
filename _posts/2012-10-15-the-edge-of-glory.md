@@ -20,7 +20,7 @@ tags:
   - vysotsky
 ---
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2012/10/Screen-shot-2012-10-14-at-2.07.03-PM.png"><img class="aligncenter  wp-image-7667" title="Screen shot 2012-10-14 at 2.07.03 PM" src="http://blog.vickiboykis.com/wp-content/uploads/2012/10/Screen-shot-2012-10-14-at-2.07.03-PM-1024x590.png" alt="" width="614" height="354" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/10/Screen-shot-2012-10-14-at-2.07.03-PM.png"><img class="aligncenter  wp-image-7667" title="Screen shot 2012-10-14 at 2.07.03 PM" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/10/Screen-shot-2012-10-14-at-2.07.03-PM-1024x590.png" alt="" width="614" height="354" /></a>
 </p>
 
 <p style="text-align: left;">
@@ -40,7 +40,7 @@ tags:
 </p>
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2012/10/DSC_0086.jpg"><img class="aligncenter  wp-image-7669" title="DSC_0086" src="http://blog.vickiboykis.com/wp-content/uploads/2012/10/DSC_0086.jpg" alt="" width="512" height="341" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/10/DSC_0086.jpg"><img class="aligncenter  wp-image-7669" title="DSC_0086" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/10/DSC_0086.jpg" alt="" width="512" height="341" /></a>
 </p>
 
 <p style="text-align: left;">

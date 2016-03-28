@@ -22,7 +22,7 @@ tags:
 &nbsp;
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2012/10/IMG_20120928_180900.jpg"><img class="aligncenter  wp-image-7702" title="IMG_20120928_180900" src="http://blog.vickiboykis.com/wp-content/uploads/2012/10/IMG_20120928_180900-1024x768.jpg" alt="" width="430" height="323" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/10/IMG_20120928_180900.jpg"><img class="aligncenter  wp-image-7702" title="IMG_20120928_180900" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/10/IMG_20120928_180900-1024x768.jpg" alt="" width="430" height="323" /></a>
 </p>
 
 &nbsp;
@@ -36,15 +36,15 @@ I&#8217;ve been wanting to read it since February, but for some reason I wasn&#8
 Can I just say that, from a visual standpoint, the book <a href="http://blog.vickiboykis.com/2012/08/judging-a-book-by-its-cover/" target="_blank">looks AWESOME</a> lying around on coffee tables and propped up against things?
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2012/10/IMG_20121017_073223.jpg"><img class="aligncenter  wp-image-7703" title="IMG_20121017_073223" src="http://blog.vickiboykis.com/wp-content/uploads/2012/10/IMG_20121017_073223-768x1024.jpg" alt="" width="323" height="430" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/10/IMG_20121017_073223.jpg"><img class="aligncenter  wp-image-7703" title="IMG_20121017_073223" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/10/IMG_20121017_073223-768x1024.jpg" alt="" width="323" height="430" /></a>
 </p>
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2012/10/IMG_20121017_073237.jpg"><img class="aligncenter  wp-image-7704" title="IMG_20121017_073237" src="http://blog.vickiboykis.com/wp-content/uploads/2012/10/IMG_20121017_073237-768x1024.jpg" alt="" width="323" height="430" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/10/IMG_20121017_073237.jpg"><img class="aligncenter  wp-image-7704" title="IMG_20121017_073237" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/10/IMG_20121017_073237-768x1024.jpg" alt="" width="323" height="430" /></a>
 </p>
 
 <div id="attachment_7705" style="width: 333px" class="wp-caption aligncenter">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2012/10/IMG_20121017_073255.jpg"><img class=" wp-image-7705" title="IMG_20121017_073255" src="http://blog.vickiboykis.com/wp-content/uploads/2012/10/IMG_20121017_073255-768x1024.jpg" alt="" width="323" height="430" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/10/IMG_20121017_073255.jpg"><img class=" wp-image-7705" title="IMG_20121017_073255" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/10/IMG_20121017_073255-768x1024.jpg" alt="" width="323" height="430" /></a>
   
   <p class="wp-caption-text">
     The clean lines of the toilet really accentuate the font.

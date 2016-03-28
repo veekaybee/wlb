@@ -14,7 +14,7 @@ tags:
   - Russia
 ---
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2013/12/16.jpg"><img class="aligncenter size-medium wp-image-9385" alt="16" src="http://blog.vickiboykis.com/wp-content/uploads/2013/12/16-580x386.jpg" width="580" height="386" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/12/16.jpg"><img class="aligncenter size-medium wp-image-9385" alt="16" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/12/16-580x386.jpg" width="580" height="386" /></a>
 </p>
 
 In the first chapter of _The Master and Margarita_,  the eminent editor and director of MASSOLIT, Mikhail Alexandrovich Berlioz and the poet Bezdomniy meet the devil, who has come to 1930s Moscow to see if the hype is as advertised.

@@ -15,7 +15,7 @@ tags:
 Hopefully in a couple hours, we will be homeowners.  If not, Monday will also be Link Day, only it will just be a list of links of liquor stores in the tristate area.
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2011/04/Screen-shot-2011-04-29-at-8.35.23-AM.png"><img class="aligncenter size-full wp-image-4914" title="Screen shot 2011-04-29 at 8.35.23 AM" src="http://blog.vickiboykis.com/wp-content/uploads/2011/04/Screen-shot-2011-04-29-at-8.35.23-AM.png" alt="" width="534" height="378" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/04/Screen-shot-2011-04-29-at-8.35.23-AM.png"><img class="aligncenter size-full wp-image-4914" title="Screen shot 2011-04-29 at 8.35.23 AM" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/04/Screen-shot-2011-04-29-at-8.35.23-AM.png" alt="" width="534" height="378" /></a>
 </p>
 
 **Links!**

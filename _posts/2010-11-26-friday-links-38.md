@@ -13,7 +13,7 @@ tags:
   - Friday
 ---
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2010/11/black-friday.jpg"><img class="aligncenter size-full wp-image-3936" title="black-friday" src="http://blog.vickiboykis.com/wp-content/uploads/2010/11/black-friday.jpg" alt="" width="420" height="387" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/11/black-friday.jpg"><img class="aligncenter size-full wp-image-3936" title="black-friday" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/11/black-friday.jpg" alt="" width="420" height="387" /></a>
 </p>
 
 <p style="text-align: center;">
@@ -24,12 +24,12 @@ Because I am fat and lazy and it&#8217;s post-Thanksgiving, we&#8217;re going to
 
 I can&#8217;t believe this show exists:
 
-[<img class="aligncenter size-full wp-image-3929" title="Screen shot 2010-11-24 at 2.37.03 PM" src="http://blog.vickiboykis.com/wp-content/uploads/2010/11/Screen-shot-2010-11-24-at-2.37.03-PM.png" alt="" width="710" height="118" />](http://blog.vickiboykis.com/wp-content/uploads/2010/11/Screen-shot-2010-11-24-at-2.37.03-PM.png)
+[<img class="aligncenter size-full wp-image-3929" title="Screen shot 2010-11-24 at 2.37.03 PM" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/11/Screen-shot-2010-11-24-at-2.37.03-PM.png" alt="" width="710" height="118" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/11/Screen-shot-2010-11-24-at-2.37.03-PM.png)
 
 I think [this article is full of whine](http://www.newsweek.com/2010/11/22/what-food-says-about-class-in-america.html) but I&#8217;m too lazy to write about why I think the author is really reaching and makes some wrong analogies and interprets some statistical findings incorrectly and uses journalistic hyperbole as linkbait.
 
 Were you agonizing over what to get me for Hannukah or nondenominational New Year or the Orthodox Christmas?  [<p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2010/11/black-friday.jpg"><img class="aligncenter size-full wp-image-3936" title="black-friday" src="http://blog.vickiboykis.com/wp-content/uploads/2010/11/black-friday.jpg" alt="" width="420" height="387" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/11/black-friday.jpg"><img class="aligncenter size-full wp-image-3936" title="black-friday" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/11/black-friday.jpg" alt="" width="420" height="387" /></a>
 </p>
 
 <p style="text-align: center;">
@@ -40,7 +40,7 @@ Because I am fat and lazy and it&#8217;s post-Thanksgiving, we&#8217;re going to
 
 I can&#8217;t believe this show exists:
 
-[<img class="aligncenter size-full wp-image-3929" title="Screen shot 2010-11-24 at 2.37.03 PM" src="http://blog.vickiboykis.com/wp-content/uploads/2010/11/Screen-shot-2010-11-24-at-2.37.03-PM.png" alt="" width="710" height="118" />](http://blog.vickiboykis.com/wp-content/uploads/2010/11/Screen-shot-2010-11-24-at-2.37.03-PM.png)
+[<img class="aligncenter size-full wp-image-3929" title="Screen shot 2010-11-24 at 2.37.03 PM" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/11/Screen-shot-2010-11-24-at-2.37.03-PM.png" alt="" width="710" height="118" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/11/Screen-shot-2010-11-24-at-2.37.03-PM.png)
 
 I think [this article is full of whine](http://www.newsweek.com/2010/11/22/what-food-says-about-class-in-america.html) but I&#8217;m too lazy to write about why I think the author is really reaching and makes some wrong analogies and interprets some statistical findings incorrectly and uses journalistic hyperbole as linkbait.
 
@@ -57,7 +57,7 @@ Where can I get my hands on a copy of [Hickey&#8217;s Bengal Gazette](http://www
 [Where are these textbooks](http://therumpus.net/2010/11/an-artists-interpretation-of-a-teenagers-head-exploding-in-science-class/) and can I get some along with the halucinogen sample that comes with them?
 
 Do you love being cheap at TJMaxx as much as I do? [<p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2010/11/black-friday.jpg"><img class="aligncenter size-full wp-image-3936" title="black-friday" src="http://blog.vickiboykis.com/wp-content/uploads/2010/11/black-friday.jpg" alt="" width="420" height="387" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/11/black-friday.jpg"><img class="aligncenter size-full wp-image-3936" title="black-friday" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/11/black-friday.jpg" alt="" width="420" height="387" /></a>
 </p>
 
 <p style="text-align: center;">
@@ -68,12 +68,12 @@ Because I am fat and lazy and it&#8217;s post-Thanksgiving, we&#8217;re going to
 
 I can&#8217;t believe this show exists:
 
-[<img class="aligncenter size-full wp-image-3929" title="Screen shot 2010-11-24 at 2.37.03 PM" src="http://blog.vickiboykis.com/wp-content/uploads/2010/11/Screen-shot-2010-11-24-at-2.37.03-PM.png" alt="" width="710" height="118" />](http://blog.vickiboykis.com/wp-content/uploads/2010/11/Screen-shot-2010-11-24-at-2.37.03-PM.png)
+[<img class="aligncenter size-full wp-image-3929" title="Screen shot 2010-11-24 at 2.37.03 PM" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/11/Screen-shot-2010-11-24-at-2.37.03-PM.png" alt="" width="710" height="118" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/11/Screen-shot-2010-11-24-at-2.37.03-PM.png)
 
 I think [this article is full of whine](http://www.newsweek.com/2010/11/22/what-food-says-about-class-in-america.html) but I&#8217;m too lazy to write about why I think the author is really reaching and makes some wrong analogies and interprets some statistical findings incorrectly and uses journalistic hyperbole as linkbait.
 
 Were you agonizing over what to get me for Hannukah or nondenominational New Year or the Orthodox Christmas?  [<p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2010/11/black-friday.jpg"><img class="aligncenter size-full wp-image-3936" title="black-friday" src="http://blog.vickiboykis.com/wp-content/uploads/2010/11/black-friday.jpg" alt="" width="420" height="387" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/11/black-friday.jpg"><img class="aligncenter size-full wp-image-3936" title="black-friday" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/11/black-friday.jpg" alt="" width="420" height="387" /></a>
 </p>
 
 <p style="text-align: center;">
@@ -84,7 +84,7 @@ Because I am fat and lazy and it&#8217;s post-Thanksgiving, we&#8217;re going to
 
 I can&#8217;t believe this show exists:
 
-[<img class="aligncenter size-full wp-image-3929" title="Screen shot 2010-11-24 at 2.37.03 PM" src="http://blog.vickiboykis.com/wp-content/uploads/2010/11/Screen-shot-2010-11-24-at-2.37.03-PM.png" alt="" width="710" height="118" />](http://blog.vickiboykis.com/wp-content/uploads/2010/11/Screen-shot-2010-11-24-at-2.37.03-PM.png)
+[<img class="aligncenter size-full wp-image-3929" title="Screen shot 2010-11-24 at 2.37.03 PM" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/11/Screen-shot-2010-11-24-at-2.37.03-PM.png" alt="" width="710" height="118" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/11/Screen-shot-2010-11-24-at-2.37.03-PM.png)
 
 I think [this article is full of whine](http://www.newsweek.com/2010/11/22/what-food-says-about-class-in-america.html) but I&#8217;m too lazy to write about why I think the author is really reaching and makes some wrong analogies and interprets some statistical findings incorrectly and uses journalistic hyperbole as linkbait.
 

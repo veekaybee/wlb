@@ -17,7 +17,7 @@ tags:
   - Tree
 ---
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2012/09/Peasant-Man-and-Woman-Planting-Potatoes.jpg"><img class="aligncenter  wp-image-7542" title="Peasant Man and Woman Planting Potatoes" src="http://blog.vickiboykis.com/wp-content/uploads/2012/09/Peasant-Man-and-Woman-Planting-Potatoes.jpg" alt="" width="422" height="347" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/09/Peasant-Man-and-Woman-Planting-Potatoes.jpg"><img class="aligncenter  wp-image-7542" title="Peasant Man and Woman Planting Potatoes" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/09/Peasant-Man-and-Woman-Planting-Potatoes.jpg" alt="" width="422" height="347" /></a>
 </p>
 
 <p style="text-align: center;">
@@ -31,11 +31,11 @@ tags:
 Since I&#8217;ve implemented <a href="http://blog.vickiboykis.com/2011/08/our-domovoi-americans-hes-just-a-short-invisibile-bearded-dude-that-lives-in-your-home-no-biggie/" target="_blank">other Russian traditions</a> around the home, and have only killed three plants AT MOST,namely this yucca, which went from before to after in a matter of months,
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2012/10/IMAG0944.jpg"><img class="aligncenter  wp-image-7732" title="IMAG0944" src="http://blog.vickiboykis.com/wp-content/uploads/2012/10/IMAG0944-614x1024.jpg" alt="" width="258" height="430" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/10/IMAG0944.jpg"><img class="aligncenter  wp-image-7732" title="IMAG0944" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/10/IMAG0944-614x1024.jpg" alt="" width="258" height="430" /></a>
 </p>
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2012/10/IMG_20120205_165750.jpg"><img class="aligncenter  wp-image-7733" title="IMG_20120205_165750" src="http://blog.vickiboykis.com/wp-content/uploads/2012/10/IMG_20120205_165750-768x1024.jpg" alt="" width="277" height="368" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/10/IMG_20120205_165750.jpg"><img class="aligncenter  wp-image-7733" title="IMG_20120205_165750" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/10/IMG_20120205_165750-768x1024.jpg" alt="" width="277" height="368" /></a>
 </p>
 
 I decided it was time to step up our game.
@@ -45,7 +45,7 @@ You can probably surmise that Mr. B was not 100% enthused with spending five to 
 Where I look at a home problem and think, oh, we can fix this and make it look better and awesome, he looks at something and estimates the amount of hours it will take, the amount of money, and, for him, the fact that nothing will substantially change, because:
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2012/10/how_men_and_women_see_colors.jpeg"><img class="aligncenter  wp-image-7734" title="how_men_and_women_see_colors" src="http://blog.vickiboykis.com/wp-content/uploads/2012/10/how_men_and_women_see_colors.jpeg" alt="" width="350" height="368" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/10/how_men_and_women_see_colors.jpeg"><img class="aligncenter  wp-image-7734" title="how_men_and_women_see_colors" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/10/how_men_and_women_see_colors.jpeg" alt="" width="350" height="368" /></a>
 </p>
 
 &nbsp;
@@ -53,11 +53,11 @@ Where I look at a home problem and think, oh, we can fix this and make it look b
 For example, he has ridiculed my purchase of the following pillow, despite the fact that it was four dollars-FOUR DOLLARS- by saying that it looks like Kim Jong Un&#8217;s wife. He refuses to sit next to her, and he&#8217;ll put her upside down if he&#8217;s sitting on the couch next to the chair.
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2012/09/IMG_20120814_074714.jpg"><img class="wp-image-7543" title="IMG_20120814_074714" src="http://blog.vickiboykis.com/wp-content/uploads/2012/09/IMG_20120814_074714.jpg" alt="" width="262" height="349" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/09/IMG_20120814_074714.jpg"><img class="wp-image-7543" title="IMG_20120814_074714" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/09/IMG_20120814_074714.jpg" alt="" width="262" height="349" /></a>
 </p>
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2012/09/jong-sing_2288519b.jpg"><img class="wp-image-7546 alignnone" title="jong-sing_2288519b" src="http://blog.vickiboykis.com/wp-content/uploads/2012/09/jong-sing_2288519b.jpg" alt="" width="372" height="232" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/09/jong-sing_2288519b.jpg"><img class="wp-image-7546 alignnone" title="jong-sing_2288519b" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/09/jong-sing_2288519b.jpg" alt="" width="372" height="232" /></a>
 </p>
 
 <p style="text-align: left;">
@@ -65,7 +65,7 @@ For example, he has ridiculed my purchase of the following pillow, despite the f
 </p>
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2012/10/IMG_20121023_070841.jpg"><img class="aligncenter  wp-image-7735" title="IMG_20121023_070841" src="http://blog.vickiboykis.com/wp-content/uploads/2012/10/IMG_20121023_070841-768x1024.jpg" alt="" width="377" height="502" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/10/IMG_20121023_070841.jpg"><img class="aligncenter  wp-image-7735" title="IMG_20121023_070841" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/10/IMG_20121023_070841-768x1024.jpg" alt="" width="377" height="502" /></a>
 </p>
 
 &nbsp;
@@ -91,7 +91,7 @@ The hard part was the manual labor.  Pennsylvania soil is like 50 bajillion per
 Digging is HARD.
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2012/10/IMG_20120916_172600.jpg"><img class="aligncenter  wp-image-7736" title="IMG_20120916_172600" src="http://blog.vickiboykis.com/wp-content/uploads/2012/10/IMG_20120916_172600-768x1024.jpg" alt="" width="323" height="430" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/10/IMG_20120916_172600.jpg"><img class="aligncenter  wp-image-7736" title="IMG_20120916_172600" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/10/IMG_20120916_172600-768x1024.jpg" alt="" width="323" height="430" /></a>
 </p>
 
 So we started digging.  And digging. And digging.  The first half an hour it wasn&#8217;t so bad.  It was nice out. Birds were singing.  I was yelling at Mr. B that he was hogging my digging spot and wouldn&#8217;t give me room for enough leverage.
@@ -99,7 +99,7 @@ So we started digging.  And digging. And digging.  The first half an hour it w
 Mr. B was talking shit about how small my shovel was. But, the thing about digging a hole is that it makes you HURT. It also makes you think <a href="http://blog.vickiboykis.com/2012/07/baseball-the-vicki-way/" target="_blank">morbid Russian thoughts</a>. Like, you know, death.  But also about the gulags.  Because people did manual labor just like ours in the gulags.
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2012/10/IMG_20120916_172546.jpg"><img class="aligncenter  wp-image-7737" title="IMG_20120916_172546" src="http://blog.vickiboykis.com/wp-content/uploads/2012/10/IMG_20120916_172546-768x1024.jpg" alt="" width="323" height="430" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/10/IMG_20120916_172546.jpg"><img class="aligncenter  wp-image-7737" title="IMG_20120916_172546" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/10/IMG_20120916_172546-768x1024.jpg" alt="" width="323" height="430" /></a>
 </p>
 
 Granted, they were in sub-zero temperatures, not pullover t-shirts from Old Navy, and they were in the middle of Siberia, not suburban Philly, but still. Still.
@@ -109,7 +109,7 @@ Finally, we were done, and we got the tree in the ground.
 It was actually a pretty huge accomplishment. From the seed of the idea in my brain, to overcoming opposition, to being stressed out and neurotic at Primex, to manual labor, to completion.  As the great Theodor Herzl once said, &#8220;If you will it, it is no dream,&#8221; and screw Herzl because if I ever have to plant another tree in my life  (like if this one dies, which it looks like it will since I am terrible with trees,) I will maim.
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2012/10/IMG_20120916_171728.jpg"><img class="aligncenter  wp-image-7738" title="IMG_20120916_171728" src="http://blog.vickiboykis.com/wp-content/uploads/2012/10/IMG_20120916_171728-768x1024.jpg" alt="" width="277" height="368" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/10/IMG_20120916_171728.jpg"><img class="aligncenter  wp-image-7738" title="IMG_20120916_171728" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/10/IMG_20120916_171728-768x1024.jpg" alt="" width="277" height="368" /></a>
 </p>
 
 &nbsp;

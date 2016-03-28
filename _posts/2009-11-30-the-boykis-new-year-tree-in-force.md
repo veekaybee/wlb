@@ -14,7 +14,7 @@ tags:
   - Tree
 ---
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2009/11/DSC02812.JPG"><img class="aligncenter size-full wp-image-1770" title="DSC02812" src="http://blog.vickiboykis.com/wp-content/uploads/2009/11/DSC02812.JPG" alt="DSC02812" width="396" height="528" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/11/DSC02812.JPG"><img class="aligncenter size-full wp-image-1770" title="DSC02812" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/11/DSC02812.JPG" alt="DSC02812" width="396" height="528" /></a>
 </p>
 
 <p style="text-align: left;">

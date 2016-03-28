@@ -18,11 +18,11 @@ tags:
 ---
 For those of you who live on another planet (or possibly not in Jewlandia in which case you are hereby pardoned,) [Ivri Lider](http://www.ivrilider.com/) is a [very popular Israeli musician](http://en.wikipedia.org/wiki/Ivri_Lider).  Not only has he had more hits than Micahel Tyson, he has also publicly come out as gay and still remained successful and popular, which  is a tremendous accomplishment in the fickle world of showbusiness.
 
-[<img class="aligncenter size-full wp-image-453" title="dsc01630" src="http://blog.vickiboykis.com/wp-content/uploads/2009/06/dsc01630.jpg" alt="dsc01630" width="360" height="480" />](http://blog.vickiboykis.com/wp-content/uploads/2009/06/dsc01630.jpg)
+[<img class="aligncenter size-full wp-image-453" title="dsc01630" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/06/dsc01630.jpg" alt="dsc01630" width="360" height="480" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/06/dsc01630.jpg)
 
 Thanks to the kind generosity of [16th Street JCC in DC](http://www.washingtondcjcc.org/), I scored two tickets to go see Ivri Lider at [9:30 Club](http://www.930.com/).   [Tanya](http://jewlicious.ru/) went as my date, because you can never have too many Russian girls at an Ivri Lider concert. Also, we were outnumbered by Israelis. How do you know there are Israelis at any given concert? When the flyers outside specifically state that the artists requests you don’t take any pictures or video and as soon as the lights go off, you hear the sound of 10 Sony D-120s turn on and snap away. It was comforting to be in the presence of so many people blatantly breaking laws and social boundaries and strangers talking loudly into my ear. I felt like my internship in Tel Aviv all over again.
 
-[<img class="aligncenter size-full wp-image-454" title="dsc01636" src="http://blog.vickiboykis.com/wp-content/uploads/2009/06/dsc01636.jpg" alt="dsc01636" width="480" height="360" />](http://blog.vickiboykis.com/wp-content/uploads/2009/06/dsc01636.jpg)
+[<img class="aligncenter size-full wp-image-454" title="dsc01636" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/06/dsc01636.jpg" alt="dsc01636" width="480" height="360" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/06/dsc01636.jpg)
 
 If you&#8217;ve read my [Jewlicious post](http://www.jewlicious.com/2009/06/ivri-lider-in-washington-dc/) on Ivri, you&#8217;ll see the first two paragraphs regurgitated. Because I&#8217;m lazy.   What I really wanted to talk about here is the feeling I got when I went to concert.
 

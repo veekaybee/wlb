@@ -18,7 +18,7 @@ tags:
   - women
 ---
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2013/04/Photo-on-4-18-13-at-7.11-AM.jpg"><img class="aligncenter  wp-image-8597" alt="Photo on 4-18-13 at 7.11 AM" src="http://blog.vickiboykis.com/wp-content/uploads/2013/04/Photo-on-4-18-13-at-7.11-AM-580x386.jpg" width="406" height="270" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/04/Photo-on-4-18-13-at-7.11-AM.jpg"><img class="aligncenter  wp-image-8597" alt="Photo on 4-18-13 at 7.11 AM" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/04/Photo-on-4-18-13-at-7.11-AM-580x386.jpg" width="406" height="270" /></a>
 </p>
 
 Dove&#8217;s <a href="http://www.adweek.com/adfreak/dove-hires-criminal-sketch-artist-draw-women-they-see-themselves-and-others-see-them-148613" target="_blank">latest Real Beauty campaign</a> has been making its way around the media and my Facebook page. In it, a police sketch artist draws women as they describe themselves, and then as other people describe them. The latter sketch is better-looking than the former, a heartwarming affirmation that we always see ourselves worse than other people see us.
@@ -38,23 +38,23 @@ What happens when 40-year-old women and 20-year-old-women who are going to be 40
 Here are the people that will bust Dove&#8217;s balls:
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2013/04/Screen-Shot-2013-04-18-at-7.27.19-AM.png"><img class="aligncenter  wp-image-8598" alt="Screen Shot 2013-04-18 at 7.27.19 AM" src="http://blog.vickiboykis.com/wp-content/uploads/2013/04/Screen-Shot-2013-04-18-at-7.27.19-AM-580x404.png" width="464" height="323" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/04/Screen-Shot-2013-04-18-at-7.27.19-AM.png"><img class="aligncenter  wp-image-8598" alt="Screen Shot 2013-04-18 at 7.27.19 AM" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/04/Screen-Shot-2013-04-18-at-7.27.19-AM-580x404.png" width="464" height="323" /></a>
 </p>
 
 In 2004, Unilever decided Dove was doing ok, but that it could be doing better, especially for the 2005 financial year and into 2006.
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2013/04/Screen-Shot-2013-04-18-at-7.31.51-AM.png"><img class="aligncenter  wp-image-8600" alt="Screen Shot 2013-04-18 at 7.31.51 AM" src="http://blog.vickiboykis.com/wp-content/uploads/2013/04/Screen-Shot-2013-04-18-at-7.31.51-AM-580x197.png" width="464" height="158" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/04/Screen-Shot-2013-04-18-at-7.31.51-AM.png"><img class="aligncenter  wp-image-8600" alt="Screen Shot 2013-04-18 at 7.31.51 AM" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/04/Screen-Shot-2013-04-18-at-7.31.51-AM-580x197.png" width="464" height="158" /></a>
 </p>
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2013/04/Screen-Shot-2013-04-18-at-7.42.27-AM.png"><img class="aligncenter  wp-image-8602" alt="Screen Shot 2013-04-18 at 7.42.27 AM" src="http://blog.vickiboykis.com/wp-content/uploads/2013/04/Screen-Shot-2013-04-18-at-7.42.27-AM-580x420.png" width="464" height="336" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/04/Screen-Shot-2013-04-18-at-7.42.27-AM.png"><img class="aligncenter  wp-image-8602" alt="Screen Shot 2013-04-18 at 7.42.27 AM" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/04/Screen-Shot-2013-04-18-at-7.42.27-AM-580x420.png" width="464" height="336" /></a>
 </p>
 
 So Dove decided to do <a href="http://en.wikipedia.org/wiki/Dove_Campaign_for_Real_Beauty" target="_blank">the first ad campaign for Real Beauty</a> and women of different shapes and colors and we are all beautiful until Dove tells us we&#8217;re ugly, etc. That campaign went pretty well. In fact, it went so well that Unilever just went crazy rich (until 2008, but everyone was screwed then.)
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2013/04/Screen-Shot-2013-04-18-at-7.28.43-AM.png"><img class="aligncenter  wp-image-8601" alt="Screen Shot 2013-04-18 at 7.28.43 AM" src="http://blog.vickiboykis.com/wp-content/uploads/2013/04/Screen-Shot-2013-04-18-at-7.28.43-AM-580x341.png" width="464" height="273" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/04/Screen-Shot-2013-04-18-at-7.28.43-AM.png"><img class="aligncenter  wp-image-8601" alt="Screen Shot 2013-04-18 at 7.28.43 AM" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/04/Screen-Shot-2013-04-18-at-7.28.43-AM-580x341.png" width="464" height="273" /></a>
 </p>
 
 Just bonkers. Now, I&#8217;m not saying that Dove&#8217;s women in white bras singlehandedly made Unilever hit jackpot, but it was a pretty good move, don&#8217;t you think?
@@ -66,7 +66,7 @@ At the time, I believed that finally, a company was doing something good for me.
 Ever since I found out about Dove&#8217;s intent, I&#8217;ve been very leery of companies that make feel-good ads. I know I&#8217;m insecure about how I look. I don&#8217;t need companies to tell me. Especially companies that push whitening products in India. Why would you  need a whitening deodorant? How can a deodorant tone underarms? Is this woman even Indian? So many questions.
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2013/04/Screen-Shot-2013-04-18-at-7.45.30-AM.png"><img class="aligncenter  wp-image-8603" alt="Screen Shot 2013-04-18 at 7.45.30 AM" src="http://blog.vickiboykis.com/wp-content/uploads/2013/04/Screen-Shot-2013-04-18-at-7.45.30-AM-580x455.png" width="464" height="364" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/04/Screen-Shot-2013-04-18-at-7.45.30-AM.png"><img class="aligncenter  wp-image-8603" alt="Screen Shot 2013-04-18 at 7.45.30 AM" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/04/Screen-Shot-2013-04-18-at-7.45.30-AM-580x455.png" width="464" height="364" /></a>
 </p>
 
 So as heartwarming as the ad was, I guess my main message is to just be aware of good intentions when they come from companies. There&#8217;s always money behind them.
@@ -76,12 +76,12 @@ For what it&#8217;s worth, though, I really liked the self-perception and others
 Here&#8217;s what I think I look like after finding out about  Dove&#8217;s new campaign:
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2013/04/Photo-on-4-18-13-at-7.09-AM-31.jpg"><img class="aligncenter  wp-image-8604" alt="Photo on 4-18-13 at 7.09 AM #3" src="http://blog.vickiboykis.com/wp-content/uploads/2013/04/Photo-on-4-18-13-at-7.09-AM-31-580x386.jpg" width="464" height="309" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/04/Photo-on-4-18-13-at-7.09-AM-31.jpg"><img class="aligncenter  wp-image-8604" alt="Photo on 4-18-13 at 7.09 AM #3" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/04/Photo-on-4-18-13-at-7.09-AM-31-580x386.jpg" width="464" height="309" /></a>
 </p>
 
 And here&#8217;s what the sketch artist thought I looked like:
 
-[<img class="aligncenter size-full wp-image-8605" alt="tumblr_lwdlsliMZm1qjehcpo1_500" src="http://blog.vickiboykis.com/wp-content/uploads/2013/04/tumblr_lwdlsliMZm1qjehcpo1_500.jpg" width="448" height="640" />](http://blog.vickiboykis.com/wp-content/uploads/2013/04/tumblr_lwdlsliMZm1qjehcpo1_500.jpg)
+[<img class="aligncenter size-full wp-image-8605" alt="tumblr_lwdlsliMZm1qjehcpo1_500" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/04/tumblr_lwdlsliMZm1qjehcpo1_500.jpg" width="448" height="640" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/04/tumblr_lwdlsliMZm1qjehcpo1_500.jpg)
 
 So I guess I need to work on my Real Beauty after all.
 

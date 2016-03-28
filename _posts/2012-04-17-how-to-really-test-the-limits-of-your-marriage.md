@@ -19,7 +19,7 @@ tags:
   - writing
 ---
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2012/04/Screen-shot-2012-04-16-at-11.22.32-PM.png"><img class="aligncenter size-full wp-image-6723" title="Screen shot 2012-04-16 at 11.22.32 PM" src="http://blog.vickiboykis.com/wp-content/uploads/2012/04/Screen-shot-2012-04-16-at-11.22.32-PM.png" alt="" width="507" height="447" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/04/Screen-shot-2012-04-16-at-11.22.32-PM.png"><img class="aligncenter size-full wp-image-6723" title="Screen shot 2012-04-16 at 11.22.32 PM" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/04/Screen-shot-2012-04-16-at-11.22.32-PM.png" alt="" width="507" height="447" /></a>
 </p>
 
 &nbsp;

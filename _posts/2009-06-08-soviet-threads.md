@@ -19,7 +19,7 @@ My parents&#8217; house is a  museum to Soviet nostalgia. It&#8217;s  like wal
 Yesterday, I was trying to sew a button that had popped off Mr. B&#8217;s pants.  &#8220;Oh, use the thread in my threadbox,&#8221;  my mom remarked to me offhandedly.  This was some of the thread she had available:
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2009/06/img_0072.jpg"><img class="aligncenter size-full wp-image-472" title="img_0072" src="http://blog.vickiboykis.com/wp-content/uploads/2009/06/img_0072.jpg" alt="img_0072" width="379" height="506" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/06/img_0072.jpg"><img class="aligncenter size-full wp-image-472" title="img_0072" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/06/img_0072.jpg" alt="img_0072" width="379" height="506" /></a>
 </p>
 
 <p style="text-align: left;">
@@ -27,7 +27,7 @@ Yesterday, I was trying to sew a button that had popped off Mr. B&#8217;s pants.
 </p>
 
 <p style="text-align: left;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2009/06/img_0069.jpg"><img class="aligncenter size-full wp-image-473" title="img_0069" src="http://blog.vickiboykis.com/wp-content/uploads/2009/06/img_0069.jpg" alt="img_0069" width="163" height="253" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/06/img_0069.jpg"><img class="aligncenter size-full wp-image-473" title="img_0069" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/06/img_0069.jpg" alt="img_0069" width="163" height="253" /></a>
 </p>
 
 <p style="text-align: left;">

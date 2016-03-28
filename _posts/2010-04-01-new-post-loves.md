@@ -22,7 +22,7 @@ So basically, chicas, all shoes all the time now!  <img src="http://blog.vickibo
 
 Here&#8217;s the pair I bought last nite.  Hubby said that we couldn&#8217;t afford them unless we decided to skip buying a house but I was all like, &#8220;Omg!  These are so in style this season and I just seriously need them.  You don&#8217;t know anything about shoes.&#8221;  So I bought them!! There Loboutins!!  Duh.  I don&#8217;t buy any other kind of shoes.   Did you think I was weird or somethin??
 
-[<img class="aligncenter size-full wp-image-2694" title="Picture 1" src="http://blog.vickiboykis.com/wp-content/uploads/2010/04/Picture-1.png" alt="" width="309" height="252" />](http://blog.vickiboykis.com/wp-content/uploads/2010/04/Picture-1.png)
+[<img class="aligncenter size-full wp-image-2694" title="Picture 1" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/04/Picture-1.png" alt="" width="309" height="252" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/04/Picture-1.png)
 
 xoxo,<3
 

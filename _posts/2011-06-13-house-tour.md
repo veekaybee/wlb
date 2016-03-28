@@ -18,13 +18,13 @@ I&#8217;m hoping that by posting these you won&#8217;t come stalk me or steal my
 Here&#8217;s the living room, before:
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2011/06/DSC_0504.jpg"><img class="aligncenter size-full wp-image-5093" title="DSC_0504" src="http://blog.vickiboykis.com/wp-content/uploads/2011/06/DSC_0504.jpg" alt="" width="590" height="392" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/06/DSC_0504.jpg"><img class="aligncenter size-full wp-image-5093" title="DSC_0504" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/06/DSC_0504.jpg" alt="" width="590" height="392" /></a>
 </p>
 
 Here it is, now:
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2011/06/DSC_0585.jpg"><img class="aligncenter size-full wp-image-5096" title="DSC_0585" src="http://blog.vickiboykis.com/wp-content/uploads/2011/06/DSC_0585.jpg" alt="" width="557" height="370" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/06/DSC_0585.jpg"><img class="aligncenter size-full wp-image-5096" title="DSC_0585" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/06/DSC_0585.jpg" alt="" width="557" height="370" /></a>
 </p>
 
 <p style="text-align: left;">
@@ -32,7 +32,7 @@ Here it is, now:
 </p>
 
 <p style="text-align: left;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2011/06/DSC_0583.jpg"><img class="aligncenter size-full wp-image-5097" title="DSC_0583" src="http://blog.vickiboykis.com/wp-content/uploads/2011/06/DSC_0583.jpg" alt="" width="568" height="378" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/06/DSC_0583.jpg"><img class="aligncenter size-full wp-image-5097" title="DSC_0583" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/06/DSC_0583.jpg" alt="" width="568" height="378" /></a>
 </p>
 
 <p style="text-align: left;">
@@ -44,7 +44,7 @@ Here it is, now:
 </p>
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2011/06/DSC_0588.jpg"><img class="aligncenter size-full wp-image-5098" title="DSC_0588" src="http://blog.vickiboykis.com/wp-content/uploads/2011/06/DSC_0588.jpg" alt="" width="578" height="384" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/06/DSC_0588.jpg"><img class="aligncenter size-full wp-image-5098" title="DSC_0588" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/06/DSC_0588.jpg" alt="" width="578" height="384" /></a>
 </p>
 
 <p style="text-align: left;">
@@ -52,13 +52,13 @@ Here it is, now:
 </p>
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2011/06/DSC_0587.jpg"><img class="aligncenter size-full wp-image-5099" title="DSC_0587" src="http://blog.vickiboykis.com/wp-content/uploads/2011/06/DSC_0587.jpg" alt="" width="541" height="360" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/06/DSC_0587.jpg"><img class="aligncenter size-full wp-image-5099" title="DSC_0587" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/06/DSC_0587.jpg" alt="" width="541" height="360" /></a>
 </p>
 
 Moving on. Le kitchen, side one: (orange paint decision, mine; ice cream mat decision, also mine. Orchid: gifted.)
 
 <p style="text-align: left;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2011/06/DSC_0590.jpg"><img class="aligncenter size-full wp-image-5100" title="DSC_0590" src="http://blog.vickiboykis.com/wp-content/uploads/2011/06/DSC_0590.jpg" alt="" width="505" height="336" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/06/DSC_0590.jpg"><img class="aligncenter size-full wp-image-5100" title="DSC_0590" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/06/DSC_0590.jpg" alt="" width="505" height="336" /></a>
 </p>
 
 <p style="text-align: left;">
@@ -66,7 +66,7 @@ Moving on. Le kitchen, side one: (orange paint decision, mine; ice cream mat dec
 </p>
 
 <p style="text-align: left;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2011/06/DSC_0591.jpg"><img class="aligncenter size-full wp-image-5101" title="DSC_0591" src="http://blog.vickiboykis.com/wp-content/uploads/2011/06/DSC_0591.jpg" alt="" width="505" height="336" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/06/DSC_0591.jpg"><img class="aligncenter size-full wp-image-5101" title="DSC_0591" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/06/DSC_0591.jpg" alt="" width="505" height="336" /></a>
 </p>
 
 <p style="text-align: left;">
@@ -74,7 +74,7 @@ Moving on. Le kitchen, side one: (orange paint decision, mine; ice cream mat dec
 </p>
 
 <p style="text-align: left;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2011/06/DSC_0596.jpg"><img class="aligncenter size-full wp-image-5102" title="DSC_0596" src="http://blog.vickiboykis.com/wp-content/uploads/2011/06/DSC_0596.jpg" alt="" width="505" height="336" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/06/DSC_0596.jpg"><img class="aligncenter size-full wp-image-5102" title="DSC_0596" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/06/DSC_0596.jpg" alt="" width="505" height="336" /></a>
 </p>
 
 <p style="text-align: left;">
@@ -82,7 +82,7 @@ Moving on. Le kitchen, side one: (orange paint decision, mine; ice cream mat dec
 </p>
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2011/06/DSC_0507.jpg"><img class="aligncenter size-full wp-image-5103" title="DSC_0507" src="http://blog.vickiboykis.com/wp-content/uploads/2011/06/DSC_0507.jpg" alt="" width="541" height="360" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/06/DSC_0507.jpg"><img class="aligncenter size-full wp-image-5103" title="DSC_0507" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/06/DSC_0507.jpg" alt="" width="541" height="360" /></a>
 </p>
 
 <p style="text-align: left;">
@@ -90,7 +90,7 @@ Moving on. Le kitchen, side one: (orange paint decision, mine; ice cream mat dec
 </p>
 
 <p style="text-align: left;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2011/06/DSC_0597.jpg"><img class="aligncenter size-full wp-image-5104" title="DSC_0597" src="http://blog.vickiboykis.com/wp-content/uploads/2011/06/DSC_0597.jpg" alt="" width="631" height="420" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/06/DSC_0597.jpg"><img class="aligncenter size-full wp-image-5104" title="DSC_0597" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/06/DSC_0597.jpg" alt="" width="631" height="420" /></a>
 </p>
 
 <p style="text-align: left;">
@@ -98,7 +98,7 @@ Moving on. Le kitchen, side one: (orange paint decision, mine; ice cream mat dec
 </p>
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2011/06/DSC_0599.jpg"><img class="aligncenter size-full wp-image-5105" title="DSC_0599" src="http://blog.vickiboykis.com/wp-content/uploads/2011/06/DSC_0599.jpg" alt="" width="631" height="420" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/06/DSC_0599.jpg"><img class="aligncenter size-full wp-image-5105" title="DSC_0599" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/06/DSC_0599.jpg" alt="" width="631" height="420" /></a>
 </p>
 
 <p style="text-align: left;">
@@ -106,7 +106,7 @@ Moving on. Le kitchen, side one: (orange paint decision, mine; ice cream mat dec
 </p>
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2011/06/DSC_0602.jpg"><img class="aligncenter size-full wp-image-5106" title="DSC_0602" src="http://blog.vickiboykis.com/wp-content/uploads/2011/06/DSC_0602.jpg" alt="" width="631" height="420" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/06/DSC_0602.jpg"><img class="aligncenter size-full wp-image-5106" title="DSC_0602" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/06/DSC_0602.jpg" alt="" width="631" height="420" /></a>
 </p>
 
 <p style="text-align: left;">
@@ -114,7 +114,7 @@ Moving on. Le kitchen, side one: (orange paint decision, mine; ice cream mat dec
 </p>
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2011/06/DSC_0600.jpg"><img class="aligncenter size-full wp-image-5107" title="DSC_0600" src="http://blog.vickiboykis.com/wp-content/uploads/2011/06/DSC_0600.jpg" alt="" width="541" height="360" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/06/DSC_0600.jpg"><img class="aligncenter size-full wp-image-5107" title="DSC_0600" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/06/DSC_0600.jpg" alt="" width="541" height="360" /></a>
 </p>
 
 <p style="text-align: left;">
@@ -122,7 +122,7 @@ Moving on. Le kitchen, side one: (orange paint decision, mine; ice cream mat dec
 </p>
 
 <p style="text-align: left;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2011/06/DSC_0606.jpg"><img class="aligncenter size-full wp-image-5108" title="DSC_0606" src="http://blog.vickiboykis.com/wp-content/uploads/2011/06/DSC_0606.jpg" alt="" width="631" height="420" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/06/DSC_0606.jpg"><img class="aligncenter size-full wp-image-5108" title="DSC_0606" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/06/DSC_0606.jpg" alt="" width="631" height="420" /></a>
 </p>
 
 <p style="text-align: left;">

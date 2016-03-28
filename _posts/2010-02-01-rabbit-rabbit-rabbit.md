@@ -19,7 +19,7 @@ tags:
 ---
 When I was in the third grade, I won a contest or got the best grade in some class-I don&#8217;t remember exactly.  All the other kids that won had gotten something like gift certificates to Pizza Hut or stickers, so I was excited to get the same.  Unfortunately, all I got was a book called [Words of Stone](http://www.amazon.com/Words-Stone-Kevin-Henkes/dp/0140366016) with the words &#8220;Happy Holidays! from Mrs. Moyer,&#8221; my third grade teacher,written there.
 
-[<img class="aligncenter size-full wp-image-2265" title="Picture 4" src="http://blog.vickiboykis.com/wp-content/uploads/2010/02/Picture-4.png" alt="" width="646" height="482" />](http://blog.vickiboykis.com/wp-content/uploads/2010/02/Picture-4.png)
+[<img class="aligncenter size-full wp-image-2265" title="Picture 4" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/02/Picture-4.png" alt="" width="646" height="482" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/02/Picture-4.png)
 
 I was really disappointed because  the book had no pictures and no stickers.  I felt really gypped and left it in my room.  A couple months later, I picked it up and read it straight through.
 

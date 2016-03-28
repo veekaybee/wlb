@@ -21,7 +21,7 @@ tags:
   - memories
   - Prego Grazie Scuzi
 ---
-[<img class="aligncenter size-medium wp-image-8711" alt="Screen Shot 2013-05-15 at 6.57.18 AM" src="http://blog.vickiboykis.com/wp-content/uploads/2013/05/Screen-Shot-2013-05-15-at-6.57.18-AM-580x352.png" width="580" height="352" />](http://blog.vickiboykis.com/wp-content/uploads/2013/05/Screen-Shot-2013-05-15-at-6.57.18-AM.png)
+[<img class="aligncenter size-medium wp-image-8711" alt="Screen Shot 2013-05-15 at 6.57.18 AM" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/05/Screen-Shot-2013-05-15-at-6.57.18-AM-580x352.png" width="580" height="352" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/05/Screen-Shot-2013-05-15-at-6.57.18-AM.png)
 
 My parents have been doing some spring cleaning lately. And by spring cleaning, I mean my mom called me and said, &#8220;We have five boxes of your crap in the attic. Can we throw it out?&#8221;  My crap being everything I&#8217;ve ever generated artistically or scholastically since first grade.
 
@@ -39,18 +39,18 @@ Fortunately, in my junior year of high school, I got hit by the Italian bug and 
 
 &nbsp;
 
-[<img class="aligncenter size-medium wp-image-8712" alt="Screen Shot 2013-05-15 at 7.00.13 AM" src="http://blog.vickiboykis.com/wp-content/uploads/2013/05/Screen-Shot-2013-05-15-at-7.00.13-AM-580x732.png" width="580" height="732" />](http://blog.vickiboykis.com/wp-content/uploads/2013/05/Screen-Shot-2013-05-15-at-7.00.13-AM.png)
+[<img class="aligncenter size-medium wp-image-8712" alt="Screen Shot 2013-05-15 at 7.00.13 AM" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/05/Screen-Shot-2013-05-15-at-7.00.13-AM-580x732.png" width="580" height="732" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/05/Screen-Shot-2013-05-15-at-7.00.13-AM.png)
 
 &nbsp;
 
 As you can tell, math wasn&#8217;t a strong suit. Although LOVE and FATE and The Hitchhiker&#8217;s Guide to the Galaxy? Sure. Oh god, that pun.
 
-[<img class="aligncenter size-medium wp-image-8713" alt="Screen Shot 2013-05-15 at 7.02.01 AM" src="http://blog.vickiboykis.com/wp-content/uploads/2013/05/Screen-Shot-2013-05-15-at-7.02.01-AM-580x770.png" width="580" height="770" />](http://blog.vickiboykis.com/wp-content/uploads/2013/05/Screen-Shot-2013-05-15-at-7.02.01-AM.png)
+[<img class="aligncenter size-medium wp-image-8713" alt="Screen Shot 2013-05-15 at 7.02.01 AM" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/05/Screen-Shot-2013-05-15-at-7.02.01-AM-580x770.png" width="580" height="770" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/05/Screen-Shot-2013-05-15-at-7.02.01-AM.png)
 
 I also did a bit of song translation:
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2013/05/Screen-Shot-2013-05-15-at-7.06.39-AM.png"><img class="aligncenter  wp-image-8714" alt="Screen Shot 2013-05-15 at 7.06.39 AM" src="http://blog.vickiboykis.com/wp-content/uploads/2013/05/Screen-Shot-2013-05-15-at-7.06.39-AM-580x745.png" width="464" height="596" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/05/Screen-Shot-2013-05-15-at-7.06.39-AM.png"><img class="aligncenter  wp-image-8714" alt="Screen Shot 2013-05-15 at 7.06.39 AM" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/05/Screen-Shot-2013-05-15-at-7.06.39-AM-580x745.png" width="464" height="596" /></a>
 </p>
 
 How disappointing that YouTube didn&#8217;t exist back then. I just watched <a href="http://blog.vickiboykis.com/2010/02/why-do-you-have-to-discover-adriano-celentano-cruel-internet/" target="_blank">this song</a> that I translated for the first time ten minutes ago and it all came back to me.

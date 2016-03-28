@@ -20,7 +20,7 @@ tags:
 When I was growing up, we had a <a href="http://en.wikipedia.org/wiki/Domovoi" target="_blank">domovoi</a>.  Every Russian household does.   In your head, he looks kind of like a shorter Peter Jackson.  But of course, you don&#8217;t know for sure since you&#8217;ve never seen him.
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2011/07/domovoi.gif"><img class="aligncenter size-full wp-image-5376" title="domovoi" src="http://blog.vickiboykis.com/wp-content/uploads/2011/07/domovoi.gif" alt="" width="280" height="388" /></a>Picture from <a href="http://www.slavic.pitt.edu/" target="_blank">here</a>.
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/07/domovoi.gif"><img class="aligncenter size-full wp-image-5376" title="domovoi" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/07/domovoi.gif" alt="" width="280" height="388" /></a>Picture from <a href="http://www.slavic.pitt.edu/" target="_blank">here</a>.
 </p>
 
 &nbsp;

@@ -18,12 +18,12 @@ The restrained warmth of May has passed and we are in the wild, reckless blackbe
 
 Sometimes, in the mornings the sun comes up steamy and hot and playful and full of opportunity and my mind runs with it, right into the Potomac River, over the city and my heart soars.
 
-[<img class="aligncenter size-full wp-image-3143" title="77656060" src="http://blog.vickiboykis.com/wp-content/uploads/2010/06/77656060.jpg" alt="" width="584" height="439" />](http://blog.vickiboykis.com/wp-content/uploads/2010/06/77656060.jpg)
+[<img class="aligncenter size-full wp-image-3143" title="77656060" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/06/77656060.jpg" alt="" width="584" height="439" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/06/77656060.jpg)
 
 The morning shadows make me want to sit for hours in a library,in a sunny nook, reading my summer reading assignments, which I&#8217;ve already read, and then run outside barefoot for ice cream from the truck, dripping on my knees.  The shade is dappled and I walk to work with a sigh.
 
 <p style="text-align: center;">
-  <img class="aligncenter" src="http://blog.vickiboykis.com/wp-content/uploads/2010/06/wpid-IMAG0005.jpg" alt="image" width="430" height="718" />
+  <img class="aligncenter" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/06/wpid-IMAG0005.jpg" alt="image" width="430" height="718" />
 </p>
 
 These days are languid and even my hair is limp, lifeless, waiting for when the lightning bugs come out.  But even then, the heat does not break on these blackberry nights.  I become moody and feel adrift and that I will never moor my anchor to anything,  and D and I go outside to run against the humidity.  We make it half a mile and then slow down, walking, hand in hand, down a street overflowing with magnolias and I talk about how I want to live in every house on that street, and D says his usual line about how he&#8217;ll start to work at a hedge fund so we can live there and we both laugh because we know that we don&#8217;t care whether we get that house.  We&#8217;re not keeping up with anyone but ourselves, and time is on our side.

@@ -17,4 +17,4 @@ tags:
 ---
 I just saw [this cute infographic](http://www.billshrink.com/blog/the-history-of-tipping/) ([via ChartPorn](http://chartporn.org/2010/02/09/tipping-is-not-a-city-in-china/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+ChartPorn+%28Chart+Porn%29)) of how much people tip and some of the psychological reasons behind tipping, and I decided to make my own, based on the Boykis household. And what did I learn?  Infographics are hard as hell to make.
 
-[<img class="aligncenter size-full wp-image-2305" title="The History of Tipping_Boykis" src="http://blog.vickiboykis.com/wp-content/uploads/2010/02/The-History-of-Tipping_Boykis.png" alt="" width="500" height="3391" />](http://blog.vickiboykis.com/wp-content/uploads/2010/02/The-History-of-Tipping_Boykis.png)
+[<img class="aligncenter size-full wp-image-2305" title="The History of Tipping_Boykis" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/02/The-History-of-Tipping_Boykis.png" alt="" width="500" height="3391" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/02/The-History-of-Tipping_Boykis.png)

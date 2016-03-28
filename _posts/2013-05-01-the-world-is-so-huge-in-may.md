@@ -16,7 +16,7 @@ tags:
   - USSR
 ---
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2013/05/208fde08b25011e2bf3222000a1fd299_7.jpg"><img class="aligncenter  wp-image-8675" alt="208fde08b25011e2bf3222000a1fd299_7" src="http://blog.vickiboykis.com/wp-content/uploads/2013/05/208fde08b25011e2bf3222000a1fd299_7-580x580.jpg" width="464" height="464" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/05/208fde08b25011e2bf3222000a1fd299_7.jpg"><img class="aligncenter  wp-image-8675" alt="208fde08b25011e2bf3222000a1fd299_7" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/05/208fde08b25011e2bf3222000a1fd299_7-580x580.jpg" width="464" height="464" /></a>
 </p>
 
 <p style="text-align: center;">
@@ -30,7 +30,7 @@ The first of May used to mean military parades and red flags. All I remember is 
 May is in the air, my own semester&#8217;s worth of immense, exhausting labor is almost over,  and the world open again.
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2013/05/Screen-Shot-2013-05-01-at-7.06.02-AM.png"><img class="aligncenter  wp-image-8664" alt="Screen Shot 2013-05-01 at 7.06.02 AM" src="http://blog.vickiboykis.com/wp-content/uploads/2013/05/Screen-Shot-2013-05-01-at-7.06.02-AM-580x576.png" width="371" height="369" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/05/Screen-Shot-2013-05-01-at-7.06.02-AM.png"><img class="aligncenter  wp-image-8664" alt="Screen Shot 2013-05-01 at 7.06.02 AM" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/05/Screen-Shot-2013-05-01-at-7.06.02-AM-580x576.png" width="371" height="369" /></a>
 </p>
 
 <p style="text-align: center;">
@@ -38,7 +38,7 @@ May is in the air, my own semester&#8217;s worth of immense, exhausting labor is
 </p>
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2013/05/310b74f8b24c11e2b8cc22000a1d2017_7.jpg"><img class="aligncenter  wp-image-8665" alt="310b74f8b24c11e2b8cc22000a1d2017_7" src="http://blog.vickiboykis.com/wp-content/uploads/2013/05/310b74f8b24c11e2b8cc22000a1d2017_7-580x580.jpg" width="406" height="406" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/05/310b74f8b24c11e2b8cc22000a1d2017_7.jpg"><img class="aligncenter  wp-image-8665" alt="310b74f8b24c11e2b8cc22000a1d2017_7" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/05/310b74f8b24c11e2b8cc22000a1d2017_7-580x580.jpg" width="406" height="406" /></a>
 </p>
 
 <p style="text-align: center;">
@@ -46,7 +46,7 @@ May is in the air, my own semester&#8217;s worth of immense, exhausting labor is
 </p>
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2013/05/737eeceeb24b11e29f1422000a1fbc0e_7.jpg"><img class="aligncenter  wp-image-8666" alt="737eeceeb24b11e29f1422000a1fbc0e_7" src="http://blog.vickiboykis.com/wp-content/uploads/2013/05/737eeceeb24b11e29f1422000a1fbc0e_7-580x580.jpg" width="464" height="464" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/05/737eeceeb24b11e29f1422000a1fbc0e_7.jpg"><img class="aligncenter  wp-image-8666" alt="737eeceeb24b11e29f1422000a1fbc0e_7" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/05/737eeceeb24b11e29f1422000a1fbc0e_7-580x580.jpg" width="464" height="464" /></a>
 </p>
 
 <p style="text-align: center;">
@@ -54,7 +54,7 @@ May is in the air, my own semester&#8217;s worth of immense, exhausting labor is
 </p>
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2013/05/8de3bfaeb24811e2af5a22000a9f18fb_7.jpg"><img class="aligncenter  wp-image-8668" alt="8de3bfaeb24811e2af5a22000a9f18fb_7" src="http://blog.vickiboykis.com/wp-content/uploads/2013/05/8de3bfaeb24811e2af5a22000a9f18fb_7-580x580.jpg" width="406" height="406" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/05/8de3bfaeb24811e2af5a22000a9f18fb_7.jpg"><img class="aligncenter  wp-image-8668" alt="8de3bfaeb24811e2af5a22000a9f18fb_7" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/05/8de3bfaeb24811e2af5a22000a9f18fb_7-580x580.jpg" width="406" height="406" /></a>
 </p>
 
 <p style="text-align: center;">
@@ -62,7 +62,7 @@ May is in the air, my own semester&#8217;s worth of immense, exhausting labor is
 </p>
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2013/05/7fe81f84b25311e2837022000a1fa4bb_7.jpg"><img class="aligncenter  wp-image-8677" alt="7fe81f84b25311e2837022000a1fa4bb_7" src="http://blog.vickiboykis.com/wp-content/uploads/2013/05/7fe81f84b25311e2837022000a1fa4bb_7-580x580.jpg" width="406" height="406" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/05/7fe81f84b25311e2837022000a1fa4bb_7.jpg"><img class="aligncenter  wp-image-8677" alt="7fe81f84b25311e2837022000a1fa4bb_7" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/05/7fe81f84b25311e2837022000a1fa4bb_7-580x580.jpg" width="406" height="406" /></a>
 </p>
 
 <p style="text-align: center;">
@@ -70,7 +70,7 @@ May is in the air, my own semester&#8217;s worth of immense, exhausting labor is
 </p>
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2013/05/3c5822a0b24911e2875e22000a9e016c_7.jpg"><img class="aligncenter  wp-image-8669" alt="3c5822a0b24911e2875e22000a9e016c_7" src="http://blog.vickiboykis.com/wp-content/uploads/2013/05/3c5822a0b24911e2875e22000a9e016c_7-580x580.jpg" width="418" height="418" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/05/3c5822a0b24911e2875e22000a9e016c_7.jpg"><img class="aligncenter  wp-image-8669" alt="3c5822a0b24911e2875e22000a9e016c_7" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/05/3c5822a0b24911e2875e22000a9e016c_7-580x580.jpg" width="418" height="418" /></a>
 </p>
 
 <p style="text-align: center;">
@@ -78,7 +78,7 @@ May is in the air, my own semester&#8217;s worth of immense, exhausting labor is
 </p>
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2013/05/bd2f50feb25011e285e022000a9e51fb_7.jpg"><img class="aligncenter  wp-image-8670" alt="bd2f50feb25011e285e022000a9e51fb_7" src="http://blog.vickiboykis.com/wp-content/uploads/2013/05/bd2f50feb25011e285e022000a9e51fb_7-580x580.jpg" width="418" height="418" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/05/bd2f50feb25011e285e022000a9e51fb_7.jpg"><img class="aligncenter  wp-image-8670" alt="bd2f50feb25011e285e022000a9e51fb_7" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/05/bd2f50feb25011e285e022000a9e51fb_7-580x580.jpg" width="418" height="418" /></a>
 </p>
 
 <p style="text-align: center;">
@@ -86,7 +86,7 @@ May is in the air, my own semester&#8217;s worth of immense, exhausting labor is
 </p>
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2013/05/28cebf6ab25211e2bb4e22000aaa0771_7.jpg"><img class="aligncenter  wp-image-8671" alt="28cebf6ab25211e2bb4e22000aaa0771_7" src="http://blog.vickiboykis.com/wp-content/uploads/2013/05/28cebf6ab25211e2bb4e22000aaa0771_7-580x580.jpg" width="406" height="406" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/05/28cebf6ab25211e2bb4e22000aaa0771_7.jpg"><img class="aligncenter  wp-image-8671" alt="28cebf6ab25211e2bb4e22000aaa0771_7" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/05/28cebf6ab25211e2bb4e22000aaa0771_7-580x580.jpg" width="406" height="406" /></a>
 </p>
 
 <p style="text-align: center;">
@@ -94,7 +94,7 @@ May is in the air, my own semester&#8217;s worth of immense, exhausting labor is
 </p>
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2013/05/ae9c329eb25211e29b2e22000a1d0a95_7.jpg"><img class="aligncenter  wp-image-8672" alt="ae9c329eb25211e29b2e22000a1d0a95_7" src="http://blog.vickiboykis.com/wp-content/uploads/2013/05/ae9c329eb25211e29b2e22000a1d0a95_7-580x580.jpg" width="406" height="406" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/05/ae9c329eb25211e29b2e22000a1d0a95_7.jpg"><img class="aligncenter  wp-image-8672" alt="ae9c329eb25211e29b2e22000a1d0a95_7" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/05/ae9c329eb25211e29b2e22000a1d0a95_7-580x580.jpg" width="406" height="406" /></a>
 </p>
 
 <p style="text-align: center;">
@@ -102,7 +102,7 @@ May is in the air, my own semester&#8217;s worth of immense, exhausting labor is
 </p>
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2013/05/b3be1788b25211e2af1622000a1fb845_7.jpg"><img class="aligncenter  wp-image-8674" alt="b3be1788b25211e2af1622000a1fb845_7" src="http://blog.vickiboykis.com/wp-content/uploads/2013/05/b3be1788b25211e2af1622000a1fb845_7-580x580.jpg" width="406" height="406" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/05/b3be1788b25211e2af1622000a1fb845_7.jpg"><img class="aligncenter  wp-image-8674" alt="b3be1788b25211e2af1622000a1fb845_7" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/05/b3be1788b25211e2af1622000a1fb845_7-580x580.jpg" width="406" height="406" /></a>
 </p>
 
 <p style="text-align: center;">
@@ -110,14 +110,14 @@ May is in the air, my own semester&#8217;s worth of immense, exhausting labor is
 </p>
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2013/05/adf9f0a0b25311e2900e22000a1f96c7_7.jpg"><img class="aligncenter  wp-image-8676" alt="adf9f0a0b25311e2900e22000a1f96c7_7" src="http://blog.vickiboykis.com/wp-content/uploads/2013/05/adf9f0a0b25311e2900e22000a1f96c7_7-580x580.jpg" width="406" height="406" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/05/adf9f0a0b25311e2900e22000a1f96c7_7.jpg"><img class="aligncenter  wp-image-8676" alt="adf9f0a0b25311e2900e22000a1f96c7_7" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/05/adf9f0a0b25311e2900e22000a1f96c7_7-580x580.jpg" width="406" height="406" /></a>
 </p>
 
 <p style="text-align: center;">
   &#8220;Cruising on May 1 with my sister&#8221;, Sweden, @malinmagnuson
 </p>
 
-# [<img class="aligncenter  wp-image-8680" alt="a8a08a42b25311e2b3da22000aa804fa_7" src="http://blog.vickiboykis.com/wp-content/uploads/2013/05/a8a08a42b25311e2b3da22000aa804fa_7-580x580.jpg" width="406" height="406" />](http://blog.vickiboykis.com/wp-content/uploads/2013/05/a8a08a42b25311e2b3da22000aa804fa_7.jpg)
+# [<img class="aligncenter  wp-image-8680" alt="a8a08a42b25311e2b3da22000aa804fa_7" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/05/a8a08a42b25311e2b3da22000aa804fa_7-580x580.jpg" width="406" height="406" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/05/a8a08a42b25311e2b3da22000aa804fa_7.jpg)
 
 # 
 
@@ -126,7 +126,7 @@ May is in the air, my own semester&#8217;s worth of immense, exhausting labor is
 </p>
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2013/05/61aa286cb25511e293ab22000a9f1919_7.jpg"><img class="aligncenter  wp-image-8681" alt="61aa286cb25511e293ab22000a9f1919_7" src="http://blog.vickiboykis.com/wp-content/uploads/2013/05/61aa286cb25511e293ab22000a9f1919_7-580x580.jpg" width="406" height="406" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/05/61aa286cb25511e293ab22000a9f1919_7.jpg"><img class="aligncenter  wp-image-8681" alt="61aa286cb25511e293ab22000a9f1919_7" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/05/61aa286cb25511e293ab22000a9f1919_7-580x580.jpg" width="406" height="406" /></a>
 </p>
 
 <p style="text-align: center;">

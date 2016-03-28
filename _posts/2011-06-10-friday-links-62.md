@@ -14,7 +14,7 @@ tags:
   - Friday
 ---
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2011/06/revolution.jpg"><img class="aligncenter size-full wp-image-5076" title="revolution" src="http://blog.vickiboykis.com/wp-content/uploads/2011/06/revolution.jpg" alt="" width="353" height="1470" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/06/revolution.jpg"><img class="aligncenter size-full wp-image-5076" title="revolution" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/06/revolution.jpg" alt="" width="353" height="1470" /></a>
 </p>
 
   1. If you only read one link all month, <a href="http://www.nytimes.com/2011/06/12/magazine/a-rough-guide-to-disney-world.html" target="_blank">make it this one</a>.  But it&#8217;s long. Like, really long. (p.s. If you need to get around the NYT paywall, <a href="http://euri.ca/2011/03/get-around-new-york-times-20-article-limit/" target="_blank">clicky here</a>.)

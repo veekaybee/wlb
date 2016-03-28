@@ -16,6 +16,6 @@ Ok, ok, ok. Here&#8217;s a couple of links.  I laughed at this for [two straigh
 
 So, instead, here is a surreal picture of some mannekins near where we live.
 
-<img style="display: block; margin-right: auto; margin-left: auto;" src="http://blog.vickiboykis.com/wp-content/uploads/2010/09/wpid-IMAG0282.jpg" alt="image" />
+<img style="display: block; margin-right: auto; margin-left: auto;" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/09/wpid-IMAG0282.jpg" alt="image" />
 
 Have an easy fast if you are fasting.

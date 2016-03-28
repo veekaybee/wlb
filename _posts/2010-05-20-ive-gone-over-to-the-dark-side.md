@@ -18,5 +18,5 @@ tags:
 </p>
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2010/05/102844930.jpg"><img class="aligncenter size-full wp-image-2981" title="102844930" src="http://blog.vickiboykis.com/wp-content/uploads/2010/05/102844930.jpg" alt="" width="420" height="700" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/05/102844930.jpg"><img class="aligncenter size-full wp-image-2981" title="102844930" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/05/102844930.jpg" alt="" width="420" height="700" /></a>
 </p>

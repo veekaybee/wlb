@@ -16,7 +16,7 @@ tags:
   - The Prairies
 ---
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2010/02/saskatchewan-plains.jpg"><img class="aligncenter size-full wp-image-2259" title="saskatchewan-plains" src="http://blog.vickiboykis.com/wp-content/uploads/2010/02/saskatchewan-plains.jpg" alt="" width="560" height="376" /></a><a href="http://www.canpages.ca/blog/?p=459">Source. </a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/02/saskatchewan-plains.jpg"><img class="aligncenter size-full wp-image-2259" title="saskatchewan-plains" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/02/saskatchewan-plains.jpg" alt="" width="560" height="376" /></a><a href="http://www.canpages.ca/blog/?p=459">Source. </a>
 </p>
 
 It&#8217;s cold.  Really cold.  And it snowed.  This makes my morning routine even more miserable.  But you know what&#8217;s more miserable than a DC-area morning commute?  Living in the Praries of Canada in the last century, [as described in this really interesting article](http://www.thesmartset.com/article/article01211001.aspx)

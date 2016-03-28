@@ -18,7 +18,7 @@ tags:
   - winter
 ---
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/2013/01/who-wore-it-better/img_20130111_074525/" rel="attachment wp-att-8198"><img class="aligncenter  wp-image-8198" alt="IMG_20130111_074525" src="http://blog.vickiboykis.com/wp-content/uploads/2013/01/IMG_20130111_074525.jpg" width="283" height="376" /></a>
+  <a href="http://blog.vickiboykis.com/2013/01/who-wore-it-better/img_20130111_074525/" rel="attachment wp-att-8198"><img class="aligncenter  wp-image-8198" alt="IMG_20130111_074525" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/01/IMG_20130111_074525.jpg" width="283" height="376" /></a>
 </p>
 
-<a href="http://blog.vickiboykis.com/2013/01/who-wore-it-better/img_20121222_151512/" rel="attachment wp-att-8197"><img class="aligncenter size-full wp-image-8197" alt="IMG_20121222_151512" src="http://blog.vickiboykis.com/wp-content/uploads/2013/01/IMG_20121222_151512.jpg" width="266" height="354" /></a>
+<a href="http://blog.vickiboykis.com/2013/01/who-wore-it-better/img_20121222_151512/" rel="attachment wp-att-8197"><img class="aligncenter size-full wp-image-8197" alt="IMG_20121222_151512" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/01/IMG_20121222_151512.jpg" width="266" height="354" /></a>

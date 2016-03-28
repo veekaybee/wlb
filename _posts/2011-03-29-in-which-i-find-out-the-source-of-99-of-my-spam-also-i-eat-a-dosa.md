@@ -30,13 +30,13 @@ Since Mr. B doesn&#8217;t work in the city, I had a little bit of me-time before
 A little bit of [ING Cafe](http://www.yelp.com/biz/ing-direct-cafe-philadelphia).
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2011/03/wpid-IMAG0709.jpg"><img class="aligncenter size-full wp-image-4709" title="wpid-IMAG0709.jpg" src="http://blog.vickiboykis.com/wp-content/uploads/2011/03/wpid-IMAG0709.jpg" alt="" width="245" height="408" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/03/wpid-IMAG0709.jpg"><img class="aligncenter size-full wp-image-4709" title="wpid-IMAG0709.jpg" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/03/wpid-IMAG0709.jpg" alt="" width="245" height="408" /></a>
 </p>
 
 A little bit [of dosa](http://www.philadelphiachutneyco.com/).
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2011/03/wpid-IMAG0710.jpg"><img class="aligncenter size-full wp-image-4710" title="wpid-IMAG0710.jpg" src="http://blog.vickiboykis.com/wp-content/uploads/2011/03/wpid-IMAG0710.jpg" alt="" width="245" height="408" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/03/wpid-IMAG0710.jpg"><img class="aligncenter size-full wp-image-4710" title="wpid-IMAG0710.jpg" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/03/wpid-IMAG0710.jpg" alt="" width="245" height="408" /></a>
 </p>
 
 And then a little bit of discussion about the Middle East situation in a [What&#8217;s your idea of a good time?  Mine is bitching  [about how much Philly sucks](http://blog.vickiboykis.com/2010/11/29/the-difference-between-washington-and-philly-in-two-screenshots/).
@@ -52,13 +52,13 @@ Since Mr. B doesn&#8217;t work in the city, I had a little bit of me-time before
 A little bit of [ING Cafe](http://www.yelp.com/biz/ing-direct-cafe-philadelphia).
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2011/03/wpid-IMAG0709.jpg"><img class="aligncenter size-full wp-image-4709" title="wpid-IMAG0709.jpg" src="http://blog.vickiboykis.com/wp-content/uploads/2011/03/wpid-IMAG0709.jpg" alt="" width="245" height="408" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/03/wpid-IMAG0709.jpg"><img class="aligncenter size-full wp-image-4709" title="wpid-IMAG0709.jpg" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/03/wpid-IMAG0709.jpg" alt="" width="245" height="408" /></a>
 </p>
 
 A little bit [of dosa](http://www.philadelphiachutneyco.com/).
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2011/03/wpid-IMAG0710.jpg"><img class="aligncenter size-full wp-image-4710" title="wpid-IMAG0710.jpg" src="http://blog.vickiboykis.com/wp-content/uploads/2011/03/wpid-IMAG0710.jpg" alt="" width="245" height="408" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/03/wpid-IMAG0710.jpg"><img class="aligncenter size-full wp-image-4710" title="wpid-IMAG0710.jpg" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/03/wpid-IMAG0710.jpg" alt="" width="245" height="408" /></a>
 </p>
 
 And then a little bit of discussion about the Middle East situation in a](http://www.ravenlounge.com/) with a group of people our age, interested in the same things we&#8217;re interested in.  The speaker was from the Israeli consulate in Philadelphia and it was really interesting to hear perceptions from an officially Israeli point of view. Sharon was extremely articulate and while I  disagreed on several points with her, it was interesting to understand how the Israeli diplomatic force perceived social media, and not only because I spend my whole life on Twitter.  I loved meeting more Jews our age and I&#8217;m hoping that this is the first of many times that we go to a Collaborative event.
@@ -72,7 +72,7 @@ Mr. B and I also learned a really important thing last night: Sharon is responsi
 </p>
 
 <p style="text-align: left;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2011/03/Screen-shot-2011-03-29-at-2.01.34-PM.png"><img class="aligncenter size-full wp-image-4712" title="Screen shot 2011-03-29 at 2.01.34 PM" src="http://blog.vickiboykis.com/wp-content/uploads/2011/03/Screen-shot-2011-03-29-at-2.01.34-PM.png" alt="" width="411" height="361" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/03/Screen-shot-2011-03-29-at-2.01.34-PM.png"><img class="aligncenter size-full wp-image-4712" title="Screen shot 2011-03-29 at 2.01.34 PM" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/03/Screen-shot-2011-03-29-at-2.01.34-PM.png" alt="" width="411" height="361" /></a>
 </p>
 
 These emails evoke an urgent cause to action without presenting any facts.  They usually start with FWD:FWD:RE: URGENT ISRAEL HELP subject lines and end by panicking the reader. For example, this made me panic that 200,000 Intifada-supporters on Facebook would kill me before the radon in our house got a chance.

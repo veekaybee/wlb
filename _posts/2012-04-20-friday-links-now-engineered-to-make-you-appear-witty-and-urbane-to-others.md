@@ -24,7 +24,7 @@ Can I just gloat for a second that the <a href="http://www.economist.com/node/21
 &#8220;According to Vicki Boykis, it&#8217;s true,&#8221; you&#8217;ll say smugly.  &#8220;If it&#8217;s in a self-published book being advertised on a blog read by four people, two of whom are the author and her husband, it must be 100% legit.&#8221;
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2012/04/Screen-shot-2012-04-19-at-10.11.36-PM.png"><img class="aligncenter  wp-image-6745" title="Screen shot 2012-04-19 at 10.11.36 PM" src="http://blog.vickiboykis.com/wp-content/uploads/2012/04/Screen-shot-2012-04-19-at-10.11.36-PM.png" alt="" width="506" height="512" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/04/Screen-shot-2012-04-19-at-10.11.36-PM.png"><img class="aligncenter  wp-image-6745" title="Screen shot 2012-04-19 at 10.11.36 PM" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/04/Screen-shot-2012-04-19-at-10.11.36-PM.png" alt="" width="506" height="512" /></a>
 </p>
 
 <p style="text-align: left;">

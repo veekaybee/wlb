@@ -56,7 +56,7 @@ We had four divisions: Russia and Eastern Europe, The Middle East, China and Jap
 
 For our field trip in the spring, we went to Washington, D.C. and visited the Saudi Embassy, the [Islamic Center of Washington](http://www.theislamiccenter.com/), the [Smithsonian Sackler Gallery](http://www.asia.si.edu/), and the](http://www.hillwoodmuseum.org/) (which Mr. B and I actually went to last year again.)
 
-[<img class="aligncenter size-full wp-image-2144" title="HillwoodJPG" src="http://blog.vickiboykis.com/wp-content/uploads/2010/01/HillwoodJPG.jpg" alt="" width="564" height="424" />](http://blog.vickiboykis.com/wp-content/uploads/2010/01/HillwoodJPG.jpg)
+[<img class="aligncenter size-full wp-image-2144" title="HillwoodJPG" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/01/HillwoodJPG.jpg" alt="" width="564" height="424" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/01/HillwoodJPG.jpg)
 
 I was in love.  I couldn&#8217;t believe there was so much going on in one city, and so many exotic things.  I&#8217;d never seen or thought about Muslims in my life before until we went to the Islamic Center and all the girls had to wear headscarves.  My classmate, Arthi, almost got into an argument with the mullah who answered her questions about why women had to wear headscarves.
 

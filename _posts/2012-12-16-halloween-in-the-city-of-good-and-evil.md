@@ -19,7 +19,7 @@ tags:
   - st. louis cathedral
 ---
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/2012/12/halloween-in-the-city-of-good-and-evil/img_20121027_093525-2/" rel="attachment wp-att-8025"><img class="aligncenter  wp-image-8025" alt="IMG_20121027_093525" src="http://blog.vickiboykis.com/wp-content/uploads/2012/12/IMG_20121027_093525-940x1253.jpg" width="420" height="559" /></a>
+  <a href="http://blog.vickiboykis.com/2012/12/halloween-in-the-city-of-good-and-evil/img_20121027_093525-2/" rel="attachment wp-att-8025"><img class="aligncenter  wp-image-8025" alt="IMG_20121027_093525" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/12/IMG_20121027_093525-940x1253.jpg" width="420" height="559" /></a>
 </p>
 
 Three days before we were supposed to fly out to New Orleans, I <a href="http://blog.vickiboykis.com/2012/10/marie-laveau-and-kirks-magic-voodoo-fingers-help-us-fight-sandy/" target="_blank">heard that</a> a &#8220;Frankenstorm&#8221; was supposed to end life as we knew it on the East Coast. Two days before, the owner of the <a href="http://blog.vickiboykis.com/2010/07/the-city-that-doesnt-sleep-but-sure-as-hell-sweats-a-lot/" target="_blank">AirBnB</a> apartment we were staying at in the French Quarter called us to say that the ceiling had flooded from the upstairs toilet. He wasn&#8217;t sure the level of damage because he was in New York himself.  Did we want to move to a hotel or risk it?
@@ -27,7 +27,7 @@ Three days before we were supposed to fly out to New Orleans, I <a href="http://
 <!--more-->
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/?attachment_id=7886" rel="attachment wp-att-7886"><img alt="IMG_20121026_215744" src="http://blog.vickiboykis.com/wp-content/uploads/2012/11/IMG_20121026_215744-768x1024.jpg" width="360" height="480" /></a>
+  <a href="http://blog.vickiboykis.com/?attachment_id=7886" rel="attachment wp-att-7886"><img alt="IMG_20121026_215744" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/11/IMG_20121026_215744-768x1024.jpg" width="360" height="480" /></a>
 </p>
 
 <p style="text-align: left;">
@@ -59,7 +59,7 @@ But we landed at Louis Armstrong International without incident.  Except, &#822
 Listless passengers waited near walls stapled together with foam. Plastic clung to metal posts fluttered in the late October breeze. A man with a fake Louis Vuitton carry-on wore a shirt that screamed, &#8220;DRUNK AS SHIT&#8221; and waited patiently for a taxi.
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/2012/12/halloween-in-the-city-of-good-and-evil/img_20121026_214112/" rel="attachment wp-att-8015"><img class="aligncenter  wp-image-8015" alt="IMG_20121026_214112" src="http://blog.vickiboykis.com/wp-content/uploads/2012/12/IMG_20121026_214112-940x1253.jpg" width="360" height="479" /></a>
+  <a href="http://blog.vickiboykis.com/2012/12/halloween-in-the-city-of-good-and-evil/img_20121026_214112/" rel="attachment wp-att-8015"><img class="aligncenter  wp-image-8015" alt="IMG_20121026_214112" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/12/IMG_20121026_214112-940x1253.jpg" width="360" height="479" /></a>
 </p>
 
 &#8220;New Orleans is,&#8221; my hero <a href="http://blog.vickiboykis.com/2011/11/the-rise-of-the-schmuck/" target="_blank">Ignatius J. Reilly</a> had mused, &#8221; a comfortable metropolis which has a certain apathy and stagnation which I find inoffensive.&#8221;  Time moved slowly here.  The luggage belt moved slower.
@@ -69,7 +69,7 @@ Finally, we were in a cab and the palms in front of the terminal waved us a lazy
 The French Quarter was still and paper ghosts fluttered above iron latticework and yawning shutters. Everything was tranquil, the calm before the Halloween storm, the calm before Sandy, the calm before winter. We&#8217;d decided to risk it with the AirBnB place. We walked through an iron gate into a cozy courtyard. The stairs were outside, like a Roman countryhouse. A tiny fountain trickled over ferns. A light was on in an apartment  on the ground floor, where we could see an older man sitting in a rocking chair, sipping a bourbon he carefully poured from a glass decanter. Birds fluttered in multiple birdcages arranged neatly around his room. It was some grade-A Glass Menagerie-type shit.
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/?attachment_id=7898" rel="attachment wp-att-7898"><img class="aligncenter  wp-image-7898" alt="IMG_20121027_085520" src="http://blog.vickiboykis.com/wp-content/uploads/2012/11/IMG_20121027_085520-768x1024.jpg" width="360" height="480" /></a>
+  <a href="http://blog.vickiboykis.com/?attachment_id=7898" rel="attachment wp-att-7898"><img class="aligncenter  wp-image-7898" alt="IMG_20121027_085520" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/11/IMG_20121027_085520-768x1024.jpg" width="360" height="480" /></a>
 </p>
 
 The apartment itself was luckily fine, just a bit of water damage to an inch of the kitchen. The leak was much smaller than the owner had worried about, although the apartment itself did smell like hundreds of years of brine, like history.  It had been impeccably renovated to include high ceilings, all-white leather furniture, and granite countertops, the unmistakable signs of yuppies. But, there was an enormous window that looked out onto the nearby rooftops and felt old. Its shape, the fact that it was imperfectly created to fit into the brick, at a time when large, airy windows were considered necessities, not luxuries, betrayed it. The fountain downstairs tinkled melodically.
@@ -77,7 +77,7 @@ The apartment itself was luckily fine, just a bit of water damage to an inch of 
 We threw our bags down and headed out for dinner. The neat, darkened grids of the French Quarter were empty save a couple of women passing by in evening dress. Tall portable heaters flickered lazily near cafe chairs scattered outside. A brisk breeze was coming off the Gulf.  We passed St. Louis Cathedral, silhouetted in spiky shadow. I took blurry obnoxious cell phone selfies.
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/?attachment_id=7920" rel="attachment wp-att-7920"><img class="aligncenter  wp-image-7920" alt="IMG_20121026_223845" src="http://blog.vickiboykis.com/wp-content/uploads/2012/12/IMG_20121026_223845-768x1024.jpg" width="360" height="480" /></a>
+  <a href="http://blog.vickiboykis.com/?attachment_id=7920" rel="attachment wp-att-7920"><img class="aligncenter  wp-image-7920" alt="IMG_20121026_223845" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/12/IMG_20121026_223845-768x1024.jpg" width="360" height="480" /></a>
 </p>
 
 The <a href="http://www.sylvainnola.com/" target="_blank">restaurant</a> was an old carriage house with attached servants&#8217; quarters and people sat outside at tables lit by tiny flickering candles while the steady clatter of silverware formed a comforting background din. The cocktails were fresh, the dinner was fresher. Time moved extremely slowly, in a way I&#8217;ve only experienced once before, on a rooftop in Israel.
@@ -93,7 +93,7 @@ That night, after walking up the quiet steps, past the iron gate, and the moonli
 New Orleans has had its struggles early on in the 18th century when it was claimed and reclaimed by the French and the Spanish, survived purchase by the United States, an influx of Hatitians in the early 1800s, and the Battle of New Orleans in 1812. The street signs are still in Spanish, sometimes.
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/2012/12/halloween-in-the-city-of-good-and-evil/img_20121027_111846/" rel="attachment wp-att-8022"><img class="aligncenter  wp-image-8022" alt="IMG_20121027_111846" src="http://blog.vickiboykis.com/wp-content/uploads/2012/12/IMG_20121027_111846-940x1253.jpg" width="420" height="559" /></a>
+  <a href="http://blog.vickiboykis.com/2012/12/halloween-in-the-city-of-good-and-evil/img_20121027_111846/" rel="attachment wp-att-8022"><img class="aligncenter  wp-image-8022" alt="IMG_20121027_111846" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/12/IMG_20121027_111846-940x1253.jpg" width="420" height="559" /></a>
 </p>
 
 By the mid-1850s, it was doing its thing, growing its own culture. It bypassed yellow fever epidemics, the Civil War, and numerous breaches of the levees, life that was essentially like living at the edge of an overflowing bowl. In order to compensate for a life lived constantly at the margin, New Orleans learned how to relax.
@@ -103,7 +103,7 @@ We relaxed everywhere in New Orleans.
 We relaxed at <a href="http://www.neworleansonline.com/directory/location.php?locationID=1346" target="_blank">Woldenberg Park</a>, where we froze our asses off as we tried to run off the dinner from the night before. The park was named <a href="http://www.isjl.org/about/bios.htm" target="_blank">for a Jew</a> who became prominent in the South for selling and distributing liquor to New Orleans, and then later for selling and distributing Judaism to New Orlenean Jews. It also, as is obligatory for every city in the United States, had a Holocaust memorial.
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/?attachment_id=7922" rel="attachment wp-att-7922"><img class="aligncenter  wp-image-7922" alt="IMG_20121027_090527" src="http://blog.vickiboykis.com/wp-content/uploads/2012/12/IMG_20121027_090527-768x1024.jpg" width="420" height="560" /></a>
+  <a href="http://blog.vickiboykis.com/?attachment_id=7922" rel="attachment wp-att-7922"><img class="aligncenter  wp-image-7922" alt="IMG_20121027_090527" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/12/IMG_20121027_090527-768x1024.jpg" width="420" height="560" /></a>
 </p>
 
 We relaxed  <a href="http://www.croissantdornola.com/" target="_blank">here</a> for breakfast. The line for Cafe du Monde was super-long, so we shrugged and skipped it. Why see a must-see destination?
@@ -111,13 +111,13 @@ We relaxed  <a href="http://www.croissantdornola.com/" target="_blank">here</a>
 For the first time of any of our <a href="http://blog.vickiboykis.com/2012/06/seattle-and-portland/" target="_blank">vacations,</a> we had no real itinerary.  Nothing kills vacation like being a tourist on one.
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/?attachment_id=7926" rel="attachment wp-att-7926"><img class="aligncenter  wp-image-7926" alt="IMG_20121027_111041" src="http://blog.vickiboykis.com/wp-content/uploads/2012/12/IMG_20121027_111041-768x1024.jpg" width="360" height="480" /></a>
+  <a href="http://blog.vickiboykis.com/?attachment_id=7926" rel="attachment wp-att-7926"><img class="aligncenter  wp-image-7926" alt="IMG_20121027_111041" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/12/IMG_20121027_111041-768x1024.jpg" width="360" height="480" /></a>
 </p>
 
  We walked the riverfront. The Mississippi was at low tide, but still there in the distance, vaguely threatening.  The wind was harsh and we bought, ironically, Scottish scarves.
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/2012/12/halloween-in-the-city-of-good-and-evil/img_20121109_082918-2/" rel="attachment wp-att-8021"><img class="aligncenter  wp-image-8021" alt="IMG_20121109_082918" src="http://blog.vickiboykis.com/wp-content/uploads/2012/12/IMG_20121109_082918-940x1253.jpg" width="360" height="479" /></a>
+  <a href="http://blog.vickiboykis.com/2012/12/halloween-in-the-city-of-good-and-evil/img_20121109_082918-2/" rel="attachment wp-att-8021"><img class="aligncenter  wp-image-8021" alt="IMG_20121109_082918" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/12/IMG_20121109_082918-940x1253.jpg" width="360" height="479" /></a>
 </p>
 
 Mark Twain had visited New Orleans a couple months after and a couple hundred years before us.  He&#8217;d walked the same riverfront, seen the same river draining from hundreds of miles of the United States in the same river basin. He&#8217;d written,
@@ -133,19 +133,19 @@ We ate slowly at <a href="http://www.dragosrestaurant.com/" target="_blank">Drag
 We relaxed at the Cathedral, where we peeked in the cracks in the large, weathered doors to see a Catholic wedding taking place.
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/2012/12/halloween-in-the-city-of-good-and-evil/img_20121027_114327/" rel="attachment wp-att-8023"><img class="aligncenter  wp-image-8023" alt="IMG_20121027_114327" src="http://blog.vickiboykis.com/wp-content/uploads/2012/12/IMG_20121027_114327-940x1253.jpg" width="360" height="479" /></a>
+  <a href="http://blog.vickiboykis.com/2012/12/halloween-in-the-city-of-good-and-evil/img_20121027_114327/" rel="attachment wp-att-8023"><img class="aligncenter  wp-image-8023" alt="IMG_20121027_114327" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/12/IMG_20121027_114327-940x1253.jpg" width="360" height="479" /></a>
 </p>
 
 We took whimsical selfies near the statue of a man who mass-murdered hundreds, if not thousands of people and almost <a href="http://www.cracked.com/article_15895_the-5-most-badass-presidents-all-time.html" target="_blank">beat someone to death </a>by caning.
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/2012/12/halloween-in-the-city-of-good-and-evil/img_20121027_114405/" rel="attachment wp-att-8026"><img class="aligncenter  wp-image-8026" alt="IMG_20121027_114405" src="http://blog.vickiboykis.com/wp-content/uploads/2012/12/IMG_20121027_114405-940x1253.jpg" width="360" height="479" /></a>
+  <a href="http://blog.vickiboykis.com/2012/12/halloween-in-the-city-of-good-and-evil/img_20121027_114405/" rel="attachment wp-att-8026"><img class="aligncenter  wp-image-8026" alt="IMG_20121027_114405" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/12/IMG_20121027_114405-940x1253.jpg" width="360" height="479" /></a>
 </p>
 
 We  took tours of the French Quarter and took pictures near colorful brick fronts cleaned up to their original glory.
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/2012/12/halloween-in-the-city-of-good-and-evil/img_20121027_130150/" rel="attachment wp-att-8027"><img class="aligncenter  wp-image-8027" alt="IMG_20121027_130150" src="http://blog.vickiboykis.com/wp-content/uploads/2012/12/IMG_20121027_130150-940x1253.jpg" width="360" height="479" /></a>
+  <a href="http://blog.vickiboykis.com/2012/12/halloween-in-the-city-of-good-and-evil/img_20121027_130150/" rel="attachment wp-att-8027"><img class="aligncenter  wp-image-8027" alt="IMG_20121027_130150" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/12/IMG_20121027_130150-940x1253.jpg" width="360" height="479" /></a>
 </p>
 
  We took the old, old trolley up St. Charles Avenue, where all the rich people live (we spotted three synagogues along the way,) to Tulane University, where we watched Indian exchange students play cricket on the lawn.
@@ -155,11 +155,11 @@ We  took tours of the French Quarter and took pictures near colorful brick fron
 All of the houses on St. Charles were decorated to the hilt for Halloween.
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/2012/12/halloween-in-the-city-of-good-and-evil/img_20121027_170103/" rel="attachment wp-att-8028"><img class="aligncenter  wp-image-8028" alt="IMG_20121027_170103" src="http://blog.vickiboykis.com/wp-content/uploads/2012/12/IMG_20121027_170103-940x1253.jpg" width="360" height="479" /></a>
+  <a href="http://blog.vickiboykis.com/2012/12/halloween-in-the-city-of-good-and-evil/img_20121027_170103/" rel="attachment wp-att-8028"><img class="aligncenter  wp-image-8028" alt="IMG_20121027_170103" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/12/IMG_20121027_170103-940x1253.jpg" width="360" height="479" /></a>
 </p>
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/2012/12/halloween-in-the-city-of-good-and-evil/img_20121027_170518/" rel="attachment wp-att-8029"><img class="aligncenter size-large wp-image-8029" alt="IMG_20121027_170518" src="http://blog.vickiboykis.com/wp-content/uploads/2012/12/IMG_20121027_170518-940x705.jpg" width="600" height="450" /></a>
+  <a href="http://blog.vickiboykis.com/2012/12/halloween-in-the-city-of-good-and-evil/img_20121027_170518/" rel="attachment wp-att-8029"><img class="aligncenter size-large wp-image-8029" alt="IMG_20121027_170518" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/12/IMG_20121027_170518-940x705.jpg" width="600" height="450" /></a>
 </p>
 
 <p style="text-align: left;">
@@ -172,11 +172,11 @@ All of the houses on St. Charles were decorated to the hilt for Halloween.
   </p>
   
   <p style="text-align: center;">
-    <a href="http://blog.vickiboykis.com/2012/12/halloween-in-the-city-of-good-and-evil/img_20121027_212337/" rel="attachment wp-att-8030"><img class="aligncenter  wp-image-8030" alt="IMG_20121027_212337" src="http://blog.vickiboykis.com/wp-content/uploads/2012/12/IMG_20121027_212337-940x1253.jpg" width="360" height="479" /></a>
+    <a href="http://blog.vickiboykis.com/2012/12/halloween-in-the-city-of-good-and-evil/img_20121027_212337/" rel="attachment wp-att-8030"><img class="aligncenter  wp-image-8030" alt="IMG_20121027_212337" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/12/IMG_20121027_212337-940x1253.jpg" width="360" height="479" /></a>
   </p>
   
   <p style="text-align: center;">
-    <a href="http://blog.vickiboykis.com/2012/12/halloween-in-the-city-of-good-and-evil/img_20121027_212435/" rel="attachment wp-att-8031"><img class="aligncenter  wp-image-8031" alt="IMG_20121027_212435" src="http://blog.vickiboykis.com/wp-content/uploads/2012/12/IMG_20121027_212435-940x1253.jpg" width="360" height="479" /></a>
+    <a href="http://blog.vickiboykis.com/2012/12/halloween-in-the-city-of-good-and-evil/img_20121027_212435/" rel="attachment wp-att-8031"><img class="aligncenter  wp-image-8031" alt="IMG_20121027_212435" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/12/IMG_20121027_212435-940x1253.jpg" width="360" height="479" /></a>
   </p>
   
   <p style="text-align: left;">
@@ -188,7 +188,7 @@ All of the houses on St. Charles were decorated to the hilt for Halloween.
   </p>
   
   <p style="text-align: center;">
-    <a href="http://blog.vickiboykis.com/2012/12/halloween-in-the-city-of-good-and-evil/img_20121028_163622/" rel="attachment wp-att-8032"><img class="aligncenter  wp-image-8032" alt="IMG_20121028_163622" src="http://blog.vickiboykis.com/wp-content/uploads/2012/12/IMG_20121028_163622-940x1253.jpg" width="360" height="479" /></a>
+    <a href="http://blog.vickiboykis.com/2012/12/halloween-in-the-city-of-good-and-evil/img_20121028_163622/" rel="attachment wp-att-8032"><img class="aligncenter  wp-image-8032" alt="IMG_20121028_163622" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/12/IMG_20121028_163622-940x1253.jpg" width="360" height="479" /></a>
   </p>
   
   <p style="text-align: center;">
@@ -196,7 +196,7 @@ All of the houses on St. Charles were decorated to the hilt for Halloween.
   </p>
   
   <p style="text-align: center;">
-    <a href="http://blog.vickiboykis.com/2012/12/halloween-in-the-city-of-good-and-evil/img_20121028_120231-2/" rel="attachment wp-att-8033"><img class="aligncenter  wp-image-8033" alt="IMG_20121028_120231" src="http://blog.vickiboykis.com/wp-content/uploads/2012/12/IMG_20121028_1202311-940x1253.jpg" width="360" height="479" /></a>
+    <a href="http://blog.vickiboykis.com/2012/12/halloween-in-the-city-of-good-and-evil/img_20121028_120231-2/" rel="attachment wp-att-8033"><img class="aligncenter  wp-image-8033" alt="IMG_20121028_120231" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/12/IMG_20121028_1202311-940x1253.jpg" width="360" height="479" /></a>
   </p>
   
   <p style="text-align: left;">
@@ -218,7 +218,7 @@ All of the houses on St. Charles were decorated to the hilt for Halloween.
   </p>
   
   <p style="text-align: center;">
-    <a href="http://blog.vickiboykis.com/2012/12/halloween-in-the-city-of-good-and-evil/img_20121029_075446-2/" rel="attachment wp-att-8036"><img class="aligncenter  wp-image-8036" alt="IMG_20121029_075446" src="http://blog.vickiboykis.com/wp-content/uploads/2012/12/IMG_20121029_075446-940x1253.jpg" width="360" height="479" /></a>
+    <a href="http://blog.vickiboykis.com/2012/12/halloween-in-the-city-of-good-and-evil/img_20121029_075446-2/" rel="attachment wp-att-8036"><img class="aligncenter  wp-image-8036" alt="IMG_20121029_075446" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/12/IMG_20121029_075446-940x1253.jpg" width="360" height="479" /></a>
   </p>
   
   <p style="text-align: left;">

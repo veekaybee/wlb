@@ -29,14 +29,14 @@ And it&#8217;s probably going to be the most difficult thing I do because I am s
 
 Without further ado, here is my attempt for this year&#8217;s NaNoWriMo with its working title:
 
-[<img class="aligncenter size-full wp-image-1419" title="Page_1" src="http://blog.vickiboykis.com/wp-content/uploads/2009/10/Page_14.jpg" alt="Page_1" width="500" height="100" />](http://blog.vickiboykis.com/wp-content/uploads/2009/10/Page_14.jpg)
+[<img class="aligncenter size-full wp-image-1419" title="Page_1" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/10/Page_14.jpg" alt="Page_1" width="500" height="100" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/10/Page_14.jpg)
 
 Please meet my main character and your guide through the novel, Michael Shtulman:
 
-[<img class="aligncenter size-full wp-image-1420" title="Gelfand" src="http://blog.vickiboykis.com/wp-content/uploads/2009/10/Gelfand.jpg" alt="Gelfand" width="500" height="370" />](http://blog.vickiboykis.com/wp-content/uploads/2009/10/Gelfand.jpg)
+[<img class="aligncenter size-full wp-image-1420" title="Gelfand" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/10/Gelfand.jpg" alt="Gelfand" width="500" height="370" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/10/Gelfand.jpg)
 
 Ok.  So it&#8217;s not really my character.  It&#8217;s actually [Boris Gelfand.](http://en.wikipedia.org/wiki/Boris_Gelfand) But it&#8217;s close to what Michael Shtulman looks like in my mind.  Only, he doesn&#8217;t wear glasses. Also, he is a bit more of a loser than Gelfand, who is a chess champion.
 
 Mr. B suggested I use him as a model, but I think he&#8217;s a little busy right now.
 
-[<img class="aligncenter size-full wp-image-1421" title="01" src="http://blog.vickiboykis.com/wp-content/uploads/2009/10/01.jpg" alt="01" width="574" height="895" />](http://blog.vickiboykis.com/wp-content/uploads/2009/10/01.jpg)
+[<img class="aligncenter size-full wp-image-1421" title="01" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/10/01.jpg" alt="01" width="574" height="895" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/10/01.jpg)

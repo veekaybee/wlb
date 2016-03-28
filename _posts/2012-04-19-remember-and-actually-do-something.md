@@ -28,7 +28,7 @@ We are always told to remember and to never forget.   That the goal is not only
 By the way, it kind of loss something when you have Aryan children sandwiched between a &#8220;What girls in the know buy&#8221; and &#8220;Metallic colors return as a trend.&#8221;
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2012/04/Screen-shot-2012-04-19-at-7.17.14-AM1.png"><img class="aligncenter  wp-image-6735" title="Screen shot 2012-04-19 at 7.17.14 AM" src="http://blog.vickiboykis.com/wp-content/uploads/2012/04/Screen-shot-2012-04-19-at-7.17.14-AM1-1024x497.png" alt="" width="645" height="313" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/04/Screen-shot-2012-04-19-at-7.17.14-AM1.png"><img class="aligncenter  wp-image-6735" title="Screen shot 2012-04-19 at 7.17.14 AM" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/04/Screen-shot-2012-04-19-at-7.17.14-AM1-1024x497.png" alt="" width="645" height="313" /></a>
 </p>
 
 It is impossible to stop genocide from happening again and it is naive to think we can do it by observing Holocaust Remembrance Day.

@@ -16,7 +16,7 @@ tags:
   - mommin
   - "mother's day"
 ---
-[<img class="aligncenter size-full wp-image-9730" src="http://blog.vickiboykis.com/wp-content/uploads/2014/06/bathing-of-a-baby.jpgLarge.jpg" alt="bathing-of-a-baby.jpg!Large" width="418" height="600" />](http://blog.vickiboykis.com/wp-content/uploads/2014/06/bathing-of-a-baby.jpgLarge.jpg)
+[<img class="aligncenter size-full wp-image-9730" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2014/06/bathing-of-a-baby.jpgLarge.jpg" alt="bathing-of-a-baby.jpg!Large" width="418" height="600" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2014/06/bathing-of-a-baby.jpgLarge.jpg)
 
 As you may know if you&#8217;ve been reading my blog for any amount of time by now, I&#8217;m not normal. I mean, not normal in the regular sense, but also in the sense that I don&#8217;t enjoy the things that most women enjoy: <a href="http://blog.vickiboykis.com/2011/04/manicures-for-cheap-jewish-werewolves-and-other-ethnic-minorities/" target="_blank">manicures</a>, <a href="http://blog.vickiboykis.com/2012/08/my-first-and-last-massage/" target="_blank">massages</a>, and understanding how to wear <a href="http://blog.vickiboykis.com/2010/09/please-help-me-look-less-like-gaga-and-more-like-coco/" target="_blank">clothes</a>.  I also suck at <a href="http://blog.vickiboykis.com/2010/02/accidental-chicken-tikka-masala-or-recipe-websites-are-awful/" target="_blank">cooking</a>.
 

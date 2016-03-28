@@ -20,7 +20,7 @@ So, there&#8217;s been a lot of media coverage recently about what this crisis m
 The more I hear and learn about this, the more sleazy I feel. I am looking inside [Upton Sinclair&#8217;s The Jungle](http://www.powayusd.com/online/usonline/worddoc/jungle.htm), only about asset-backed securities and the nooks and hideous crannies of capitalism.  I don&#8217;t mind capitalism at all.  What I do mind, is the morons who decided to purchase sub-prime loans. A lot of shows treat them like they are the victims of all of this. Oh no, Countrywide gave them too much money and they couldn&#8217;t afford the payments on the house.  Well, guess what, dipwad. It&#8217;s YOUR responsibility to know how much house you are able to afford.  It should be the first thing you look at. It&#8217;s actually something I am looking at right now as my husband and I are beginning to look for a house that we will buy sometime in the fall or spring of 2010.  Do I want this house?
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2009/03/dsc01113.jpg"><img class="aligncenter size-full wp-image-204" title="dsc01113" src="http://blog.vickiboykis.com/wp-content/uploads/2009/03/dsc01113.jpg" alt="dsc01113" width="603" height="453" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/03/dsc01113.jpg"><img class="aligncenter size-full wp-image-204" title="dsc01113" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/03/dsc01113.jpg" alt="dsc01113" width="603" height="453" /></a>
 </p>
 
 <p style="text-align: left;">

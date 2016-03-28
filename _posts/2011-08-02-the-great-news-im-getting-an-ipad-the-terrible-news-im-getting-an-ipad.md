@@ -26,7 +26,7 @@ Right on the heels of the <a href="http://akhilak.com/blog/2011/07/27/problems-w
 </p>
 
 <p style="text-align: left;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2011/08/Screen-shot-2011-08-02-at-8.38.36-AM.png"><img class="aligncenter size-full wp-image-5403" title="Screen shot 2011-08-02 at 8.38.36 AM" src="http://blog.vickiboykis.com/wp-content/uploads/2011/08/Screen-shot-2011-08-02-at-8.38.36-AM.png" alt="" width="568" height="174" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/08/Screen-shot-2011-08-02-at-8.38.36-AM.png"><img class="aligncenter size-full wp-image-5403" title="Screen shot 2011-08-02 at 8.38.36 AM" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/08/Screen-shot-2011-08-02-at-8.38.36-AM.png" alt="" width="568" height="174" /></a>
 </p>
 
 <p style="text-align: left;">

@@ -13,7 +13,7 @@ tags:
   - Friday
 ---
 <p style="text-align: left;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2010/07/IMAG0219.jpg"><img class="aligncenter size-full wp-image-3429" title="IMAG0219" src="http://blog.vickiboykis.com/wp-content/uploads/2010/07/IMAG0219.jpg" alt="" width="323" height="538" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/07/IMAG0219.jpg"><img class="aligncenter size-full wp-image-3429" title="IMAG0219" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/07/IMAG0219.jpg" alt="" width="323" height="538" /></a>
 </p>
 
 <p style="text-align: left;">
@@ -51,7 +51,7 @@ tags:
   6. [Speaking like a human at work](http://www.telegraph.co.uk/finance/businessclub/7897347/My-challenge-to-you-only-speak-like-a-human-at-work.html)
   7. [Pop icons in a different light](http://www.icanhasinternets.com/2010/07/pop-icons-in-a-different-light-part-2/)
   8. [<p style="text-align: left;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2010/07/IMAG0219.jpg"><img class="aligncenter size-full wp-image-3429" title="IMAG0219" src="http://blog.vickiboykis.com/wp-content/uploads/2010/07/IMAG0219.jpg" alt="" width="323" height="538" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/07/IMAG0219.jpg"><img class="aligncenter size-full wp-image-3429" title="IMAG0219" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/07/IMAG0219.jpg" alt="" width="323" height="538" /></a>
 </p>
 
 <p style="text-align: left;">

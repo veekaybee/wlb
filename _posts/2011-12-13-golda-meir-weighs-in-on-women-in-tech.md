@@ -16,7 +16,7 @@ tags:
   - tech
 ---
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2011/12/Untitled.jpg"><img class="aligncenter size-full wp-image-6019" title="Untitled" src="http://blog.vickiboykis.com/wp-content/uploads/2011/12/Untitled.jpg" alt="" width="480" height="4000" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/12/Untitled.jpg"><img class="aligncenter size-full wp-image-6019" title="Untitled" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/12/Untitled.jpg" alt="" width="480" height="4000" /></a>
 </p>
 
 &nbsp;

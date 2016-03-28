@@ -15,7 +15,7 @@ tags:
   - weight
 ---
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2010/04/v-magazine-dakota-fanning-gabby-sidibe02.jpg"><img class="aligncenter size-full wp-image-2723" title="v-magazine-dakota-fanning-gabby-sidibe02" src="http://blog.vickiboykis.com/wp-content/uploads/2010/04/v-magazine-dakota-fanning-gabby-sidibe02.jpg" alt="" width="491" height="674" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/04/v-magazine-dakota-fanning-gabby-sidibe02.jpg"><img class="aligncenter size-full wp-image-2723" title="v-magazine-dakota-fanning-gabby-sidibe02" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/04/v-magazine-dakota-fanning-gabby-sidibe02.jpg" alt="" width="491" height="674" /></a>
 </p>
 
 As long as I&#8217;m covering serious topics like cherry blossoms and libertarians this week, let&#8217;s talk about [Gabby Sidibe](http://en.wikipedia.org/wiki/Gabourey_Sidibe).  [This post](http://www.harpyness.com/2010/03/09/i-support-you-gabby/) discusses her success and how people have reacted to it.  There are two very complicated and loaded sides, I think.
@@ -31,7 +31,7 @@ Am I finally excited to see a woman who is a different body type and race than 9
 I think it would have been a bigger success for her if her breakout role was the lead in a romantic comedy, where stick-thin and unrealistic blonde white women ([except for Ginnifer Goodwin](http://www.baltimoremagazine.net/maxspace/wp-content/uploads/2009/02/he_s_just_not_that_into_you_movie_image_jennifer_connelly__jennifer_aniston.jpg) and even she lost weight) are the norm.  But she was chosen specifically because she was overweight (though, in conjunction with her confidence) ,and that rubs me the wrong way.
 
 Progressive women&#8217;s websites are now lauding her up and down.  But, as soon as [there is ANY discussion about her weight](http://jezebel.com/5502657/enough-about-sidibes-weight-already), they say, hands off.  My question is, at which point does body acceptance and celebration become dangerous?  That we should accept women of all different sizes is a no-brainer, in movies, in real life, and in clothing sizes (as someone who is short for my weight, I can NEVER find pants of the right length.)   But my issue is with why those women are different sizes.  If they are overweight not as a result of genetics, but because of poor diet choices (obviously I don&#8217;t know Gaby&#8217;s situation and therefore can&#8217;tcompletely), how can they be a role model for girls and why is it ok to accept them?  Why is it [<p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2010/04/v-magazine-dakota-fanning-gabby-sidibe02.jpg"><img class="aligncenter size-full wp-image-2723" title="v-magazine-dakota-fanning-gabby-sidibe02" src="http://blog.vickiboykis.com/wp-content/uploads/2010/04/v-magazine-dakota-fanning-gabby-sidibe02.jpg" alt="" width="491" height="674" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/04/v-magazine-dakota-fanning-gabby-sidibe02.jpg"><img class="aligncenter size-full wp-image-2723" title="v-magazine-dakota-fanning-gabby-sidibe02" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/04/v-magazine-dakota-fanning-gabby-sidibe02.jpg" alt="" width="491" height="674" /></a>
 </p>
 
 As long as I&#8217;m covering serious topics like cherry blossoms and libertarians this week, let&#8217;s talk about [Gabby Sidibe](http://en.wikipedia.org/wiki/Gabourey_Sidibe).  [This post](http://www.harpyness.com/2010/03/09/i-support-you-gabby/) discusses her success and how people have reacted to it.  There are two very complicated and loaded sides, I think.
@@ -52,7 +52,7 @@ The reason I&#8217;m thinking about this issue that I am overweight, and I&#8217
 
 However, According to the commenter from Jezebel below, it&#8217;s ok that my BMI is now above acceptable levels and that I am now at more risk for things like breast cancer later on in life.  The following is from a response to a quote that Kirstie Alley made about wanting to lose weight:
 
-[<img class="aligncenter size-full wp-image-2719" title="gaby1" src="http://blog.vickiboykis.com/wp-content/uploads/2010/04/gaby1.jpg" alt="" width="525" height="492" />](http://blog.vickiboykis.com/wp-content/uploads/2010/04/gaby1.jpg)
+[<img class="aligncenter size-full wp-image-2719" title="gaby1" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/04/gaby1.jpg" alt="" width="525" height="492" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/04/gaby1.jpg)
 
 What bothers me most about this quote is that I had the same exact experience and, while I don&#8217;t necessarily need people telling me I&#8217;ve gained weight, I also should have realized I needed to stop and start eating in moderation. Having a body that gets larger over time is ok.  But over how much time? If you are deliberately putting on weight, it&#8217;s not ok, and shouldn&#8217;t be accepted, and even feminists need to stop jumping all over other people who genuinely are concerned that Gabby is presenting an unhealthy model to young girls.
 

@@ -16,7 +16,7 @@ tags:
   - mba
 ---
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2011/11/n9301935_42348358_7499.jpg"><img class="aligncenter size-full wp-image-5943" title="n9301935_42348358_7499" src="http://blog.vickiboykis.com/wp-content/uploads/2011/11/n9301935_42348358_7499.jpg" alt="" width="423" height="317" /></a>Serious businesslady pose.
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/11/n9301935_42348358_7499.jpg"><img class="aligncenter size-full wp-image-5943" title="n9301935_42348358_7499" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/11/n9301935_42348358_7499.jpg" alt="" width="423" height="317" /></a>Serious businesslady pose.
 </p>
 
 &nbsp;

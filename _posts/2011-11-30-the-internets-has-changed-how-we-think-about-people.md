@@ -18,7 +18,7 @@ tags:
 I&#8217;ve always been under the assumption that I&#8217;m very leery of trusting the internet, because, everyone on the internet is a creep murderer and that I would never want to give up all my data to <a href="http://www.ftrain.com/woods-plus.html" target="_blank">Zuck and the Gootch</a>, but a couple of events recently have convinced me otherwise.
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2011/11/5074115602_890ed71fc7_z.jpg"><img class="aligncenter size-full wp-image-5954" title="5074115602_890ed71fc7_z" src="http://blog.vickiboykis.com/wp-content/uploads/2011/11/5074115602_890ed71fc7_z.jpg" alt="" width="384" height="288" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/11/5074115602_890ed71fc7_z.jpg"><img class="aligncenter size-full wp-image-5954" title="5074115602_890ed71fc7_z" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/11/5074115602_890ed71fc7_z.jpg" alt="" width="384" height="288" /></a>
 </p>
 
 The first thing that happened is that a couple of weeks ago, <a href="http://blog.vickiboykis.com/2011/10/26/a-guide-to-trolling-jewish-organizations-featuring-my-grandfather/" target="_blank">my grandpa</a> discovered a long-lost relative merely from the fact that he goes to a pharmacy, she&#8217;s a pharmacist there, and they have the same last name, and my grandpa&#8217;s last name is not very common. Once they got to talking, they realized that they are definitely related, and he wanted her to meet the rest of the family.  Sounds like a crazy sitcom coincidence, too good to be true, right?  That&#8217;s what I thought.
@@ -34,7 +34,7 @@ Or maybe, everything turned out normal because I already trusted Anton online an
 Also, he brought me posters for the kitchen. Ooo.
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2011/11/IMAG1019.jpg"><img class="aligncenter size-full wp-image-5955" title="IMAG1019" src="http://blog.vickiboykis.com/wp-content/uploads/2011/11/IMAG1019.jpg" alt="" width="323" height="538" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/11/IMAG1019.jpg"><img class="aligncenter size-full wp-image-5955" title="IMAG1019" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/11/IMAG1019.jpg" alt="" width="323" height="538" /></a>
 </p>
 
 The internet really strips out the amount of background introductions you have to do, which is PERFECT for introverts like me.  On Twitter and Facebook and here, I can be as weird as I want, and if someone from online wants to meet up based on that, they already know what they&#8217;re getting themselves into.

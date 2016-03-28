@@ -17,7 +17,7 @@ Tomorrow is my personal financial Waterloo- the [National Book Festival](http://
 I just got done reading [O Jerusalem!](http://www.amazon.com/O-Jerusalem-Larry-Collins/dp/0671662414) which is one of the BEST books I&#8217;ve read in a long time and you should be reading it too if you&#8217;re at all interested in Israeli/Palestinian history, so I&#8217;m all in the  mood for some  pictures from 1948.
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2010/09/99272dc416f43775_landing.jpg"><img class="aligncenter size-full wp-image-3626" title="99272dc416f43775_landing" src="http://blog.vickiboykis.com/wp-content/uploads/2010/09/99272dc416f43775_landing.jpg" alt="" width="581" height="600" /></a>Haganah members in topology class. <a href="http://images.google.com/hosted/life/l?imgurl=99272dc416f43775&q=haganah%201948%20source:life&prev=/images%3Fq%3Dhaganah%2B1948%2Bsource:life%26hl%3Den%26sa%3DX%26biw%3D1197%26bih%3D606%26tbs%3Disch:1">I could spend hours browsing the Life archives on Google. </a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/09/99272dc416f43775_landing.jpg"><img class="aligncenter size-full wp-image-3626" title="99272dc416f43775_landing" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/09/99272dc416f43775_landing.jpg" alt="" width="581" height="600" /></a>Haganah members in topology class. <a href="http://images.google.com/hosted/life/l?imgurl=99272dc416f43775&q=haganah%201948%20source:life&prev=/images%3Fq%3Dhaganah%2B1948%2Bsource:life%26hl%3Den%26sa%3DX%26biw%3D1197%26bih%3D606%26tbs%3Disch:1">I could spend hours browsing the Life archives on Google. </a>
 </p>
 
 <p style="text-align: left;">
@@ -30,7 +30,7 @@ I just got done reading [O Jerusalem!](http://www.amazon.com/O-Jerusalem-Larry-C
 I just got done reading [O Jerusalem!](http://www.amazon.com/O-Jerusalem-Larry-Collins/dp/0671662414) which is one of the BEST books I&#8217;ve read in a long time and you should be reading it too if you&#8217;re at all interested in Israeli/Palestinian history, so I&#8217;m all in the  mood for some  pictures from 1948.
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2010/09/99272dc416f43775_landing.jpg"><img class="aligncenter size-full wp-image-3626" title="99272dc416f43775_landing" src="http://blog.vickiboykis.com/wp-content/uploads/2010/09/99272dc416f43775_landing.jpg" alt="" width="581" height="600" /></a>Haganah members in topology class. <a href="http://images.google.com/hosted/life/l?imgurl=99272dc416f43775&q=haganah%201948%20source:life&prev=/images%3Fq%3Dhaganah%2B1948%2Bsource:life%26hl%3Den%26sa%3DX%26biw%3D1197%26bih%3D606%26tbs%3Disch:1">I could spend hours browsing the Life archives on Google. </a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/09/99272dc416f43775_landing.jpg"><img class="aligncenter size-full wp-image-3626" title="99272dc416f43775_landing" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/09/99272dc416f43775_landing.jpg" alt="" width="581" height="600" /></a>Haganah members in topology class. <a href="http://images.google.com/hosted/life/l?imgurl=99272dc416f43775&q=haganah%201948%20source:life&prev=/images%3Fq%3Dhaganah%2B1948%2Bsource:life%26hl%3Den%26sa%3DX%26biw%3D1197%26bih%3D606%26tbs%3Disch:1">I could spend hours browsing the Life archives on Google. </a>
 </p>
 
 <p style="text-align: left;">
@@ -44,7 +44,7 @@ I just got done reading [O Jerusalem!](http://www.amazon.com/O-Jerusalem-Larry-C
 I just got done reading [O Jerusalem!](http://www.amazon.com/O-Jerusalem-Larry-Collins/dp/0671662414) which is one of the BEST books I&#8217;ve read in a long time and you should be reading it too if you&#8217;re at all interested in Israeli/Palestinian history, so I&#8217;m all in the  mood for some  pictures from 1948.
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2010/09/99272dc416f43775_landing.jpg"><img class="aligncenter size-full wp-image-3626" title="99272dc416f43775_landing" src="http://blog.vickiboykis.com/wp-content/uploads/2010/09/99272dc416f43775_landing.jpg" alt="" width="581" height="600" /></a>Haganah members in topology class. <a href="http://images.google.com/hosted/life/l?imgurl=99272dc416f43775&q=haganah%201948%20source:life&prev=/images%3Fq%3Dhaganah%2B1948%2Bsource:life%26hl%3Den%26sa%3DX%26biw%3D1197%26bih%3D606%26tbs%3Disch:1">I could spend hours browsing the Life archives on Google. </a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/09/99272dc416f43775_landing.jpg"><img class="aligncenter size-full wp-image-3626" title="99272dc416f43775_landing" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/09/99272dc416f43775_landing.jpg" alt="" width="581" height="600" /></a>Haganah members in topology class. <a href="http://images.google.com/hosted/life/l?imgurl=99272dc416f43775&q=haganah%201948%20source:life&prev=/images%3Fq%3Dhaganah%2B1948%2Bsource:life%26hl%3Den%26sa%3DX%26biw%3D1197%26bih%3D606%26tbs%3Disch:1">I could spend hours browsing the Life archives on Google. </a>
 </p>
 
 <p style="text-align: left;">
@@ -57,7 +57,7 @@ I just got done reading [O Jerusalem!](http://www.amazon.com/O-Jerusalem-Larry-C
 I just got done reading [O Jerusalem!](http://www.amazon.com/O-Jerusalem-Larry-Collins/dp/0671662414) which is one of the BEST books I&#8217;ve read in a long time and you should be reading it too if you&#8217;re at all interested in Israeli/Palestinian history, so I&#8217;m all in the  mood for some  pictures from 1948.
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2010/09/99272dc416f43775_landing.jpg"><img class="aligncenter size-full wp-image-3626" title="99272dc416f43775_landing" src="http://blog.vickiboykis.com/wp-content/uploads/2010/09/99272dc416f43775_landing.jpg" alt="" width="581" height="600" /></a>Haganah members in topology class. <a href="http://images.google.com/hosted/life/l?imgurl=99272dc416f43775&q=haganah%201948%20source:life&prev=/images%3Fq%3Dhaganah%2B1948%2Bsource:life%26hl%3Den%26sa%3DX%26biw%3D1197%26bih%3D606%26tbs%3Disch:1">I could spend hours browsing the Life archives on Google. </a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/09/99272dc416f43775_landing.jpg"><img class="aligncenter size-full wp-image-3626" title="99272dc416f43775_landing" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/09/99272dc416f43775_landing.jpg" alt="" width="581" height="600" /></a>Haganah members in topology class. <a href="http://images.google.com/hosted/life/l?imgurl=99272dc416f43775&q=haganah%201948%20source:life&prev=/images%3Fq%3Dhaganah%2B1948%2Bsource:life%26hl%3Den%26sa%3DX%26biw%3D1197%26bih%3D606%26tbs%3Disch:1">I could spend hours browsing the Life archives on Google. </a>
 </p>
 
 <p style="text-align: left;">

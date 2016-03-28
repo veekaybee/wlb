@@ -22,7 +22,7 @@ tags:
 This is my mom, on the left, and Mr. B&#8217;s mom, on the right. They are depicted here,  [hunting for mushrooms](http://blog.vickiboykis.com/2010/08/29/world-of-pain/).
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2011/03/moms.jpg"><img class="aligncenter size-full wp-image-4691" title="moms" src="http://blog.vickiboykis.com/wp-content/uploads/2011/03/moms.jpg" alt="" width="512" height="307" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/03/moms.jpg"><img class="aligncenter size-full wp-image-4691" title="moms" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/03/moms.jpg" alt="" width="512" height="307" /></a>
 </p>
 
 This weekend, though, they were hunting for bargains.
@@ -34,7 +34,7 @@ The process begins as a glimmer in my mom&#8217;s eye.  &#8220;Let&#8217;s go o
 Once my mom picks her parameters, she starts her Quest Online for Cheap Cruises.  To call it a search would be like calling War and Peace a novel.  Once Mr. B&#8217;s mom decided that she was also going, they got together, sacrificed a sheep, and looked in its entrails to divine the best, cheapest cruise at the best, cheapest time, and make sure NO OTHER WEBSITE possibly had a steeper discount.   During one weekend, Mr. B and I observed them together at two computers, searching, simultaneously, doubting themselves, double-checking, calling cruise-lines and airlines, huddling together pre-play, double-checking again, almost ordering the cruise then backing up, checking another cruise, and backing out again.  It was like watching Kasparov versus Deep Blue.  Exhilarating but agonizing.  Mr. B and I watched them for only two of the five hours they did this, at which point we decided to kill each other [a la Masada](http://en.wikipedia.org/wiki/Masada#Account_of_the_siege) to ease the pain.  Booking the actual cruise took three weeks of this.
 
 <div id="attachment_4694" style="width: 317px" class="wp-caption aligncenter">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2011/03/moms2.jpg"><img class="size-full wp-image-4694" title="moms2" src="http://blog.vickiboykis.com/wp-content/uploads/2011/03/moms2.jpg" alt="" width="307" height="512" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/03/moms2.jpg"><img class="size-full wp-image-4694" title="moms2" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/03/moms2.jpg" alt="" width="307" height="512" /></a>
   
   <p class="wp-caption-text">
     My mom and Mr. B's mom have special ritual outfits that they wear when they hunt for deals.

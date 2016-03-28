@@ -17,6 +17,6 @@ I know.  Russian women are the worst.
 
 I would never say that anyone popravilas.  Except Oprah.
 
-[<img class="aligncenter size-full wp-image-5922" title="capture1" src="http://blog.vickiboykis.com/wp-content/uploads/2011/11/capture1.png" alt="" width="535" height="377" />](http://blog.vickiboykis.com/wp-content/uploads/2011/11/capture1.png)
+[<img class="aligncenter size-full wp-image-5922" title="capture1" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/11/capture1.png" alt="" width="535" height="377" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/11/capture1.png)
 
 &nbsp;

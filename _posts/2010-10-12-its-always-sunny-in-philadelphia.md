@@ -9,6 +9,6 @@ permalink: /2010/10/its-always-sunny-in-philadelphia/
 categories:
   - Uncategorized
 ---
-<img style="display:block;margin-right:auto;margin-left:auto;" alt="image" src="http://blog.vickiboykis.com/wp-content/uploads/2010/10/wpid-IMAG0401.jpg" />
+<img style="display:block;margin-right:auto;margin-left:auto;" alt="image" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/10/wpid-IMAG0401.jpg" />
 
 First day of work.

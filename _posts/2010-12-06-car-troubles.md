@@ -17,7 +17,7 @@ tags:
 I&#8217;m writing this morning&#8217;s post from an exotic location that has become extremely familiar to me and one I hope to never have to visit again: a car dealership.
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2010/12/wpid-IMAG0501.jpg"><img class="aligncenter size-full wp-image-3995" title="wpid-IMAG0501.jpg" src="http://blog.vickiboykis.com/wp-content/uploads/2010/12/wpid-IMAG0501.jpg" alt="" width="350" height="583" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/12/wpid-IMAG0501.jpg"><img class="aligncenter size-full wp-image-3995" title="wpid-IMAG0501.jpg" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/12/wpid-IMAG0501.jpg" alt="" width="350" height="583" /></a>
 </p>
 
 In a spate of luck which I can only describe as Vickensian, Mr. B&#8217;s three-year old and extremely reliable Civic has started having issues that need to be checked out the same weekend that we finally started to look for a new car to replace my 11-year-old Accord.
@@ -26,7 +26,7 @@ In a spate of luck which I can only attribute as God messing with me, Mr. B poor
 
 Or, as I put it on Facebook:
 
-[<img class="aligncenter size-full wp-image-3997" title="Screen shot 2010-12-06 at 7.43.35 AM" src="http://blog.vickiboykis.com/wp-content/uploads/2010/12/Screen-shot-2010-12-06-at-7.43.35-AM.png" alt="" width="746" height="89" />](http://blog.vickiboykis.com/wp-content/uploads/2010/12/Screen-shot-2010-12-06-at-7.43.35-AM.png)
+[<img class="aligncenter size-full wp-image-3997" title="Screen shot 2010-12-06 at 7.43.35 AM" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/12/Screen-shot-2010-12-06-at-7.43.35-AM.png" alt="" width="746" height="89" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/12/Screen-shot-2010-12-06-at-7.43.35-AM.png)
 
 This problem would be solved entirely if dealerships did the repairs we needed on weekends (or peoples&#8217; internal planning calendars worked more than 24 hours ahead), but, alas! God forbid someone make more money.
 

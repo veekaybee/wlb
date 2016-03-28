@@ -13,7 +13,7 @@ tags:
 ---
 I&#8217;ll spare you having to see it. 
 
-[<img class="aligncenter size-full wp-image-1938" title="Avatar Review" src="http://blog.vickiboykis.com/wp-content/uploads/2009/12/Avatar-Review.jpg" alt="Avatar Review" width="500" height="700" />](http://blog.vickiboykis.com/wp-content/uploads/2009/12/Avatar-Review.jpg)
+[<img class="aligncenter size-full wp-image-1938" title="Avatar Review" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/12/Avatar-Review.jpg" alt="Avatar Review" width="500" height="700" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/12/Avatar-Review.jpg)
 
 Edited:  I found some other media to help convey my feelings about this film. Avatar=
 

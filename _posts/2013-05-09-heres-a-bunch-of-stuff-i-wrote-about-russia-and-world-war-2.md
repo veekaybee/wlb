@@ -16,7 +16,7 @@ tags:
   - WWII
 ---
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2013/05/moscow.jpg"><img class="aligncenter  wp-image-8700" alt="moscow" src="http://blog.vickiboykis.com/wp-content/uploads/2013/05/moscow-580x444.jpg" width="464" height="355" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/05/moscow.jpg"><img class="aligncenter  wp-image-8700" alt="moscow" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/05/moscow-580x444.jpg" width="464" height="355" /></a>
 </p>
 
 <p style="text-align: center;">

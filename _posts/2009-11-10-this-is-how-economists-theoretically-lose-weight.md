@@ -15,7 +15,7 @@ tags:
   - skeptical hippo
   - weight
 ---
-[<img class="aligncenter size-full wp-image-1656" title="skepticalhippo" src="http://blog.vickiboykis.com/wp-content/uploads/2009/11/skepticalhippo.jpg" alt="skepticalhippo" width="592" height="445" />](http://blog.vickiboykis.com/wp-content/uploads/2009/11/skepticalhippo.jpg)
+[<img class="aligncenter size-full wp-image-1656" title="skepticalhippo" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/11/skepticalhippo.jpg" alt="skepticalhippo" width="592" height="445" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/11/skepticalhippo.jpg)
 
 So, I&#8217;ve been needing to lose weight for a while.  But I&#8217;ve been skeptical that I could pull it off since the last time I lost weight, I lost oodles of pounds on [SparkPeople](http://www.sparkpeople.com/) (which is amazing and free, by the way if you are looking to shed a few pounds) but pretty much counted every crumb I ate (does this piece of gum have 10 calories or 15?!) and as a result became more [machine than man](http://www.imdb.com/title/tt0086190/quotes) and couldn&#8217;t go to any restaurant without first obsessively e-mailing their customer service and asking HOW MANY CALORIES ARE IN YOUR CORNBREAD?!
 
@@ -26,7 +26,7 @@ Well, I am going to to attempt it again, slowly.  This time, because a friend i
 Obviously the best way to incentivize economists is with economic experiments and money.  The idea of paying to lose weight is nothing new.  [Other newspaper outlets](http://blogs.wsj.com/economics/2009/05/29/carrots-not-helping-you-lose-weight-try-a-stick/) have already reported on this phenomenon, and economists have also gotten into the groove, [letting the money they lose go to charity](http://economics.about.com/b/2008/02/27/my-1200-weight-loss-gamble-fines-for-staying-fat.htm).  Some have even evilly donated to the people that they hate most (i.e. Republicans to the Democratic party, etc.)
 
 <div id="attachment_1660" style="width: 510px" class="wp-caption aligncenter">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2009/11/weight-loss.jpg"><img class="size-full wp-image-1660" title="weight loss" src="http://blog.vickiboykis.com/wp-content/uploads/2009/11/weight-loss.jpg" alt="weight loss" width="500" height="375" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/11/weight-loss.jpg"><img class="size-full wp-image-1660" title="weight loss" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/11/weight-loss.jpg" alt="weight loss" width="500" height="375" /></a>
   
   <p class="wp-caption-text">
     via antjverena on Flickr
@@ -57,7 +57,7 @@ Obviously the best way to incentivize economists is with economic experiments an
   </p>
   
   <div id="attachment_1662" style="width: 417px" class="wp-caption aligncenter">
-    <a href="http://blog.vickiboykis.com/wp-content/uploads/2009/11/soviet_poster_stadion.jpg"><img class="size-full wp-image-1662" title="soviet_poster_stadion" src="http://blog.vickiboykis.com/wp-content/uploads/2009/11/soviet_poster_stadion.jpg" alt="soviet_poster_stadion" width="407" height="282" /></a>
+    <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/11/soviet_poster_stadion.jpg"><img class="size-full wp-image-1662" title="soviet_poster_stadion" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/11/soviet_poster_stadion.jpg" alt="soviet_poster_stadion" width="407" height="282" /></a>
     
     <p class="wp-caption-text">
       "Youth-to the stadiums!" Or we will pierce you through with this javelin.

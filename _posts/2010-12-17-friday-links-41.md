@@ -15,7 +15,7 @@ tags:
 Is it Friday for real? It seems like only yesterday it was July. Oh well.  I&#8217;ll just pretend.
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2010/12/wpid-1292591639_picsay-1292591639.jpg"><img class="aligncenter size-full wp-image-4057" title="wpid-1292591639_picsay-1292591639.jpg" src="http://blog.vickiboykis.com/wp-content/uploads/2010/12/wpid-1292591639_picsay-1292591639.jpg" alt="" width="269" height="448" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/12/wpid-1292591639_picsay-1292591639.jpg"><img class="aligncenter size-full wp-image-4057" title="wpid-1292591639_picsay-1292591639.jpg" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/12/wpid-1292591639_picsay-1292591639.jpg" alt="" width="269" height="448" /></a>
 </p>
 
 <p style="text-align: center;">

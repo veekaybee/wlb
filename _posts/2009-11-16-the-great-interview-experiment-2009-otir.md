@@ -15,7 +15,7 @@ tags:
   - writing
 ---
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2009/11/experiment21.jpg"><img class="size-full wp-image-1684 alignnone" title="experiment21" src="http://blog.vickiboykis.com/wp-content/uploads/2009/11/experiment21.jpg" alt="experiment21" width="396" height="500" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/11/experiment21.jpg"><img class="size-full wp-image-1684 alignnone" title="experiment21" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/11/experiment21.jpg" alt="experiment21" width="396" height="500" /></a>
 </p>
 
 <p style="text-align: center;">
@@ -30,7 +30,7 @@ tags:
   <p style="text-align: center;">
     <p style="text-align: center;">
       <div id="attachment_1687" style="width: 310px" class="wp-caption aligncenter">
-        <a href="http://blog.vickiboykis.com/wp-content/uploads/2009/11/otir.jpg"><img class="size-full wp-image-1687" title="otir" src="http://blog.vickiboykis.com/wp-content/uploads/2009/11/otir.jpg" alt="un sourire fabuleux!" width="300" height="300" /></a>
+        <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/11/otir.jpg"><img class="size-full wp-image-1687" title="otir" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/11/otir.jpg" alt="un sourire fabuleux!" width="300" height="300" /></a>
         
         <p class="wp-caption-text">
           un sourire fabuleux!

@@ -10,7 +10,7 @@ categories:
   - news
   - Uncategorized
 ---
-[<img class="aligncenter size-medium wp-image-9773" src="http://blog.vickiboykis.com/wp-content/uploads/2014/07/readers-of-newspapers-in-naples-1831.jpgLarge-580x481.jpg" alt="readers-of-newspapers-in-naples-1831.jpg!Large" width="580" height="481" />](http://blog.vickiboykis.com/wp-content/uploads/2014/07/readers-of-newspapers-in-naples-1831.jpgLarge.jpg)
+[<img class="aligncenter size-medium wp-image-9773" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2014/07/readers-of-newspapers-in-naples-1831.jpgLarge-580x481.jpg" alt="readers-of-newspapers-in-naples-1831.jpg!Large" width="580" height="481" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2014/07/readers-of-newspapers-in-naples-1831.jpgLarge.jpg)
 
 In the pre-industrial age, the most valuable commodity was time. Would you have enough time to plant a harvest? Were there enough hours in the day before the sun set and the candles needed to be lit?  People spent days and years making things-watches, dresses, meals, cathedrals. J<a href="http://www.luminarium.org/sevenlit/donne/sunrising.htm" target="_blank">ohn Donne wrote whole poems</a> about how the sun decided the day.
 
@@ -36,7 +36,7 @@ By the way, the best things so far I have read on Ukraine and Gaza in the Englis
 
 I&#8217;m posting a specific example, not to pick on people who have posted it (at least two or three in my timeline, either because they agree or disagree with it&#8230;I have no idea, I didn&#8217;t click on it), but because this exemplifies exactly the type of shit I&#8217;m angry about. Sensational image, misleading headline, all encouraging you to CLICK CLICK CLICK.
 
-[<img class="aligncenter size-medium wp-image-9778" src="http://blog.vickiboykis.com/wp-content/uploads/2014/07/Screen-Shot-2014-07-29-at-7.39.22-AM-580x437.png" alt="Screen Shot 2014-07-29 at 7.39.22 AM" width="580" height="437" />](http://blog.vickiboykis.com/wp-content/uploads/2014/07/Screen-Shot-2014-07-29-at-7.39.22-AM.png)
+[<img class="aligncenter size-medium wp-image-9778" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2014/07/Screen-Shot-2014-07-29-at-7.39.22-AM-580x437.png" alt="Screen Shot 2014-07-29 at 7.39.22 AM" width="580" height="437" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2014/07/Screen-Shot-2014-07-29-at-7.39.22-AM.png)
 
 These are fun to flip through on the train or in minutes you have spare time, but really all they do is stress you out, make you angrier, and worst of all,  lead to colossal misunderstandings of how the world works. I have to read at least five different sources to corroborate Israeli and Palestinian claims, and not because the issue is so complicated, which it is, but because journalists are plain lazy and editors need pageclicks faster and faster.
 

@@ -12,7 +12,7 @@ tags:
   - NaNoWriMo
   - novel
 ---
-[<img class="aligncenter size-full wp-image-1600" title="Page_1" src="http://blog.vickiboykis.com/wp-content/uploads/2009/11/Page_1.jpg" alt="Page_1" width="500" height="100" />](http://blog.vickiboykis.com/wp-content/uploads/2009/11/Page_1.jpg)
+[<img class="aligncenter size-full wp-image-1600" title="Page_1" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/11/Page_1.jpg" alt="Page_1" width="500" height="100" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/11/Page_1.jpg)
 
 **2,296** words for the day!  I&#8217;m off to a good start.
 

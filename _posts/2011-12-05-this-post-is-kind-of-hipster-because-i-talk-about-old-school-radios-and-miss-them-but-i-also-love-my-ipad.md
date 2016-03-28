@@ -26,7 +26,7 @@ There would be static, static, static, then fine-tuning, then, finally, a voice 
 Recently, I discovered the same thing for <a href="http://blog.vickiboykis.com/2011/08/02/the-great-news-im-getting-an-ipad-the-terrible-news-im-getting-an-ipad/" target="_blank">my iPad</a>, <a href="http://tunein.com/mobile/" target="_blank">TuneIn Radio</a>:
 
 <p style="text-align: left;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2011/12/Screen-shot-2011-12-04-at-7.22.19-PM.png"><img class="aligncenter size-full wp-image-5972" title="Screen shot 2011-12-04 at 7.22.19 PM" src="http://blog.vickiboykis.com/wp-content/uploads/2011/12/Screen-shot-2011-12-04-at-7.22.19-PM.png" alt="" width="569" height="428" /></a><a href="http://blog.vickiboykis.com/wp-content/uploads/2011/12/Screen-shot-2011-12-04-at-7.18.00-PM.png"><br /> </a>and it&#8217;s pretty much like the same thing.  I mean, sure, you could technically do the same thing on your computer with individual radio stations, but it&#8217;s not the same because the app aggregates by location and type.  I have to say the fact that I can tune to any station with the press of a finger does take some of the mystery and romance out of it, but I still get the same sort of chills from the fact that I&#8217;m able to listen to radio from Kenya.
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/12/Screen-shot-2011-12-04-at-7.22.19-PM.png"><img class="aligncenter size-full wp-image-5972" title="Screen shot 2011-12-04 at 7.22.19 PM" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/12/Screen-shot-2011-12-04-at-7.22.19-PM.png" alt="" width="569" height="428" /></a><a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/12/Screen-shot-2011-12-04-at-7.18.00-PM.png"><br /> </a>and it&#8217;s pretty much like the same thing.  I mean, sure, you could technically do the same thing on your computer with individual radio stations, but it&#8217;s not the same because the app aggregates by location and type.  I have to say the fact that I can tune to any station with the press of a finger does take some of the mystery and romance out of it, but I still get the same sort of chills from the fact that I&#8217;m able to listen to radio from Kenya.
 </p>
 
 <p style="text-align: left;">
@@ -40,5 +40,5 @@ Recently, I discovered the same thing for <a href="http://blog.vickiboykis.com/2
 &nbsp;
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2011/12/photo-1.png"><br /> </a><a href="http://blog.vickiboykis.com/wp-content/uploads/2011/12/photo.png"><br /> </a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/12/photo-1.png"><br /> </a><a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/12/photo.png"><br /> </a>
 </p>

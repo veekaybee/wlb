@@ -19,7 +19,7 @@ tags:
 On St. Patrick&#8217;s Day, it was warm enough to go bike riding for the first time in 2012.  We went to <a href="http://www.boblucky.com/Biking/NewJersey/Springlake/Springlake.htm" target="_blank">Spring Lake</a>, New Jersey, which, in addition to a really nice boardwalk, actually has the largest Irish-American population on the East Cost. We didn&#8217;t know that until we got there, though.
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2012/03/DSC_0874.jpg"><img class="aligncenter  wp-image-6594" title="DSC_0874" src="http://blog.vickiboykis.com/wp-content/uploads/2012/03/DSC_0874.jpg" alt="" width="477" height="330" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/03/DSC_0874.jpg"><img class="aligncenter  wp-image-6594" title="DSC_0874" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/03/DSC_0874.jpg" alt="" width="477" height="330" /></a>
 </p>
 
 I took work, school, the book, and stress, and sealed them neatly into a little envelope in my mind, and focused on riding.
@@ -27,13 +27,13 @@ I took work, school, the book, and stress, and sealed them neatly into a little 
 The sea was on our right.  It was so cloudy you couldn&#8217;t see anything, but you could smell the salt, a little bit, and feel the sea wind the whole time on the board walk.  There were a couple of people surfing. Everyone else was walking by dressed in green, headed to and from the bars.  Their dogs were wearing green bandanas. It created a strangely festive atmosphere.
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2012/03/DSC_0871.jpg"><img class="aligncenter  wp-image-6595" title="DSC_0871" src="http://blog.vickiboykis.com/wp-content/uploads/2012/03/DSC_0871.jpg" alt="" width="631" height="420" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/03/DSC_0871.jpg"><img class="aligncenter  wp-image-6595" title="DSC_0871" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/03/DSC_0871.jpg" alt="" width="631" height="420" /></a>
 </p>
 
 We went maybe 9 or 10 miles, which is nothing on a bike.  But the sea wind was really cold and we hadn&#8217;t exercised outside this year yet.
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2012/03/DSC_0864.jpg"><img class="aligncenter  wp-image-6596" title="DSC_0864" src="http://blog.vickiboykis.com/wp-content/uploads/2012/03/DSC_0864.jpg" alt="" width="631" height="420" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/03/DSC_0864.jpg"><img class="aligncenter  wp-image-6596" title="DSC_0864" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/03/DSC_0864.jpg" alt="" width="631" height="420" /></a>
 </p>
 
 <p style="text-align: left;">
@@ -41,5 +41,5 @@ We went maybe 9 or 10 miles, which is nothing on a bike.  But the sea wind was 
 </p>
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2012/03/DSC_0866.jpg"><img class="aligncenter  wp-image-6598" title="DSC_0866" src="http://blog.vickiboykis.com/wp-content/uploads/2012/03/DSC_0866.jpg" alt="" width="631" height="420" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/03/DSC_0866.jpg"><img class="aligncenter  wp-image-6598" title="DSC_0866" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/03/DSC_0866.jpg" alt="" width="631" height="420" /></a>
 </p>

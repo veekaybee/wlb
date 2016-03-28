@@ -15,7 +15,7 @@ tags:
 Just in case you don&#8217;t think you&#8217;re possibly getting enough of me, [I&#8217;m also on Tumblr sometimes](http://vixotic.tumblr.com/).  It&#8217;s where I put all my random pics and stuff that doesn&#8217;t fit into blog posts.
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2010/08/Picture-2.png"><img class="aligncenter size-full wp-image-3494" title="Picture 2" src="http://blog.vickiboykis.com/wp-content/uploads/2010/08/Picture-2.png" alt="" width="449" height="326" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/08/Picture-2.png"><img class="aligncenter size-full wp-image-3494" title="Picture 2" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/08/Picture-2.png" alt="" width="449" height="326" /></a>
 </p>
 
 <p style="text-align: left;">

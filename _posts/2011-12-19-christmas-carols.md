@@ -20,7 +20,7 @@ I actually wrote this post two years ago but haven&#8217;t been brave enough to 
 
 It&#8217;s about a secret love of mine: Christmas carols. Technically, as  a (nonobservant) Jew, I know I shouldn&#8217;t enjoy them or sing them, a knowledge that was imparted on me by my mom who, when I was learning Silent Night in third grade, acted as if she was personally experiencing the Inquisition when it gets to the part about yon Virgin and Child. I was also afraid to say the word &#8216;Jesus&#8217; until I was in high school.  I was always embarrassed to sing them at home and when I did, it was always in the shower.
 
-[<img class="aligncenter size-full wp-image-6043" title="Screen shot 2011-12-16 at 1.49.50 PM" src="http://blog.vickiboykis.com/wp-content/uploads/2011/12/Screen-shot-2011-12-16-at-1.49.50-PM.png" alt="" width="222" height="272" />](http://blog.vickiboykis.com/wp-content/uploads/2011/12/Screen-shot-2011-12-16-at-1.49.50-PM.png)
+[<img class="aligncenter size-full wp-image-6043" title="Screen shot 2011-12-16 at 1.49.50 PM" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/12/Screen-shot-2011-12-16-at-1.49.50-PM.png" alt="" width="222" height="272" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/12/Screen-shot-2011-12-16-at-1.49.50-PM.png)
 
 From youth onward, singing Christmas carols became a stigma for me and an involuntary jolt of shame and fear came upon me every time we had to sing a song in class that had anything to do with Jesus or Holy Nights or Yon Virgins.  I would panic and try to swallow the words as much as I could while burning in shame that I couldn&#8217;t just sing them like my classmates could.
 

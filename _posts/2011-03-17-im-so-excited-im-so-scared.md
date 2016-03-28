@@ -14,10 +14,10 @@ tags:
   - house
   - pessimism
 ---
-[](http://blog.vickiboykis.com/wp-content/uploads/2011/03/lisafrank.jpg)So, I don&#8217;t know the easiest way to put this out there on the Interwebs since I&#8217;m sure everything will go to hell as soon as it is public but&#8230;
+[](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/03/lisafrank.jpg)So, I don&#8217;t know the easiest way to put this out there on the Interwebs since I&#8217;m sure everything will go to hell as soon as it is public but&#8230;
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2011/03/househousehouse.jpg"><img class="aligncenter size-full wp-image-4564" title="househousehouse" src="http://blog.vickiboykis.com/wp-content/uploads/2011/03/househousehouse.jpg" alt="" width="448" height="336" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/03/househousehouse.jpg"><img class="aligncenter size-full wp-image-4564" title="househousehouse" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/03/househousehouse.jpg" alt="" width="448" height="336" /></a>
 </p>
 
 <p style="text-align: left;">
@@ -41,7 +41,7 @@ tags:
 </p>
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2011/03/lisafrank.jpg"><img class="aligncenter" title="lisafrank" src="http://blog.vickiboykis.com/wp-content/uploads/2011/03/lisafrank.jpg" alt="" width="384" height="640" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/03/lisafrank.jpg"><img class="aligncenter" title="lisafrank" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/03/lisafrank.jpg" alt="" width="384" height="640" /></a>
 </p>
 
 <p style="text-align: left;">

@@ -18,7 +18,7 @@ Basically, all I read this year were any books about Russia in 1937, so my favor
 __and I really loved the thick, juicy historical richness of the book . The plot was just so-so, but the meticulous research was what kept me going. There is, of course, a love story, and a secret mystery scandal, which will be just enough to keep pages turning. This is a good one to read when it&#8217;s cold or raining or snowing and you need a comfort book. What a treasure.Kudos to Jo Baker.
 
 <p style="text-align: center;">
-   <img class="wp-image-9319 aligncenter" alt="longbourn" src="http://blog.vickiboykis.com/wp-content/uploads/2013/12/longbourn-580x846.jpg" width="278" height="406" />
+   <img class="wp-image-9319 aligncenter" alt="longbourn" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/12/longbourn-580x846.jpg" width="278" height="406" />
 </p>
 
 <a href="http://www.amazon.com/Tell-Wolves-Im-Home-Novel/dp/0812982851" target="_blank"><b>Tell the Wolves I&#8217;m Home</b></a> I&#8217;ve been resisting reading this one for a while because for some reason I thought it was about the Holocaust. Was it the bears on the cover? Was it the fact that the author&#8217;s middle name was Rifka? Not sure. In any case, initially I didn&#8217;t want to read it at all.But I kept being <a href="http://blog.vickiboykis.com/2012/08/judging-a-book-by-its-cover/" target="_blank">drawn in by the cover </a>art and the fact that it kept making its way to best lists.
@@ -29,7 +29,7 @@ The book is about June, a girl growing up in the late 1980s, when the world firs
 
 June spends the rest of the novel  learning to forgive his partner, Toby, who becomes her friend, and generally growing up and learning to be a sister to Greta, her older sister, and a daughter to her mother, Finn&#8217;s sister. The whole thing is stark and beautiful and rings so true for anyone who&#8217;s ever been on the outside.
 
-[<img class="aligncenter" alt="12875258" src="http://blog.vickiboykis.com/wp-content/uploads/2013/12/12875258.jpg" width="313" height="475" />](http://blog.vickiboykis.com/wp-content/uploads/2013/12/12875258.jpg)
+[<img class="aligncenter" alt="12875258" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/12/12875258.jpg" width="313" height="475" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/12/12875258.jpg)
 
 <div style="text-align: left;">
   <div style="text-align: left;">
@@ -50,11 +50,11 @@ June spends the rest of the novel  learning to forgive his partner, Toby, who b
         </p>
         
         <p>
-          <a href="http://blog.vickiboykis.com/wp-content/uploads/2013/12/tartt_200-75cfc9baf7da62131e30892e8c9abee477458c43-s6-c30.jpg"><img class="wp-image-9329 aligncenter" alt="tartt_200-75cfc9baf7da62131e30892e8c9abee477458c43-s6-c30" src="http://blog.vickiboykis.com/wp-content/uploads/2013/12/tartt_200-75cfc9baf7da62131e30892e8c9abee477458c43-s6-c30-580x947.jpg" width="348" height="568" /></a>
+          <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/12/tartt_200-75cfc9baf7da62131e30892e8c9abee477458c43-s6-c30.jpg"><img class="wp-image-9329 aligncenter" alt="tartt_200-75cfc9baf7da62131e30892e8c9abee477458c43-s6-c30" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/12/tartt_200-75cfc9baf7da62131e30892e8c9abee477458c43-s6-c30-580x947.jpg" width="348" height="568" /></a>
         </p>
         
         <p>
-          <b><a href="http://blog.vickiboykis.com/wp-content/uploads/2013/12/38447.jpg"> </a></b><br /> <strong><a href="http://www.amazon.com/The-Handmaids-Tale-Margaret-Atwood/dp/038549081X" target="_blank">The Handmaid&#8217;s Tale </a> </strong>Another novel  I&#8217;ve read a lot about, but never picked up until now. It has fundamentally altered my cannon of books that I think tell the truth about humans and the human condition, about freedom and slavery. In that list is 1984, Brave New World, and David Copperfield. And maybe that&#8217;s it. And now there&#8217;s this. If you are a woman and have not yet read this book, I strongly encourage it. It is everything I&#8217;ve always thought about as a woman, but never realized I thought about.
+          <b><a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/12/38447.jpg"> </a></b><br /> <strong><a href="http://www.amazon.com/The-Handmaids-Tale-Margaret-Atwood/dp/038549081X" target="_blank">The Handmaid&#8217;s Tale </a> </strong>Another novel  I&#8217;ve read a lot about, but never picked up until now. It has fundamentally altered my cannon of books that I think tell the truth about humans and the human condition, about freedom and slavery. In that list is 1984, Brave New World, and David Copperfield. And maybe that&#8217;s it. And now there&#8217;s this. If you are a woman and have not yet read this book, I strongly encourage it. It is everything I&#8217;ve always thought about as a woman, but never realized I thought about.
         </p>
         
         <p>
@@ -62,7 +62,7 @@ June spends the rest of the novel  learning to forgive his partner, Toby, who b
         </p>
         
         <p>
-          <b><a href="http://blog.vickiboykis.com/wp-content/uploads/2013/12/38447.jpg"><img class="aligncenter" alt="38447" src="http://blog.vickiboykis.com/wp-content/uploads/2013/12/38447.jpg" width="307" height="475" /></a></b>
+          <b><a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/12/38447.jpg"><img class="aligncenter" alt="38447" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/12/38447.jpg" width="307" height="475" /></a></b>
         </p>
         
         <p>
@@ -74,7 +74,7 @@ June spends the rest of the novel  learning to forgive his partner, Toby, who b
         </p>
         
         <p>
-          <b><a href="http://blog.vickiboykis.com/wp-content/uploads/2013/12/tropper-novel1.jpg"><img class="size-full wp-image-9331 aligncenter" alt="tropper-novel1" src="http://blog.vickiboykis.com/wp-content/uploads/2013/12/tropper-novel1.jpg" width="316" height="474" /></a></b><b> </b>
+          <b><a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/12/tropper-novel1.jpg"><img class="size-full wp-image-9331 aligncenter" alt="tropper-novel1" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/12/tropper-novel1.jpg" width="316" height="474" /></a></b><b> </b>
         </p>
         
         <p>
@@ -86,7 +86,7 @@ June spends the rest of the novel  learning to forgive his partner, Toby, who b
         </p>
         
         <p>
-          <b><a href="http://blog.vickiboykis.com/wp-content/uploads/2013/12/Penumbra.jpg"><img class="size-full wp-image-9332 aligncenter" alt="Penumbra" src="http://blog.vickiboykis.com/wp-content/uploads/2013/12/Penumbra.jpg" width="318" height="467" /></a><br /> </b>
+          <b><a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/12/Penumbra.jpg"><img class="size-full wp-image-9332 aligncenter" alt="Penumbra" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/12/Penumbra.jpg" width="318" height="467" /></a><br /> </b>
         </p>
         
         <p>
@@ -98,7 +98,7 @@ June spends the rest of the novel  learning to forgive his partner, Toby, who b
         </p>
         
         <p>
-          <img class="wp-image-9333 aligncenter" alt="paris review interview books" src="http://blog.vickiboykis.com/wp-content/uploads/2013/12/paris-review-interview-books.jpg" width="350" height="266" />
+          <img class="wp-image-9333 aligncenter" alt="paris review interview books" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/12/paris-review-interview-books.jpg" width="350" height="266" />
         </p>
         
         <p>
@@ -116,7 +116,7 @@ June spends the rest of the novel  learning to forgive his partner, Toby, who b
         </p>
         
         <p>
-          <a href="http://blog.vickiboykis.com/wp-content/uploads/2013/12/12065457.jpg"><img class="size-full wp-image-9334 aligncenter" alt="12065457" src="http://blog.vickiboykis.com/wp-content/uploads/2013/12/12065457.jpg" width="297" height="475" /></a>
+          <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/12/12065457.jpg"><img class="size-full wp-image-9334 aligncenter" alt="12065457" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/12/12065457.jpg" width="297" height="475" /></a>
         </p>
         
         <p>
@@ -132,7 +132,7 @@ June spends the rest of the novel  learning to forgive his partner, Toby, who b
         </p>
         
         <p>
-          <b><a href="http://blog.vickiboykis.com/wp-content/uploads/2013/12/41HGJKFdW3L.jpg"><img class="size-full wp-image-9335 aligncenter" alt="41HGJKFdW3L" src="http://blog.vickiboykis.com/wp-content/uploads/2013/12/41HGJKFdW3L.jpg" width="329" height="500" /></a></b><br /> <b> </b>
+          <b><a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/12/41HGJKFdW3L.jpg"><img class="size-full wp-image-9335 aligncenter" alt="41HGJKFdW3L" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/12/41HGJKFdW3L.jpg" width="329" height="500" /></a></b><br /> <b> </b>
         </p>
         
         <p>
@@ -140,7 +140,7 @@ June spends the rest of the novel  learning to forgive his partner, Toby, who b
         </p>
         
         <p>
-          <b><a href="http://blog.vickiboykis.com/wp-content/uploads/2013/12/13051316.jpg"><img class="size-full wp-image-9338 aligncenter" alt="13051316" src="http://blog.vickiboykis.com/wp-content/uploads/2013/12/13051316.jpg" width="317" height="475" /></a></b>
+          <b><a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/12/13051316.jpg"><img class="size-full wp-image-9338 aligncenter" alt="13051316" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/12/13051316.jpg" width="317" height="475" /></a></b>
         </p>
         
         <p>
@@ -162,11 +162,11 @@ June spends the rest of the novel  learning to forgive his partner, Toby, who b
         </p>
         
         <p>
-          <b><a href="http://blog.vickiboykis.com/wp-content/uploads/2013/12/three_men_in_a_boat.jpg"><img class="size-full wp-image-9339 aligncenter" alt="three_men_in_a_boat" src="http://blog.vickiboykis.com/wp-content/uploads/2013/12/three_men_in_a_boat.jpg" width="371" height="550" /></a></b><b> </b><br /> <a href="http://www.amazon.com/gp/product/0316219347/" target="_blank"><strong> The Yellow Birds</strong></a> This one got a lot of press in the literary community when it came out last year. It’s the story of an Iraq veteran who recounts his days in the sandbox. Holy shit. This book is amazing. I don’t think I liked the plot as much because there are a bunch of questions not wrapped up at the end, but Powers is a poet, and it shows. Everything he writes is shimmering and translucent and serious, and I think this is going to become the war novel of our generation.  The first sentence of the novel is, “The war tried to kill us in the spring.” I have not seen a perfect first sentence like that in a long time. When people study Iraq in the future, this is the book they&#8217;ll read.
+          <b><a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/12/three_men_in_a_boat.jpg"><img class="size-full wp-image-9339 aligncenter" alt="three_men_in_a_boat" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/12/three_men_in_a_boat.jpg" width="371" height="550" /></a></b><b> </b><br /> <a href="http://www.amazon.com/gp/product/0316219347/" target="_blank"><strong> The Yellow Birds</strong></a> This one got a lot of press in the literary community when it came out last year. It’s the story of an Iraq veteran who recounts his days in the sandbox. Holy shit. This book is amazing. I don’t think I liked the plot as much because there are a bunch of questions not wrapped up at the end, but Powers is a poet, and it shows. Everything he writes is shimmering and translucent and serious, and I think this is going to become the war novel of our generation.  The first sentence of the novel is, “The war tried to kill us in the spring.” I have not seen a perfect first sentence like that in a long time. When people study Iraq in the future, this is the book they&#8217;ll read.
         </p>
         
         <p>
-          <a href="http://blog.vickiboykis.com/wp-content/uploads/2013/08/13366259.jpg"><img class="aligncenter size-full wp-image-9012" alt="13366259" src="http://blog.vickiboykis.com/wp-content/uploads/2013/08/13366259.jpg" width="316" height="475" /></a>
+          <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/08/13366259.jpg"><img class="aligncenter size-full wp-image-9012" alt="13366259" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/08/13366259.jpg" width="316" height="475" /></a>
         </p>
         
         <p>

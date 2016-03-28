@@ -25,7 +25,7 @@ Watch Sergei, an 18-year-old student at [Moscow State University](http://en.wik
 Take a look at his clothes and at the clothes of his love interest, Lyuda (Ludmilla), and notice the hair up in a bun. The 70s scarf.  The Soviet propaganda billboard behind them.  Marvel at how familiar it all feels.
 
 <p style="text-align: left;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2011/01/Screen-shot-2011-01-27-at-12.32.04-PM.png"><img class="aligncenter size-full wp-image-4280" title="Screen shot 2011-01-27 at 12.32.04 PM" src="http://blog.vickiboykis.com/wp-content/uploads/2011/01/Screen-shot-2011-01-27-at-12.32.04-PM.png" alt="" width="584" height="287" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/01/Screen-shot-2011-01-27-at-12.32.04-PM.png"><img class="aligncenter size-full wp-image-4280" title="Screen shot 2011-01-27 at 12.32.04 PM" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/01/Screen-shot-2011-01-27-at-12.32.04-PM.png" alt="" width="584" height="287" /></a>
 </p>
 
 <p style="text-align: left;">
@@ -33,7 +33,7 @@ Take a look at his clothes and at the clothes of his love interest, Lyuda (Ludmi
 </p>
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2011/01/Screen-shot-2011-01-27-at-12.53.07-PM.png"><img class="aligncenter size-full wp-image-4296" title="Screen shot 2011-01-27 at 12.53.07 PM" src="http://blog.vickiboykis.com/wp-content/uploads/2011/01/Screen-shot-2011-01-27-at-12.53.07-PM.png" alt="" width="534" height="197" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/01/Screen-shot-2011-01-27-at-12.53.07-PM.png"><img class="aligncenter size-full wp-image-4296" title="Screen shot 2011-01-27 at 12.53.07 PM" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/01/Screen-shot-2011-01-27-at-12.53.07-PM.png" alt="" width="534" height="197" /></a>
 </p>
 
 <p style="text-align: left;">
@@ -42,7 +42,7 @@ Take a look at his clothes and at the clothes of his love interest, Lyuda (Ludmi
   </p>
   
   <p style="text-align: center;">
-    <a href="http://blog.vickiboykis.com/wp-content/uploads/2011/01/Screen-shot-2011-01-27-at-12.23.30-PM.png"><img class="aligncenter" title="Screen shot 2011-01-27 at 12.23.30 PM" src="http://blog.vickiboykis.com/wp-content/uploads/2011/01/Screen-shot-2011-01-27-at-12.23.30-PM.png" alt="" width="373" height="368" /></a>
+    <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/01/Screen-shot-2011-01-27-at-12.23.30-PM.png"><img class="aligncenter" title="Screen shot 2011-01-27 at 12.23.30 PM" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/01/Screen-shot-2011-01-27-at-12.23.30-PM.png" alt="" width="373" height="368" /></a>
   </p>
   
   <p style="text-align: left;">
@@ -51,7 +51,7 @@ Take a look at his clothes and at the clothes of his love interest, Lyuda (Ludmi
     </p>
     
     <p style="text-align: center;">
-      <a href="http://blog.vickiboykis.com/wp-content/uploads/2011/01/Screen-shot-2011-01-27-at-12.37.47-PM.png"><img class="aligncenter size-full wp-image-4295" title="Screen shot 2011-01-27 at 12.37.47 PM" src="http://blog.vickiboykis.com/wp-content/uploads/2011/01/Screen-shot-2011-01-27-at-12.37.47-PM.png" alt="" width="613" height="325" /></a>
+      <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/01/Screen-shot-2011-01-27-at-12.37.47-PM.png"><img class="aligncenter size-full wp-image-4295" title="Screen shot 2011-01-27 at 12.37.47 PM" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/01/Screen-shot-2011-01-27-at-12.37.47-PM.png" alt="" width="613" height="325" /></a>
     </p>
     
     <p>
@@ -59,11 +59,11 @@ Take a look at his clothes and at the clothes of his love interest, Lyuda (Ludmi
     </p>
     
     <p style="text-align: center;">
-      <a href="http://blog.vickiboykis.com/wp-content/uploads/2011/01/scan0004.jpg"><img class="size-full wp-image-4298  aligncenter" title="scan0004" src="http://blog.vickiboykis.com/wp-content/uploads/2011/01/scan0004.jpg" alt="" width="357" height="512" /></a>
+      <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/01/scan0004.jpg"><img class="size-full wp-image-4298  aligncenter" title="scan0004" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/01/scan0004.jpg" alt="" width="357" height="512" /></a>
     </p>
     
     <p>
-      Look at your husband, age three. That shirt. That black and white camera film.<br /> <a href="http://blog.vickiboykis.com/wp-content/uploads/2011/01/18.jpg"><img class="aligncenter size-full wp-image-4299" title="18" src="http://blog.vickiboykis.com/wp-content/uploads/2011/01/18.jpg" alt="" width="328" height="512" /></a>
+      Look at your husband, age three. That shirt. That black and white camera film.<br /> <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/01/18.jpg"><img class="aligncenter size-full wp-image-4299" title="18" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/01/18.jpg" alt="" width="328" height="512" /></a>
     </p>
     
     <p>
@@ -71,7 +71,7 @@ Take a look at his clothes and at the clothes of his love interest, Lyuda (Ludmi
     </p>
     
     <p style="text-align: center;">
-      <a href="http://blog.vickiboykis.com/wp-content/uploads/2011/01/Screen-shot-2011-01-27-at-12.34.14-PM.png"><img class="aligncenter size-full wp-image-4282" title="Screen shot 2011-01-27 at 12.34.14 PM" src="http://blog.vickiboykis.com/wp-content/uploads/2011/01/Screen-shot-2011-01-27-at-12.34.14-PM.png" alt="" width="475" height="275" /></a>
+      <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/01/Screen-shot-2011-01-27-at-12.34.14-PM.png"><img class="aligncenter size-full wp-image-4282" title="Screen shot 2011-01-27 at 12.34.14 PM" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/01/Screen-shot-2011-01-27-at-12.34.14-PM.png" alt="" width="475" height="275" /></a>
     </p>
     
     <p>
@@ -79,7 +79,7 @@ Take a look at his clothes and at the clothes of his love interest, Lyuda (Ludmi
     </p>
     
     <p style="text-align: center;">
-      <a href="http://blog.vickiboykis.com/wp-content/uploads/2011/01/Screen-shot-2011-01-27-at-12.37.39-PM.png"><img class="aligncenter size-full wp-image-4292" title="Screen shot 2011-01-27 at 12.37.39 PM" src="http://blog.vickiboykis.com/wp-content/uploads/2011/01/Screen-shot-2011-01-27-at-12.37.39-PM.png" alt="" width="580" height="323" /></a>
+      <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/01/Screen-shot-2011-01-27-at-12.37.39-PM.png"><img class="aligncenter size-full wp-image-4292" title="Screen shot 2011-01-27 at 12.37.39 PM" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/01/Screen-shot-2011-01-27-at-12.37.39-PM.png" alt="" width="580" height="323" /></a>
     </p>
     
     <p>
@@ -95,7 +95,7 @@ Take a look at his clothes and at the clothes of his love interest, Lyuda (Ludmi
     </p>
     
     <p style="text-align: center;">
-      <a href="http://blog.vickiboykis.com/wp-content/uploads/2011/01/Screen-shot-2011-01-27-at-12.38.55-PM.png"><img class="aligncenter size-full wp-image-4293" title="Screen shot 2011-01-27 at 12.38.55 PM" src="http://blog.vickiboykis.com/wp-content/uploads/2011/01/Screen-shot-2011-01-27-at-12.38.55-PM.png" alt="" width="515" height="284" /></a>
+      <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/01/Screen-shot-2011-01-27-at-12.38.55-PM.png"><img class="aligncenter size-full wp-image-4293" title="Screen shot 2011-01-27 at 12.38.55 PM" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/01/Screen-shot-2011-01-27-at-12.38.55-PM.png" alt="" width="515" height="284" /></a>
     </p>
     
     <p>

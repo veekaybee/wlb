@@ -24,7 +24,7 @@ tags:
 &nbsp;
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2013/06/DSC_0173.jpg"><img class="aligncenter  wp-image-8782" alt="DSC_0173" src="http://blog.vickiboykis.com/wp-content/uploads/2013/06/DSC_0173-580x456.jpg" width="522" height="410" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/06/DSC_0173.jpg"><img class="aligncenter  wp-image-8782" alt="DSC_0173" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/06/DSC_0173-580x456.jpg" width="522" height="410" /></a>
 </p>
 
  When you&#8217;re in Italy, you must eat pasta, drink wine, get fat, relax, enjoy life to its fullest. That&#8217;s what they say at Olive Garden, at least.  The colors are brighter, the food more natural and delicious, and the people so warm and approachable that one day you&#8217;re an intern, next, <a href="http://www.sfgate.com/news/world/article/Woman-in-bunga-bunga-scandal-loved-Berlusconi-4585819.php" target="_blank">you&#8217;re  running a prostitution ring</a> from the Prime Minister&#8217;s office.
@@ -46,7 +46,7 @@ Unfortunately, I couldn&#8217;t unclench in Italy, either, and the trip turned o
 The rest of this blog posts will be spent exploring how anal-retentive I am and all of the ways the Western literary canon lied to me about Italy. Ciao!
 
 <p style="text-align: center;">
-   <a href="http://blog.vickiboykis.com/wp-content/uploads/2013/06/DSC_0342.jpg"><img class="aligncenter  wp-image-8794" alt="DSC_0342" src="http://blog.vickiboykis.com/wp-content/uploads/2013/06/DSC_0342-580x894.jpg" width="464" height="715" /></a>
+   <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/06/DSC_0342.jpg"><img class="aligncenter  wp-image-8794" alt="DSC_0342" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/06/DSC_0342-580x894.jpg" width="464" height="715" /></a>
 </p>
 
 &nbsp;
@@ -56,7 +56,7 @@ Mr. B and I arrived at Fiumicino on a Friday morning on U.S. Airways. Flying thi
 This is how Italian travel is supposed to be:
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2013/06/H0223-L25185085.jpg"><img class="aligncenter  wp-image-8831" alt="H0223-L25185085" src="http://blog.vickiboykis.com/wp-content/uploads/2013/06/H0223-L25185085-580x713.jpg" width="406" height="499" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/06/H0223-L25185085.jpg"><img class="aligncenter  wp-image-8831" alt="H0223-L25185085" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/06/H0223-L25185085-580x713.jpg" width="406" height="499" /></a>
 </p>
 
 <p style="text-align: left;">
@@ -64,7 +64,7 @@ This is how Italian travel is supposed to be:
 </p>
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2013/06/Flying-Coach.jpg"><img class="aligncenter  wp-image-8832" alt="Flying-Coach" src="http://blog.vickiboykis.com/wp-content/uploads/2013/06/Flying-Coach-580x352.jpg" width="464" height="282" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/06/Flying-Coach.jpg"><img class="aligncenter  wp-image-8832" alt="Flying-Coach" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/06/Flying-Coach-580x352.jpg" width="464" height="282" /></a>
 </p>
 
 We were staying at someone&#8217;s apartment through AirBnB, so I needed to call him and tell him we were on our way so he could meet us there. We had rented a cell phone through the same company I&#8217;d used in Israel.
@@ -80,7 +80,7 @@ Unfortunately, the cell phone thought it was still in its ancestral homeland, an
 I looked around the landscape. Central Italy is almost virtually indistinguishable from the States, except that there are hundreds of umbrella pines dotting the landscape, like so:
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2013/06/Screen-Shot-2013-06-16-at-5.40.57-PM.png"><img class="aligncenter  wp-image-8802" alt="Screen Shot 2013-06-16 at 5.40.57 PM" src="http://blog.vickiboykis.com/wp-content/uploads/2013/06/Screen-Shot-2013-06-16-at-5.40.57-PM-580x387.png" width="464" height="310" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/06/Screen-Shot-2013-06-16-at-5.40.57-PM.png"><img class="aligncenter  wp-image-8802" alt="Screen Shot 2013-06-16 at 5.40.57 PM" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/06/Screen-Shot-2013-06-16-at-5.40.57-PM-580x387.png" width="464" height="310" /></a>
 </p>
 
 and, also, it doesn&#8217;t censor American rap music.  The taxi driver&#8217;s phone rang. His ringtone was _Get Lucky_. It is impossible to escape American culture.
@@ -98,7 +98,7 @@ We had promised the apartment owner we&#8217;d be there in thirty minutes. We we
 This incident began my understanding of Italian  Italian time. Italian time is different from American time. Every culture I know has the joke that they&#8217;re on X Standard Time, but I have yet to meet a culture that treats time with such elasticity as Italians.  Most that deal with anal-retentive Americans are on time. Everyone else is, _come se dice, suggerimento_.  Cafes open around 8 or 9, maybe, farmers&#8217; markets, also, maybe 10, or whenever they feel like it. Everyone closes down around 1:30 for lunch and doesn&#8217;t reopen until dinner, which can be at 7:30 or 10, depending on  how you feel and if Gli Azzuri won their match. If you have a heart attack between 12 and 1, well, try to have it later.
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2013/06/DSC_0273.jpg"><img class="aligncenter  wp-image-8813" alt="DSC_0273" src="http://blog.vickiboykis.com/wp-content/uploads/2013/06/DSC_0273-580x817.jpg" width="464" height="654" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/06/DSC_0273.jpg"><img class="aligncenter  wp-image-8813" alt="DSC_0273" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/06/DSC_0273-580x817.jpg" width="464" height="654" /></a>
 </p>
 
 <p style="text-align: center;">
@@ -116,7 +116,7 @@ But Italy has nowhere to hurry, and this was obvious from the very beginning in 
 This is all of Italy. It&#8217;s accomplished enormous amounts of creative throughput in the last couple centuries. Dante. Fermi. Garibaldi. Nero. Caesar.  Vivaldi. Machiavelli. Augustus.  Benigni.  It&#8217;s in no hurry to prove itself like America is. Italy&#8217;s done with the marathon and relaxing with a coffee and a cigarette on the sideline.  America is still young and uppity, trying to constantly prove itself, failing, tripping over its shoes, getting back up and at it.  America&#8217;s still only (I hope) on mile 3 of 26.&#8221;That&#8217;s fine, kid,&#8221; Italy says. &#8220;I&#8217;ve done it all. I&#8217;ve done the 12 gods thing and the monotheism thing. I&#8217;ve made the most famous penis sculpture in marble. I&#8217;ve combined tomatoes and cheese. I&#8217;ve given hipsters centurion sandals.   You can take it from here. I&#8217;m on strike. &#8221;
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2013/06/DSC_0272.jpg"><img class="aligncenter  wp-image-8817" alt="DSC_0272" src="http://blog.vickiboykis.com/wp-content/uploads/2013/06/DSC_0272-580x440.jpg" width="464" height="352" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/06/DSC_0272.jpg"><img class="aligncenter  wp-image-8817" alt="DSC_0272" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/06/DSC_0272-580x440.jpg" width="464" height="352" /></a>
 </p>
 
 For the next three days, we started to understand more about this culture as we walked Rome ragged. Russian vacations are never-say-die vacations, as I&#8217;ve written about before, and despite the fact that even up to two days before we left I didn&#8217;t have an itinerary, we walked the entire city.
@@ -124,7 +124,7 @@ For the next three days, we started to understand more about this culture as we 
 We walked an average of 7 miles a day, and we walked ceaselessly, trying to get into every nook and cranny.
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2013/06/DSC_0284.jpg"><img class="aligncenter  wp-image-8819" alt="DSC_0284" src="http://blog.vickiboykis.com/wp-content/uploads/2013/06/DSC_0284-580x431.jpg" width="522" height="388" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/06/DSC_0284.jpg"><img class="aligncenter  wp-image-8819" alt="DSC_0284" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/06/DSC_0284-580x431.jpg" width="522" height="388" /></a>
 </p>
 
 Too many people have written about Rome for me to write anything meaningful. People have been writing about Rome for centuries. Mark Twain wrote, in the second half of the 19th century in Innocents Abroad,
@@ -147,7 +147,7 @@ It probably reads like this:
 
 But it was more like this:
 
-[<img class="aligncenter size-full wp-image-8833" alt="tumblr_ljev2jWmBT1qffe9jo1_500" src="http://blog.vickiboykis.com/wp-content/uploads/2013/06/tumblr_ljev2jWmBT1qffe9jo1_500.jpg" width="500" height="279" />](http://blog.vickiboykis.com/wp-content/uploads/2013/06/tumblr_ljev2jWmBT1qffe9jo1_500.jpg)
+[<img class="aligncenter size-full wp-image-8833" alt="tumblr_ljev2jWmBT1qffe9jo1_500" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/06/tumblr_ljev2jWmBT1qffe9jo1_500.jpg" width="500" height="279" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/06/tumblr_ljev2jWmBT1qffe9jo1_500.jpg)
 
 &nbsp;
 
@@ -160,13 +160,13 @@ So we crawled up the stairs.
 <span style="font-size: 13px; line-height: 19px;">We took embarrassing pictures with gladiators. These pictures cost 5 euros and 5 dollars.</span>
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2013/06/DSC_0317.jpg"><img class="aligncenter  wp-image-8822" alt="DSC_0317" src="http://blog.vickiboykis.com/wp-content/uploads/2013/06/DSC_0317-580x519.jpg" width="406" height="363" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/06/DSC_0317.jpg"><img class="aligncenter  wp-image-8822" alt="DSC_0317" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/06/DSC_0317-580x519.jpg" width="406" height="363" /></a>
 </p>
 
  We saw too much large marble genetalia. Some of us were immature enough to take pictures.
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2013/06/DSC_0292.jpg"><img class="aligncenter  wp-image-8821" alt="DSC_0292" src="http://blog.vickiboykis.com/wp-content/uploads/2013/06/DSC_0292-580x872.jpg" width="464" height="698" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/06/DSC_0292.jpg"><img class="aligncenter  wp-image-8821" alt="DSC_0292" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/06/DSC_0292-580x872.jpg" width="464" height="698" /></a>
 </p>
 
 In all of that, in all the constant walking and the monument-seeing and the gelato-eating, we were never sure whether we were having genuine experiences, whether we understood the real Rome.  Rome is a city that has been washed over for hundreds of years, and, as such, is designed to put on a show. It has a thin veneer that it coats for tourists, near the bridges, near the castle, near the Typewriter, and near everything that makes tourists want to visit.
@@ -177,7 +177,7 @@ There was one glimpse of the real Rome. We went to the Jewish Quarter, to the sy
 
 Trying to see the true Rome is like looking in a thousand mirrors for the true reflection, and I&#8217;m sad to say we didn&#8217;t find it, no matter how far we walked. And we walked really, really far.  We were exhausted and overloaded with ancient stuff and Roman stereotypes.
 
-<img class="aligncenter size-medium wp-image-8826" alt="DSC_0215" src="http://blog.vickiboykis.com/wp-content/uploads/2013/06/DSC_0215-580x351.jpg" width="580" height="351" />
+<img class="aligncenter size-medium wp-image-8826" alt="DSC_0215" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/06/DSC_0215-580x351.jpg" width="580" height="351" />
 
 Somehow I knew that the Amalfi Coast held the truth, the true vacation, the true relaxation, if only I could live until then.
 

@@ -19,7 +19,7 @@ tags:
 From time to time, my mom reminds me that she still has all of my children&#8217;s books from Russia, just in case I decide to gift her with grandchildren soon.  She is on standby.  Mr. B&#8217;s, mom, of course, says that she will immediately confiscate any female children and leave the leftovers to my mom.  This plan of theirs is all well and good, of course, but is unfortunately entirely dependent on the aforementioned children coming into being.
 
 <div id="attachment_2079" style="width: 329px" class="wp-caption aligncenter">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2010/01/Morozhonoe.jpg"><img class="size-full wp-image-2079" title="Morozhonoe" src="http://blog.vickiboykis.com/wp-content/uploads/2010/01/Morozhonoe.jpg" alt="" width="319" height="400" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/01/Morozhonoe.jpg"><img class="size-full wp-image-2079" title="Morozhonoe" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/01/Morozhonoe.jpg" alt="" width="319" height="400" /></a>
   
   <p class="wp-caption-text">
     Ice Cream by S. Marshak (an iconic Russian children's writer)
@@ -36,7 +36,7 @@ From time to time, my mom reminds me that she still has all of my children&#8217
   </p>
   
   <div id="attachment_2081" style="width: 370px" class="wp-caption aligncenter">
-    <a href="http://blog.vickiboykis.com/wp-content/uploads/2010/01/Maminmo.jpg"><img class="size-full wp-image-2081" title="Maminmo" src="http://blog.vickiboykis.com/wp-content/uploads/2010/01/Maminmo.jpg" alt="" width="360" height="416" /></a>
+    <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/01/Maminmo.jpg"><img class="size-full wp-image-2081" title="Maminmo" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/01/Maminmo.jpg" alt="" width="360" height="416" /></a>
     
     <p class="wp-caption-text">
       Mom's Bridge

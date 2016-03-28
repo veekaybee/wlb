@@ -26,7 +26,7 @@ It&#8217;ll be fun.
 
 <a href="http://www.sheepsheadbites.com/2011/07/kagan-bashes-russian-dolls-brighton-beach-reality-show/" target="_blank">Anyone else</a> covering it?
 
-[<img class="aligncenter size-full wp-image-5539" title="6bf847fe0c13e355a505a42deeccc805" src="http://blog.vickiboykis.com/wp-content/uploads/2011/08/6bf847fe0c13e355a505a42deeccc805.gif" alt="" width="300" height="225" />](http://blog.vickiboykis.com/wp-content/uploads/2011/08/6bf847fe0c13e355a505a42deeccc805.gif)
+[<img class="aligncenter size-full wp-image-5539" title="6bf847fe0c13e355a505a42deeccc805" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/08/6bf847fe0c13e355a505a42deeccc805.gif" alt="" width="300" height="225" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/08/6bf847fe0c13e355a505a42deeccc805.gif)
 
 P.S. For some REAL insight into the Amero-Russian community, why not check out my <a href="http://blog.vickiboykis.com/tag/russian/" target="_blank">hundreds</a> of <a href="http://blog.vickiboykis.com/tag/russian-jews/" target="_blank">blog posts</a> making fun of it? Talk to me, <a href="http://blog.vickiboykis.com/2010/11/18/skrug/" target="_blank">Lifetime</a>.
 

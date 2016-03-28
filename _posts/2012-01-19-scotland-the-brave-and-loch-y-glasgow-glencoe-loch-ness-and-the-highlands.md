@@ -25,19 +25,19 @@ tags:
 We are finally in Glasgow!  Nothing says welcome to Glasgow like Failte gu Sraid na Banrighinn! (by the way, I have lots of thoughts on why more Scottish people should speak Gaelic, but I&#8217;ll leave my demands that the Scottish find their own personal Ben Yehuda to whip everyone into shape for another post and for now will only link to this <a href="http://www.youtube.com/watch?v=Lktt_DlpsJA" target="_blank">weather report in Gaelic</a>, which I&#8217;ve been watching at least once a day. )
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2012/01/IMAG1095.jpg"><img class="aligncenter  wp-image-6285" title="IMAG1095" src="http://blog.vickiboykis.com/wp-content/uploads/2012/01/IMAG1095.jpg" alt="" width="614" height="369" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/01/IMAG1095.jpg"><img class="aligncenter  wp-image-6285" title="IMAG1095" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/01/IMAG1095.jpg" alt="" width="614" height="369" /></a>
 </p>
 
 Haha! Surprise! It&#8217;s raining there, too. Just look at all the Scottish women hardened against the elements. Can you spot the American moron in North Face without a rain hat?
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2012/01/IMAG1103.jpg"><img class="aligncenter  wp-image-6279" title="IMAG1103" src="http://blog.vickiboykis.com/wp-content/uploads/2012/01/IMAG1103.jpg" alt="" width="627" height="377" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/01/IMAG1103.jpg"><img class="aligncenter  wp-image-6279" title="IMAG1103" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/01/IMAG1103.jpg" alt="" width="627" height="377" /></a>
 </p>
 
 Well, as long as it&#8217;s raining, we might as well take advantage of the indoors by <a href="http://westbeer.com/" target="_blank">Drinking</a>. At the only bar in Scotland certified under German beer laws.
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2012/01/IMAG11081.jpg"><img class="aligncenter  wp-image-6278" title="IMAG1108" src="http://blog.vickiboykis.com/wp-content/uploads/2012/01/IMAG11081.jpg" alt="" width="627" height="377" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/01/IMAG11081.jpg"><img class="aligncenter  wp-image-6278" title="IMAG1108" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/01/IMAG11081.jpg" alt="" width="627" height="377" /></a>
 </p>
 
 Slainte! Also, <a href="http://scotgaelic.tripod.com/phrases.html" target="_blank">&#8220;Bha e brèagha an-de.&#8221; </a>(there is no way people in Scotland ever say this.)
@@ -45,45 +45,45 @@ Slainte! Also, <a href="http://scotgaelic.tripod.com/phrases.html" target="_blan
 In the restaurant, there were a bunch of dudes having a Christmas party nearby wearing crowns.  Even though it was a work day, they sat there for at least four hours drinking beer and scotch and being rowdy.  My God, I love socialism so much it hurts.
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2012/01/IMAG1109.jpg"><img class="aligncenter  wp-image-6283" title="IMAG1109" src="http://blog.vickiboykis.com/wp-content/uploads/2012/01/IMAG1109.jpg" alt="" width="369" height="614" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/01/IMAG1109.jpg"><img class="aligncenter  wp-image-6283" title="IMAG1109" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/01/IMAG1109.jpg" alt="" width="369" height="614" /></a>
 </p>
 
 We also enjoyed the bustle of the crowds and the beautiful Victorian-era architecture on the last few shopping days before Christmas:
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2012/01/IMAG1143.jpg"><img class="aligncenter  wp-image-6281" title="IMAG1143" src="http://blog.vickiboykis.com/wp-content/uploads/2012/01/IMAG1143.jpg" alt="" width="538" height="896" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/01/IMAG1143.jpg"><img class="aligncenter  wp-image-6281" title="IMAG1143" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/01/IMAG1143.jpg" alt="" width="538" height="896" /></a>
 </p>
 
 And stood, awestruck, <a href="http://en.wikipedia.org/wiki/Glasgow_Cathedral" target="_blank">in a church</a> that is older than America times five bajillion.
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2012/01/DSC_0811.jpg"><img class="aligncenter  wp-image-6286" title="DSC_0811" src="http://blog.vickiboykis.com/wp-content/uploads/2012/01/DSC_0811.jpg" alt="" width="600" height="902" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/01/DSC_0811.jpg"><img class="aligncenter  wp-image-6286" title="DSC_0811" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/01/DSC_0811.jpg" alt="" width="600" height="902" /></a>
 </p>
 
 But that&#8217;s not the important part.
 
 This is:
 
-[<img class="aligncenter" title="DSC_0748" src="http://blog.vickiboykis.com/wp-content/uploads/2012/01/DSC_0748-1024x680.jpg" alt="" width="717" height="476" />](http://blog.vickiboykis.com/wp-content/uploads/2012/01/DSC_0748.jpg)
+[<img class="aligncenter" title="DSC_0748" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/01/DSC_0748-1024x680.jpg" alt="" width="717" height="476" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/01/DSC_0748.jpg)
 
 [**(for a refresher, <a href="http://blog.vickiboykis.com/2011/12/28/scotland-the-brave-and-also-rainy-edinburgh/" target="_blank">Scotland, Part 1</a>,<a href="http://blog.vickiboykis.com/2012/01/05/scotland-the-brave-but-still-incredibly-rainy-the-lochs-and-stirling-castle/" target="_blank">Scotland, Part 2,</a><a href="http://blog.vickiboykis.com/2012/01/10/scotland-the-brave-its-about-to-get-a-little-anti-semitic-up-in-edinburgh-also-rainy/" target="_blank">Scotland, Part 3 </a>)**
 
 We are finally in Glasgow!  Nothing says welcome to Glasgow like Failte gu Sraid na Banrighinn! (by the way, I have lots of thoughts on why more Scottish people should speak Gaelic, but I&#8217;ll leave my demands that the Scottish find their own personal Ben Yehuda to whip everyone into shape for another post and for now will only link to this <a href="http://www.youtube.com/watch?v=Lktt_DlpsJA" target="_blank">weather report in Gaelic</a>, which I&#8217;ve been watching at least once a day. )
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2012/01/IMAG1095.jpg"><img class="aligncenter  wp-image-6285" title="IMAG1095" src="http://blog.vickiboykis.com/wp-content/uploads/2012/01/IMAG1095.jpg" alt="" width="614" height="369" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/01/IMAG1095.jpg"><img class="aligncenter  wp-image-6285" title="IMAG1095" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/01/IMAG1095.jpg" alt="" width="614" height="369" /></a>
 </p>
 
 Haha! Surprise! It&#8217;s raining there, too. Just look at all the Scottish women hardened against the elements. Can you spot the American moron in North Face without a rain hat?
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2012/01/IMAG1103.jpg"><img class="aligncenter  wp-image-6279" title="IMAG1103" src="http://blog.vickiboykis.com/wp-content/uploads/2012/01/IMAG1103.jpg" alt="" width="627" height="377" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/01/IMAG1103.jpg"><img class="aligncenter  wp-image-6279" title="IMAG1103" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/01/IMAG1103.jpg" alt="" width="627" height="377" /></a>
 </p>
 
 Well, as long as it&#8217;s raining, we might as well take advantage of the indoors by <a href="http://westbeer.com/" target="_blank">Drinking</a>. At the only bar in Scotland certified under German beer laws.
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2012/01/IMAG11081.jpg"><img class="aligncenter  wp-image-6278" title="IMAG1108" src="http://blog.vickiboykis.com/wp-content/uploads/2012/01/IMAG11081.jpg" alt="" width="627" height="377" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/01/IMAG11081.jpg"><img class="aligncenter  wp-image-6278" title="IMAG1108" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/01/IMAG11081.jpg" alt="" width="627" height="377" /></a>
 </p>
 
 Slainte! Also, <a href="http://scotgaelic.tripod.com/phrases.html" target="_blank">&#8220;Bha e brèagha an-de.&#8221; </a>(there is no way people in Scotland ever say this.)
@@ -91,49 +91,49 @@ Slainte! Also, <a href="http://scotgaelic.tripod.com/phrases.html" target="_blan
 In the restaurant, there were a bunch of dudes having a Christmas party nearby wearing crowns.  Even though it was a work day, they sat there for at least four hours drinking beer and scotch and being rowdy.  My God, I love socialism so much it hurts.
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2012/01/IMAG1109.jpg"><img class="aligncenter  wp-image-6283" title="IMAG1109" src="http://blog.vickiboykis.com/wp-content/uploads/2012/01/IMAG1109.jpg" alt="" width="369" height="614" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/01/IMAG1109.jpg"><img class="aligncenter  wp-image-6283" title="IMAG1109" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/01/IMAG1109.jpg" alt="" width="369" height="614" /></a>
 </p>
 
 We also enjoyed the bustle of the crowds and the beautiful Victorian-era architecture on the last few shopping days before Christmas:
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2012/01/IMAG1143.jpg"><img class="aligncenter  wp-image-6281" title="IMAG1143" src="http://blog.vickiboykis.com/wp-content/uploads/2012/01/IMAG1143.jpg" alt="" width="538" height="896" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/01/IMAG1143.jpg"><img class="aligncenter  wp-image-6281" title="IMAG1143" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/01/IMAG1143.jpg" alt="" width="538" height="896" /></a>
 </p>
 
 And stood, awestruck, <a href="http://en.wikipedia.org/wiki/Glasgow_Cathedral" target="_blank">in a church</a> that is older than America times five bajillion.
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2012/01/DSC_0811.jpg"><img class="aligncenter  wp-image-6286" title="DSC_0811" src="http://blog.vickiboykis.com/wp-content/uploads/2012/01/DSC_0811.jpg" alt="" width="600" height="902" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/01/DSC_0811.jpg"><img class="aligncenter  wp-image-6286" title="DSC_0811" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/01/DSC_0811.jpg" alt="" width="600" height="902" /></a>
 </p>
 
 But that&#8217;s not the important part.
 
 This is:
 
-[<img class="aligncenter" title="DSC_0748" src="http://blog.vickiboykis.com/wp-content/uploads/2012/01/DSC_0748-1024x680.jpg" alt="" width="717" height="476" />](http://blog.vickiboykis.com/wp-content/uploads/2012/01/DSC_0748.jpg)
+[<img class="aligncenter" title="DSC_0748" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/01/DSC_0748-1024x680.jpg" alt="" width="717" height="476" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/01/DSC_0748.jpg)
 
-](http://blog.vickiboykis.com/wp-content/uploads/2012/01/IMAG1097.jpg) 
+](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/01/IMAG1097.jpg) 
 
 We ended up taking <a href="http://www.scotland.org.uk/tours-of-scotland/loch-ness-glencoe-a-the-highlands-day-tour-from-rabbies-glasgow" target="_blank">another Rabbie&#8217;s tour</a>, which meant getting up from our <a href="http://www.citizenm.com/" target="_blank">amazing, cozy, nice hotel room</a> in Glasgow at 6 in the morning to make this trip:
 
 &nbsp;
 
-[<img class="aligncenter size-full wp-image-6289" title="Screen shot 2012-01-19 at 7.17.11 AM" src="http://blog.vickiboykis.com/wp-content/uploads/2012/01/Screen-shot-2012-01-19-at-7.17.11-AM.png" alt="" width="398" height="401" />](http://blog.vickiboykis.com/wp-content/uploads/2012/01/Screen-shot-2012-01-19-at-7.17.11-AM.png)
+[<img class="aligncenter size-full wp-image-6289" title="Screen shot 2012-01-19 at 7.17.11 AM" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/01/Screen-shot-2012-01-19-at-7.17.11-AM.png" alt="" width="398" height="401" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/01/Screen-shot-2012-01-19-at-7.17.11-AM.png)
 
 Said hotel room had a remote control that you could use on the TV, the room lights, the curtains, and the bathroom. Check this.  The bed goes ALL THE WAY TO THE WALL. And you can WATCH TV WHILE YOU ARE LYING DOWN. Also, when you check into the WiFi, if you have an iPad, they have a special iPad magazine with recommendations of what to do in Glasgow.  Basically, it&#8217;s a hipster/yuppie trap and we fell right into it.
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2012/01/IMAG10961.jpg"><img class="aligncenter  wp-image-6275" title="IMAG1096" src="http://blog.vickiboykis.com/wp-content/uploads/2012/01/IMAG10961-614x1024.jpg" alt="" width="430" height="717" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/01/IMAG10961.jpg"><img class="aligncenter  wp-image-6275" title="IMAG1096" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/01/IMAG10961-614x1024.jpg" alt="" width="430" height="717" /></a>
 </p>
 
 Not to mention, stuffed animals and 60s-era chairs.  This is how to go Continental, ladies and gentlemen.
 
-[<img class="aligncenter" title="IMAG1097" src="http://blog.vickiboykis.com/wp-content/uploads/2012/01/IMAG1097-180x300.jpg" alt="" width="180" height="300" />](http://blog.vickiboykis.com/wp-content/uploads/2012/01/IMAG1097.jpg)
+[<img class="aligncenter" title="IMAG1097" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/01/IMAG1097-180x300.jpg" alt="" width="180" height="300" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/01/IMAG1097.jpg)
 
 So anyway, we roused ourselves and walked to <a href="http://en.wikipedia.org/wiki/George_Square" target="_blank">George Square</a>, where there is a statue of <a href="http://en.wikipedia.org/wiki/File:VictoriaStatue.jpg" target="_blank">Queen V on horseback</a>. It&#8217;s like <a href="http://blog.vickiboykis.com/2010/01/18/riding-a-horse-is-like-blogging-except-you-cant-become-a-parapalegic-if-you-blog/" target="_blank">my parents named me correctly</a> or something.  It was cold, dark, and raining (Because, Scotland.):
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2012/01/IMAG1121.jpg"><img class="aligncenter  wp-image-6280" title="IMAG1121" src="http://blog.vickiboykis.com/wp-content/uploads/2012/01/IMAG1121.jpg" alt="" width="377" height="627" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/01/IMAG1121.jpg"><img class="aligncenter  wp-image-6280" title="IMAG1121" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/01/IMAG1121.jpg" alt="" width="377" height="627" /></a>
 </p>
 
 &nbsp;
@@ -143,7 +143,7 @@ It was also 8 in the morning, and there is a family of 6 people talking extremel
 We left Glasgow behind just as the sun didn&#8217;t start to rise, with our guide Nicola talking up a storm.  We (all 16 of us, Dutch, American, Australian, and French alike) were asleep.  We stopped off at Loch Lomond once more on our way north through the Highlands.  It was just as beautiful, if stern:
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2012/01/DSC_0757.jpg"><img class="aligncenter  wp-image-6291" title="DSC_0757" src="http://blog.vickiboykis.com/wp-content/uploads/2012/01/DSC_0757.jpg" alt="" width="632" height="420" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/01/DSC_0757.jpg"><img class="aligncenter  wp-image-6291" title="DSC_0757" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/01/DSC_0757.jpg" alt="" width="632" height="420" /></a>
 </p>
 
 That lit-up building behind is is tied to a hydroelectric power plant.  Because Scotland has done a hell of a job failing to secure its independence by force for the last, oh, six-hundred years, it&#8217;s decided to try to become energy-independent from England. <a href="http://www.omniglot.com/language/phrases/gaelic.php" target="_blank">G&#8217;un robh math agad</a>!
@@ -153,7 +153,7 @@ Then, we proceeded on for more than an hour, passed Fort William, and suddenly, 
 Oh my God.  They are so beautiful. All you see out your window are gorse-filled moors and quiet, and in the distance, serious craigs shrouded with fog and snow-flecked, everywhere.  There are streams and small pools of water reflecting the slate-gray sky.  Rocks that look like they were made by Viking gods dot the landscape. This is the real Scotland.
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2012/01/Screen-shot-2012-01-19-at-7.28.30-AM.png"><img class="aligncenter  wp-image-6293" title="Screen shot 2012-01-19 at 7.28.30 AM" src="http://blog.vickiboykis.com/wp-content/uploads/2012/01/Screen-shot-2012-01-19-at-7.28.30-AM.png" alt="" width="683" height="353" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/01/Screen-shot-2012-01-19-at-7.28.30-AM.png"><img class="aligncenter  wp-image-6293" title="Screen shot 2012-01-19 at 7.28.30 AM" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/01/Screen-shot-2012-01-19-at-7.28.30-AM.png" alt="" width="683" height="353" /></a>
 </p>
 
 &nbsp;
@@ -167,7 +167,7 @@ Imagine.  Imagine you are a woman in the 1700s in Scotland,.  You already have
 Since we were there in the winter, I really imagined the women and children wandering, frightened, helpless, in the very same spaces that I was, the mountains silent and firm and the wind howling, and I thought all at once about how horrible and wonderful life was.  And <a href="http://www.youtube.com/watch?v=8cPitxtk4m0" target="_blank">this song kept playing in my mind.</a>
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2012/01/DSC_0774.jpg"><img class="aligncenter  wp-image-6295" title="DSC_0774" src="http://blog.vickiboykis.com/wp-content/uploads/2012/01/DSC_0774.jpg" alt="" width="737" height="490" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/01/DSC_0774.jpg"><img class="aligncenter  wp-image-6295" title="DSC_0774" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/01/DSC_0774.jpg" alt="" width="737" height="490" /></a>
 </p>
 
 &nbsp;
@@ -175,13 +175,13 @@ Since we were there in the winter, I really imagined the women and children wand
 The most chilling part is how beautiful it is there.
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2012/01/DSC_0768.jpg"><img class="aligncenter  wp-image-6296" title="DSC_0768" src="http://blog.vickiboykis.com/wp-content/uploads/2012/01/DSC_0768.jpg" alt="" width="631" height="420" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/01/DSC_0768.jpg"><img class="aligncenter  wp-image-6296" title="DSC_0768" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/01/DSC_0768.jpg" alt="" width="631" height="420" /></a>
 </p>
 
 &nbsp;
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2012/01/DSC_0772.jpg"><img class="aligncenter  wp-image-6298" title="DSC_0772" src="http://blog.vickiboykis.com/wp-content/uploads/2012/01/DSC_0772.jpg" alt="" width="737" height="490" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/01/DSC_0772.jpg"><img class="aligncenter  wp-image-6298" title="DSC_0772" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/01/DSC_0772.jpg" alt="" width="737" height="490" /></a>
 </p>
 
 So we stood there, the wind prying under our jackets, for five minutes in the silence,absorbed by the enormity of it.
@@ -189,7 +189,7 @@ So we stood there, the wind prying under our jackets, for five minutes in the si
 Then the Asian tourists came.
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2012/01/DSC_0792.jpg"><img class="aligncenter  wp-image-6300" title="DSC_0792" src="http://blog.vickiboykis.com/wp-content/uploads/2012/01/DSC_0792.jpg" alt="" width="737" height="490" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/01/DSC_0792.jpg"><img class="aligncenter  wp-image-6300" title="DSC_0792" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/01/DSC_0792.jpg" alt="" width="737" height="490" /></a>
 </p>
 
 &nbsp;
@@ -199,7 +199,7 @@ And with that, we were off to Loch Ness.
 The only  thing monstrous about Loch Ness is how huge of a tourist trap it is.  But I couldn&#8217;t resist.
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2012/01/IMAG1132.jpg"><img class="aligncenter  wp-image-6302" title="IMAG1132" src="http://blog.vickiboykis.com/wp-content/uploads/2012/01/IMAG1132.jpg" alt="" width="627" height="377" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/01/IMAG1132.jpg"><img class="aligncenter  wp-image-6302" title="IMAG1132" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/01/IMAG1132.jpg" alt="" width="627" height="377" /></a>
 </p>
 
 <p style="text-align: center;">
@@ -208,11 +208,11 @@ The only  thing monstrous about Loch Ness is how huge of a tourist trap it is. 
   </p>
   
   <p style="text-align: center;">
-    <a href="http://blog.vickiboykis.com/wp-content/uploads/2012/01/IMAG1122.jpg"><img class="aligncenter  wp-image-6307" title="IMAG1122" src="http://blog.vickiboykis.com/wp-content/uploads/2012/01/IMAG1122.jpg" alt="" width="538" height="323" /></a>
+    <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/01/IMAG1122.jpg"><img class="aligncenter  wp-image-6307" title="IMAG1122" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/01/IMAG1122.jpg" alt="" width="538" height="323" /></a>
   </p>
   
   <p style="text-align: center;">
-    <a href="http://blog.vickiboykis.com/wp-content/uploads/2012/01/IMAG1133.jpg"><img class="aligncenter  wp-image-6303" title="IMAG1133" src="http://blog.vickiboykis.com/wp-content/uploads/2012/01/IMAG1133.jpg" alt="" width="538" height="896" /></a>
+    <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/01/IMAG1133.jpg"><img class="aligncenter  wp-image-6303" title="IMAG1133" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/01/IMAG1133.jpg" alt="" width="538" height="896" /></a>
   </p>
   
   <p style="text-align: left;">
@@ -220,7 +220,7 @@ The only  thing monstrous about Loch Ness is how huge of a tourist trap it is. 
   </p>
   
   <p style="text-align: center;">
-    <a href="http://blog.vickiboykis.com/wp-content/uploads/2012/01/DSC_0804.jpg"><img class="aligncenter  wp-image-6305" title="DSC_0804" src="http://blog.vickiboykis.com/wp-content/uploads/2012/01/DSC_0804.jpg" alt="" width="631" height="420" /></a>
+    <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/01/DSC_0804.jpg"><img class="aligncenter  wp-image-6305" title="DSC_0804" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/01/DSC_0804.jpg" alt="" width="631" height="420" /></a>
   </p>
   
   <p>
@@ -228,7 +228,7 @@ The only  thing monstrous about Loch Ness is how huge of a tourist trap it is. 
   </p>
   
   <p>
-    <a href="http://blog.vickiboykis.com/wp-content/uploads/2012/01/IMAG1127.jpg"><img title="IMAG1127" src="http://blog.vickiboykis.com/wp-content/uploads/2012/01/IMAG1127.jpg" alt="" width="614" height="369" /></a>
+    <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/01/IMAG1127.jpg"><img title="IMAG1127" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/01/IMAG1127.jpg" alt="" width="614" height="369" /></a>
   </p>
   
   <p style="text-align: left;">
@@ -236,7 +236,7 @@ The only  thing monstrous about Loch Ness is how huge of a tourist trap it is. 
   </p>
   
   <p style="text-align: center;">
-    <a href="http://blog.vickiboykis.com/wp-content/uploads/2012/01/IMAG1136.jpg"><img class="aligncenter  wp-image-6306" title="IMAG1136" src="http://blog.vickiboykis.com/wp-content/uploads/2012/01/IMAG1136.jpg" alt="" width="502" height="301" /></a>
+    <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/01/IMAG1136.jpg"><img class="aligncenter  wp-image-6306" title="IMAG1136" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/01/IMAG1136.jpg" alt="" width="502" height="301" /></a>
   </p>
   
   <p style="text-align: left;">

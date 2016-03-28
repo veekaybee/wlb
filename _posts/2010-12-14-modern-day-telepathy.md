@@ -12,4 +12,4 @@ tags:
   - me
   - Mr. B
 ---
-[<img class="aligncenter size-full wp-image-4041" title="Screen shot 2010-12-10 at 2.02.06 PM" src="http://blog.vickiboykis.com/wp-content/uploads/2010/12/Screen-shot-2010-12-10-at-2.02.06-PM.png" alt="" width="235" height="201" />](http://blog.vickiboykis.com/wp-content/uploads/2010/12/Screen-shot-2010-12-10-at-2.02.06-PM.png)
+[<img class="aligncenter size-full wp-image-4041" title="Screen shot 2010-12-10 at 2.02.06 PM" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/12/Screen-shot-2010-12-10-at-2.02.06-PM.png" alt="" width="235" height="201" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/12/Screen-shot-2010-12-10-at-2.02.06-PM.png)

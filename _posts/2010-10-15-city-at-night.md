@@ -12,6 +12,6 @@ tags:
   - philly
   - photos
 ---
-<img style="display: block; margin-right: auto; margin-left: auto;" src="http://blog.vickiboykis.com/wp-content/uploads/2010/10/wpid-IMAG0413.jpg" alt="image" />
+<img style="display: block; margin-right: auto; margin-left: auto;" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/10/wpid-IMAG0413.jpg" alt="image" />
 
 I didn&#8217;t have a good picture to post with yesterday&#8217;s links, so here is one I took last night. It was rainy and foggy in Philly, one if those Sherlock Holmes fall nights, and all the cars were hurrying home for tea.

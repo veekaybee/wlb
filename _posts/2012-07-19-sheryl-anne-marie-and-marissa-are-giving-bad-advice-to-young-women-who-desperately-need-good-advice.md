@@ -17,7 +17,7 @@ tags:
   - women
 ---
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2012/07/750px-Millet_Gleaners.jpeg"><img class="aligncenter  wp-image-7196" title="750px-Millet_Gleaners" src="http://blog.vickiboykis.com/wp-content/uploads/2012/07/750px-Millet_Gleaners.jpeg" alt="" width="600" height="480" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/07/750px-Millet_Gleaners.jpeg"><img class="aligncenter  wp-image-7196" title="750px-Millet_Gleaners" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/07/750px-Millet_Gleaners.jpeg" alt="" width="600" height="480" /></a>
 </p>
 
 &nbsp;

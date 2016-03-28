@@ -18,12 +18,12 @@ The good news: I&#8217;ve made the list of 100 most influential [Jewish Twitter
 
 The bad news: The execution of this list is so bad I don&#8217;t even know where to start.  Luckily, [CK and Harry did](http://www.jewlicious.com/2011/01/the-100-sexiest-jews-on-twitter-thanks-jta100/), and they covered most of my complaints, including the fact that in order to pick influential people you have to know the Twitter community as opposed to just running statistics through Twitalyzer.  Actually, some people in the comments explain why they nominated me which is pretty nice.  But:
 
-[<img class="aligncenter size-full wp-image-4155" src="http://blog.vickiboykis.com/wp-content/uploads/2011/01/Screen-shot-2011-01-04-at-2.18.01-PM1.png" alt="" width="362" height="74" />](http://blog.vickiboykis.com/wp-content/uploads/2011/01/Screen-shot-2011-01-04-at-2.18.01-PM1.png)
+[<img class="aligncenter size-full wp-image-4155" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/01/Screen-shot-2011-01-04-at-2.18.01-PM1.png" alt="" width="362" height="74" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/01/Screen-shot-2011-01-04-at-2.18.01-PM1.png)
 
 I&#8217;m listed as &#8220;blogger, writer, and newswire.&#8221;  What the hell does that even mean? Newswire?  Yes. I report ALL the latest breaking Jewish news on Twitter:
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2011/01/Screen-shot-2011-01-04-at-2.19.34-PM.png"><img class="aligncenter size-full wp-image-4156" src="http://blog.vickiboykis.com/wp-content/uploads/2011/01/Screen-shot-2011-01-04-at-2.19.34-PM.png" alt="" width="459" height="233" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/01/Screen-shot-2011-01-04-at-2.19.34-PM.png"><img class="aligncenter size-full wp-image-4156" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/01/Screen-shot-2011-01-04-at-2.19.34-PM.png" alt="" width="459" height="233" /></a>
 </p>
 
 <p style="text-align: left;">
@@ -35,7 +35,7 @@ I&#8217;m listed as &#8220;blogger, writer, and newswire.&#8221;  What the hell
 </p>
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2011/01/Screen-shot-2011-01-04-at-2.22.03-PM.png"><img class="aligncenter size-full wp-image-4157" title="Screen shot 2011-01-04 at 2.22.03 PM" src="http://blog.vickiboykis.com/wp-content/uploads/2011/01/Screen-shot-2011-01-04-at-2.22.03-PM.png" alt="" width="402" height="220" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/01/Screen-shot-2011-01-04-at-2.22.03-PM.png"><img class="aligncenter size-full wp-image-4157" title="Screen shot 2011-01-04 at 2.22.03 PM" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/01/Screen-shot-2011-01-04-at-2.22.03-PM.png" alt="" width="402" height="220" /></a>
 </p>
 
 <p style="text-align: left;">
@@ -43,5 +43,5 @@ I&#8217;m listed as &#8220;blogger, writer, and newswire.&#8221;  What the hell
 </p>
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2011/01/Screen-shot-2011-01-04-at-2.26.06-PM.png"><img class="aligncenter size-full wp-image-4158" src="http://blog.vickiboykis.com/wp-content/uploads/2011/01/Screen-shot-2011-01-04-at-2.26.06-PM.png" alt="" width="374" height="151" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/01/Screen-shot-2011-01-04-at-2.26.06-PM.png"><img class="aligncenter size-full wp-image-4158" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/01/Screen-shot-2011-01-04-at-2.26.06-PM.png" alt="" width="374" height="151" /></a>
 </p>

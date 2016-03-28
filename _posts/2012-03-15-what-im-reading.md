@@ -28,5 +28,5 @@ Try to cross-market to me now, Amazon and Facebook!
 &nbsp;
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2012/03/photo.jpg"><img class="aligncenter  wp-image-6576" title="photo" src="http://blog.vickiboykis.com/wp-content/uploads/2012/03/photo.jpg" alt="" width="538" height="524" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/03/photo.jpg"><img class="aligncenter  wp-image-6576" title="photo" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/03/photo.jpg" alt="" width="538" height="524" /></a>
 </p>

@@ -17,23 +17,23 @@ Mr. B and I live 10 minutes from downtown [Alexandria](http://en.wikipedia.org/w
 We had a nice chocolate breakfast:
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2010/09/IMAG0351.jpeg"><img class="aligncenter size-full wp-image-3602" title="IMAG0351" src="http://blog.vickiboykis.com/wp-content/uploads/2010/09/IMAG0351.jpeg" alt="" width="627" height="377" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/09/IMAG0351.jpeg"><img class="aligncenter size-full wp-image-3602" title="IMAG0351" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/09/IMAG0351.jpeg" alt="" width="627" height="377" /></a>
 </p>
 
 And walked around the city for three or four hours.  Ever have those moments in life where you&#8217;re happy, but you can&#8217;t express how happy you are because it sounds stupid to be happy about warm weather, beautiful historic architecture, and being with someone who eats the majority of your dried mango slices, but who you love anyway?
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2010/09/DSC_0782.jpg"><img class="aligncenter size-full wp-image-3598" title="DSC_0782" src="http://blog.vickiboykis.com/wp-content/uploads/2010/09/DSC_0782.jpg" alt="" width="495" height="777" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/09/DSC_0782.jpg"><img class="aligncenter size-full wp-image-3598" title="DSC_0782" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/09/DSC_0782.jpg" alt="" width="495" height="777" /></a>
 </p>
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2010/09/DSC_0792.jpg"><img class="aligncenter size-full wp-image-3599" title="DSC_0792" src="http://blog.vickiboykis.com/wp-content/uploads/2010/09/DSC_0792.jpg" alt="" width="737" height="490" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/09/DSC_0792.jpg"><img class="aligncenter size-full wp-image-3599" title="DSC_0792" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/09/DSC_0792.jpg" alt="" width="737" height="490" /></a>
 </p>
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2010/09/DSC_0802.jpg"><img class="aligncenter size-full wp-image-3600" title="DSC_0802" src="http://blog.vickiboykis.com/wp-content/uploads/2010/09/DSC_0802.jpg" alt="" width="737" height="490" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/09/DSC_0802.jpg"><img class="aligncenter size-full wp-image-3600" title="DSC_0802" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/09/DSC_0802.jpg" alt="" width="737" height="490" /></a>
 </p>
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2010/09/DSC_0785.jpg"><img class="aligncenter size-full wp-image-3601" title="DSC_0785" src="http://blog.vickiboykis.com/wp-content/uploads/2010/09/DSC_0785.jpg" alt="" width="700" height="1053" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/09/DSC_0785.jpg"><img class="aligncenter size-full wp-image-3601" title="DSC_0785" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/09/DSC_0785.jpg" alt="" width="700" height="1053" /></a>
 </p>

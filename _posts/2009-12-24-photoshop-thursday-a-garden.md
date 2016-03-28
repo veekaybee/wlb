@@ -11,4 +11,4 @@ categories:
 ---
 I decided to take a break from dreary winter and recreate a line from [Song of Songs](http://en.wikipedia.org/wiki/Song_of_Songs).  As always, criticism is always welcome.  Did I make it&#8230;.tooo green? Is it too busy?
 
-[<img class="aligncenter size-full wp-image-1925" title="Song of Songs_v2" src="http://blog.vickiboykis.com/wp-content/uploads/2009/12/Song-of-Songs_v2.jpg" alt="Song of Songs_v2" width="504" height="720" />](http://blog.vickiboykis.com/wp-content/uploads/2009/12/Song-of-Songs_v2.jpg)
+[<img class="aligncenter size-full wp-image-1925" title="Song of Songs_v2" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/12/Song-of-Songs_v2.jpg" alt="Song of Songs_v2" width="504" height="720" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/12/Song-of-Songs_v2.jpg)

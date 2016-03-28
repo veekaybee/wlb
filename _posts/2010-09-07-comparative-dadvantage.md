@@ -17,7 +17,7 @@ tags:
 This is [my dad](http://blog.vickiboykis.com/2009/06/21/happy-fathers-day/).
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2010/09/DSC_0461.jpg"><img class="aligncenter size-full wp-image-3575" title="DSC_0461" src="http://blog.vickiboykis.com/wp-content/uploads/2010/09/DSC_0461.jpg" alt="" width="448" height="298" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/09/DSC_0461.jpg"><img class="aligncenter size-full wp-image-3575" title="DSC_0461" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/09/DSC_0461.jpg" alt="" width="448" height="298" /></a>
 </p>
 
 He is extremely handy.  He can fix almost anything and, if he doesn&#8217;t know how to fix it already, he will research the hell out of it until he finds out.  He has repaired televisions, doors, gardens, garages, bathrooms, broken glasses, broken computers, broken cell phones, pianos, and, most importantly, cars.

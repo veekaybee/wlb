@@ -18,7 +18,7 @@ It&#8217;s been a while since a <a href="http://blog.vickiboykis.com/tag/books/"
 
 I picked this up at my local library because I like histories of things, I like food, and I LOVE salt. So does Mark.
 
-[<img class="aligncenter size-full wp-image-5234" title="salt" src="http://blog.vickiboykis.com/wp-content/uploads/2011/07/salt.jpg" alt="" width="323" height="500" />](http://blog.vickiboykis.com/wp-content/uploads/2011/07/salt.jpg)
+[<img class="aligncenter size-full wp-image-5234" title="salt" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/07/salt.jpg" alt="" width="323" height="500" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/07/salt.jpg)
 
 _Salt_ is, as you might have guessed, about the history and importance of salt in human life and how it&#8217;s shaped our politics and cuisine over the past 2,000 years. It&#8217;s not quite linear, instead being broken up by civilizations and jumping back and forth throughout history.
 
@@ -26,7 +26,7 @@ The first half of the book is mainly about how humans and animals need salt to r
 
 Salt is also basically a miracle crystal:
 
-[<img class="aligncenter size-full wp-image-5237" title="Screen shot 2011-07-06 at 8.36.46 AM" src="http://blog.vickiboykis.com/wp-content/uploads/2011/07/Screen-shot-2011-07-06-at-8.36.46-AM.png" alt="" width="519" height="420" />](http://blog.vickiboykis.com/wp-content/uploads/2011/07/Screen-shot-2011-07-06-at-8.36.46-AM.png)
+[<img class="aligncenter size-full wp-image-5237" title="Screen shot 2011-07-06 at 8.36.46 AM" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/07/Screen-shot-2011-07-06-at-8.36.46-AM.png" alt="" width="519" height="420" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/07/Screen-shot-2011-07-06-at-8.36.46-AM.png)
 
 &nbsp;
 
@@ -36,11 +36,11 @@ Later, he talks about how Egyptians salted their mummies, how Phoenecians traded
 
 Kurlansky also has pictures of people salting other people:
 
-[<img class="aligncenter size-full wp-image-5236" title="Screen shot 2011-07-06 at 8.35.32 AM" src="http://blog.vickiboykis.com/wp-content/uploads/2011/07/Screen-shot-2011-07-06-at-8.35.32-AM.png" alt="" width="538" height="615" />](http://blog.vickiboykis.com/wp-content/uploads/2011/07/Screen-shot-2011-07-06-at-8.35.32-AM.png)
+[<img class="aligncenter size-full wp-image-5236" title="Screen shot 2011-07-06 at 8.35.32 AM" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/07/Screen-shot-2011-07-06-at-8.35.32-AM.png" alt="" width="538" height="615" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/07/Screen-shot-2011-07-06-at-8.35.32-AM.png)
 
 Here&#8217;s a cool recipe you can try with your kids:
 
-[<img class="aligncenter size-full wp-image-5238" title="Screen shot 2011-07-06 at 8.37.54 AM" src="http://blog.vickiboykis.com/wp-content/uploads/2011/07/Screen-shot-2011-07-06-at-8.37.54-AM.png" alt="" width="526" height="251" />](http://blog.vickiboykis.com/wp-content/uploads/2011/07/Screen-shot-2011-07-06-at-8.37.54-AM.png)
+[<img class="aligncenter size-full wp-image-5238" title="Screen shot 2011-07-06 at 8.37.54 AM" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/07/Screen-shot-2011-07-06-at-8.37.54-AM.png" alt="" width="526" height="251" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/07/Screen-shot-2011-07-06-at-8.37.54-AM.png)
 
 &nbsp;
 

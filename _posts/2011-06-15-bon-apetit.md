@@ -19,4 +19,4 @@ Matt lives in DC and taunts me almost every day with how awesome DC is and how m
 
 This is the resulting dialogue.
   
-[<img class="aligncenter size-full wp-image-5114" title="Screen shot 2011-06-14 at 1.43.11 PM" src="http://blog.vickiboykis.com/wp-content/uploads/2011/06/Screen-shot-2011-06-14-at-1.43.11-PM1.png" alt="" width="566" height="718" />](http://blog.vickiboykis.com/wp-content/uploads/2011/06/Screen-shot-2011-06-14-at-1.43.11-PM1.png)
+[<img class="aligncenter size-full wp-image-5114" title="Screen shot 2011-06-14 at 1.43.11 PM" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/06/Screen-shot-2011-06-14-at-1.43.11-PM1.png" alt="" width="566" height="718" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/06/Screen-shot-2011-06-14-at-1.43.11-PM1.png)

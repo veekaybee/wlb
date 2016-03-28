@@ -19,7 +19,7 @@ tags:
 It&#8217;s my mom&#8217;s birthday.
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2009/08/DSC02198.JPG"></a><a href="http://blog.vickiboykis.com/wp-content/uploads/2009/08/DSC02023.JPG"><img class="aligncenter size-full wp-image-1079" title="DSC02023" src="http://blog.vickiboykis.com/wp-content/uploads/2009/08/DSC02023.JPG" alt="DSC02023" width="371" height="621" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/08/DSC02198.JPG"></a><a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/08/DSC02023.JPG"><img class="aligncenter size-full wp-image-1079" title="DSC02023" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/08/DSC02023.JPG" alt="DSC02023" width="371" height="621" /></a>
 </p>
 
 <p style="text-align: left;">

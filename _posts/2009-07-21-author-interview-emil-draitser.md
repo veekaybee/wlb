@@ -18,7 +18,7 @@ tags:
 ---
 You may remember from some time ago that I read Shush! Growing Up Jewish Under Stalin by Emil Draitser and [reviewed it on the site](http://blog.vickiboykis.com/2009/06/16/book-review-shush-growing-up-jewish-under-stalin/). Recently, I had the chance to interview [Dr. Draitser](http://shushthebook.googlepages.com/), a Professor of Russian at Hunter College in New York City.  I asked him all the questions I was yearning to know from his book, ranging on topics that both had to do with Russian Jewishness and writing a memoir.  The memoir bit, was, of course, strictly for my own purposes of writing the Great American Novel.  That I&#8217;ve been writing since I was 12.  One sentence per year.   A big thank you to Dr. Draitser for taking the time to answer my questions.
 
-[<img class="aligncenter size-full wp-image-826" title="emil-full" src="http://blog.vickiboykis.com/wp-content/uploads/2009/07/emil-full.jpg" alt="emil-full" width="223" height="289" />](http://blog.vickiboykis.com/wp-content/uploads/2009/07/emil-full.jpg)
+[<img class="aligncenter size-full wp-image-826" title="emil-full" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/07/emil-full.jpg" alt="emil-full" width="223" height="289" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/07/emil-full.jpg)
 
 **VB:** In your book, you write that you used to say &#8220;Jewish&#8221; at a whisper in the United States.  Has writing this book helped clarify this issue for you?  Or do you still subconsciously act this way?
   

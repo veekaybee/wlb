@@ -17,7 +17,7 @@ tags:
   - she
 ---
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2013/02/squaresv.jpg"><img class="aligncenter  wp-image-8337" alt="squaresv" src="http://blog.vickiboykis.com/wp-content/uploads/2013/02/squaresv-580x813.jpg" width="371" height="520" /></a>From <a href="http://daserge22.wordpress.com/tag/pop-art/" target="_blank">this awesome site. </a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/02/squaresv.jpg"><img class="aligncenter  wp-image-8337" alt="squaresv" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/02/squaresv-580x813.jpg" width="371" height="520" /></a>From <a href="http://daserge22.wordpress.com/tag/pop-art/" target="_blank">this awesome site. </a>
 </p>
 
 <p style="text-align: center;">

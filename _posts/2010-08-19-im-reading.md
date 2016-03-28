@@ -12,7 +12,7 @@ tags:
   - books
 ---
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2010/08/Super-Sad-True-Love-Story.jpg"><img class="aligncenter size-full wp-image-3483" title="Super-Sad-True-Love-Story" src="http://blog.vickiboykis.com/wp-content/uploads/2010/08/Super-Sad-True-Love-Story.jpg" alt="" width="281" height="420" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/08/Super-Sad-True-Love-Story.jpg"><img class="aligncenter size-full wp-image-3483" title="Super-Sad-True-Love-Story" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/08/Super-Sad-True-Love-Story.jpg" alt="" width="281" height="420" /></a>
 </p>
 
 <p style="text-align: center;">
@@ -20,7 +20,7 @@ tags:
 </p>
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2010/08/9781845116491.jpg"><img class="aligncenter size-full wp-image-3484" title="9781845116491" src="http://blog.vickiboykis.com/wp-content/uploads/2010/08/9781845116491.jpg" alt="" width="321" height="500" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/08/9781845116491.jpg"><img class="aligncenter size-full wp-image-3484" title="9781845116491" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/08/9781845116491.jpg" alt="" width="321" height="500" /></a>
 </p>
 
 <p style="text-align: center;">
@@ -28,7 +28,7 @@ tags:
 </p>
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2010/08/340x.jpg"><img class="aligncenter size-full wp-image-3485" title="The Nest" src="http://blog.vickiboykis.com/wp-content/uploads/2010/08/340x.jpg" alt="" width="340" height="461" /></a>(for anthropological analysis.)
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/08/340x.jpg"><img class="aligncenter size-full wp-image-3485" title="The Nest" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/08/340x.jpg" alt="" width="340" height="461" /></a>(for anthropological analysis.)
 </p>
 
 <p style="text-align: left;">
@@ -52,7 +52,7 @@ tags:
 </p>
 
 <p style="text-align: left;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2010/08/Picture-1.png"><img class="aligncenter size-full wp-image-3491" title="Picture 1" src="http://blog.vickiboykis.com/wp-content/uploads/2010/08/Picture-1.png" alt="" width="509" height="413" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/08/Picture-1.png"><img class="aligncenter size-full wp-image-3491" title="Picture 1" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/08/Picture-1.png" alt="" width="509" height="413" /></a>
 </p>
 
 <p style="text-align: left;">

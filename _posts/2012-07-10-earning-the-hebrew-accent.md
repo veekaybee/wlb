@@ -16,7 +16,7 @@ tags:
   - olim
 ---
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2012/07/9921_994206375384_4775135_n.jpg"><img class="aligncenter  wp-image-7141" title="9921_994206375384_4775135_n" src="http://blog.vickiboykis.com/wp-content/uploads/2012/07/9921_994206375384_4775135_n.jpg" alt="" width="423" height="317" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/07/9921_994206375384_4775135_n.jpg"><img class="aligncenter  wp-image-7141" title="9921_994206375384_4775135_n" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/07/9921_994206375384_4775135_n.jpg" alt="" width="423" height="317" /></a>
 </p>
 
 &nbsp;

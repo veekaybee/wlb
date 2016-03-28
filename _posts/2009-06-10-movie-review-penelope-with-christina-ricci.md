@@ -23,7 +23,7 @@ I finally came across a quality movie when I saw [Penelope](http://movies.yahoo.
 Penelope is a normal girl, (played by the beautiful, talented Christina Ricci) except for the fact that she has a pig snout:
 
 <div id="attachment_478" style="width: 534px" class="wp-caption aligncenter">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2009/06/penelope.jpg"><img class="size-full wp-image-478" title="penelope" src="http://blog.vickiboykis.com/wp-content/uploads/2009/06/penelope.jpg" alt="penelope" width="524" height="336" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/06/penelope.jpg"><img class="size-full wp-image-478" title="penelope" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/06/penelope.jpg" alt="penelope" width="524" height="336" /></a>
   
   <p class="wp-caption-text">
     Quarantined for swine flu
@@ -43,7 +43,7 @@ I finally came across a quality movie when I saw [Penelope](http://movies.yahoo.
 Penelope is a normal girl, (played by the beautiful, talented Christina Ricci) except for the fact that she has a pig snout:
 
 <div id="attachment_478" style="width: 534px" class="wp-caption aligncenter">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2009/06/penelope.jpg"><img class="size-full wp-image-478" title="penelope" src="http://blog.vickiboykis.com/wp-content/uploads/2009/06/penelope.jpg" alt="penelope" width="524" height="336" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/06/penelope.jpg"><img class="size-full wp-image-478" title="penelope" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/06/penelope.jpg" alt="penelope" width="524" height="336" /></a>
   
   <p class="wp-caption-text">
     Quarantined for swine flu

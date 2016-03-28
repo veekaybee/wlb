@@ -27,7 +27,7 @@ tags:
 Inspired by <a href="http://blogs.hbr.org/cs/2012/10/11_books_every_young_leader_mu.html" target="_blank">this list. </a>
 
 <p style="text-align: left;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2012/10/250px-LittleRedBook.jpeg"><img class="aligncenter  wp-image-7686" title="250px-LittleRedBook" src="http://blog.vickiboykis.com/wp-content/uploads/2012/10/250px-LittleRedBook.jpeg" alt="" width="175" height="243" /></a><strong>Quotations from Chairman Mao Tse-Tung by Mao Tse-Tung: </strong>Inspiring thoughts from a leader who commanded a nation of three quarters of a billion and only killed 20-ish million of those people. Not many CEOs these days have had this level of success.
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/10/250px-LittleRedBook.jpeg"><img class="aligncenter  wp-image-7686" title="250px-LittleRedBook" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/10/250px-LittleRedBook.jpeg" alt="" width="175" height="243" /></a><strong>Quotations from Chairman Mao Tse-Tung by Mao Tse-Tung: </strong>Inspiring thoughts from a leader who commanded a nation of three quarters of a billion and only killed 20-ish million of those people. Not many CEOs these days have had this level of success.
 </p>
 
 > <p style="padding-left: 30px;">
@@ -45,7 +45,7 @@ Inspired by <a href="http://blogs.hbr.org/cs/2012/10/11_books_every_young_leader
 > </p>
 
 <p style="padding-left: 30px; text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2012/10/War-and-Peace.jpeg"><img class="aligncenter  wp-image-7689" title="War and Peace" src="http://blog.vickiboykis.com/wp-content/uploads/2012/10/War-and-Peace.jpeg" alt="" width="209" height="346" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/10/War-and-Peace.jpeg"><img class="aligncenter  wp-image-7689" title="War and Peace" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/10/War-and-Peace.jpeg" alt="" width="209" height="346" /></a>
 </p>
 
 **War and Peace by Leo Tolstoy** The conference room is always a battlefield, and what better way to understand that than through actual war.  Everyone always reads Marcus Aurelius or Sun Tzu. Screw that. You&#8217;re better than that.  You are going to read 1500 pages of war by a Russian dude.  Russians are always more intense.
@@ -59,7 +59,7 @@ Inspired by <a href="http://blogs.hbr.org/cs/2012/10/11_books_every_young_leader
 > **Key quote:**“Because paper has more patience than people. ”  _Again, speaks to the importance of documentation and scoping out projects and products. _
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2012/10/1bb6a3810690a8983ab53d6f5201cafb.jpeg"><img class="aligncenter  wp-image-7690" title="1bb6a3810690a8983ab53d6f5201cafb" src="http://blog.vickiboykis.com/wp-content/uploads/2012/10/1bb6a3810690a8983ab53d6f5201cafb.jpeg" alt="" width="210" height="314" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/10/1bb6a3810690a8983ab53d6f5201cafb.jpeg"><img class="aligncenter  wp-image-7690" title="1bb6a3810690a8983ab53d6f5201cafb" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/10/1bb6a3810690a8983ab53d6f5201cafb.jpeg" alt="" width="210" height="314" /></a>
 </p>
 
 ** The Great Gatsby by F. Scott Fitzgerald** Really speaks to the greatness of the American dream, the reason many of us go to work, and indeed, start down the MBA path to begin with:  to host lavish garden parties and impress the hell out of other people with our leather-trim Lexuses and the fact that we get our Stumptown coffee straight from New York. Anytime you question the fact that you have multiple  years of education but are still working 12-hour days, read this book and bask in the greatness of Jay Gatsby.
@@ -71,7 +71,7 @@ Inspired by <a href="http://blogs.hbr.org/cs/2012/10/11_books_every_young_leader
 > ** Key quote:** The tipping point is that magic moment when an idea, trend, or social behavior crosses a threshold, tips, and spreads like wildfire. _Tell this one to your social media intern and have her make it go viral or something for $6/hour. _
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2012/10/epl.jpeg"><img class="aligncenter  wp-image-7692" title="epl" src="http://blog.vickiboykis.com/wp-content/uploads/2012/10/epl.jpeg" alt="" width="209" height="320" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/10/epl.jpeg"><img class="aligncenter  wp-image-7692" title="epl" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/10/epl.jpeg" alt="" width="209" height="320" /></a>
 </p>
 
 **Eat, Pray, Love by Elizabeth Gilbert **Sometimes we need to take a break from the rat race and unwind. MBAs as a general rule work too hard and don&#8217;t play enough. So, quit your job, forget about your $60k in MBA student debt, and go to some exotic destination with a book advance, hoping that you&#8217;ll hit it as big as Gilbert, who now has a second bestseller out.
@@ -83,7 +83,7 @@ __**1984 by George Orwell** There is no book better than this on company culture
 > **Key Quote: **Perhaps one did not want to be loved so much as to be understood. _This is the overall ethos to keep in mind as a manager. _
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2012/10/ss-front-710px.jpeg"><img class="aligncenter  wp-image-7693" title="ss-front-710px" src="http://blog.vickiboykis.com/wp-content/uploads/2012/10/ss-front-710px.jpeg" alt="" width="240" height="341" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/10/ss-front-710px.jpeg"><img class="aligncenter  wp-image-7693" title="ss-front-710px" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/10/ss-front-710px.jpeg" alt="" width="240" height="341" /></a>
 </p>
 
 **Harry Potter series by J.K. Rowling** What better analogy for M.B.A. students is there than someone who has no prospects, is living under the so-called staircase of life as a metaphorical junior analyst, then, via magical owl and spells and a school that is probably costing upwards of $50k a year if you include room and board, tuition, NOT TO MENTION transportation, becomes the hottest commodity wizard in the entire magical kingdom, and takes down the biggest, baddest wizard out there. You can think of the wizard as the top competitor in your industry and you as a young start-up leader if it makes you feel better about yourself.
@@ -94,6 +94,6 @@ __**1984 by George Orwell** There is no book better than this on company culture
 
 Key quote:
 
-> [<img class="aligncenter size-full wp-image-7695" title="Screen shot 2012-10-16 at 7.57.56 AM" src="http://blog.vickiboykis.com/wp-content/uploads/2012/10/Screen-shot-2012-10-16-at-7.57.56-AM.png" alt="" width="638" height="196" />](http://blog.vickiboykis.com/wp-content/uploads/2012/10/Screen-shot-2012-10-16-at-7.57.56-AM.png)
+> [<img class="aligncenter size-full wp-image-7695" title="Screen shot 2012-10-16 at 7.57.56 AM" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/10/Screen-shot-2012-10-16-at-7.57.56-AM.png" alt="" width="638" height="196" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/10/Screen-shot-2012-10-16-at-7.57.56-AM.png)
 
 &nbsp;

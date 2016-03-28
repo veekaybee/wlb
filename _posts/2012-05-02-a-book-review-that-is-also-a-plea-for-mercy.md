@@ -29,7 +29,7 @@ Reading _Discovery of Witches_ is like feminism never existed.  Reading Discove
 If you love life and reasonable literature, you will love to hate this book.  Let me spare you reading it and recap it for you, with spoilers.
 
 <div>
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2012/05/8667848.jpg"><img class="aligncenter size-full wp-image-6830" title="8667848" src="http://blog.vickiboykis.com/wp-content/uploads/2012/05/8667848.jpg" alt="" width="314" height="475" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/05/8667848.jpg"><img class="aligncenter size-full wp-image-6830" title="8667848" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/05/8667848.jpg" alt="" width="314" height="475" /></a>
 </div>
 
 <div>

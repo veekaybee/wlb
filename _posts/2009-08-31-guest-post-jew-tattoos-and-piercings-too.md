@@ -17,7 +17,7 @@ tags:
 _Note: While I remain in the Land of Falafel, this is a guest post from my fabulous friend [Average Jane](http://iamaveragejane.wordpress.com/), or [@awapy](http://twitter.com/awapy) on Twitter, who&#8217;s [bailed me out before](http://blog.vickiboykis.com/2009/08/17/guest-post-jewish-dating-and-christmas-brisket/)._
 
 <p style="text-align: center;">
-  <em><a href="http://blog.vickiboykis.com/wp-content/uploads/2009/08/jewtattoo.jpg"><img class="aligncenter size-full wp-image-1123" title="jewtattoo" src="http://blog.vickiboykis.com/wp-content/uploads/2009/08/jewtattoo.jpg" alt="jewtattoo" width="433" height="307" /></a>Via Zeeveez on Flickr<br /> </em>
+  <em><a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/08/jewtattoo.jpg"><img class="aligncenter size-full wp-image-1123" title="jewtattoo" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/08/jewtattoo.jpg" alt="jewtattoo" width="433" height="307" /></a>Via Zeeveez on Flickr<br /> </em>
 </p>
 
 I started working at my campus’ [Hille](http://www.hillel.org/index)l at 8 – piercing number 8.
@@ -33,7 +33,7 @@ There is a raging debate in the Jewish subculture about Jews and Tattoos. Is it 
 “I know I’m not supposed to get pierced – but what’s the difference between getting my earlobes pierced and getting my tongue pierced? And if God wanted you to be buried the way you were born, shouldn’t you ask for your foreskin back?” Well, back then the logic made sense.
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2009/08/hamsa-tattoo.jpg"><img class="aligncenter size-full wp-image-1128" title="hamsa tattoo" src="http://blog.vickiboykis.com/wp-content/uploads/2009/08/hamsa-tattoo.jpg" alt="hamsa tattoo" width="300" height="400" /></a>via <a href="http://star-of-david.blogspot.com/2009_06_01_archive.html#7506201202720721287">Jew Tattoos</a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/08/hamsa-tattoo.jpg"><img class="aligncenter size-full wp-image-1128" title="hamsa tattoo" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/08/hamsa-tattoo.jpg" alt="hamsa tattoo" width="300" height="400" /></a>via <a href="http://star-of-david.blogspot.com/2009_06_01_archive.html#7506201202720721287">Jew Tattoos</a>
 </p>
 
 What I find most interesting is that of the Jews I know who are tattooed, most have Jewish tattoos. Perhaps it’s a way to reclaim the tattooing that was inflicted on Jews during the Holocaust. Perhaps it’s a way for Jewish youth to defy their parents in a way that their parents can’t be too upset about: “Look mom – I got a tattoo. But before you get mad, it’s grandpa’s name in Hebrew!” Or maybe it’s the latest way for Jew who feel disenfranchised by organized religion to pronounce their heritage proudly and publicly every day.

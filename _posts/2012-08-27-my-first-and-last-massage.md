@@ -17,7 +17,7 @@ tags:
   - relaxation
   - Russia
 ---
-[<img class="aligncenter size-full wp-image-7425" title="John-Singer-Sargent-xx-Massage-in-a-Bath-House-xx-Fogg-Museum-of-Art" src="http://blog.vickiboykis.com/wp-content/uploads/2012/08/John-Singer-Sargent-xx-Massage-in-a-Bath-House-xx-Fogg-Museum-of-Art.jpeg" alt="" width="500" height="378" />](http://blog.vickiboykis.com/wp-content/uploads/2012/08/John-Singer-Sargent-xx-Massage-in-a-Bath-House-xx-Fogg-Museum-of-Art.jpeg)
+[<img class="aligncenter size-full wp-image-7425" title="John-Singer-Sargent-xx-Massage-in-a-Bath-House-xx-Fogg-Museum-of-Art" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/08/John-Singer-Sargent-xx-Massage-in-a-Bath-House-xx-Fogg-Museum-of-Art.jpeg" alt="" width="500" height="378" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/08/John-Singer-Sargent-xx-Massage-in-a-Bath-House-xx-Fogg-Museum-of-Art.jpeg)
 
 &nbsp;
 
@@ -44,7 +44,7 @@ Dasha wasn&#8217;t her actual name, but it was close enough that, combined with 
 As she led me down the hallway, I was already debating in my head whether to bring up the fact that I was Russian or not.  &#8220;Have you ever had a massage?&#8221; she asked. &#8220;No,&#8221; I said, preoccupied with how much of a social leper I was.  &#8220;You&#8217;re going to love it,&#8221; she smiled. I wilted inside.
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2012/08/repin_barge_haulers_on_the_volga.jpeg"><img class="aligncenter  wp-image-7427" title="repin_barge_haulers_on_the_volga" src="http://blog.vickiboykis.com/wp-content/uploads/2012/08/repin_barge_haulers_on_the_volga-1024x476.jpeg" alt="" width="491" height="229" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/08/repin_barge_haulers_on_the_volga.jpeg"><img class="aligncenter  wp-image-7427" title="repin_barge_haulers_on_the_volga" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/08/repin_barge_haulers_on_the_volga-1024x476.jpeg" alt="" width="491" height="229" /></a>
 </p>
 
 <p style="text-align: center;">

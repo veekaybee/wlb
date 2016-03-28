@@ -12,7 +12,7 @@ tags:
   - ideas
   - writing
 ---
-[<img class="aligncenter size-medium wp-image-8893" alt="fridakthe-little-deer" src="http://blog.vickiboykis.com/wp-content/uploads/2013/07/fridakthe-little-deer-580x433.jpg" width="580" height="433" />](http://blog.vickiboykis.com/wp-content/uploads/2013/07/fridakthe-little-deer.jpg)
+[<img class="aligncenter size-medium wp-image-8893" alt="fridakthe-little-deer" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/07/fridakthe-little-deer-580x433.jpg" width="580" height="433" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/07/fridakthe-little-deer.jpg)
 
   1. Stop reading Facebook so often. It will <a href="http://blog.vickiboykis.com/2013/03/the-banality-of-evil-on-facebook/" target="_blank">make you miserable</a>. And overly concerned with what other people are doing.  <a href="http://actualfacebookgraphsearches.tumblr.com/" target="_blank">And tracked. </a>
   2. Stop watching the same TV sitcoms everyone else is watching. Watch <a href="http://www.imdb.com/title/tt1821480/" target="_blank">really good foreign films</a>.  Watch movies from the dollar bin at WalMart. Watch <a href="http://www.reddit.com/r/documentaries/" target="_blank">free documentaries</a>. Watch movies as they are meant to be watched; <a href="http://www.imdb.com/title/tt1132620/" target="_blank">in their original language</a>.

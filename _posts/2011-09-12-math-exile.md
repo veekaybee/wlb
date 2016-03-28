@@ -16,7 +16,7 @@ tags:
 This is where I&#8217;ve been sitting a lot this weekend:
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2011/09/IMAG0952.jpg"><img class="aligncenter size-full wp-image-5715" title="IMAG0952" src="http://blog.vickiboykis.com/wp-content/uploads/2011/09/IMAG0952.jpg" alt="" width="768" height="461" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/09/IMAG0952.jpg"><img class="aligncenter size-full wp-image-5715" title="IMAG0952" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/09/IMAG0952.jpg" alt="" width="768" height="461" /></a>
 </p>
 
 <p style="text-align: left;">
@@ -32,7 +32,7 @@ This is where I&#8217;ve been sitting a lot this weekend:
 </p>
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2011/09/IMAG0888.jpg"><img class="aligncenter size-full wp-image-5716" title="IMAG0888" src="http://blog.vickiboykis.com/wp-content/uploads/2011/09/IMAG0888.jpg" alt="" width="614" height="368" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/09/IMAG0888.jpg"><img class="aligncenter size-full wp-image-5716" title="IMAG0888" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/09/IMAG0888.jpg" alt="" width="614" height="368" /></a>
 </p>
 
 <p style="text-align: left;">

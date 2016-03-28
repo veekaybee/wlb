@@ -13,7 +13,7 @@ tags:
   - names
   - PUPPIES!
 ---
-[<img class="aligncenter size-full wp-image-3910" title="zx500y290_995617" src="http://blog.vickiboykis.com/wp-content/uploads/2010/11/zx500y290_995617.jpg" alt="" width="500" height="290" />](http://blog.vickiboykis.com/wp-content/uploads/2010/11/zx500y290_995617.jpg)
+[<img class="aligncenter size-full wp-image-3910" title="zx500y290_995617" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/11/zx500y290_995617.jpg" alt="" width="500" height="290" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/11/zx500y290_995617.jpg)
 
 Here in the Philadelphia branch of the Boykis household, we love PUPPIES.  We love dogs.  So much so that some of us even tried to have a dog research service when we were 8 by checking out dog breed books from the library and pestering our parents to ask us questions so we could research a breed.
 

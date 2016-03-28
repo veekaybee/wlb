@@ -17,7 +17,7 @@ tags:
 _My friend Jane Charney bails me out again with a thought-provoking post about Halloween costumes:_
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2009/10/jane-pippy.jpg"><img class="size-full wp-image-1567 aligncenter" title="jane pippy" src="http://blog.vickiboykis.com/wp-content/uploads/2009/10/jane-pippy.jpg" alt="jane pippy" width="339" height="604" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/10/jane-pippy.jpg"><img class="size-full wp-image-1567 aligncenter" title="jane pippy" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/10/jane-pippy.jpg" alt="jane pippy" width="339" height="604" /></a>
 </p>
 
 For two years in a row, on Oct. 31, I’ve stuck pipe-cleaners into my braids, painted some exaggerated freckles on my face and put on two completely mismatched knee-high socks. I’ve impersonated my favorite children’s literature role model –  [Pippi Longstocking](http://en.wikipedia.org/wiki/Pippi_Longstocking). And I’m not going to do it again this year.

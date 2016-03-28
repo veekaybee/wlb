@@ -17,7 +17,7 @@ tags:
   - Russians
 ---
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2011/05/IMAG0770.jpg"><img class="aligncenter size-full wp-image-4923" title="IMAG0770" src="http://blog.vickiboykis.com/wp-content/uploads/2011/05/IMAG0770.jpg" alt="" width="307" height="512" /></a>Heart rug is hearted.
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/05/IMAG0770.jpg"><img class="aligncenter size-full wp-image-4923" title="IMAG0770" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/05/IMAG0770.jpg" alt="" width="307" height="512" /></a>Heart rug is hearted.
 </p>
 
 Sometimes I listen to [Elvis Duran](http://blog.vickiboykis.com/2011/04/13/whines-about-commutes-and-the-radio-part-two/) in the morning, and the best part is the Phone Taps, where they [prank-call](http://www.elvisduran.com/pages/video/mainplayer.html?uri=channels/430789/) someone, playing up on their most reactive qualities.

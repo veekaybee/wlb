@@ -18,7 +18,7 @@ _P.S. (It is P.S. if the P comes before the actual S?) If you&#8217;re stopping 
 8:03 P.M., Tuesday in early January, [SKRUG](http://blog.vickiboykis.com/2010/11/18/skrug/).  Latin music is blasting and 25 women are making various aerobics-like movements so close to each other you can almost hear the eggs sweating in the ovaries of the woman next to you .
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2011/01/zumba.jpg"></a><a href="http://blog.vickiboykis.com/wp-content/uploads/2011/01/zumba2.jpg"><img class="aligncenter size-full wp-image-4170" title="zumba2" src="http://blog.vickiboykis.com/wp-content/uploads/2011/01/zumba2.jpg" alt="" width="406" height="305" /></a><em>Not my class but close enough. </em>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/01/zumba.jpg"></a><a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/01/zumba2.jpg"><img class="aligncenter size-full wp-image-4170" title="zumba2" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/01/zumba2.jpg" alt="" width="406" height="305" /></a><em>Not my class but close enough. </em>
 </p>
 
 _Why are all these people here? New Year&#8217;s resolutions? It&#8217;s ok.  They&#8217;re going to weed out in three weeks faster than my college chemistry class after our first exam._ 
@@ -29,7 +29,7 @@ _ _Oh, right, I took it FOR FUN.
   
 _ _what&#8217;s wrong with me?_
 
-_That gaggle of Russian girls my age standing to the left of me all look like [Zvonareva](http://en.wikipedia.org/wiki/Vera_Zvonareva). Also like they just got back from doing lines at a club. A club where it&#8217;s still ok to smoke inside.  And they&#8217;re looking at me like I look like [Safina](http://en.wikipedia.org/wiki/Dinara_Safina). Which, actually, I [kind of do](http://blog.vickiboykis.com/wp-content/uploads/2010/11/Photo-on-2010-11-19-at-06.28-2.jpg). Or possibly [Vinny-Puh](http://grainedit.com/2008/07/10/vinni-puh-video-the-russian-winnie-the-pooh/), who I more resemble at the moment, which is the reason I&#8217;m at this class to begin with._ 
+_That gaggle of Russian girls my age standing to the left of me all look like [Zvonareva](http://en.wikipedia.org/wiki/Vera_Zvonareva). Also like they just got back from doing lines at a club. A club where it&#8217;s still ok to smoke inside.  And they&#8217;re looking at me like I look like [Safina](http://en.wikipedia.org/wiki/Dinara_Safina). Which, actually, I [kind of do](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/11/Photo-on-2010-11-19-at-06.28-2.jpg). Or possibly [Vinny-Puh](http://grainedit.com/2008/07/10/vinni-puh-video-the-russian-winnie-the-pooh/), who I more resemble at the moment, which is the reason I&#8217;m at this class to begin with._ 
 
  __Shuffle left, shuffle right, punch the air, turn around.
 

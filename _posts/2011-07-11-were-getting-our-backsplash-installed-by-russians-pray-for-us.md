@@ -48,11 +48,11 @@ Here are reasons you should never do business with Russians:
 </div>
 
 <div>
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2011/06/DSC_0590.jpg"><img class="aligncenter size-full wp-image-5100" title="DSC_0590" src="http://blog.vickiboykis.com/wp-content/uploads/2011/06/DSC_0590.jpg" alt="" width="516" height="343" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/06/DSC_0590.jpg"><img class="aligncenter size-full wp-image-5100" title="DSC_0590" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/06/DSC_0590.jpg" alt="" width="516" height="343" /></a>
 </div>
 
 <div>
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2011/06/DSC_0591.jpg"><img class="aligncenter size-full wp-image-5101" title="DSC_0591" src="http://blog.vickiboykis.com/wp-content/uploads/2011/06/DSC_0591.jpg" alt="" width="442" height="294" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/06/DSC_0591.jpg"><img class="aligncenter size-full wp-image-5101" title="DSC_0591" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/06/DSC_0591.jpg" alt="" width="442" height="294" /></a>
 </div>
 
 <div>

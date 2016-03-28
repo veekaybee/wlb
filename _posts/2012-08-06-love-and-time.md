@@ -21,7 +21,7 @@ Ever since we moved into our house, I&#8217;ve been trying to follow that idea. 
 
 Accomplishing  common goals with Mr. B is one of my biggest joys in life.  For example, here&#8217;s a picture of Mr. B being sentenced to two days of taping and painting while I take pictures.
 
-[<img class="aligncenter size-full wp-image-7293" title="IMG_20120802_201502" src="http://blog.vickiboykis.com/wp-content/uploads/2012/08/IMG_20120802_201502.jpeg" alt="" width="322" height="429" />](http://blog.vickiboykis.com/wp-content/uploads/2012/08/IMG_20120802_201502.jpeg)
+[<img class="aligncenter size-full wp-image-7293" title="IMG_20120802_201502" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/08/IMG_20120802_201502.jpeg" alt="" width="322" height="429" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/08/IMG_20120802_201502.jpeg)
 
 &nbsp;
 
@@ -29,7 +29,7 @@ But no man, or family of a man and a woman who needs to change everything in her
 
 So I axed the fancy museum plans for this weekend, got over my American feeling that if you&#8217;re asking for help, you&#8217;re inconveniencing other people or being a burden, and and asked my parents to come help us around the house as my birthday present. Our yard was a mess.  There was a lamp that I wanted to hang that Mr. B and I didn&#8217;t know how to do. Our fridge was disgusting. Our screen door was broken. We had a boob light infestation.  You know the ones I&#8217;m talking about:
 
-[<img class="aligncenter size-full wp-image-7296" title="IMG_20120805_220119" src="http://blog.vickiboykis.com/wp-content/uploads/2012/08/IMG_20120805_220119.jpeg" alt="" width="519" height="389" />](http://blog.vickiboykis.com/wp-content/uploads/2012/08/IMG_20120805_220119.jpeg)
+[<img class="aligncenter size-full wp-image-7296" title="IMG_20120805_220119" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/08/IMG_20120805_220119.jpeg" alt="" width="519" height="389" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/08/IMG_20120805_220119.jpeg)
 
 &nbsp;
 
@@ -45,29 +45,29 @@ But this weekend proved me completely wrong.
 
 As soon as my parents came, not even stopping for a drink or a bathroom break after their two-hour drive, they got to work.  My dad put up the lamp to replace the ugly one we had as Mr. B finally had time to take care of the lawn.
 
-[<img class="aligncenter size-full wp-image-7298" title="IMG_20120805_220135" src="http://blog.vickiboykis.com/wp-content/uploads/2012/08/IMG_20120805_220135.jpeg" alt="" width="572" height="429" />](http://blog.vickiboykis.com/wp-content/uploads/2012/08/IMG_20120805_220135.jpeg)
+[<img class="aligncenter size-full wp-image-7298" title="IMG_20120805_220135" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/08/IMG_20120805_220135.jpeg" alt="" width="572" height="429" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/08/IMG_20120805_220135.jpeg)
 
 &nbsp;
 
 My mom made us soup, cleaned our refrigerator, and right after that, she helped me put up the trees.
 
-[<img class="aligncenter size-full wp-image-7294" title="IMG_20120804_181254" src="http://blog.vickiboykis.com/wp-content/uploads/2012/08/IMG_20120804_181254.jpeg" alt="" width="292" height="389" />](http://blog.vickiboykis.com/wp-content/uploads/2012/08/IMG_20120804_181254.jpeg)
+[<img class="aligncenter size-full wp-image-7294" title="IMG_20120804_181254" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/08/IMG_20120804_181254.jpeg" alt="" width="292" height="389" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/08/IMG_20120804_181254.jpeg)
 
 They look beautiful.
 
 They are better than any present I could have gotten because my mom helped me put them up.
 
-[<img class="aligncenter size-full wp-image-7295" title="IMG_20120805_220036" src="http://blog.vickiboykis.com/wp-content/uploads/2012/08/IMG_20120805_220036.jpeg" alt="" width="519" height="389" />](http://blog.vickiboykis.com/wp-content/uploads/2012/08/IMG_20120805_220036.jpeg)
+[<img class="aligncenter size-full wp-image-7295" title="IMG_20120805_220036" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/08/IMG_20120805_220036.jpeg" alt="" width="519" height="389" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/08/IMG_20120805_220036.jpeg)
 
 &nbsp;
 
 Here&#8217;s the room when we started, last  year.
 
-<img class="aligncenter" src="http://blog.vickiboykis.com/wp-content/uploads/2011/06/DSC_0507.jpg" alt="" width="541" height="360" />
+<img class="aligncenter" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/06/DSC_0507.jpg" alt="" width="541" height="360" />
 
 We also have amazing and thoughtful friends, who came after we were done with all this stuff to give me hours of their time for my birthday, and we sat late into the night, laughing, and drinking, and singing along to the guitar.
 
-[<img class="aligncenter size-full wp-image-7297" title="IMG_20120805_220222" src="http://blog.vickiboykis.com/wp-content/uploads/2012/08/IMG_20120805_220222.jpeg" alt="" width="519" height="389" />](http://blog.vickiboykis.com/wp-content/uploads/2012/08/IMG_20120805_220222.jpeg)
+[<img class="aligncenter size-full wp-image-7297" title="IMG_20120805_220222" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/08/IMG_20120805_220222.jpeg" alt="" width="519" height="389" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/08/IMG_20120805_220222.jpeg)
 
 &nbsp;
 

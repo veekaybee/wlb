@@ -16,12 +16,12 @@ tags:
   - sports
   - working on my fitness
 ---
-[<img class="aligncenter size-full wp-image-3092" title="111108198" src="http://blog.vickiboykis.com/wp-content/uploads/2010/06/111108198.jpg" alt="" width="600" height="1000" />](http://blog.vickiboykis.com/wp-content/uploads/2010/06/111108198.jpg)
+[<img class="aligncenter size-full wp-image-3092" title="111108198" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/06/111108198.jpg" alt="" width="600" height="1000" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/06/111108198.jpg)
 
 Running is something that other people do.  You need special shoes, special sunglasses, and a special snobbish expression as you pass by walkers.  You need to run up impossible hills, time yourself on impossible watches, and breathe in a special way.  You need to run track in high school, preferably cross country, and be imposibly skinny.  You need to get up at 5 am to drink special protein shakes.  You need to do something called weight training.
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2010/06/DSC_0189.jpg"><img class="aligncenter size-full wp-image-3105" title="DSC_0189" src="http://blog.vickiboykis.com/wp-content/uploads/2010/06/DSC_0189.jpg" alt="" width="589" height="392" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/06/DSC_0189.jpg"><img class="aligncenter size-full wp-image-3105" title="DSC_0189" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/06/DSC_0189.jpg" alt="" width="589" height="392" /></a>
 </p>
 
 This is what I used to think about running when I was smaller and pudgy and not aerodynamic at all.  I hated running around the track in high school-I was always last and the breath would come hot, fast, and sharp at the back of my throat as I struggled to finish a mile while my friends were already chatting it up at the finish line.  I hated them, but more importantly, I hated myself.  I was rotund, unathletic, and that was another world.
@@ -31,7 +31,7 @@ What I hated most was when my parents made me run.  Concerned for my health, th
 I hated running all the way until college, when I decided to try it on my own terms, without the constant nagging from a number of sources.  I started cautiously on the treadmill, walking for ten minutes.  In five months, I was running two miles at a time.  In a year, I was running three miles outside on campus.
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2010/06/DSC_0191.jpg"><img class="aligncenter size-full wp-image-3106" title="DSC_0191" src="http://blog.vickiboykis.com/wp-content/uploads/2010/06/DSC_0191.jpg" alt="" width="737" height="490" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/06/DSC_0191.jpg"><img class="aligncenter size-full wp-image-3106" title="DSC_0191" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/06/DSC_0191.jpg" alt="" width="737" height="490" /></a>
 </p>
 
 Then, [I got married](http://blog.vickiboykis.com/2010/05/31/vickis-marriage-advice/) I became zaftig and happy with Mr. B.
@@ -40,7 +40,7 @@ Then, I decided I was tired of feeling like there was one more thing I couldn&#8
 
 So, after a couple of weeks of trying and pushing and crying myself, I started to feel better. And started pushing myself harder.  And, as a reward, got myself [new orange sneakers](http://blog.vickiboykis.com/2010/05/26/new-sneakers/).  After that, I kept going.
 
-<img style="display: block; margin-right: auto; margin-left: auto;" src="http://blog.vickiboykis.com/wp-content/uploads/2010/06/wpid-IMAG0130.jpg" alt="image" />
+<img style="display: block; margin-right: auto; margin-left: auto;" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/06/wpid-IMAG0130.jpg" alt="image" />
 
 And then my f[riend for forever](http://twitter.com/mere_wolf) Mer, who is crazy in her own way because she just ran a marathon, encouraged me to do a 5k.  So I signed up.  And I ran it.  And it was amazing.  It was lots of fun, despite the fact that it made me want to throw up and give up.
 
@@ -49,7 +49,7 @@ I didn&#8217;t finish with a great time.  But I finished, and that&#8217;s the 
 The first mile, I thought I would die, because it was uphill and it was already starting to get muggy and everyone was passing me and I was afraid I&#8217;d come in last.  The second mile was easier, but little kids passed me.   The third mile was hell.  But in between the moments of hell, I saw that I was running in a forest, and I realized that I was lucky enough to be able to use my body to run, in a forest, during the summer, and I felt good to be alive.  Then I continued to curse my existence.
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2010/06/DSC_0194.jpg"><img class="aligncenter size-full wp-image-3111" title="DSC_0194" src="http://blog.vickiboykis.com/wp-content/uploads/2010/06/DSC_0194.jpg" alt="" width="737" height="490" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/06/DSC_0194.jpg"><img class="aligncenter size-full wp-image-3111" title="DSC_0194" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/06/DSC_0194.jpg" alt="" width="737" height="490" /></a>
 </p>
 
 <p style="text-align: left;">

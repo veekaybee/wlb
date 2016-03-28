@@ -19,7 +19,7 @@ tags:
 The Internet represents some of what is the best and most beautiful about humanity and human idea exchange. Let&#8217;s not let that change. Because <a href="http://www.instantfundas.com/2010/11/soviet-image-editing-tool-from-1987.html" target="_blank">here&#8217;s what happens when it does. </a> My God, can you imagine that there would be <a href="http://blog.vickiboykis.com/tag/comic/" target="_blank">no more comics</a>?
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2012/01/SOPA.jpg"><img class="aligncenter  wp-image-6267" title="SOPA" src="http://blog.vickiboykis.com/wp-content/uploads/2012/01/SOPA-791x1024.jpg" alt="" width="554" height="717" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/01/SOPA.jpg"><img class="aligncenter  wp-image-6267" title="SOPA" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/01/SOPA-791x1024.jpg" alt="" width="554" height="717" /></a>
 </p>
 
 &nbsp;

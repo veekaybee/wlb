@@ -18,12 +18,12 @@ tags:
   - world
 ---
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2010/03/Moms.jpg"><img class="aligncenter size-full wp-image-2449" title="Moms" src="http://blog.vickiboykis.com/wp-content/uploads/2010/03/Moms.jpg" alt="" width="420" height="560" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/03/Moms.jpg"><img class="aligncenter size-full wp-image-2449" title="Moms" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/03/Moms.jpg" alt="" width="420" height="560" /></a>
 </p>
 
 As part of our continuing world travel plans, Mr. B and I are planning to go to India this spring because we&#8217;re bored of Europe ([see: Prague](http://blog.vickiboykis.com/2009/04/05/mobama-dont-fall-prey-to-the-jew-guilt-in-prague/)) and ready for a little bit of third-world excitement. Little did we know that the excitement would start before we even bought our tickets.
 
-This weekend, we were in Philadelphia with [my parents and my mother-in-law](http://blog.vickiboykis.com/wp-content/uploads/2009/07/dsc01880.jpg) and the conversation came around to our travel plans.
+This weekend, we were in Philadelphia with [my parents and my mother-in-law](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/07/dsc01880.jpg) and the conversation came around to our travel plans.
 
 &#8220;I don&#8217;t like this idea at all,&#8221; said my dad surlily as we sat eating breakfast. My dad doesn&#8217;t like the idea of most things that are not Russian or American, and this makes him surly in general.
 
@@ -44,7 +44,7 @@ This weekend, we were in Philadelphia with [my parents and my mother-in-law](htt
 This medical analysis of Southeast Asia would be all well and good if my aunt were a doctor or experienced in Southeast Asia epidemiology.  However, my aunt lives in Yaroslavl, Russia, has never been further than Moscow up until five years ago when she came to visit America, and has no more knowledge of the medical profession than I have of neck ailments.  Additionally, last I checked, my uterus was not communal property.
 
 <div id="attachment_2474" style="width: 410px" class="wp-caption aligncenter">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2010/03/sitroomtop-thumb.jpg"><img class="size-full wp-image-2474" title="sitroomtop-thumb" src="http://blog.vickiboykis.com/wp-content/uploads/2010/03/sitroomtop-thumb.jpg" alt="" width="400" height="266" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/03/sitroomtop-thumb.jpg"><img class="size-full wp-image-2474" title="sitroomtop-thumb" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/03/sitroomtop-thumb.jpg" alt="" width="400" height="266" /></a>
   
   <p class="wp-caption-text">
     Wolf Blitzer, live with the update from my uterus

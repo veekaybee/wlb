@@ -13,7 +13,7 @@ tags:
   - finances
   - shoes
 ---
-<img style="display: block; margin-right: auto; margin-left: auto;" src="http://blog.vickiboykis.com/wp-content/uploads/2010/09/wpid-IMAG0305.jpg" alt="image" />
+<img style="display: block; margin-right: auto; margin-left: auto;" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/09/wpid-IMAG0305.jpg" alt="image" />
 
 Yesterday, I bought three pairs of shoes, because I need some fall shoes and I don&#8217;t think I&#8217;ve bought shoes in the past year.  I particularly needed a nice new pair of work shoes, but since [DSW](http://www.dsw.com/) are heartless bastards, all of their nice work shoes cost more than $20 a pair, which is what I&#8217;ve been paying for the last 24 years, and which might explain why I constantly need new shoes.
 

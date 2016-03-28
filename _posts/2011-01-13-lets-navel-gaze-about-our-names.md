@@ -17,7 +17,7 @@ tags:
 Let&#8217;s take a break from talking about OMGAsianMoms and do something fun.
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2011/01/letters.jpg"><img class="aligncenter size-full wp-image-4233" title="letters" src="http://blog.vickiboykis.com/wp-content/uploads/2011/01/letters.jpg" alt="" width="350" height="263" /></a><a href="http://www.flickr.com/photos/76283671@N00/184623755/sizes/m/in/photostream/">source.</a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/01/letters.jpg"><img class="aligncenter size-full wp-image-4233" title="letters" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/01/letters.jpg" alt="" width="350" height="263" /></a><a href="http://www.flickr.com/photos/76283671@N00/184623755/sizes/m/in/photostream/">source.</a>
 </p>
 
 Yesterday as I was snowed in, I came across this thread which asks the question: [what were you going to be named](http://www.younghouselove.com/2011/01/what-could-have-been/)? To date, it has 640 comments which means it&#8217;s struck a nerve, and I can completely understand.  Names are important for a number of reasons and many cultures, including Judaism, believe that a name will shape a child&#8217;s destiny.  Which is why I, as a Victoria, am totally mackin&#8217; it right now by living at my mother in law&#8217;s house and attending a gym where I am sure I will witness a mafia money transaction any day now.

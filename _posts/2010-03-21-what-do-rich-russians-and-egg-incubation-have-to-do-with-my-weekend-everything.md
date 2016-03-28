@@ -17,7 +17,7 @@ tags:
   - travel
 ---
 <div id="attachment_2592" style="width: 546px" class="wp-caption aligncenter">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2010/03/Londongrad.jpg"><img class="size-full wp-image-2592" title="Londongrad" src="http://blog.vickiboykis.com/wp-content/uploads/2010/03/Londongrad.jpg" alt="" width="536" height="624" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/03/Londongrad.jpg"><img class="size-full wp-image-2592" title="Londongrad" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/03/Londongrad.jpg" alt="" width="536" height="624" /></a>
   
   <p class="wp-caption-text">
     There is no way I could find a better picture for Russians who are balling (literally and figuratively)
@@ -78,7 +78,7 @@ tags:
   </p>
   
   <p>
-    <a href="http://blog.vickiboykis.com/wp-content/uploads/2010/03/PopQuiz.png"><img class="aligncenter size-full wp-image-2591" title="PopQuiz" src="http://blog.vickiboykis.com/wp-content/uploads/2010/03/PopQuiz.png" alt="" width="400" height="200" /></a>
+    <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/03/PopQuiz.png"><img class="aligncenter size-full wp-image-2591" title="PopQuiz" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/03/PopQuiz.png" alt="" width="400" height="200" /></a>
   </p>
   
   <p>

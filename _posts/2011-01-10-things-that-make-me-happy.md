@@ -16,13 +16,13 @@ I got back pretty from D.C. yesterday: pretty late, and pretty frazzled.  The r
 [my](http://blog.vickiboykis.com/2010/03/02/visiting-my-grandpa-the-yiddish-speaking-atheist/) [grandfather](http://blog.vickiboykis.com/2010/06/02/if-my-grandpa-cant-come-to-the-pictures-they-come-to-him/) wearing purple sunglasses:
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2011/01/wpid-IMAG0466.jpg"><img class="aligncenter size-full wp-image-4196" title="wpid-IMAG0466.jpg" src="http://blog.vickiboykis.com/wp-content/uploads/2011/01/wpid-IMAG0466.jpg" alt="" width="245" height="408" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/01/wpid-IMAG0466.jpg"><img class="aligncenter size-full wp-image-4196" title="wpid-IMAG0466.jpg" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/01/wpid-IMAG0466.jpg" alt="" width="245" height="408" /></a>
 </p>
 
 The French fries and Mr. Langston Hughes at [Busboys and Poet](http://www.busboysandpoets.com/about.php)s in [Shirlington](http://en.wikipedia.org/wiki/Shirlington,_Arlington,_Virginia) on Saturday:
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2011/01/wpid-IMAG0545.jpg"><img class="aligncenter size-full wp-image-4198" title="wpid-IMAG0545.jpg" src="http://blog.vickiboykis.com/wp-content/uploads/2011/01/wpid-IMAG0545.jpg" alt="" width="245" height="408" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/01/wpid-IMAG0545.jpg"><img class="aligncenter size-full wp-image-4198" title="wpid-IMAG0545.jpg" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/01/wpid-IMAG0545.jpg" alt="" width="245" height="408" /></a>
 </p>
 
 <p style="text-align: left;">
@@ -30,5 +30,5 @@ The French fries and Mr. Langston Hughes at [Busboys and Poet](http://www.busboy
 </p>
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2011/01/wpid-IMAG0542.jpg"><img class="aligncenter size-full wp-image-4200" title="wpid-IMAG0542.jpg" src="http://blog.vickiboykis.com/wp-content/uploads/2011/01/wpid-IMAG0542.jpg" alt="" width="210" height="350" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/01/wpid-IMAG0542.jpg"><img class="aligncenter size-full wp-image-4200" title="wpid-IMAG0542.jpg" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/01/wpid-IMAG0542.jpg" alt="" width="210" height="350" /></a>
 </p>

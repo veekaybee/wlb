@@ -15,4 +15,4 @@ tags:
   - Russia
   - Syria
 ---
-[<img class="aligncenter size-medium wp-image-9114" alt="Pustin" src="http://blog.vickiboykis.com/wp-content/uploads/2013/09/Pustin-580x602.png" width="580" height="602" />](http://blog.vickiboykis.com/wp-content/uploads/2013/09/Pustin.png)
+[<img class="aligncenter size-medium wp-image-9114" alt="Pustin" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/09/Pustin-580x602.png" width="580" height="602" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/09/Pustin.png)

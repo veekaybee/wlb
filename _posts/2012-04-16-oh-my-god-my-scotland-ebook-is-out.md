@@ -15,7 +15,7 @@ tags:
   - writing
 ---
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2012/04/f0f21154644f6090cc29a4d2602a4f08304c3ccd_wmeg.jpg"><img class="aligncenter  wp-image-6698" title="f0f21154644f6090cc29a4d2602a4f08304c3ccd_wmeg" src="http://blog.vickiboykis.com/wp-content/uploads/2012/04/f0f21154644f6090cc29a4d2602a4f08304c3ccd_wmeg.jpg" alt="" width="384" height="512" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/04/f0f21154644f6090cc29a4d2602a4f08304c3ccd_wmeg.jpg"><img class="aligncenter  wp-image-6698" title="f0f21154644f6090cc29a4d2602a4f08304c3ccd_wmeg" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/04/f0f21154644f6090cc29a4d2602a4f08304c3ccd_wmeg.jpg" alt="" width="384" height="512" /></a>
 </p>
 
 <p style="text-align: left;">

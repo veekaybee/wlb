@@ -18,7 +18,7 @@ tags:
 ---
 &nbsp;
 
-[<img class="aligncenter size-medium wp-image-8650" alt="roa-vlasov-officers" src="http://blog.vickiboykis.com/wp-content/uploads/2013/04/roa-vlasov-officers-580x365.jpg" width="580" height="365" />](http://blog.vickiboykis.com/wp-content/uploads/2013/04/roa-vlasov-officers.jpg)
+[<img class="aligncenter size-medium wp-image-8650" alt="roa-vlasov-officers" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/04/roa-vlasov-officers-580x365.jpg" width="580" height="365" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/04/roa-vlasov-officers.jpg)
 
 We were on our way to the grocery store last night.  The sun was shining through the new leaves on the trees and the sunset was a brilliant spring red. The air was warm, redolent with the scent of pollen. The promise of spring was real.
 

@@ -19,7 +19,7 @@ HOLD THE PRESSES.
 It&#8217;s [Gary Shteyngart](http://blog.vickiboykis.com/?s=shteyngart)! 10 feet away from me! [At Politics and Prose](http://www.expressnightout.com/content/2010/09/gary-shteyngart-super-sad-true-love-story-politics-prose.php). Doing a really great job reading from Super Sad True Love Story.
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2010/09/IMAG0347.jpg"><img class="aligncenter size-full wp-image-3588" title="IMAG0347" src="http://blog.vickiboykis.com/wp-content/uploads/2010/09/IMAG0347.jpg" alt="" width="538" height="896" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/09/IMAG0347.jpg"><img class="aligncenter size-full wp-image-3588" title="IMAG0347" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/09/IMAG0347.jpg" alt="" width="538" height="896" /></a>
 </p>
 
 <p style="text-align: left;">
@@ -27,7 +27,7 @@ It&#8217;s [Gary Shteyngart](http://blog.vickiboykis.com/?s=shteyngart)! 10 feet
 </p>
 
 <p style="text-align: left;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2010/09/Picture-1.png"><img class="aligncenter size-full wp-image-3589" title="Picture 1" src="http://blog.vickiboykis.com/wp-content/uploads/2010/09/Picture-1.png" alt="" width="480" height="675" /></a>Ok that&#8217;s more like it.
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/09/Picture-1.png"><img class="aligncenter size-full wp-image-3589" title="Picture 1" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/09/Picture-1.png" alt="" width="480" height="675" /></a>Ok that&#8217;s more like it.
 </p>
 
 <p style="text-align: left;">
@@ -35,7 +35,7 @@ It&#8217;s [Gary Shteyngart](http://blog.vickiboykis.com/?s=shteyngart)! 10 feet
 </p>
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2010/09/IMAG0348.jpg"><img class="aligncenter size-full wp-image-3590" title="IMAG0348" src="http://blog.vickiboykis.com/wp-content/uploads/2010/09/IMAG0348.jpg" alt="" width="538" height="896" /></a><em>To Vicki: Please mock. With best wishes (s&#8217; uspehom), Igor (his full name.)</em>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/09/IMAG0348.jpg"><img class="aligncenter size-full wp-image-3590" title="IMAG0348" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/09/IMAG0348.jpg" alt="" width="538" height="896" /></a><em>To Vicki: Please mock. With best wishes (s&#8217; uspehom), Igor (his full name.)</em>
 </p>
 
 <p style="text-align: left;">

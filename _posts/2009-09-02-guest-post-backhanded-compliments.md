@@ -14,7 +14,7 @@ categories:
 </p>
 
 <p style="font-family: arial,helvetica,sans-serif; text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2009/09/361641060_384e8ae4d2.jpg"><img class="aligncenter size-full wp-image-1152" title="361641060_384e8ae4d2" src="http://blog.vickiboykis.com/wp-content/uploads/2009/09/361641060_384e8ae4d2.jpg" alt="361641060_384e8ae4d2" width="430" height="286" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/09/361641060_384e8ae4d2.jpg"><img class="aligncenter size-full wp-image-1152" title="361641060_384e8ae4d2" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/09/361641060_384e8ae4d2.jpg" alt="361641060_384e8ae4d2" width="430" height="286" /></a>
 </p>
 
 <p style="font-family: arial,helvetica,sans-serif; text-align: center;">

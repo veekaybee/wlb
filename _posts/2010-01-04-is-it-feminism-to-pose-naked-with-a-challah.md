@@ -26,7 +26,7 @@ tags:
 <p style="text-align: left;">
   <p style="text-align: left;">
     <p style="text-align: center;">
-      <a href="http://blog.vickiboykis.com/wp-content/uploads/2010/01/jamie_sneider.jpg"><img class="size-full wp-image-2040 aligncenter" title="jamie_sneider" src="http://blog.vickiboykis.com/wp-content/uploads/2010/01/jamie_sneider.jpg" alt="jamie_sneider" width="200" height="300" /></a>
+      <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/01/jamie_sneider.jpg"><img class="size-full wp-image-2040 aligncenter" title="jamie_sneider" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/01/jamie_sneider.jpg" alt="jamie_sneider" width="200" height="300" /></a>
     </p>
     
     <p style="text-align: left;">

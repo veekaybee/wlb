@@ -15,13 +15,13 @@ Yesterday Mr. B and I went to see the Nationals play the Cardinals at Nationals 
 Baseball is one of those intrinsically American things you don&#8217;t appreciate until you start thinking about other countries&#8217; characteristics.  France has sitting in cafes for hours at a time,  the Middle East has hookah on rooftops, and America has baseball.  You will see a crosscut of Real Americans at baseball games, and it&#8217;s pretty amazing if you stop and think about it.
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2010/08/DSC_0677.jpg"><img class="aligncenter size-full wp-image-3533" title="DSC_0677" src="http://blog.vickiboykis.com/wp-content/uploads/2010/08/DSC_0677.jpg" alt="" width="450" height="299" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/08/DSC_0677.jpg"><img class="aligncenter size-full wp-image-3533" title="DSC_0677" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/08/DSC_0677.jpg" alt="" width="450" height="299" /></a>
 </p>
 
 One of the benefits of baseball stadium lighting is that I can look all dramatic.
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2010/08/DSC_0686.jpg"><img class="aligncenter size-full wp-image-3534" title="DSC_0686" src="http://blog.vickiboykis.com/wp-content/uploads/2010/08/DSC_0686.jpg" alt="" width="442" height="294" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/08/DSC_0686.jpg"><img class="aligncenter size-full wp-image-3534" title="DSC_0686" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/08/DSC_0686.jpg" alt="" width="442" height="294" /></a>
 </p>
 
 **From the blogs:**
@@ -31,13 +31,13 @@ One of the benefits of baseball stadium lighting is that I can look all dramatic
 Baseball is one of those intrinsically American things you don&#8217;t appreciate until you start thinking about other countries&#8217; characteristics.  France has sitting in cafes for hours at a time,  the Middle East has hookah on rooftops, and America has baseball.  You will see a crosscut of Real Americans at baseball games, and it&#8217;s pretty amazing if you stop and think about it.
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2010/08/DSC_0677.jpg"><img class="aligncenter size-full wp-image-3533" title="DSC_0677" src="http://blog.vickiboykis.com/wp-content/uploads/2010/08/DSC_0677.jpg" alt="" width="450" height="299" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/08/DSC_0677.jpg"><img class="aligncenter size-full wp-image-3533" title="DSC_0677" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/08/DSC_0677.jpg" alt="" width="450" height="299" /></a>
 </p>
 
 One of the benefits of baseball stadium lighting is that I can look all dramatic.
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2010/08/DSC_0686.jpg"><img class="aligncenter size-full wp-image-3534" title="DSC_0686" src="http://blog.vickiboykis.com/wp-content/uploads/2010/08/DSC_0686.jpg" alt="" width="442" height="294" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/08/DSC_0686.jpg"><img class="aligncenter size-full wp-image-3534" title="DSC_0686" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/08/DSC_0686.jpg" alt="" width="442" height="294" /></a>
 </p>
 
 **From the blogs:**
@@ -62,13 +62,13 @@ One of the benefits of baseball stadium lighting is that I can look all dramatic
 Baseball is one of those intrinsically American things you don&#8217;t appreciate until you start thinking about other countries&#8217; characteristics.  France has sitting in cafes for hours at a time,  the Middle East has hookah on rooftops, and America has baseball.  You will see a crosscut of Real Americans at baseball games, and it&#8217;s pretty amazing if you stop and think about it.
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2010/08/DSC_0677.jpg"><img class="aligncenter size-full wp-image-3533" title="DSC_0677" src="http://blog.vickiboykis.com/wp-content/uploads/2010/08/DSC_0677.jpg" alt="" width="450" height="299" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/08/DSC_0677.jpg"><img class="aligncenter size-full wp-image-3533" title="DSC_0677" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/08/DSC_0677.jpg" alt="" width="450" height="299" /></a>
 </p>
 
 One of the benefits of baseball stadium lighting is that I can look all dramatic.
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2010/08/DSC_0686.jpg"><img class="aligncenter size-full wp-image-3534" title="DSC_0686" src="http://blog.vickiboykis.com/wp-content/uploads/2010/08/DSC_0686.jpg" alt="" width="442" height="294" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/08/DSC_0686.jpg"><img class="aligncenter size-full wp-image-3534" title="DSC_0686" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/08/DSC_0686.jpg" alt="" width="442" height="294" /></a>
 </p>
 
 **From the blogs:**
@@ -78,13 +78,13 @@ One of the benefits of baseball stadium lighting is that I can look all dramatic
 Baseball is one of those intrinsically American things you don&#8217;t appreciate until you start thinking about other countries&#8217; characteristics.  France has sitting in cafes for hours at a time,  the Middle East has hookah on rooftops, and America has baseball.  You will see a crosscut of Real Americans at baseball games, and it&#8217;s pretty amazing if you stop and think about it.
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2010/08/DSC_0677.jpg"><img class="aligncenter size-full wp-image-3533" title="DSC_0677" src="http://blog.vickiboykis.com/wp-content/uploads/2010/08/DSC_0677.jpg" alt="" width="450" height="299" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/08/DSC_0677.jpg"><img class="aligncenter size-full wp-image-3533" title="DSC_0677" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/08/DSC_0677.jpg" alt="" width="450" height="299" /></a>
 </p>
 
 One of the benefits of baseball stadium lighting is that I can look all dramatic.
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2010/08/DSC_0686.jpg"><img class="aligncenter size-full wp-image-3534" title="DSC_0686" src="http://blog.vickiboykis.com/wp-content/uploads/2010/08/DSC_0686.jpg" alt="" width="442" height="294" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/08/DSC_0686.jpg"><img class="aligncenter size-full wp-image-3534" title="DSC_0686" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/08/DSC_0686.jpg" alt="" width="442" height="294" /></a>
 </p>
 
 **From the blogs:**
@@ -111,13 +111,13 @@ One of the benefits of baseball stadium lighting is that I can look all dramatic
 Baseball is one of those intrinsically American things you don&#8217;t appreciate until you start thinking about other countries&#8217; characteristics.  France has sitting in cafes for hours at a time,  the Middle East has hookah on rooftops, and America has baseball.  You will see a crosscut of Real Americans at baseball games, and it&#8217;s pretty amazing if you stop and think about it.
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2010/08/DSC_0677.jpg"><img class="aligncenter size-full wp-image-3533" title="DSC_0677" src="http://blog.vickiboykis.com/wp-content/uploads/2010/08/DSC_0677.jpg" alt="" width="450" height="299" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/08/DSC_0677.jpg"><img class="aligncenter size-full wp-image-3533" title="DSC_0677" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/08/DSC_0677.jpg" alt="" width="450" height="299" /></a>
 </p>
 
 One of the benefits of baseball stadium lighting is that I can look all dramatic.
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2010/08/DSC_0686.jpg"><img class="aligncenter size-full wp-image-3534" title="DSC_0686" src="http://blog.vickiboykis.com/wp-content/uploads/2010/08/DSC_0686.jpg" alt="" width="442" height="294" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/08/DSC_0686.jpg"><img class="aligncenter size-full wp-image-3534" title="DSC_0686" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/08/DSC_0686.jpg" alt="" width="442" height="294" /></a>
 </p>
 
 **From the blogs:**
@@ -127,13 +127,13 @@ One of the benefits of baseball stadium lighting is that I can look all dramatic
 Baseball is one of those intrinsically American things you don&#8217;t appreciate until you start thinking about other countries&#8217; characteristics.  France has sitting in cafes for hours at a time,  the Middle East has hookah on rooftops, and America has baseball.  You will see a crosscut of Real Americans at baseball games, and it&#8217;s pretty amazing if you stop and think about it.
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2010/08/DSC_0677.jpg"><img class="aligncenter size-full wp-image-3533" title="DSC_0677" src="http://blog.vickiboykis.com/wp-content/uploads/2010/08/DSC_0677.jpg" alt="" width="450" height="299" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/08/DSC_0677.jpg"><img class="aligncenter size-full wp-image-3533" title="DSC_0677" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/08/DSC_0677.jpg" alt="" width="450" height="299" /></a>
 </p>
 
 One of the benefits of baseball stadium lighting is that I can look all dramatic.
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2010/08/DSC_0686.jpg"><img class="aligncenter size-full wp-image-3534" title="DSC_0686" src="http://blog.vickiboykis.com/wp-content/uploads/2010/08/DSC_0686.jpg" alt="" width="442" height="294" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/08/DSC_0686.jpg"><img class="aligncenter size-full wp-image-3534" title="DSC_0686" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/08/DSC_0686.jpg" alt="" width="442" height="294" /></a>
 </p>
 
 **From the blogs:**
@@ -158,13 +158,13 @@ One of the benefits of baseball stadium lighting is that I can look all dramatic
 Baseball is one of those intrinsically American things you don&#8217;t appreciate until you start thinking about other countries&#8217; characteristics.  France has sitting in cafes for hours at a time,  the Middle East has hookah on rooftops, and America has baseball.  You will see a crosscut of Real Americans at baseball games, and it&#8217;s pretty amazing if you stop and think about it.
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2010/08/DSC_0677.jpg"><img class="aligncenter size-full wp-image-3533" title="DSC_0677" src="http://blog.vickiboykis.com/wp-content/uploads/2010/08/DSC_0677.jpg" alt="" width="450" height="299" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/08/DSC_0677.jpg"><img class="aligncenter size-full wp-image-3533" title="DSC_0677" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/08/DSC_0677.jpg" alt="" width="450" height="299" /></a>
 </p>
 
 One of the benefits of baseball stadium lighting is that I can look all dramatic.
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2010/08/DSC_0686.jpg"><img class="aligncenter size-full wp-image-3534" title="DSC_0686" src="http://blog.vickiboykis.com/wp-content/uploads/2010/08/DSC_0686.jpg" alt="" width="442" height="294" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/08/DSC_0686.jpg"><img class="aligncenter size-full wp-image-3534" title="DSC_0686" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/08/DSC_0686.jpg" alt="" width="442" height="294" /></a>
 </p>
 
 **From the blogs:**
@@ -174,13 +174,13 @@ One of the benefits of baseball stadium lighting is that I can look all dramatic
 Baseball is one of those intrinsically American things you don&#8217;t appreciate until you start thinking about other countries&#8217; characteristics.  France has sitting in cafes for hours at a time,  the Middle East has hookah on rooftops, and America has baseball.  You will see a crosscut of Real Americans at baseball games, and it&#8217;s pretty amazing if you stop and think about it.
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2010/08/DSC_0677.jpg"><img class="aligncenter size-full wp-image-3533" title="DSC_0677" src="http://blog.vickiboykis.com/wp-content/uploads/2010/08/DSC_0677.jpg" alt="" width="450" height="299" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/08/DSC_0677.jpg"><img class="aligncenter size-full wp-image-3533" title="DSC_0677" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/08/DSC_0677.jpg" alt="" width="450" height="299" /></a>
 </p>
 
 One of the benefits of baseball stadium lighting is that I can look all dramatic.
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2010/08/DSC_0686.jpg"><img class="aligncenter size-full wp-image-3534" title="DSC_0686" src="http://blog.vickiboykis.com/wp-content/uploads/2010/08/DSC_0686.jpg" alt="" width="442" height="294" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/08/DSC_0686.jpg"><img class="aligncenter size-full wp-image-3534" title="DSC_0686" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/08/DSC_0686.jpg" alt="" width="442" height="294" /></a>
 </p>
 
 **From the blogs:**

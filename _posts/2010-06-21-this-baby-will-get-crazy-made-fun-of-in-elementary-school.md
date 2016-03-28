@@ -11,8 +11,8 @@ categories:
 tags:
   - pics
 ---
-<img style="display: block; margin-right: auto; margin-left: auto;" src="http://blog.vickiboykis.com/wp-content/uploads/2010/06/wpid-IMAG0160.jpg" alt="image" />
+<img style="display: block; margin-right: auto; margin-left: auto;" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/06/wpid-IMAG0160.jpg" alt="image" />
 
-Although I see what they were going for with the whole [<img style="display: block; margin-right: auto; margin-left: auto;" src="http://blog.vickiboykis.com/wp-content/uploads/2010/06/wpid-IMAG0160.jpg" alt="image" />
+Although I see what they were going for with the whole [<img style="display: block; margin-right: auto; margin-left: auto;" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/06/wpid-IMAG0160.jpg" alt="image" />
 
 Although I see what they were going for with the whole](http://en.wikipedia.org/wiki/Vladislav_Volkov) thing.

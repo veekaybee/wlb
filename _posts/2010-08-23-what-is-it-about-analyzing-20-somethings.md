@@ -35,7 +35,7 @@ I honestly cannot stand any more of these articles that massage our collective g
 
 And then. And THEN.  [There is a photo gallery](http://www.nytimes.com/interactive/2010/08/22/magazine/20100822-iphone-gallery.html?ref=magazine) of what it&#8217;s like to be 20-something in the 2010s.  Let me give you the Cliffnotes if you don&#8217;t feel like looking at 20 self-indulgent pictures of hipsters in Brooklyn:
 
-[<img class="aligncenter size-full wp-image-3501" title="Photo 197" src="http://blog.vickiboykis.com/wp-content/uploads/2010/08/Photo-197.jpg" alt="" width="640" height="480" />](http://blog.vickiboykis.com/wp-content/uploads/2010/08/Photo-197.jpg)_
+[<img class="aligncenter size-full wp-image-3501" title="Photo 197" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/08/Photo-197.jpg" alt="" width="640" height="480" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/08/Photo-197.jpg)_
   
 _ 
 

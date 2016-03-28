@@ -28,7 +28,7 @@ Why?
 Because this makes absolutely no sense to me:
 
 <p style="text-align: left;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2011/12/Screen-shot-2011-12-08-at-10.17.34-PM.png"><img class="aligncenter size-full wp-image-6006" title="Screen shot 2011-12-08 at 10.17.34 PM" src="http://blog.vickiboykis.com/wp-content/uploads/2011/12/Screen-shot-2011-12-08-at-10.17.34-PM.png" alt="" width="513" height="308" /></a>I physically cannot convert metric to American in my mind.  Thanks to the American school system, I&#8217;ve encountered my own personal Waterloo.
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/12/Screen-shot-2011-12-08-at-10.17.34-PM.png"><img class="aligncenter size-full wp-image-6006" title="Screen shot 2011-12-08 at 10.17.34 PM" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/12/Screen-shot-2011-12-08-at-10.17.34-PM.png" alt="" width="513" height="308" /></a>I physically cannot convert metric to American in my mind.  Thanks to the American school system, I&#8217;ve encountered my own personal Waterloo.
 </p>
 
 <p style="text-align: left;">

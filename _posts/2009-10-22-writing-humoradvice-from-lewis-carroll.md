@@ -13,12 +13,12 @@ tags:
   - satire
   - writing
 ---
-[<img class="aligncenter size-full wp-image-1419" title="Page_1" src="http://blog.vickiboykis.com/wp-content/uploads/2009/10/Page_14.jpg" alt="Page_1" width="500" height="100" />](http://blog.vickiboykis.com/wp-content/uploads/2009/10/Page_14.jpg)
+[<img class="aligncenter size-full wp-image-1419" title="Page_1" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/10/Page_14.jpg" alt="Page_1" width="500" height="100" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/10/Page_14.jpg)
 
 So, I&#8217;m in the middle of sketching out my main character for the  [enormously satirical novel I&#8217;m going to write next month](http://blog.vickiboykis.com/2009/10/11/my-unborn-novel-is-annoying-me-nanowrimo/), when I realize I have no idea how to be funny.  So I looked up some advice on writing satire from the pros.
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2009/10/alice_in_wonderland.jpg"><img class="aligncenter size-full wp-image-1516" title="alice_in_wonderland" src="http://blog.vickiboykis.com/wp-content/uploads/2009/10/alice_in_wonderland.jpg" alt="alice_in_wonderland" width="348" height="258" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/10/alice_in_wonderland.jpg"><img class="aligncenter size-full wp-image-1516" title="alice_in_wonderland" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/10/alice_in_wonderland.jpg" alt="alice_in_wonderland" width="348" height="258" /></a>
 </p>
 
 Here&#8217;s what [Lewis Carroll](http://en.wikipedia.org/wiki/Lewis_Carroll) had to say:

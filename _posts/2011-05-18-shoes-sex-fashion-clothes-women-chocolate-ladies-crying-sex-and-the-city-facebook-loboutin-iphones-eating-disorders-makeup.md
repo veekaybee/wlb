@@ -20,7 +20,7 @@ I&#8217;ve [written before](http://blog.vickiboykis.com/2011/02/15/bye-bye-jezeb
 When you first hear about [XOJane](http://www.xojane.com/), you&#8217;re filled with hope, because [Jane was awesome](http://en.wikipedia.org/wiki/Jane_(magazine)) and spoke in a tone different from Glamour, Cosmo, etc, and covered real-people issues, none of which I can remember at the moment, but which really did resonate at the time.  Then, you come to the site and see this:
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2011/05/Screen-shot-2011-05-18-at-9.05.23-AM.png"><img class="aligncenter size-full wp-image-4968" title="Screen shot 2011-05-18 at 9.05.23 AM" src="http://blog.vickiboykis.com/wp-content/uploads/2011/05/Screen-shot-2011-05-18-at-9.05.23-AM.png" alt="" width="597" height="429" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/05/Screen-shot-2011-05-18-at-9.05.23-AM.png"><img class="aligncenter size-full wp-image-4968" title="Screen shot 2011-05-18 at 9.05.23 AM" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/05/Screen-shot-2011-05-18-at-9.05.23-AM.png" alt="" width="597" height="429" /></a>
 </p>
 
 <p style="text-align: left;">
@@ -28,5 +28,5 @@ When you first hear about [XOJane](http://www.xojane.com/), you&#8217;re filled 
 </p>
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2011/05/xojane2.jpg"><img class="aligncenter size-full wp-image-4971" title="xojane2" src="http://blog.vickiboykis.com/wp-content/uploads/2011/05/xojane2.jpg" alt="" width="614" height="441" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/05/xojane2.jpg"><img class="aligncenter size-full wp-image-4971" title="xojane2" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/05/xojane2.jpg" alt="" width="614" height="441" /></a>
 </p>

@@ -17,7 +17,7 @@ Here theyyyy arrre.
 [EXTRASPECIALBONUS PICTURE](http://www.amazon.com/Instructions-Adam-Levin/dp/1934781827). That thing is HUGE.
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2011/03/Photo-on-2011-02-15-at-06.16.jpg"><img class="aligncenter size-full wp-image-4468" title="Photo on 2011-02-15 at 06.16" src="http://blog.vickiboykis.com/wp-content/uploads/2011/03/Photo-on-2011-02-15-at-06.16.jpg" alt="" width="640" height="400" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/03/Photo-on-2011-02-15-at-06.16.jpg"><img class="aligncenter size-full wp-image-4468" title="Photo on 2011-02-15 at 06.16" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/03/Photo-on-2011-02-15-at-06.16.jpg" alt="" width="640" height="400" /></a>
 </p>
 
   1. [I agree with this 110%.](http://utahtechjobs.com/2010/yes-your-resumes-file-name-does-matter.htm) I have been editing resumes for about 3 years now, did 3 this week, and this advice is correct.

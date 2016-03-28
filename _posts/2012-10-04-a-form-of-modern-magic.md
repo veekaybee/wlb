@@ -15,7 +15,7 @@ tags:
   - Mr. B
   - wedding
 ---
-[<img class="aligncenter" title="Classic Photo 279" src="http://blog.vickiboykis.com/wp-content/uploads/2012/10/Classic-Photo-279.jpeg" alt="" width="720" height="482" />](http://blog.vickiboykis.com/wp-content/uploads/2012/10/Classic-Photo-279.jpeg)
+[<img class="aligncenter" title="Classic Photo 279" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/10/Classic-Photo-279.jpeg" alt="" width="720" height="482" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/10/Classic-Photo-279.jpeg)
 
 &nbsp;
 
@@ -31,7 +31,7 @@ Life in general isn&#8217;t very glamorous.  Marriage is the same. Marriage is 
 
 A marriage is the classic definition of a slog.  But the crazy thing about marrying someone who you know you are meant for is that it never feels like one.  It never ceases to amaze me that,for four years, I haven&#8217;t for a minute been bored.  It&#8217;s hard to feel bored with someone who challenges you to think differently, who makes you laugh, and who stands behind you like a rock when you can&#8217;t go anymore. Someone who travels the world with you.  Someone who, not completes you, but complements you, someone who balances out your flaws with his strengths.
 
-[<img class="aligncenter size-full wp-image-7638" title="vickis wedding-eid-sep08 067" src="http://blog.vickiboykis.com/wp-content/uploads/2012/10/vickis-wedding-eid-sep08-067.jpeg" alt="" width="640" height="480" />](http://blog.vickiboykis.com/wp-content/uploads/2012/10/vickis-wedding-eid-sep08-067.jpeg)
+[<img class="aligncenter size-full wp-image-7638" title="vickis wedding-eid-sep08 067" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/10/vickis-wedding-eid-sep08-067.jpeg" alt="" width="640" height="480" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/10/vickis-wedding-eid-sep08-067.jpeg)
 
 All of these things, you feel on a day-to-day basis, but it&#8217;s hard to appreciate on a larger scale.  The wedding is one of the only times you get to see experience all these trappings of marriage at work, which is a shame, since a wedding is also the most stressful day of your life.
 
@@ -39,7 +39,7 @@ But when I look back at our pictures over the last four years, I see the magic o
 
 &nbsp;
 
-[<img class="aligncenter size-full wp-image-7612" title="DSC00163" src="http://blog.vickiboykis.com/wp-content/uploads/2012/10/DSC00163.jpeg" alt="" width="640" height="480" />](http://blog.vickiboykis.com/wp-content/uploads/2012/10/DSC00163.jpeg)
+[<img class="aligncenter size-full wp-image-7612" title="DSC00163" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/10/DSC00163.jpeg" alt="" width="640" height="480" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/10/DSC00163.jpeg)
 
 <p style="text-align: center;">
   <em> Four days before Mr. B proposed in Prague</em>
@@ -47,13 +47,13 @@ But when I look back at our pictures over the last four years, I see the magic o
 
 &nbsp;
 
-[<img class="aligncenter size-full wp-image-7613" title="n9301935_44016925_3138" src="http://blog.vickiboykis.com/wp-content/uploads/2012/10/n9301935_44016925_3138.jpeg" alt="" width="342" height="512" />](http://blog.vickiboykis.com/wp-content/uploads/2012/10/n9301935_44016925_3138.jpeg)
+[<img class="aligncenter size-full wp-image-7613" title="n9301935_44016925_3138" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/10/n9301935_44016925_3138.jpeg" alt="" width="342" height="512" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/10/n9301935_44016925_3138.jpeg)
 
 <p style="text-align: center;">
   <em>At a friend&#8217;s wedding in 2007</em>
 </p>
 
-[<img class="aligncenter size-full wp-image-7614" title="CRW_0247" src="http://blog.vickiboykis.com/wp-content/uploads/2012/10/CRW_0247-.jpeg" alt="" width="640" height="480" />](http://blog.vickiboykis.com/wp-content/uploads/2012/10/CRW_0247-.jpeg)
+[<img class="aligncenter size-full wp-image-7614" title="CRW_0247" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/10/CRW_0247-.jpeg" alt="" width="640" height="480" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/10/CRW_0247-.jpeg)
 
 <p style="text-align: center;">
   <em>Engagement pics, by my friend Ira</em>
@@ -62,7 +62,7 @@ But when I look back at our pictures over the last four years, I see the magic o
 &nbsp;
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2012/10/DSC_0364.jpeg"><img class="aligncenter  wp-image-7615" title="DSC_0364" src="http://blog.vickiboykis.com/wp-content/uploads/2012/10/DSC_0364.jpeg" alt="" width="720" height="479" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/10/DSC_0364.jpeg"><img class="aligncenter  wp-image-7615" title="DSC_0364" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/10/DSC_0364.jpeg" alt="" width="720" height="479" /></a>
 </p>
 
 <p style="text-align: center;">
@@ -70,7 +70,7 @@ But when I look back at our pictures over the last four years, I see the magic o
 </p>
 
 <p style="text-align: left;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2012/10/IMAG0775.jpeg"><img class="aligncenter size-full wp-image-7619" title="IMAG0775" src="http://blog.vickiboykis.com/wp-content/uploads/2012/10/IMAG0775.jpeg" alt="" width="307" height="512" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/10/IMAG0775.jpeg"><img class="aligncenter size-full wp-image-7619" title="IMAG0775" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/10/IMAG0775.jpeg" alt="" width="307" height="512" /></a>
 </p>
 
 <p style="text-align: center;">
@@ -78,7 +78,7 @@ But when I look back at our pictures over the last four years, I see the magic o
 </p>
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2012/10/IMG_20120901_105711.jpg"><img class="aligncenter  wp-image-7631" title="IMG_20120901_105711" src="http://blog.vickiboykis.com/wp-content/uploads/2012/10/IMG_20120901_105711-1024x768.jpg" alt="" width="819" height="614" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/10/IMG_20120901_105711.jpg"><img class="aligncenter  wp-image-7631" title="IMG_20120901_105711" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/10/IMG_20120901_105711-1024x768.jpg" alt="" width="819" height="614" /></a>
 </p>
 
 <p style="text-align: center;">
@@ -87,7 +87,7 @@ But when I look back at our pictures over the last four years, I see the magic o
 
 <p style="text-align: left;">
   <p style="text-align: center;">
-    <a href="http://blog.vickiboykis.com/wp-content/uploads/2012/10/DSC00586.jpeg"><img class="aligncenter size-full wp-image-7637" title="DSC00586" src="http://blog.vickiboykis.com/wp-content/uploads/2012/10/DSC00586.jpeg" alt="" width="640" height="480" /></a>
+    <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/10/DSC00586.jpeg"><img class="aligncenter size-full wp-image-7637" title="DSC00586" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/10/DSC00586.jpeg" alt="" width="640" height="480" /></a>
   </p>
   
   <p style="text-align: center;">
@@ -95,7 +95,7 @@ But when I look back at our pictures over the last four years, I see the magic o
   </p>
   
   <p style="text-align: center;">
-    <a href="http://blog.vickiboykis.com/wp-content/uploads/2012/10/754584-2033995-694-H.jpeg"><img class="aligncenter  wp-image-7621" title="754584-2033995-694-H" src="http://blog.vickiboykis.com/wp-content/uploads/2012/10/754584-2033995-694-H-1024x680.jpeg" alt="" width="819" height="544" /></a>
+    <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/10/754584-2033995-694-H.jpeg"><img class="aligncenter  wp-image-7621" title="754584-2033995-694-H" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/10/754584-2033995-694-H-1024x680.jpeg" alt="" width="819" height="544" /></a>
   </p>
   
   <p style="text-align: center;">
@@ -103,7 +103,7 @@ But when I look back at our pictures over the last four years, I see the magic o
   </p>
   
   <p style="text-align: center;">
-    <a href="http://blog.vickiboykis.com/wp-content/uploads/2012/10/IMG_20120526_135215-1.jpg"><img class="aligncenter  wp-image-7625" title="IMG_20120526_135215 (1)" src="http://blog.vickiboykis.com/wp-content/uploads/2012/10/IMG_20120526_135215-1-768x1024.jpg" alt="" width="538" height="717" /></a>
+    <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/10/IMG_20120526_135215-1.jpg"><img class="aligncenter  wp-image-7625" title="IMG_20120526_135215 (1)" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/10/IMG_20120526_135215-1-768x1024.jpg" alt="" width="538" height="717" /></a>
   </p>
   
   <p style="text-align: center;">
@@ -111,7 +111,7 @@ But when I look back at our pictures over the last four years, I see the magic o
   </p>
   
   <p style="text-align: center;">
-    <a href="http://blog.vickiboykis.com/wp-content/uploads/2012/10/DSC_0660.jpg"><img class="aligncenter  wp-image-7626" title="DSC_0660" src="http://blog.vickiboykis.com/wp-content/uploads/2012/10/DSC_0660-1024x680.jpg" alt="" width="717" height="476" /></a>
+    <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/10/DSC_0660.jpg"><img class="aligncenter  wp-image-7626" title="DSC_0660" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/10/DSC_0660-1024x680.jpg" alt="" width="717" height="476" /></a>
   </p>
   
   <p style="text-align: center;">
@@ -119,11 +119,11 @@ But when I look back at our pictures over the last four years, I see the magic o
   </p>
   
   <p style="text-align: center;">
-    <a href="http://blog.vickiboykis.com/wp-content/uploads/2012/10/DSC_0033.jpg"><img class="aligncenter size-full wp-image-7629" title="DSC_0033" src="http://blog.vickiboykis.com/wp-content/uploads/2012/10/DSC_0033.jpg" alt="" width="426" height="640" /></a><br /> <em>Also pretty cold, San Francisco</em>
+    <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/10/DSC_0033.jpg"><img class="aligncenter size-full wp-image-7629" title="DSC_0033" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/10/DSC_0033.jpg" alt="" width="426" height="640" /></a><br /> <em>Also pretty cold, San Francisco</em>
   </p>
   
   <p style="text-align: center;">
-    <a href="http://blog.vickiboykis.com/wp-content/uploads/2012/10/DSC02384.jpeg"><img class="aligncenter size-full wp-image-7636" title="DSC02384" src="http://blog.vickiboykis.com/wp-content/uploads/2012/10/DSC02384.jpeg" alt="" width="640" height="480" /></a>
+    <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/10/DSC02384.jpeg"><img class="aligncenter size-full wp-image-7636" title="DSC02384" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/10/DSC02384.jpeg" alt="" width="640" height="480" /></a>
   </p>
   
   <p style="text-align: center;">
@@ -131,7 +131,7 @@ But when I look back at our pictures over the last four years, I see the magic o
   </p>
   
   <p style="text-align: center;">
-    <a href="http://blog.vickiboykis.com/wp-content/uploads/2012/10/IMG_20120916_172604.jpg"><img class="aligncenter  wp-image-7633" title="IMG_20120916_172604" src="http://blog.vickiboykis.com/wp-content/uploads/2012/10/IMG_20120916_172604-768x1024.jpg" alt="" width="538" height="717" /></a>
+    <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/10/IMG_20120916_172604.jpg"><img class="aligncenter  wp-image-7633" title="IMG_20120916_172604" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/10/IMG_20120916_172604-768x1024.jpg" alt="" width="538" height="717" /></a>
   </p>
   
   <p style="text-align: center;">

@@ -11,7 +11,7 @@ categories:
 tags:
   - birthday
 ---
-[<img class="aligncenter size-full wp-image-8952" alt="tumblr_inline_mi7unhWz421ro8qpo" src="http://blog.vickiboykis.com/wp-content/uploads/2013/08/tumblr_inline_mi7unhWz421ro8qpo.gif" width="500" height="280" />](http://blog.vickiboykis.com/wp-content/uploads/2013/08/tumblr_inline_mi7unhWz421ro8qpo.gif)
+[<img class="aligncenter size-full wp-image-8952" alt="tumblr_inline_mi7unhWz421ro8qpo" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/08/tumblr_inline_mi7unhWz421ro8qpo.gif" width="500" height="280" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/08/tumblr_inline_mi7unhWz421ro8qpo.gif)
 
 &nbsp;
 

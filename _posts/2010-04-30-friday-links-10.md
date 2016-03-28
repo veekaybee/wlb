@@ -16,7 +16,7 @@ tags:
 And a conversation with Ari Gold (really, my conscience).
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2010/04/Page_11.jpg"><img class="aligncenter size-full wp-image-2857" title="Page_1" src="http://blog.vickiboykis.com/wp-content/uploads/2010/04/Page_11.jpg" alt="" width="490" height="634" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/04/Page_11.jpg"><img class="aligncenter size-full wp-image-2857" title="Page_1" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/04/Page_11.jpg" alt="" width="490" height="634" /></a>
 </p>
 
 <p style="text-align: left;">

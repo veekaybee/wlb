@@ -22,7 +22,7 @@ You guys remember my <a href="http://www.ikea.com/us/en/catalog/categories/serie
 
 Here it is:
 
-<img class="aligncenter" src="http://blog.vickiboykis.com/wp-content/uploads/2011/06/DSC_0583.jpg" alt="" width="590" height="392" />
+<img class="aligncenter" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/06/DSC_0583.jpg" alt="" width="590" height="392" />
 
 And, as you can tell, it doesn&#8217;t really match anything in the living room and now that I think about it, my bear is kind of creepy, too. So my biggest first world problem last week was to find a matching leather chair to balance out the other two leather chairs that we have. Remember, <a href="http://news.yahoo.com/russia-orders-stalin-era-leather-coats-putin-guards-164228118.html" target="_blank">Russians love leather</a>.
 
@@ -32,7 +32,7 @@ So you can imagine my excitement when I saw the POANG leather chair PLUS tuffet 
 
 The chair was for sale in West Philly.  Now, some of you well-versed in American pop culture may know that West Philadelphia is where The Fresh Prince was <a href="www.youtube.com/watch?v=hBe0VCso0qs" target="_blank">born and raised</a>.  Which makes it sound like a friendly middle-class neighborhood.  But the reason Will Smith&#8217;s mom sent him away from West Philadelphia was because the <a href="http://inquirer.philly.com/graphics/shootings_map_2007/" target="_blank">Philly crime map</a> looks something like this:
 
-[<img class="aligncenter size-full wp-image-5199" title="Screen shot 2011-06-29 at 8.42.36 AM" src="http://blog.vickiboykis.com/wp-content/uploads/2011/06/Screen-shot-2011-06-29-at-8.42.36-AM.png" alt="" width="435" height="427" />](http://blog.vickiboykis.com/wp-content/uploads/2011/06/Screen-shot-2011-06-29-at-8.42.36-AM.png)
+[<img class="aligncenter size-full wp-image-5199" title="Screen shot 2011-06-29 at 8.42.36 AM" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/06/Screen-shot-2011-06-29-at-8.42.36-AM.png" alt="" width="435" height="427" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/06/Screen-shot-2011-06-29-at-8.42.36-AM.png)
 
 Actually, I just realized this makes it look like you should never go into the city of Philadelphia.  Which is probably true.
 
@@ -43,12 +43,12 @@ West Philly is not the best area to be in at night.  Or during the daytime.  G
 So,to be safe, I Google-mapped the address I&#8217;d be picking up the chair from, and I came up with this street view:
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2011/06/Screen-shot-2011-06-29-at-8.47.38-AM.png"><img class="aligncenter size-full wp-image-5200" title="Screen shot 2011-06-29 at 8.47.38 AM" src="http://blog.vickiboykis.com/wp-content/uploads/2011/06/Screen-shot-2011-06-29-at-8.47.38-AM.png" alt="" width="507" height="252" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/06/Screen-shot-2011-06-29-at-8.47.38-AM.png"><img class="aligncenter size-full wp-image-5200" title="Screen shot 2011-06-29 at 8.47.38 AM" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/06/Screen-shot-2011-06-29-at-8.47.38-AM.png" alt="" width="507" height="252" /></a>
 </p>
 
 Which doesn&#8217;t look too bad, right? I mean, kind of sketchy, but not sketchy enough that a girl couldn&#8217;t go get a deeply-discounted chair.  So I consulted with a safety expert, after I found a couple pictures of the actual house on Flickr, which is where I edited out the link.
 
-[<img class="aligncenter size-full wp-image-5201" title="Screen shot 2011-06-29 at 8.49.39 AM" src="http://blog.vickiboykis.com/wp-content/uploads/2011/06/Screen-shot-2011-06-29-at-8.49.39-AM.png" alt="" width="377" height="249" />](http://blog.vickiboykis.com/wp-content/uploads/2011/06/Screen-shot-2011-06-29-at-8.49.39-AM.png)
+[<img class="aligncenter size-full wp-image-5201" title="Screen shot 2011-06-29 at 8.49.39 AM" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/06/Screen-shot-2011-06-29-at-8.49.39-AM.png" alt="" width="377" height="249" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/06/Screen-shot-2011-06-29-at-8.49.39-AM.png)
 
 With that vote of confidence, I emailed the seller and said I&#8217;d be picking up the chair.  Note that I did this during the daytime (I left work a little early that day, which is why Mr. B couldn&#8217;t come along.)
 
@@ -88,25 +88,25 @@ But aren&#8217;t you dying to know what it looks like?
 
 Here it is. Zaaaa, right?
 
-<img style="display: block; margin-right: auto; margin-left: auto;" src="http://blog.vickiboykis.com/wp-content/uploads/2011/06/wpid-IMAG0877.jpg" alt="image" />
+<img style="display: block; margin-right: auto; margin-left: auto;" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/06/wpid-IMAG0877.jpg" alt="image" />
 
 And here&#8217;s the entire living room.  Better, yes? (Just lie and humor me.)
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2011/06/DSC_0621.jpg"><img class="aligncenter size-full wp-image-5196" title="DSC_0621" src="http://blog.vickiboykis.com/wp-content/uploads/2011/06/DSC_0621.jpg" alt="" width="516" height="343" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/06/DSC_0621.jpg"><img class="aligncenter size-full wp-image-5196" title="DSC_0621" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/06/DSC_0621.jpg" alt="" width="516" height="343" /></a>
 </p>
 
 [
   
-<img class="aligncenter" title="DSC_0622" src="http://blog.vickiboykis.com/wp-content/uploads/2011/06/DSC_0622.jpg" alt="" width="505" height="336" />](http://blog.vickiboykis.com/wp-content/uploads/2011/06/DSC_0622.jpg)
+<img class="aligncenter" title="DSC_0622" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/06/DSC_0622.jpg" alt="" width="505" height="336" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/06/DSC_0622.jpg)
 
 By the way, interesting story about the original POANG, which is now in our bedroom:
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2011/06/DSC_0622.jpg"><img src="http://blog.vickiboykis.com/wp-content/uploads/2011/06/wpid-IMAG0874.jpg" alt="image" /><br /> </a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/06/DSC_0622.jpg"><img src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/06/wpid-IMAG0874.jpg" alt="image" /><br /> </a>
 </p>
 
-[](http://blog.vickiboykis.com/wp-content/uploads/2011/06/DSC_0622.jpg)
+[](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/06/DSC_0622.jpg)
 
 I got this one, also from Craigslist, but in D.C. And by D.C. I mean that part of Silver Spring where it turns from Nice Suburban Georgia Avenue into OHMYGOD It&#8217;s sketchy DC. Which is less sketchy than West Philly. But still.  But instead of going during the day like I did this time, I decided to go after work, alone (where is Mr. B in these situations?) Also, I had my Honda Accord, which meant that the chair originally didn&#8217;t fit.  So there we were, a small white girl and a small Asian girl, kneeling on the ground on sketchy Georgia Avenue after dark, un-Allen-wrenching the chair to make it fit in my sedan.
 

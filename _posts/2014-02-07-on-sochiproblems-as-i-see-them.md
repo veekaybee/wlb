@@ -15,7 +15,7 @@ tags:
   - sochi
 ---
 <p style="text-align: center;">
-   <a href="http://blog.vickiboykis.com/wp-content/uploads/2014/02/howruslive001-9.jpg"><img class="aligncenter  wp-image-9478" alt="howruslive001-9" src="http://blog.vickiboykis.com/wp-content/uploads/2014/02/howruslive001-9.jpg" width="560" height="375" /></a>from &#8220;<a href="http://www.wired.com/rawfile/2012/05/bieke-depoorter/" target="_blank">Let Me Stay Overnight</a>&#8220;
+   <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2014/02/howruslive001-9.jpg"><img class="aligncenter  wp-image-9478" alt="howruslive001-9" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2014/02/howruslive001-9.jpg" width="560" height="375" /></a>from &#8220;<a href="http://www.wired.com/rawfile/2012/05/bieke-depoorter/" target="_blank">Let Me Stay Overnight</a>&#8220;
 </p>
 
 When I was eighteen, my dad finally took me back to Russia. I had been begging to go since I was nine because I had been having dreams in where my grandmother and my aunt spoke to me in Russian and reminded me that it was my obligation never to forget the Volga. These dreams were intense and immense, looming over my childhood and saturating it with guilt.
@@ -28,7 +28,7 @@ All of the emotion I had been feeling my entire life, about my Russian roots, ab
 
 That first night, I lay in my aunt&#8217;s apartment in Yaroslavl. I had played here as a toddler for countless hours, and everything was as I remembered it, but much smaller. I had only remembered it in my dreams for the past fifteen years, and I had to keep touching the couch to remember it was real.  The apartment, one bedroom where my grandmother slept with my aunt and one living room, seemed smaller. The kitchen was just a stove, a fridge, and a tiny table where my dad listened to Soviet news broadcasts as he ate breakfast over 20 years ago. Everything had shrunk.
 
-[<img class="aligncenter size-full wp-image-9483" alt="birch-grow-1.jpg!Blog" src="http://blog.vickiboykis.com/wp-content/uploads/2014/02/birch-grow-1.jpgBlog.jpg" width="500" height="375" />](http://blog.vickiboykis.com/wp-content/uploads/2014/02/birch-grow-1.jpgBlog.jpg)
+[<img class="aligncenter size-full wp-image-9483" alt="birch-grow-1.jpg!Blog" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2014/02/birch-grow-1.jpgBlog.jpg" width="500" height="375" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2014/02/birch-grow-1.jpgBlog.jpg)
 
 But the crickets outside seemed much larger. There was no air conditioning, so the windows were open to the stillness of the summer night and the distinct Russian summer darkness came in like ink through a sieve. Downstairs, in the stairwell that smelled like piss and thirty years of crumbling damp concrete, someone clanged up the stairs, and my heart raced for a second until I remembered the thick black door with two bolts that had survived the lawless nineties. I&#8217;m back, I thought, this is Russia, with a sense of anticipation and fear. This is mine, mine, this is who I am,  me, me, me, my mind echoed into the darkness of my dreams.
 
@@ -44,7 +44,7 @@ It shouldn&#8217;t be like this, I thought. It can&#8217;t be like this. How is 
 
 I had a feeling I didn&#8217;t know how to reconcile. It was the feeling of simultaneously feeling proud of Russia, of loving Russia to pieces, but also one of complete helplessness. How to even begin fixing something like this, a country where people still live in barracks that weren&#8217;t meant to outlast Khruschev? A country where it&#8217;s reasonable to expect to to get bitten by rabies-carrying dogs?
 
-[<img class="aligncenter size-full wp-image-9482" alt="among-the-open-valley-1883.jpg!Blog" src="http://blog.vickiboykis.com/wp-content/uploads/2014/02/among-the-open-valley-1883.jpgBlog.jpg" width="500" height="332" />](http://blog.vickiboykis.com/wp-content/uploads/2014/02/among-the-open-valley-1883.jpgBlog.jpg)
+[<img class="aligncenter size-full wp-image-9482" alt="among-the-open-valley-1883.jpg!Blog" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2014/02/among-the-open-valley-1883.jpgBlog.jpg" width="500" height="332" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2014/02/among-the-open-valley-1883.jpgBlog.jpg)
 
 And a third, uneasy feeling swept through me, and I recognized it right away: American smugness. Everything is so terrible here. It would never happen this way in America. How can people just take it? People would never be this okay with broken roads, heinous public toilets, and men staggering-drunk in the middle of the day where I was from.
 
@@ -79,7 +79,7 @@ This duplicity of emotions is something the Western journalists teeming into Soc
 It&#8217;s not their fault, but they don&#8217;t understand that they&#8217;re missing the first two emotions: an overwhelming sense of love and obligation to the country, and a nuanced, detailed intuition about how things can be made better. Hence, when they process the unfinished hotel rooms and the unspeakable amount of public money that&#8217;s been stolen to build the world&#8217;s most expensive but worst-looking games, all they can come up with is, &#8220;Haha, this menu says ass on it.&#8221; (Ass. is the abbreviation for assortment in Russian.)
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2014/02/Screen-Shot-2014-02-07-at-7.02.41-AM.png"><img class="aligncenter  wp-image-9480" alt="Screen Shot 2014-02-07 at 7.02.41 AM" src="http://blog.vickiboykis.com/wp-content/uploads/2014/02/Screen-Shot-2014-02-07-at-7.02.41-AM.png" width="465" height="398" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2014/02/Screen-Shot-2014-02-07-at-7.02.41-AM.png"><img class="aligncenter  wp-image-9480" alt="Screen Shot 2014-02-07 at 7.02.41 AM" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2014/02/Screen-Shot-2014-02-07-at-7.02.41-AM.png" width="465" height="398" /></a>
 </p>
 
 <p style="text-align: left;">

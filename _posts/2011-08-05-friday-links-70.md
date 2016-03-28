@@ -11,11 +11,11 @@ categories:
 tags:
   - Friday
 ---
-[<img class="aligncenter size-full wp-image-5511" title="c4677f4d2189" src="http://blog.vickiboykis.com/wp-content/uploads/2011/08/c4677f4d2189.gif" alt="" width="500" height="262" />](http://blog.vickiboykis.com/wp-content/uploads/2011/08/c4677f4d2189.gif)
+[<img class="aligncenter size-full wp-image-5511" title="c4677f4d2189" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/08/c4677f4d2189.gif" alt="" width="500" height="262" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/08/c4677f4d2189.gif)
 
 Hooray for birthdays! (not <a href="http://www.suburbansweetheart.com/2011/07/this-is-me-yo-right-here.html" target="_blank">just mine</a>)
 
-[<img class="aligncenter size-full wp-image-5512" title="vimr08" src="http://blog.vickiboykis.com/wp-content/uploads/2011/08/vimr08.gif" alt="" width="500" height="281" />](http://blog.vickiboykis.com/wp-content/uploads/2011/08/vimr08.gif)
+[<img class="aligncenter size-full wp-image-5512" title="vimr08" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/08/vimr08.gif" alt="" width="500" height="281" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/08/vimr08.gif)
 
 My birthday wish is, if you enjoy this blog and have the means to do so,  get on Kiva (like Vika, only not!), or, if you&#8217;re already on it, make a loan of, like, $25. <a href="http://www.kiva.org/" target="_blank">Kiva is a charity that is not lame</a>, does not take your money and turn it into administrative overhead payments, and you don&#8217;t just throw money at the problem, you help people start businesses. If not Kiva, then something else.  Read to a child.  Plant a tree.  Eat someone&#8217;s cookies because you&#8217;re looking out for their health.  And then come back in the comment section and tell me what you did so I can take credit for it.
 

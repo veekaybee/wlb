@@ -20,7 +20,7 @@ tags:
 ---
 &nbsp;
 
-[<img class="aligncenter size-medium wp-image-8556" alt="IMG_20130330_073415" src="http://blog.vickiboykis.com/wp-content/uploads/2013/04/IMG_20130330_073415-580x435.jpg" width="580" height="435" />](http://blog.vickiboykis.com/wp-content/uploads/2013/04/IMG_20130330_073415.jpg)
+[<img class="aligncenter size-medium wp-image-8556" alt="IMG_20130330_073415" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/04/IMG_20130330_073415-580x435.jpg" width="580" height="435" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/04/IMG_20130330_073415.jpg)
 
 Several glasses deep into a bottle of wine a couple months ago, my friend and I decided we needed <a href="http://blog.vickiboykis.com/2012/12/our-religion-is-really-just-our-parents/" target="_blank">more Jewish rituals</a> in our lives. She has a toddler and wants to make sure he is steeped in Jewish tradition, but, also being ex-Soviet, is not sure how to go about doing it.
 
@@ -34,7 +34,7 @@ Then, I had class three out of seven nights last week and worked late the other 
 
 Somewhere in the middle of the cooking and cleaning, I decided having a meal ready to feed hungry people was more important than following kashrut, so I made bourekas, which definitely have dough, to supplement the appetizers. Then, I decided I was craving a curry, so I made <a href="http://www.food.com/recipe/thai-red-curry-with-vegetables-63209" target="_blank">red thai curry</a>, Ashkenazi traditions be damned.
 
-[<img class="aligncenter size-medium wp-image-8557" alt="Screen Shot 2013-04-03 at 7.34.41 AM" src="http://blog.vickiboykis.com/wp-content/uploads/2013/04/Screen-Shot-2013-04-03-at-7.34.41-AM-580x235.png" width="580" height="235" />](http://blog.vickiboykis.com/wp-content/uploads/2013/04/Screen-Shot-2013-04-03-at-7.34.41-AM.png)
+[<img class="aligncenter size-medium wp-image-8557" alt="Screen Shot 2013-04-03 at 7.34.41 AM" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/04/Screen-Shot-2013-04-03-at-7.34.41-AM-580x235.png" width="580" height="235" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/04/Screen-Shot-2013-04-03-at-7.34.41-AM.png)
 
 &nbsp;
 

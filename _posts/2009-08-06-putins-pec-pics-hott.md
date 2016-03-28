@@ -21,7 +21,7 @@ As you may know, Russian <span style="text-decoration: line-through;">Dominant O
 While in Siberia, Putin participated in all sorts of manly activities, including horseback riding,
 
 <div id="attachment_982" style="width: 402px" class="wp-caption aligncenter">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2009/08/putin.jpg"><img class="size-full wp-image-982" title="Russia Putin" src="http://blog.vickiboykis.com/wp-content/uploads/2009/08/putin.jpg" alt="Russia Putin" width="392" height="287" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/08/putin.jpg"><img class="size-full wp-image-982" title="Russia Putin" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/08/putin.jpg" alt="Russia Putin" width="392" height="287" /></a>
   
   <p class="wp-caption-text">
     Source: AP
@@ -34,7 +34,7 @@ While in Siberia, Putin participated in all sorts of manly activities, including
   </p>
   
   <div id="attachment_983" style="width: 383px" class="wp-caption aligncenter">
-    <a href="http://blog.vickiboykis.com/wp-content/uploads/2009/08/swimming.jpg"><img class="size-full wp-image-983" title="APTOPIX Russia Putin" src="http://blog.vickiboykis.com/wp-content/uploads/2009/08/swimming.jpg" alt="APTOPIX Russia Putin" width="373" height="233" /></a>
+    <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/08/swimming.jpg"><img class="size-full wp-image-983" title="APTOPIX Russia Putin" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/08/swimming.jpg" alt="APTOPIX Russia Putin" width="373" height="233" /></a>
     
     <p class="wp-caption-text">
       Source: AP
@@ -46,7 +46,7 @@ While in Siberia, Putin participated in all sorts of manly activities, including
   </p>
   
   <div id="attachment_984" style="width: 434px" class="wp-caption aligncenter">
-    <a href="http://blog.vickiboykis.com/wp-content/uploads/2009/08/norris.jpg"><img class="size-full wp-image-984" title="Russia Putin" src="http://blog.vickiboykis.com/wp-content/uploads/2009/08/norris.jpg" alt="Russia Putin" width="424" height="320" /></a>
+    <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/08/norris.jpg"><img class="size-full wp-image-984" title="Russia Putin" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/08/norris.jpg" alt="Russia Putin" width="424" height="320" /></a>
     
     <p class="wp-caption-text">
       Source: AP
@@ -58,7 +58,7 @@ While in Siberia, Putin participated in all sorts of manly activities, including
   </p>
   
   <p style="text-align: left;">
-    <a href="http://blog.vickiboykis.com/wp-content/uploads/2009/08/koshchey.jpg"><img class="aligncenter size-full wp-image-985" title="koshchey" src="http://blog.vickiboykis.com/wp-content/uploads/2009/08/koshchey.jpg" alt="koshchey" width="400" height="262" /></a>
+    <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/08/koshchey.jpg"><img class="aligncenter size-full wp-image-985" title="koshchey" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/08/koshchey.jpg" alt="koshchey" width="400" height="262" /></a>
   </p>
   
   <p>
@@ -66,7 +66,7 @@ While in Siberia, Putin participated in all sorts of manly activities, including
   </p>
   
   <div id="attachment_979" style="width: 428px" class="wp-caption aligncenter">
-    <a href="http://blog.vickiboykis.com/wp-content/uploads/2009/08/putin_planet_unicorn.jpg"><img class="size-full wp-image-979" title="putin_planet_unicorn" src="http://blog.vickiboykis.com/wp-content/uploads/2009/08/putin_planet_unicorn.jpg" alt="putin_planet_unicorn" width="418" height="281" /></a>
+    <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/08/putin_planet_unicorn.jpg"><img class="size-full wp-image-979" title="putin_planet_unicorn" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/08/putin_planet_unicorn.jpg" alt="putin_planet_unicorn" width="418" height="281" /></a>
     
     <p class="wp-caption-text">
       Source: LSD

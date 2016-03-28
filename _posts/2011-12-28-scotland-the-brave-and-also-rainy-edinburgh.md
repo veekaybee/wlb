@@ -29,13 +29,13 @@ tags:
 We were on the morning train from London and I was steeped in the afterglow of that city, a city as formidable and grand and historic and proper as the empire it founded, when I saw the North Sea come up on the right-hand side, out of nowhere, and I gasped, inwardly.  Only later, looking back at this photo, I realized that this is what Scotland is.
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2011/12/IMAG1058.jpg"><img class="aligncenter size-full wp-image-6076" title="IMAG1058" src="http://blog.vickiboykis.com/wp-content/uploads/2011/12/IMAG1058.jpg" alt="" width="369" height="614" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/12/IMAG1058.jpg"><img class="aligncenter size-full wp-image-6076" title="IMAG1058" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/12/IMAG1058.jpg" alt="" width="369" height="614" /></a>
 </p>
 
 Soon after, we passed Berwick-upon-Tweed, which I took a picture of the sign because it&#8217;s the most English place name I&#8217;ve ever seen in my life.
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2011/12/IMAG1060.jpg"><img class="aligncenter size-full wp-image-6077" title="IMAG1060" src="http://blog.vickiboykis.com/wp-content/uploads/2011/12/IMAG1060.jpg" alt="" width="323" height="538" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/12/IMAG1060.jpg"><img class="aligncenter size-full wp-image-6077" title="IMAG1060" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/12/IMAG1060.jpg" alt="" width="323" height="538" /></a>
 </p>
 
 <a href="http://www.amazon.com/Scotland-Story-Nation-Magnus-Magnusson/dp/0802139329" target="_blank">Later,</a> I would find out that it&#8217;s <a href="http://en.wikipedia.org/wiki/Berwick-upon-Tweed#Struggles_for_control_of_Berwick" target="_blank">one of the bloodiest towns</a> in English-Scottish history.  Now it just stands at the border, silent and mundane like the rest of the 21st century.
@@ -44,20 +44,20 @@ Before we left, I had no idea that England and Scotland were so different. In fa
 
 When we got to Edinburgh, it was raining, or as the Scottish say, <a href="http://www.urbandictionary.com/define.php?term=Dreich+(Old+Scots+origin)" target="_blank">dreich</a>.  It really tells you something about a country there is a specific word for this kind of weather.  On first glance, Edinburgh is amazingly beautiful and historic.
 
-[<img title="DSC_0598" src="http://blog.vickiboykis.com/wp-content/uploads/2011/12/DSC_0598.jpg" alt="" width="442" height="294" />](http://blog.vickiboykis.com/wp-content/uploads/2011/12/DSC_0598.jpg)[<p style="text-align: left;">
+[<img title="DSC_0598" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/12/DSC_0598.jpg" alt="" width="442" height="294" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/12/DSC_0598.jpg)[<p style="text-align: left;">
   I didn&#8217;t find Scotland so much as it found me, but only after I left it.
 </p>
 
 We were on the morning train from London and I was steeped in the afterglow of that city, a city as formidable and grand and historic and proper as the empire it founded, when I saw the North Sea come up on the right-hand side, out of nowhere, and I gasped, inwardly.  Only later, looking back at this photo, I realized that this is what Scotland is.
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2011/12/IMAG1058.jpg"><img class="aligncenter size-full wp-image-6076" title="IMAG1058" src="http://blog.vickiboykis.com/wp-content/uploads/2011/12/IMAG1058.jpg" alt="" width="369" height="614" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/12/IMAG1058.jpg"><img class="aligncenter size-full wp-image-6076" title="IMAG1058" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/12/IMAG1058.jpg" alt="" width="369" height="614" /></a>
 </p>
 
 Soon after, we passed Berwick-upon-Tweed, which I took a picture of the sign because it&#8217;s the most English place name I&#8217;ve ever seen in my life.
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2011/12/IMAG1060.jpg"><img class="aligncenter size-full wp-image-6077" title="IMAG1060" src="http://blog.vickiboykis.com/wp-content/uploads/2011/12/IMAG1060.jpg" alt="" width="323" height="538" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/12/IMAG1060.jpg"><img class="aligncenter size-full wp-image-6077" title="IMAG1060" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/12/IMAG1060.jpg" alt="" width="323" height="538" /></a>
 </p>
 
 <a href="http://www.amazon.com/Scotland-Story-Nation-Magnus-Magnusson/dp/0802139329" target="_blank">Later,</a> I would find out that it&#8217;s <a href="http://en.wikipedia.org/wiki/Berwick-upon-Tweed#Struggles_for_control_of_Berwick" target="_blank">one of the bloodiest towns</a> in English-Scottish history.  Now it just stands at the border, silent and mundane like the rest of the 21st century.
@@ -66,14 +66,14 @@ Before we left, I had no idea that England and Scotland were so different. In fa
 
 When we got to Edinburgh, it was raining, or as the Scottish say, <a href="http://www.urbandictionary.com/define.php?term=Dreich+(Old+Scots+origin)" target="_blank">dreich</a>.  It really tells you something about a country there is a specific word for this kind of weather.  On first glance, Edinburgh is amazingly beautiful and historic.
 
-[<img title="DSC_0598" src="http://blog.vickiboykis.com/wp-content/uploads/2011/12/DSC_0598.jpg" alt="" width="442" height="294" />](http://blog.vickiboykis.com/wp-content/uploads/2011/12/DSC_0598.jpg)](http://blog.vickiboykis.com/wp-content/uploads/2011/12/DSC_0586.jpg) 
+[<img title="DSC_0598" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/12/DSC_0598.jpg" alt="" width="442" height="294" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/12/DSC_0598.jpg)](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/12/DSC_0586.jpg) 
 
 On second glance, it is dreich, and was dreich every day of our time in Scotland.
 
 But <a href="http://www.edinburghcastle.gov.uk/story" target="_blank">that castle, that castle</a>.  It captured my imagination. Because I believe that every city should have a great castle, and every city should have thousands of years of history around the castle.  Unfortunately, I live in America where the oldest thing we have is my crusty retainer from sixth grade that I&#8217;ve kept for nostalgia&#8217;s sake.  But in Europe, I get my fix.
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2011/12/DSC_0609.jpg"><img class="aligncenter size-full wp-image-6081" title="DSC_0609" src="http://blog.vickiboykis.com/wp-content/uploads/2011/12/DSC_0609.jpg" alt="" width="442" height="294" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/12/DSC_0609.jpg"><img class="aligncenter size-full wp-image-6081" title="DSC_0609" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/12/DSC_0609.jpg" alt="" width="442" height="294" /></a>
 </p>
 
 <p style="text-align: left;">
@@ -89,7 +89,7 @@ But <a href="http://www.edinburghcastle.gov.uk/story" target="_blank">that castl
 </p>
 
 <p style="text-align: left;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2011/12/IMAG1065.jpg"><img class="aligncenter size-full wp-image-6083" title="IMAG1065" src="http://blog.vickiboykis.com/wp-content/uploads/2011/12/IMAG1065.jpg" alt="" width="277" height="461" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/12/IMAG1065.jpg"><img class="aligncenter size-full wp-image-6083" title="IMAG1065" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/12/IMAG1065.jpg" alt="" width="277" height="461" /></a>
 </p>
 
 <p style="text-align: left;">
@@ -105,7 +105,7 @@ But <a href="http://www.edinburghcastle.gov.uk/story" target="_blank">that castl
 </p>
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2011/12/DSC_0613.jpg"><img class="aligncenter size-full wp-image-6085" title="DSC_0613" src="http://blog.vickiboykis.com/wp-content/uploads/2011/12/DSC_0613.jpg" alt="" width="379" height="252" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/12/DSC_0613.jpg"><img class="aligncenter size-full wp-image-6085" title="DSC_0613" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/12/DSC_0613.jpg" alt="" width="379" height="252" /></a>
 </p>
 
 <p style="text-align: left;">
@@ -113,19 +113,19 @@ But <a href="http://www.edinburghcastle.gov.uk/story" target="_blank">that castl
 </p>
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2011/12/DSC_06411.jpg"><img class="aligncenter size-full wp-image-6087" title="DSC_0641" src="http://blog.vickiboykis.com/wp-content/uploads/2011/12/DSC_06411.jpg" alt="" width="294" height="442" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/12/DSC_06411.jpg"><img class="aligncenter size-full wp-image-6087" title="DSC_0641" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/12/DSC_06411.jpg" alt="" width="294" height="442" /></a>
 </p>
 
 Oh, right. And Occupy Edinburgh.  Apparently the Occupy movement is everywhere.  We saw it in London and Glasgow as well.  Fortunately, though, we didn&#8217;t see it in the Highlands.
 
-[<img title="DSC_0651" src="http://blog.vickiboykis.com/wp-content/uploads/2011/12/DSC_0651.jpg" alt="" width="541" height="360" />](http://blog.vickiboykis.com/wp-content/uploads/2011/12/DSC_0651.jpg)
+[<img title="DSC_0651" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/12/DSC_0651.jpg" alt="" width="541" height="360" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/12/DSC_0651.jpg)
 
 <div>
   But also, Edinburgh is really pretty for Christmastime:
 </div>
 
 <div>
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2011/12/DSC_0655.jpg"><img class="aligncenter size-medium wp-image-6097" title="DSC_0655" src="http://blog.vickiboykis.com/wp-content/uploads/2011/12/DSC_0655-300x199.jpg" alt="" width="300" height="199" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/12/DSC_0655.jpg"><img class="aligncenter size-medium wp-image-6097" title="DSC_0655" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/12/DSC_0655-300x199.jpg" alt="" width="300" height="199" /></a>
 </div>
 
 <div>
@@ -146,7 +146,7 @@ Oh, right. And Occupy Edinburgh.  Apparently the Occupy movement is everywhere.
 </div>
 
 <div>
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2011/12/DSC_0669.jpg"><img class="aligncenter size-medium wp-image-6098" title="DSC_0669" src="http://blog.vickiboykis.com/wp-content/uploads/2011/12/DSC_0669-300x199.jpg" alt="" width="300" height="199" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/12/DSC_0669.jpg"><img class="aligncenter size-medium wp-image-6098" title="DSC_0669" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/12/DSC_0669-300x199.jpg" alt="" width="300" height="199" /></a>
 </div>
 
 <div>
@@ -174,5 +174,5 @@ Oh, right. And Occupy Edinburgh.  Apparently the Occupy movement is everywhere.
 </div>
 
 <div>
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2011/12/DSC_0668.jpg"><img class="aligncenter size-medium wp-image-6099" title="DSC_0668" src="http://blog.vickiboykis.com/wp-content/uploads/2011/12/DSC_0668-300x199.jpg" alt="" width="300" height="199" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/12/DSC_0668.jpg"><img class="aligncenter size-medium wp-image-6099" title="DSC_0668" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/12/DSC_0668-300x199.jpg" alt="" width="300" height="199" /></a>
 </div>

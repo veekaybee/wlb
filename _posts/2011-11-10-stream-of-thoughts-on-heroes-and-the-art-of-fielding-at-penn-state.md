@@ -19,7 +19,7 @@ tags:
   - undergrad
 ---
 <div>
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2011/11/n9301935_41502245_8489.jpg"><img class="aligncenter size-full wp-image-5906" title="n9301935_41502245_8489" src="http://blog.vickiboykis.com/wp-content/uploads/2011/11/n9301935_41502245_8489.jpg" alt="" width="360" height="270" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/11/n9301935_41502245_8489.jpg"><img class="aligncenter size-full wp-image-5906" title="n9301935_41502245_8489" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/11/n9301935_41502245_8489.jpg" alt="" width="360" height="270" /></a>
 </div>
 
 <div>

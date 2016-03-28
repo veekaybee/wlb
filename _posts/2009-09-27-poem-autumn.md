@@ -17,7 +17,7 @@ tags:
 It feels like fall here.  It&#8217;s rainy and quiet out on the balcony.  I was inspired. The result is this poem that sounds like it could have been written by a 3-year old doped up on prescription medications.
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2009/09/fall-Rain.jpg"><img class="aligncenter size-full wp-image-1322" title="fall Rain" src="http://blog.vickiboykis.com/wp-content/uploads/2009/09/fall-Rain.jpg" alt="fall Rain" width="500" height="375" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/09/fall-Rain.jpg"><img class="aligncenter size-full wp-image-1322" title="fall Rain" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/09/fall-Rain.jpg" alt="fall Rain" width="500" height="375" /></a>
 </p>
 
 <p style="text-align: center;">

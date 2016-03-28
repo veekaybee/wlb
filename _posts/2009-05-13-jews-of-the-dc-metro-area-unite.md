@@ -9,6 +9,6 @@ permalink: /2009/05/jews-of-the-dc-metro-area-unite/
 categories:
   - Uncategorized
 ---
-[<img class="aligncenter size-full wp-image-335" title="dctweetup" src="http://blog.vickiboykis.com/wp-content/uploads/2009/05/dctweetup.jpg" alt="dctweetup" width="484" height="781" />](http://blog.vickiboykis.com/wp-content/uploads/2009/05/dctweetup.jpg)
+[<img class="aligncenter size-full wp-image-335" title="dctweetup" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/05/dctweetup.jpg" alt="dctweetup" width="484" height="781" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/05/dctweetup.jpg)
 
 RSVP [here.](http://twtvite.com/ci9w0c)

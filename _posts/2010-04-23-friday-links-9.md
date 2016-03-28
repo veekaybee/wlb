@@ -15,7 +15,7 @@ tags:
 How do I know we&#8217;re close to the Pentagon? Agents have been surreptitiously checking out  our apartment all the time.  I hope this is not [Nicki](http://www.motherhoodinnyc.com/category/nicki).
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2010/04/DSC_0044.jpg"><img class="aligncenter size-full wp-image-2817" title="DSC_0044" src="http://blog.vickiboykis.com/wp-content/uploads/2010/04/DSC_0044.jpg" alt="" width="600" height="300" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/04/DSC_0044.jpg"><img class="aligncenter size-full wp-image-2817" title="DSC_0044" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/04/DSC_0044.jpg" alt="" width="600" height="300" /></a>
 </p>
 
 <p style="text-align: left;">
@@ -28,7 +28,7 @@ How do I know we&#8217;re close to the Pentagon? Agents have been surreptitiousl
   4. Emily on [How do I know we&#8217;re close to the Pentagon? Agents have been surreptitiously checking out  our apartment all the time.  I hope this is not [Nicki](http://www.motherhoodinnyc.com/category/nicki).
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2010/04/DSC_0044.jpg"><img class="aligncenter size-full wp-image-2817" title="DSC_0044" src="http://blog.vickiboykis.com/wp-content/uploads/2010/04/DSC_0044.jpg" alt="" width="600" height="300" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/04/DSC_0044.jpg"><img class="aligncenter size-full wp-image-2817" title="DSC_0044" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/04/DSC_0044.jpg" alt="" width="600" height="300" /></a>
 </p>
 
 <p style="text-align: left;">

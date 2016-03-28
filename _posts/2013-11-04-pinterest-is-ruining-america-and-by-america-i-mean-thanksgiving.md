@@ -17,7 +17,7 @@ tags:
   - thanksgiving
   - women
 ---
-[<img class="aligncenter size-full wp-image-9230" alt="1323646088234_3752143" src="http://blog.vickiboykis.com/wp-content/uploads/2013/11/1323646088234_3752143.png" width="420" height="294" />](http://blog.vickiboykis.com/wp-content/uploads/2013/11/1323646088234_3752143.png)
+[<img class="aligncenter size-full wp-image-9230" alt="1323646088234_3752143" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/11/1323646088234_3752143.png" width="420" height="294" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/11/1323646088234_3752143.png)
 
 &nbsp;
 
@@ -28,13 +28,13 @@ Yesterday, while I was debating whether to kill myself or finish the accounting 
 &#8220;Hey friend, look at this inspiration board we made for Halloween,&#8221; they&#8217;ll say, batting their eyelashes, like the street hawker in New York, hawking shady Chinese massages, handing you a card, shifty-eyed. &#8220;We just thought you might want to know about this pumpkin that you can paint black and use as a road sign for the kids that are sure to trash it!&#8221;
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2013/11/Screen-Shot-2013-11-04-at-7.15.46-AM.png"><img class="aligncenter  wp-image-9231" alt="Screen Shot 2013-11-04 at 7.15.46 AM" src="http://blog.vickiboykis.com/wp-content/uploads/2013/11/Screen-Shot-2013-11-04-at-7.15.46-AM-580x516.png" width="522" height="464" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/11/Screen-Shot-2013-11-04-at-7.15.46-AM.png"><img class="aligncenter  wp-image-9231" alt="Screen Shot 2013-11-04 at 7.15.46 AM" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/11/Screen-Shot-2013-11-04-at-7.15.46-AM-580x516.png" width="522" height="464" /></a>
 </p>
 
 &#8220;Or maybe you can take the time to hang bats on your chandelier, because it&#8217;s an easy, no-frills way to tell everyone that you&#8217;re teetering on the edge of sanity.&#8221;  It&#8217;s true, I am an unusually grumpy Old Person when it comes to Halloween.
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2013/11/Screen-Shot-2013-11-04-at-7.19.20-AM.png"><img class="aligncenter  wp-image-9233" alt="Screen Shot 2013-11-04 at 7.19.20 AM" src="http://blog.vickiboykis.com/wp-content/uploads/2013/11/Screen-Shot-2013-11-04-at-7.19.20-AM-580x213.png" width="464" height="170" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/11/Screen-Shot-2013-11-04-at-7.19.20-AM.png"><img class="aligncenter  wp-image-9233" alt="Screen Shot 2013-11-04 at 7.19.20 AM" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/11/Screen-Shot-2013-11-04-at-7.19.20-AM-580x213.png" width="464" height="170" /></a>
 </p>
 
 So usually I can withstand their charms, because I hate 90% of everything on Pinterest, by which I mean it inspires jealousy in me that people*
@@ -50,7 +50,7 @@ Maybe I should know how to do this stuff. I have no idea how to sew, almost no b
 Look at these brownies I made from a box last night. Jesus. They look like something you would give the livestock while you&#8217;re yelling &#8220;sooKEEEE, here SOOOKIIIEE.&#8221; Mr. B was the victim of choice for these.
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2013/11/Screen-Shot-2013-11-04-at-7.32.39-AM.png"><img class="aligncenter  wp-image-9235" alt="Screen Shot 2013-11-04 at 7.32.39 AM" src="http://blog.vickiboykis.com/wp-content/uploads/2013/11/Screen-Shot-2013-11-04-at-7.32.39-AM-580x559.png" width="464" height="447" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/11/Screen-Shot-2013-11-04-at-7.32.39-AM.png"><img class="aligncenter  wp-image-9235" alt="Screen Shot 2013-11-04 at 7.32.39 AM" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/11/Screen-Shot-2013-11-04-at-7.32.39-AM-580x559.png" width="464" height="447" /></a>
 </p>
 
 Since I&#8217;ve realized how much I suck, I&#8217;ve been reflecting on how I can be <a href="http://blog.vickiboykis.com/2010/11/the-worstbest-thanksgiving-poem-ever/" target="_blank">more hostess-y </a>and welcoming <a href="http://blog.vickiboykis.com/2011/11/a-very-russian-family-thanksgiving-complete-with-russian-movies/" target="_blank">for Thanksgiving</a>, since I&#8217;m hosting at least 12 people again.
@@ -64,7 +64,7 @@ We don&#8217;t take no B.S. from anyone. We want a dead bird and mashed potatoes
 And Pinterest is aspirationally B.S.-ing  the true meaning of Thanksgiving with hipster food moments.  B.S. in this case includes &#8220;meatless main dishes for a holiday table,&#8221; for when you hate your guests:
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2013/11/Screen-Shot-2013-11-03-at-8.12.25-PM.png"><img class="aligncenter  wp-image-9237" alt="Screen Shot 2013-11-03 at 8.12.25 PM" src="http://blog.vickiboykis.com/wp-content/uploads/2013/11/Screen-Shot-2013-11-03-at-8.12.25-PM.png" width="335" height="512" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/11/Screen-Shot-2013-11-03-at-8.12.25-PM.png"><img class="aligncenter  wp-image-9237" alt="Screen Shot 2013-11-03 at 8.12.25 PM" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/11/Screen-Shot-2013-11-03-at-8.12.25-PM.png" width="335" height="512" /></a>
 </p>
 
 <p style="text-align: left;">
@@ -72,7 +72,7 @@ And Pinterest is aspirationally B.S.-ing  the true meaning of Thanksgiving with
 </p>
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2013/11/Screen-Shot-2013-11-04-at-7.46.50-AM.png"><img class="aligncenter  wp-image-9241" alt="Screen Shot 2013-11-04 at 7.46.50 AM" src="http://blog.vickiboykis.com/wp-content/uploads/2013/11/Screen-Shot-2013-11-04-at-7.46.50-AM.png" width="408" height="675" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/11/Screen-Shot-2013-11-04-at-7.46.50-AM.png"><img class="aligncenter  wp-image-9241" alt="Screen Shot 2013-11-04 at 7.46.50 AM" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/11/Screen-Shot-2013-11-04-at-7.46.50-AM.png" width="408" height="675" /></a>
 </p>
 
 <p style="text-align: center;">
@@ -80,7 +80,7 @@ And Pinterest is aspirationally B.S.-ing  the true meaning of Thanksgiving with
 </p>
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2013/11/Screen-Shot-2013-11-04-at-7.48.33-AM.png"><img class="aligncenter  wp-image-9242" alt="Screen Shot 2013-11-04 at 7.48.33 AM" src="http://blog.vickiboykis.com/wp-content/uploads/2013/11/Screen-Shot-2013-11-04-at-7.48.33-AM.png" width="397" height="406" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/11/Screen-Shot-2013-11-04-at-7.48.33-AM.png"><img class="aligncenter  wp-image-9242" alt="Screen Shot 2013-11-04 at 7.48.33 AM" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/11/Screen-Shot-2013-11-04-at-7.48.33-AM.png" width="397" height="406" /></a>
 </p>
 
 <p style="text-align: center;">
@@ -88,7 +88,7 @@ And Pinterest is aspirationally B.S.-ing  the true meaning of Thanksgiving with
 </p>
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2013/11/Screen-Shot-2013-11-04-at-7.46.07-AM.png"><img class="aligncenter  wp-image-9240" alt="Screen Shot 2013-11-04 at 7.46.07 AM" src="http://blog.vickiboykis.com/wp-content/uploads/2013/11/Screen-Shot-2013-11-04-at-7.46.07-AM.png" width="394" height="416" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/11/Screen-Shot-2013-11-04-at-7.46.07-AM.png"><img class="aligncenter  wp-image-9240" alt="Screen Shot 2013-11-04 at 7.46.07 AM" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/11/Screen-Shot-2013-11-04-at-7.46.07-AM.png" width="394" height="416" /></a>
 </p>
 
 <p style="text-align: center;">
@@ -96,7 +96,7 @@ And Pinterest is aspirationally B.S.-ing  the true meaning of Thanksgiving with
 </p>
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2013/11/Screen-Shot-2013-11-04-at-7.49.30-AM.png"><img class="aligncenter  wp-image-9243" alt="Screen Shot 2013-11-04 at 7.49.30 AM" src="http://blog.vickiboykis.com/wp-content/uploads/2013/11/Screen-Shot-2013-11-04-at-7.49.30-AM.png" width="339" height="574" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/11/Screen-Shot-2013-11-04-at-7.49.30-AM.png"><img class="aligncenter  wp-image-9243" alt="Screen Shot 2013-11-04 at 7.49.30 AM" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/11/Screen-Shot-2013-11-04-at-7.49.30-AM.png" width="339" height="574" /></a>
 </p>
 
 <p style="text-align: center;">

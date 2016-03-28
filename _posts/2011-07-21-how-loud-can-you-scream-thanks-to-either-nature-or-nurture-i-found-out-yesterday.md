@@ -19,14 +19,14 @@ A couple weeks ago, Mr. B and I were having a discussion about women that stemme
 
 Basically Mr. B was puzzled that there was so much controversy and I told him,
 
-[<img class="aligncenter size-full wp-image-5333" title="Screen shot 2011-07-21 at 8.32.16 AM" src="http://blog.vickiboykis.com/wp-content/uploads/2011/07/Screen-shot-2011-07-21-at-8.32.16-AM.png" alt="" width="485" height="244" />](http://blog.vickiboykis.com/wp-content/uploads/2011/07/Screen-shot-2011-07-21-at-8.32.16-AM.png)
+[<img class="aligncenter size-full wp-image-5333" title="Screen shot 2011-07-21 at 8.32.16 AM" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/07/Screen-shot-2011-07-21-at-8.32.16-AM.png" alt="" width="485" height="244" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/07/Screen-shot-2011-07-21-at-8.32.16-AM.png)
 
 So I tried to explain about how women are always taught to watch out, have to be afraid in dark places, in crowded places, and in empty places because someone might jump out and rape us at any moment.  Whether this is justified is something I&#8217;ll get to at the end of this post.  But first, let&#8217;s talk about how Mr. B proved himself wrong.
 
 Yesterday, I got home and put on a lil&#8217; <a href="http://www.funnyordie.com/videos/4fc0d632b5/mob-wives-with-sophia-bush-drea-de-matteo" target="_blank">Desperate Housewives</a> as background noise while I tried to put together a piece of furniture that came in the mail.  After about 20 minutes, I got bored and frustrated and, leaving the TV on so I could kind of hear it from a distance, wandered upstairs, to our third floor office to check my email and generally fool around on the computer.  As a reminder, here&#8217;s our office, and my computer is the iMac on the left and the doorway to the right of where I&#8217;m taking the picture from.
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2011/07/DSC_0606.jpg"><img class="aligncenter size-full wp-image-5334" title="DSC_0606" src="http://blog.vickiboykis.com/wp-content/uploads/2011/07/DSC_0606.jpg" alt="" width="568" height="377" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/07/DSC_0606.jpg"><img class="aligncenter size-full wp-image-5334" title="DSC_0606" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/07/DSC_0606.jpg" alt="" width="568" height="377" /></a>
 </p>
 
 <p style="text-align: left;">
@@ -53,7 +53,7 @@ Yesterday, I got home and put on a lil&#8217; <a href="http://www.funnyordie.com
 
 
 <div>
-  <img class="aligncenter size-full wp-image-5336" title="dscmodified" src="http://blog.vickiboykis.com/wp-content/uploads/2011/07/dscmodified.jpg" alt="" width="517" height="344" />
+  <img class="aligncenter size-full wp-image-5336" title="dscmodified" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/07/dscmodified.jpg" alt="" width="517" height="344" />
 </div>
 
 

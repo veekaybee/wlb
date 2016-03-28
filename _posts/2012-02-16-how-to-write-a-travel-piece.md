@@ -19,7 +19,7 @@ tags:
 &nbsp;
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2012/02/DSC_0597.jpg"><img class="aligncenter  wp-image-6456" title="DSC_0597" src="http://blog.vickiboykis.com/wp-content/uploads/2012/02/DSC_0597.jpg" alt="" width="478" height="318" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/02/DSC_0597.jpg"><img class="aligncenter  wp-image-6456" title="DSC_0597" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/02/DSC_0597.jpg" alt="" width="478" height="318" /></a>
 </p>
 
 Start by looking through all your photos of the trip for inspiration.  You need to have the perfect picture to illustrate your travel story. This process takes you over half an hour and you somehow find yourself looking at your wedding photos. Hm. Your nails were awesome.  Maybe you should get a French manicure again soon?
@@ -36,7 +36,7 @@ Open Facebook.  Close Facebook.
 </div>
 
 <div>
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2012/02/DSC_0618.jpg"><img class="aligncenter  wp-image-6458" title="DSC_0618" src="http://blog.vickiboykis.com/wp-content/uploads/2012/02/DSC_0618.jpg" alt="" width="530" height="353" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/02/DSC_0618.jpg"><img class="aligncenter  wp-image-6458" title="DSC_0618" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/02/DSC_0618.jpg" alt="" width="530" height="353" /></a>
 </div>
 
 <div>
@@ -80,7 +80,7 @@ Type up three more sentences.  You are done with your paragraph.  There it is.
 > The sun, always a fickle visitor in the Northern winter, was nowhere to be seen.  The muted greenery of Stirling village and farms spread out below, and the clouds moved lugubriously across the stern crags in the distance. It was two days before Christmas and the castle was empty save for five Asian tourists huddled in the Great Hall.  But I was outside, drinking in the landscape, fighting hypothermia, and thinking about Alex Salmond.
 > 
 > <p style="text-align: center;">
->   <a href="http://blog.vickiboykis.com/wp-content/uploads/2012/02/DSC_0683.jpg"><img class="aligncenter  wp-image-6459" title="DSC_0683" src="http://blog.vickiboykis.com/wp-content/uploads/2012/02/DSC_0683.jpg" alt="" width="442" height="294" /></a>
+>   <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/02/DSC_0683.jpg"><img class="aligncenter  wp-image-6459" title="DSC_0683" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/02/DSC_0683.jpg" alt="" width="442" height="294" /></a>
 > </p>
 
 But, by God, it is TERRIBLE.  It sounds like every amateur travel piece ever written.  Also, maybe people will think you&#8217;re racist if you mention Asian tourists?  But they really are Asian.  Also, you should research Stirling Castle more.

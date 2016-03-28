@@ -16,7 +16,7 @@ tags:
   - feminism
 ---
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2012/01/Dolce_godward.jpg"><img class="aligncenter  wp-image-6250" title="Dolce_godward" src="http://blog.vickiboykis.com/wp-content/uploads/2012/01/Dolce_godward.jpg" alt="" width="640" height="413" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/01/Dolce_godward.jpg"><img class="aligncenter  wp-image-6250" title="Dolce_godward" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/01/Dolce_godward.jpg" alt="" width="640" height="413" /></a>
 </p>
 
 &nbsp;

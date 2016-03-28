@@ -11,7 +11,7 @@ categories:
 ---
 Couldn&#8217;t resist.
 
-[<img class="alignnone size-full wp-image-118" title="boyfriend" src="http://blog.vickiboykis.com/wp-content/uploads/2009/02/boyfriend.png" alt="boyfriend" width="569" height="169" />](http://www.xkcd.com)
+[<img class="alignnone size-full wp-image-118" title="boyfriend" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/02/boyfriend.png" alt="boyfriend" width="569" height="169" />](http://www.xkcd.com)
 
 [XKCD.](http://www.xkcd.com)
 

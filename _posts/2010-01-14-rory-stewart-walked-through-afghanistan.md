@@ -17,7 +17,7 @@ tags:
   - Rory Stewart
   - writing
 ---
-[<img class="aligncenter size-full wp-image-2102" title="Rory Stewart" src="http://blog.vickiboykis.com/wp-content/uploads/2010/01/Rory-Stewart.jpg" alt="" width="534" height="375" />](http://blog.vickiboykis.com/wp-content/uploads/2010/01/Rory-Stewart.jpg)
+[<img class="aligncenter size-full wp-image-2102" title="Rory Stewart" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/01/Rory-Stewart.jpg" alt="" width="534" height="375" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/01/Rory-Stewart.jpg)
 
 <p style="text-align: center;">
   <a href="http://www.nationalgeographic.com/adventure/photography/afghanistan/aaron-huey/rory-stewart9.html">source. </a>
@@ -25,11 +25,11 @@ tags:
 
 I just finished [The Places in  Between](http://www.amazon.com/Places-Between-Rory-Stewart/dp/0156031566), a book by Briton [Rory Stewart](http://en.wikipedia.org/wiki/Rory_Stewart) about his walk through Afghanistan in the winter of 2002, right after the invasion of Afghanistan by the Northern Alliance and the capture of the Taliban. This is probably one of the most amazing things I have ever read about.
 
-[<img class="aligncenter size-full wp-image-2103" title="places" src="http://blog.vickiboykis.com/wp-content/uploads/2010/01/places.jpg" alt="" width="326" height="492" />](http://blog.vickiboykis.com/wp-content/uploads/2010/01/places.jpg)
+[<img class="aligncenter size-full wp-image-2103" title="places" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/01/places.jpg" alt="" width="326" height="492" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/01/places.jpg)
 
 Stewart, originally a career diplomat with the British Foreign Service, felt something missing in his life, quit his prominent career, and decided to walk around the world.  Unfortunately, he only got as far as walking through Iran, Afghanistan, Pakistan, India, and Nepal. Bummer.  In the book,  he chronicles how he walked the 400 or so miles [from Herat to Kabul](http://www.travelblog.org/Asia/Afghanistan/East/Kabul/blog-191646.html) in about a month by heading through the unknown central lands of Afghanistan without carrying a detailed map because &#8220;it made him look like a spy.&#8221;
 
-There are some people who are not content to live normal lives, eat breakfast with a paper, go to work, and catch up with friends at Starbucks. In the tradition of those like Lawrence, who throw off the warm, routine comforts of the West, Rory Stewart is one of these people.  However, this intensely strong part of his character is not completely evident in the book, where he tries to distance the reader as much from him as possible to focus on describing Afghanistan as it was after the fall of the Taliban just as his predecessor, the Mughal emperor [[<img class="aligncenter size-full wp-image-2102" title="Rory Stewart" src="http://blog.vickiboykis.com/wp-content/uploads/2010/01/Rory-Stewart.jpg" alt="" width="534" height="375" />](http://blog.vickiboykis.com/wp-content/uploads/2010/01/Rory-Stewart.jpg)
+There are some people who are not content to live normal lives, eat breakfast with a paper, go to work, and catch up with friends at Starbucks. In the tradition of those like Lawrence, who throw off the warm, routine comforts of the West, Rory Stewart is one of these people.  However, this intensely strong part of his character is not completely evident in the book, where he tries to distance the reader as much from him as possible to focus on describing Afghanistan as it was after the fall of the Taliban just as his predecessor, the Mughal emperor [[<img class="aligncenter size-full wp-image-2102" title="Rory Stewart" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/01/Rory-Stewart.jpg" alt="" width="534" height="375" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/01/Rory-Stewart.jpg)
 
 <p style="text-align: center;">
   <a href="http://www.nationalgeographic.com/adventure/photography/afghanistan/aaron-huey/rory-stewart9.html">source. </a>
@@ -37,7 +37,7 @@ There are some people who are not content to live normal lives, eat breakfast wi
 
 I just finished [The Places in  Between](http://www.amazon.com/Places-Between-Rory-Stewart/dp/0156031566), a book by Briton [Rory Stewart](http://en.wikipedia.org/wiki/Rory_Stewart) about his walk through Afghanistan in the winter of 2002, right after the invasion of Afghanistan by the Northern Alliance and the capture of the Taliban. This is probably one of the most amazing things I have ever read about.
 
-[<img class="aligncenter size-full wp-image-2103" title="places" src="http://blog.vickiboykis.com/wp-content/uploads/2010/01/places.jpg" alt="" width="326" height="492" />](http://blog.vickiboykis.com/wp-content/uploads/2010/01/places.jpg)
+[<img class="aligncenter size-full wp-image-2103" title="places" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/01/places.jpg" alt="" width="326" height="492" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/01/places.jpg)
 
 Stewart, originally a career diplomat with the British Foreign Service, felt something missing in his life, quit his prominent career, and decided to walk around the world.  Unfortunately, he only got as far as walking through Iran, Afghanistan, Pakistan, India, and Nepal. Bummer.  In the book,  he chronicles how he walked the 400 or so miles [from Herat to Kabul](http://www.travelblog.org/Asia/Afghanistan/East/Kabul/blog-191646.html) in about a month by heading through the unknown central lands of Afghanistan without carrying a detailed map because &#8220;it made him look like a spy.&#8221;
 
@@ -49,7 +49,7 @@ If I could, I would give this book a standing ovation for the worlds it opened f
 
 As he walks, he describes the landscape of Afghanistan, the cultural history of the country, and the simple village people who have no concept of what the World Trade Center towers were and how they impact the fighting in their country.  It is such a fascinating read, simply because we will never have access to that world, to Afghanistan, where everything comes to a crux between three continents over millennia, and we will never be able to just pick up and go across a warzone with just a pack on our backs, particularly not with the ease of a man who has few attachments and little to lose.  I strongly suspect that the author was on heavy self-administered doses of crack cocaine when he decided to undertake this trip.  After his stint in Asia, Stewart also was a [governor of a province in Iraq](http://www.amazon.com/Prince-Marshes-Other-Occupational-Hazards/dp/0151012350) for a year after the American invasion.
 
-[<img class="aligncenter size-full wp-image-2108" title="afghanistan" src="http://blog.vickiboykis.com/wp-content/uploads/2010/01/afghanistan.jpg" alt="" width="600" height="450" />](http://blog.vickiboykis.com/wp-content/uploads/2010/01/afghanistan.jpg)
+[<img class="aligncenter size-full wp-image-2108" title="afghanistan" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/01/afghanistan.jpg" alt="" width="600" height="450" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/01/afghanistan.jpg)
 
 <p style="text-align: center;">
   <a href="http://travel.nationalgeographic.com/travel/countries/afghanistan-photos/#31207_600x450.jpg">Source.</a>

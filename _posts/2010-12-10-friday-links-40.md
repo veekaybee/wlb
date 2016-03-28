@@ -15,7 +15,7 @@ tags:
 **My secret shame (not Siddartha):**
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2010/12/Screen-shot-2010-12-10-at-8.10.21-AM.png"><img class="aligncenter size-full wp-image-4034" title="Screen shot 2010-12-10 at 8.10.21 AM" src="http://blog.vickiboykis.com/wp-content/uploads/2010/12/Screen-shot-2010-12-10-at-8.10.21-AM.png" alt="" width="709" height="449" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/12/Screen-shot-2010-12-10-at-8.10.21-AM.png"><img class="aligncenter size-full wp-image-4034" title="Screen shot 2010-12-10 at 8.10.21 AM" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/12/Screen-shot-2010-12-10-at-8.10.21-AM.png" alt="" width="709" height="449" /></a>
 </p>
 
 <p style="text-align: left;">
@@ -27,7 +27,7 @@ tags:
   3. [**My secret shame (not Siddartha):**
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2010/12/Screen-shot-2010-12-10-at-8.10.21-AM.png"><img class="aligncenter size-full wp-image-4034" title="Screen shot 2010-12-10 at 8.10.21 AM" src="http://blog.vickiboykis.com/wp-content/uploads/2010/12/Screen-shot-2010-12-10-at-8.10.21-AM.png" alt="" width="709" height="449" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/12/Screen-shot-2010-12-10-at-8.10.21-AM.png"><img class="aligncenter size-full wp-image-4034" title="Screen shot 2010-12-10 at 8.10.21 AM" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/12/Screen-shot-2010-12-10-at-8.10.21-AM.png" alt="" width="709" height="449" /></a>
 </p>
 
 <p style="text-align: left;">
@@ -49,7 +49,7 @@ tags:
  13. [**My secret shame (not Siddartha):**
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2010/12/Screen-shot-2010-12-10-at-8.10.21-AM.png"><img class="aligncenter size-full wp-image-4034" title="Screen shot 2010-12-10 at 8.10.21 AM" src="http://blog.vickiboykis.com/wp-content/uploads/2010/12/Screen-shot-2010-12-10-at-8.10.21-AM.png" alt="" width="709" height="449" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/12/Screen-shot-2010-12-10-at-8.10.21-AM.png"><img class="aligncenter size-full wp-image-4034" title="Screen shot 2010-12-10 at 8.10.21 AM" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/12/Screen-shot-2010-12-10-at-8.10.21-AM.png" alt="" width="709" height="449" /></a>
 </p>
 
 <p style="text-align: left;">
@@ -61,7 +61,7 @@ tags:
   3. [**My secret shame (not Siddartha):**
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2010/12/Screen-shot-2010-12-10-at-8.10.21-AM.png"><img class="aligncenter size-full wp-image-4034" title="Screen shot 2010-12-10 at 8.10.21 AM" src="http://blog.vickiboykis.com/wp-content/uploads/2010/12/Screen-shot-2010-12-10-at-8.10.21-AM.png" alt="" width="709" height="449" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/12/Screen-shot-2010-12-10-at-8.10.21-AM.png"><img class="aligncenter size-full wp-image-4034" title="Screen shot 2010-12-10 at 8.10.21 AM" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/12/Screen-shot-2010-12-10-at-8.10.21-AM.png" alt="" width="709" height="449" /></a>
 </p>
 
 <p style="text-align: left;">

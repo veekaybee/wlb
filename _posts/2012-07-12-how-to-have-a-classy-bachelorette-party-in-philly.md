@@ -28,15 +28,15 @@ So what do a bunch of classy ladies do?
 
 They start with <a href="http://www.rittenhousehotel.com/popups/Cassatt_Menu.cfm" target="_blank">tea</a> at the <a href="http://www.rittenhousehotel.com/" target="_blank">Rittenhouse Hotel</a>.
 
-[<img class="aligncenter size-full wp-image-7154" title="IMG_20120707_151621" src="http://blog.vickiboykis.com/wp-content/uploads/2012/07/IMG_20120707_151621.jpeg" alt="" width="311" height="415" />](http://blog.vickiboykis.com/wp-content/uploads/2012/07/IMG_20120707_151621.jpeg)
+[<img class="aligncenter size-full wp-image-7154" title="IMG_20120707_151621" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/07/IMG_20120707_151621.jpeg" alt="" width="311" height="415" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/07/IMG_20120707_151621.jpeg)
 
-[<img class="aligncenter size-full wp-image-7155" title="IMG_20120707_151616" src="http://blog.vickiboykis.com/wp-content/uploads/2012/07/IMG_20120707_151616.jpeg" alt="" width="292" height="389" />](http://blog.vickiboykis.com/wp-content/uploads/2012/07/IMG_20120707_151616.jpeg)
+[<img class="aligncenter size-full wp-image-7155" title="IMG_20120707_151616" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/07/IMG_20120707_151616.jpeg" alt="" width="292" height="389" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/07/IMG_20120707_151616.jpeg)
 
 Tea is a common Russian post-dinner staple, but I have never had desserts that were this classy. Macarons! Strawberries dipped in chocolate! Stuff I didn&#8217;t even know the name of!  My own teapot! It was amazing.
 
 And, for the bride, a dessert in Tiffany blue:
 
-[<img class="aligncenter size-full wp-image-7156" title="IMG_20120707_160323" src="http://blog.vickiboykis.com/wp-content/uploads/2012/07/IMG_20120707_160323.jpeg" alt="" width="292" height="389" />](http://blog.vickiboykis.com/wp-content/uploads/2012/07/IMG_20120707_160323.jpeg)
+[<img class="aligncenter size-full wp-image-7156" title="IMG_20120707_160323" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/07/IMG_20120707_160323.jpeg" alt="" width="292" height="389" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/07/IMG_20120707_160323.jpeg)
 
 Plus, the Rittenhouse overlooks Rittenhouse Square, and while we were eating we got to people-watch, including witnessing the arrest of a homeless woman.  We were off to a good start!
 
@@ -45,7 +45,7 @@ Next, we wandered around Center City Philly for a couple of hours until dinner, 
 After that, we donned our classy Dinsey Princess tiaras,
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2012/07/IMG_20120707_215434.jpeg"><img class="aligncenter size-full wp-image-7159" title="IMG_20120707_215434" src="http://blog.vickiboykis.com/wp-content/uploads/2012/07/IMG_20120707_215434.jpeg" alt="" width="292" height="389" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/07/IMG_20120707_215434.jpeg"><img class="aligncenter size-full wp-image-7159" title="IMG_20120707_215434" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/07/IMG_20120707_215434.jpeg" alt="" width="292" height="389" /></a>
 </p>
 
 and  it was onto dinner at <a href="http://www.parc-restaurant.com/" target="_blank">Parc</a>.
@@ -69,7 +69,7 @@ This particular beverage is called the Perpetual Motion Machine and contains: &#
 It tasted like the four horsemen of the apocalypse.  Not the drink. The actual four horsemen.
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2012/07/therock.jpeg"><img class="aligncenter  wp-image-7160" title="therock" src="http://blog.vickiboykis.com/wp-content/uploads/2012/07/therock.jpeg" alt="" width="277" height="208" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/07/therock.jpeg"><img class="aligncenter  wp-image-7160" title="therock" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/07/therock.jpeg" alt="" width="277" height="208" /></a>
 </p>
 
 Can you smell the fumes?
@@ -83,7 +83,7 @@ The only problem is, the classier you are, the smaller the portions get, because
 My wine expectations versus my wine reality at Tria:
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2012/07/very-large-wine-glass.gif"><img class="wp-image-7163 alignleft" title="very-large-wine-glass" src="http://blog.vickiboykis.com/wp-content/uploads/2012/07/very-large-wine-glass-300x258.gif" alt="" width="180" height="155" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/07/very-large-wine-glass.gif"><img class="wp-image-7163 alignleft" title="very-large-wine-glass" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/07/very-large-wine-glass-300x258.gif" alt="" width="180" height="155" /></a>
 </p>
 
 [<img src="http://farm3.staticflickr.com/2289/2272572876_2bbee17bde_m.jpg" alt="teeny tiny wine glasses" width="216" height="166" />](http://www.flickr.com/photos/rosesareblue/2272572876/ "teeny tiny wine glasses by rosesareblue, on Flickr")
@@ -96,17 +96,17 @@ The Dandelion <a href="http://www.citypaper.net/blogs/mealticket/the_dandelion_i
 
 The room we ate in looked exactly like something out of a hunting lodge. The only thing missing was this painting, because you know I look out for things like representations of Scots and the Welsh in English pubs.
 
-[<img class="aligncenter size-medium wp-image-7165" title="NPG D7516; The Death of a Stag in Glen Tilt by John Charles Bromley, after  Sir Edwin Henry Landseer" src="http://blog.vickiboykis.com/wp-content/uploads/2012/07/mw90901-300x228.jpeg" alt="" width="300" height="228" />](http://blog.vickiboykis.com/wp-content/uploads/2012/07/mw90901.jpeg)
+[<img class="aligncenter size-medium wp-image-7165" title="NPG D7516; The Death of a Stag in Glen Tilt by John Charles Bromley, after  Sir Edwin Henry Landseer" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/07/mw90901-300x228.jpeg" alt="" width="300" height="228" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/07/mw90901.jpeg)
 
 Don&#8217;t forget, the tea and the ENGLISH CUPS .  They even give you a tea strainer. \*dies\*
 
-[<img class="aligncenter size-medium wp-image-7164" title="IMG_20120708_104417" src="http://blog.vickiboykis.com/wp-content/uploads/2012/07/IMG_20120708_104417-225x300.jpeg" alt="" width="225" height="300" />](http://blog.vickiboykis.com/wp-content/uploads/2012/07/IMG_20120708_104417.jpeg)
+[<img class="aligncenter size-medium wp-image-7164" title="IMG_20120708_104417" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/07/IMG_20120708_104417-225x300.jpeg" alt="" width="225" height="300" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/07/IMG_20120708_104417.jpeg)
 
 You have to imagine, what kind of bachelorette party would prefer discussing tea strainers and British cups on a Sunday morning instead of talking about hangovers?
 
 That would be ours.
 
-[<img class="aligncenter size-full wp-image-7167" title="1950s_house_party" src="http://blog.vickiboykis.com/wp-content/uploads/2012/07/1950s_house_party1.jpeg" alt="" width="480" height="314" />](http://blog.vickiboykis.com/wp-content/uploads/2012/07/1950s_house_party1.jpeg)
+[<img class="aligncenter size-full wp-image-7167" title="1950s_house_party" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/07/1950s_house_party1.jpeg" alt="" width="480" height="314" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/07/1950s_house_party1.jpeg)
 
 &nbsp;
 

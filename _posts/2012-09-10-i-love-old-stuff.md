@@ -15,7 +15,7 @@ tags:
   - history
 ---
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2012/09/IMG_20120819_112752.jpg"><img class="aligncenter  wp-image-7508" title="IMG_20120819_112752" src="http://blog.vickiboykis.com/wp-content/uploads/2012/09/IMG_20120819_112752-768x1024.jpg" alt="" width="461" height="614" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/09/IMG_20120819_112752.jpg"><img class="aligncenter  wp-image-7508" title="IMG_20120819_112752" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/09/IMG_20120819_112752-768x1024.jpg" alt="" width="461" height="614" /></a>
 </p>
 
 &nbsp;
@@ -27,7 +27,7 @@ I love old historical stuff, in case you couldn&#8217;t tell.   It takes <a hre
 A couple weeks ago, we went with my parents to <a href="http://www.antiquemarketplaceoflemoyne.com/" target="_blank">look at old stuff</a>.  Sorry, we&#8217;re classy now, so I guess I should call it antiques.  If you&#8217;re ever in the market for antiques in Central Pennsylvania, this is the place to be.  Just rows and rows and rows of stalls selling everything from magazines to art to bowl ware to Pennsylvania-specific items.
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2012/09/IMG_20120819_112804.jpg"><img class="aligncenter  wp-image-7505" title="IMG_20120819_112804" src="http://blog.vickiboykis.com/wp-content/uploads/2012/09/IMG_20120819_112804-768x1024.jpg" alt="" width="430" height="574" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/09/IMG_20120819_112804.jpg"><img class="aligncenter  wp-image-7505" title="IMG_20120819_112804" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/09/IMG_20120819_112804-768x1024.jpg" alt="" width="430" height="574" /></a>
 </p>
 
 <p style="text-align: center;">
@@ -36,7 +36,7 @@ A couple weeks ago, we went with my parents to <a href="http://www.antiquemarket
   </p>
   
   <p style="text-align: center;">
-    <a href="http://blog.vickiboykis.com/wp-content/uploads/2012/09/IMG_20120819_112911.jpg"><img class="aligncenter  wp-image-7506" title="IMG_20120819_112911" src="http://blog.vickiboykis.com/wp-content/uploads/2012/09/IMG_20120819_112911-768x1024.jpg" alt="" width="461" height="614" /></a>
+    <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/09/IMG_20120819_112911.jpg"><img class="aligncenter  wp-image-7506" title="IMG_20120819_112911" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/09/IMG_20120819_112911-768x1024.jpg" alt="" width="461" height="614" /></a>
   </p>
   
   <p style="text-align: center;">
@@ -44,7 +44,7 @@ A couple weeks ago, we went with my parents to <a href="http://www.antiquemarket
   </p>
   
   <p style="text-align: center;">
-    <a href="http://blog.vickiboykis.com/wp-content/uploads/2012/09/IMG_20120819_112923.jpg"><img class="aligncenter  wp-image-7507" title="IMG_20120819_112923" src="http://blog.vickiboykis.com/wp-content/uploads/2012/09/IMG_20120819_112923-768x1024.jpg" alt="" width="461" height="614" /></a>
+    <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/09/IMG_20120819_112923.jpg"><img class="aligncenter  wp-image-7507" title="IMG_20120819_112923" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/09/IMG_20120819_112923-768x1024.jpg" alt="" width="461" height="614" /></a>
   </p>
   
   <p style="text-align: left;">
@@ -52,7 +52,7 @@ A couple weeks ago, we went with my parents to <a href="http://www.antiquemarket
   </p>
   
   <p style="text-align: center;">
-    <a href="http://blog.vickiboykis.com/wp-content/uploads/2012/09/IMG_20120819_112953.jpg"><img class="aligncenter  wp-image-7509" title="IMG_20120819_112953" src="http://blog.vickiboykis.com/wp-content/uploads/2012/09/IMG_20120819_112953-768x1024.jpg" alt="" width="461" height="614" /></a>
+    <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/09/IMG_20120819_112953.jpg"><img class="aligncenter  wp-image-7509" title="IMG_20120819_112953" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/09/IMG_20120819_112953-768x1024.jpg" alt="" width="461" height="614" /></a>
   </p>
   
   <p style="text-align: center;">
@@ -60,7 +60,7 @@ A couple weeks ago, we went with my parents to <a href="http://www.antiquemarket
   </p>
   
   <p style="text-align: center;">
-    <a href="http://blog.vickiboykis.com/wp-content/uploads/2012/09/IMG_20120819_113013.jpg"><img class="aligncenter  wp-image-7510" title="IMG_20120819_113013" src="http://blog.vickiboykis.com/wp-content/uploads/2012/09/IMG_20120819_113013-768x1024.jpg" alt="" width="461" height="614" /></a>
+    <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/09/IMG_20120819_113013.jpg"><img class="aligncenter  wp-image-7510" title="IMG_20120819_113013" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/09/IMG_20120819_113013-768x1024.jpg" alt="" width="461" height="614" /></a>
   </p>
   
   <p style="text-align: center;">
@@ -68,7 +68,7 @@ A couple weeks ago, we went with my parents to <a href="http://www.antiquemarket
   </p>
   
   <p style="text-align: center;">
-    <a href="http://blog.vickiboykis.com/wp-content/uploads/2012/09/IMG_20120819_113029.jpg"><img class="aligncenter  wp-image-7511" title="IMG_20120819_113029" src="http://blog.vickiboykis.com/wp-content/uploads/2012/09/IMG_20120819_113029-768x1024.jpg" alt="" width="461" height="614" /></a>
+    <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/09/IMG_20120819_113029.jpg"><img class="aligncenter  wp-image-7511" title="IMG_20120819_113029" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/09/IMG_20120819_113029-768x1024.jpg" alt="" width="461" height="614" /></a>
   </p>
   
   <p style="text-align: center;">
@@ -76,7 +76,7 @@ A couple weeks ago, we went with my parents to <a href="http://www.antiquemarket
   </p>
   
   <p style="text-align: center;">
-    <a href="http://blog.vickiboykis.com/wp-content/uploads/2012/09/IMG_20120819_113131.jpg"><img class="aligncenter  wp-image-7512" title="IMG_20120819_113131" src="http://blog.vickiboykis.com/wp-content/uploads/2012/09/IMG_20120819_113131-768x1024.jpg" alt="" width="461" height="614" /></a>
+    <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/09/IMG_20120819_113131.jpg"><img class="aligncenter  wp-image-7512" title="IMG_20120819_113131" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/09/IMG_20120819_113131-768x1024.jpg" alt="" width="461" height="614" /></a>
   </p>
   
   <p style="text-align: center;">
@@ -84,7 +84,7 @@ A couple weeks ago, we went with my parents to <a href="http://www.antiquemarket
   </p>
   
   <p style="text-align: center;">
-    <a href="http://blog.vickiboykis.com/wp-content/uploads/2012/09/IMG_20120819_113418.jpg"><img class="aligncenter  wp-image-7513" title="IMG_20120819_113418" src="http://blog.vickiboykis.com/wp-content/uploads/2012/09/IMG_20120819_113418-768x1024.jpg" alt="" width="461" height="614" /></a>
+    <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/09/IMG_20120819_113418.jpg"><img class="aligncenter  wp-image-7513" title="IMG_20120819_113418" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/09/IMG_20120819_113418-768x1024.jpg" alt="" width="461" height="614" /></a>
   </p>
   
   <p style="text-align: center;">
@@ -92,7 +92,7 @@ A couple weeks ago, we went with my parents to <a href="http://www.antiquemarket
   </p>
   
   <p style="text-align: center;">
-    <a href="http://blog.vickiboykis.com/wp-content/uploads/2012/09/IMG_20120819_113528.jpg"><img class="aligncenter  wp-image-7514" title="IMG_20120819_113528" src="http://blog.vickiboykis.com/wp-content/uploads/2012/09/IMG_20120819_113528-768x1024.jpg" alt="" width="461" height="614" /></a>
+    <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/09/IMG_20120819_113528.jpg"><img class="aligncenter  wp-image-7514" title="IMG_20120819_113528" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/09/IMG_20120819_113528-768x1024.jpg" alt="" width="461" height="614" /></a>
   </p>
   
   <p style="text-align: center;">
@@ -100,7 +100,7 @@ A couple weeks ago, we went with my parents to <a href="http://www.antiquemarket
   </p>
   
   <p style="text-align: center;">
-    <a href="http://blog.vickiboykis.com/wp-content/uploads/2012/09/IMG_20120819_113713.jpg"><img class="aligncenter  wp-image-7515" title="IMG_20120819_113713" src="http://blog.vickiboykis.com/wp-content/uploads/2012/09/IMG_20120819_113713-768x1024.jpg" alt="" width="461" height="614" /></a>
+    <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/09/IMG_20120819_113713.jpg"><img class="aligncenter  wp-image-7515" title="IMG_20120819_113713" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/09/IMG_20120819_113713-768x1024.jpg" alt="" width="461" height="614" /></a>
   </p>
   
   <p style="text-align: center;">
@@ -108,11 +108,11 @@ A couple weeks ago, we went with my parents to <a href="http://www.antiquemarket
   </p>
   
   <p style="text-align: center;">
-    <a href="http://blog.vickiboykis.com/wp-content/uploads/2012/09/IMG_20120819_113913.jpg"><img class="aligncenter  wp-image-7516" title="IMG_20120819_113913" src="http://blog.vickiboykis.com/wp-content/uploads/2012/09/IMG_20120819_113913-1024x768.jpg" alt="" width="614" height="461" /></a>
+    <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/09/IMG_20120819_113913.jpg"><img class="aligncenter  wp-image-7516" title="IMG_20120819_113913" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/09/IMG_20120819_113913-1024x768.jpg" alt="" width="614" height="461" /></a>
   </p>
   
   <p style="text-align: center;">
-    <a href="http://blog.vickiboykis.com/wp-content/uploads/2012/09/IMG_20120819_113922.jpg"><img class="aligncenter  wp-image-7517" title="IMG_20120819_113922" src="http://blog.vickiboykis.com/wp-content/uploads/2012/09/IMG_20120819_113922-768x1024.jpg" alt="" width="461" height="614" /></a>
+    <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/09/IMG_20120819_113922.jpg"><img class="aligncenter  wp-image-7517" title="IMG_20120819_113922" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/09/IMG_20120819_113922-768x1024.jpg" alt="" width="461" height="614" /></a>
   </p>
   
   <p style="text-align: center;">
@@ -120,7 +120,7 @@ A couple weeks ago, we went with my parents to <a href="http://www.antiquemarket
   </p>
   
   <p style="text-align: center;">
-    <a href="http://blog.vickiboykis.com/wp-content/uploads/2012/09/IMG_20120819_114430.jpg"><img class="aligncenter  wp-image-7518" title="IMG_20120819_114430" src="http://blog.vickiboykis.com/wp-content/uploads/2012/09/IMG_20120819_114430-768x1024.jpg" alt="" width="461" height="614" /></a>
+    <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/09/IMG_20120819_114430.jpg"><img class="aligncenter  wp-image-7518" title="IMG_20120819_114430" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/09/IMG_20120819_114430-768x1024.jpg" alt="" width="461" height="614" /></a>
   </p>
   
   <p style="text-align: center;">
@@ -128,7 +128,7 @@ A couple weeks ago, we went with my parents to <a href="http://www.antiquemarket
   </p>
   
   <p style="text-align: center;">
-    <a href="http://blog.vickiboykis.com/wp-content/uploads/2012/09/IMG_20120819_114729.jpg"><img class="aligncenter  wp-image-7519" title="IMG_20120819_114729" src="http://blog.vickiboykis.com/wp-content/uploads/2012/09/IMG_20120819_114729-768x1024.jpg" alt="" width="461" height="614" /></a>
+    <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/09/IMG_20120819_114729.jpg"><img class="aligncenter  wp-image-7519" title="IMG_20120819_114729" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/09/IMG_20120819_114729-768x1024.jpg" alt="" width="461" height="614" /></a>
   </p>
   
   <p style="text-align: center;">
@@ -136,7 +136,7 @@ A couple weeks ago, we went with my parents to <a href="http://www.antiquemarket
   </p>
   
   <p style="text-align: center;">
-    <a href="http://blog.vickiboykis.com/wp-content/uploads/2012/09/IMG_20120819_115352.jpg"><img class="aligncenter  wp-image-7520" title="IMG_20120819_115352" src="http://blog.vickiboykis.com/wp-content/uploads/2012/09/IMG_20120819_115352-768x1024.jpg" alt="" width="461" height="614" /></a>
+    <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/09/IMG_20120819_115352.jpg"><img class="aligncenter  wp-image-7520" title="IMG_20120819_115352" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/09/IMG_20120819_115352-768x1024.jpg" alt="" width="461" height="614" /></a>
   </p>
   
   <p style="text-align: center;">
@@ -144,7 +144,7 @@ A couple weeks ago, we went with my parents to <a href="http://www.antiquemarket
   </p>
   
   <p style="text-align: center;">
-    <a href="http://blog.vickiboykis.com/wp-content/uploads/2012/09/IMG_20120819_115649.jpg"><img class="aligncenter  wp-image-7521" title="IMG_20120819_115649" src="http://blog.vickiboykis.com/wp-content/uploads/2012/09/IMG_20120819_115649-768x1024.jpg" alt="" width="461" height="614" /></a>
+    <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/09/IMG_20120819_115649.jpg"><img class="aligncenter  wp-image-7521" title="IMG_20120819_115649" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/09/IMG_20120819_115649-768x1024.jpg" alt="" width="461" height="614" /></a>
   </p>
   
   <p style="text-align: center;">
@@ -156,7 +156,7 @@ A couple weeks ago, we went with my parents to <a href="http://www.antiquemarket
   </p>
   
   <p style="text-align: center;">
-    <a href="http://blog.vickiboykis.com/wp-content/uploads/2012/09/IMG_20120819_152942.jpg"><img class="aligncenter  wp-image-7522" title="IMG_20120819_152942" src="http://blog.vickiboykis.com/wp-content/uploads/2012/09/IMG_20120819_152942-768x1024.jpg" alt="" width="461" height="614" /></a>
+    <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/09/IMG_20120819_152942.jpg"><img class="aligncenter  wp-image-7522" title="IMG_20120819_152942" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/09/IMG_20120819_152942-768x1024.jpg" alt="" width="461" height="614" /></a>
   </p>
   
   <p style="text-align: center;">

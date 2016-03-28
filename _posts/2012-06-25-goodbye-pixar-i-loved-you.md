@@ -30,28 +30,28 @@ There is something about a Pixar film that allows you to enjoy it no matter how 
 
 Because we all need that stardust; we need that sense of wonder, of possibility otherwise our brains become old and withered. The world is boring and dull, and every day is the same: you get up, brush your teeth, work, bills, gym, sitcoms, sleep, and then do it all over again.
 
-[<img class="aligncenter size-full wp-image-7033" title="KZquf" src="http://blog.vickiboykis.com/wp-content/uploads/2012/06/KZquf.gif" alt="" width="297" height="180" />](http://blog.vickiboykis.com/wp-content/uploads/2012/06/KZquf.gif)
+[<img class="aligncenter size-full wp-image-7033" title="KZquf" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/06/KZquf.gif" alt="" width="297" height="180" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/06/KZquf.gif)
 
 <p style="text-align: center;">
   <a href="http://i.imgur.com/KZquf.gif">&#8220;Life, which is already boring and repetitive, becomes deadly dull when imagination is missing.&#8221;</a>
 </p>
 
-To break up the monotony for myself, I write.  I imagine <a href="http://blog.vickiboykis.com/wp-content/uploads/2012/02/VDay.jpg" target="_blank">ridiculous scenarios</a> which would never happen in real life.  But sometimes the stardust needs to come from somewhere else, and for years, that place has been Pixar.  I was desperately hoping to feel that stardust when I went to see _Brave_ last night.
+To break up the monotony for myself, I write.  I imagine <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/02/VDay.jpg" target="_blank">ridiculous scenarios</a> which would never happen in real life.  But sometimes the stardust needs to come from somewhere else, and for years, that place has been Pixar.  I was desperately hoping to feel that stardust when I went to see _Brave_ last night.
 
 It was already easy for me to be excited about _Brave:_ it features the <a href="http://ebook.vickiboykis.com" target="_blank">best country with the worst food</a> in the world, and the stills are GORGEOUS.
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2012/06/Culloden-L_tcm4-566111.jpg"><img class="aligncenter  wp-image-7036" title="Culloden L_tcm4-566111" src="http://blog.vickiboykis.com/wp-content/uploads/2012/06/Culloden-L_tcm4-566111.jpg" alt="" width="450" height="325" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/06/Culloden-L_tcm4-566111.jpg"><img class="aligncenter  wp-image-7036" title="Culloden L_tcm4-566111" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/06/Culloden-L_tcm4-566111.jpg" alt="" width="450" height="325" /></a>
 </p>
 
 Oops. Sorry, that&#8217;s stills from my Culloden folder. Doesn&#8217;t everyone have a Culloden folder?
 
-[<img class="aligncenter size-full wp-image-7038" title="Screen shot 2012-06-24 at 10.42.59 PM" src="http://blog.vickiboykis.com/wp-content/uploads/2012/06/Screen-shot-2012-06-24-at-10.42.59-PM1.png" alt="" width="419" height="170" />](http://blog.vickiboykis.com/wp-content/uploads/2012/06/Screen-shot-2012-06-24-at-10.42.59-PM1.png)
+[<img class="aligncenter size-full wp-image-7038" title="Screen shot 2012-06-24 at 10.42.59 PM" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/06/Screen-shot-2012-06-24-at-10.42.59-PM1.png" alt="" width="419" height="170" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/06/Screen-shot-2012-06-24-at-10.42.59-PM1.png)
 
 Actual still from Brave:
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2012/06/new-brave-sword-class-stills-03.jpg"><img class="aligncenter  wp-image-7041" title="&quot;BRAVE&quot;" src="http://blog.vickiboykis.com/wp-content/uploads/2012/06/new-brave-sword-class-stills-03-1024x429.jpg" alt="" width="645" height="270" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/06/new-brave-sword-class-stills-03.jpg"><img class="aligncenter  wp-image-7041" title="&quot;BRAVE&quot;" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/06/new-brave-sword-class-stills-03-1024x429.jpg" alt="" width="645" height="270" /></a>
 </p>
 
 DAT GLENCOE. DAT <a href="http://blog.vickiboykis.com/2012/01/scotland-the-brave-and-loch-y-glasgow-glencoe-loch-ness-and-the-highlands/" target="_blank">NATURAL HIGHLANDS</a>.
@@ -59,7 +59,7 @@ DAT GLENCOE. DAT <a href="http://blog.vickiboykis.com/2012/01/scotland-the-brave
 Also, it has a !female! protagonist.  That was possibly !against marriage! and !changes tradition!  Also, she is good at archery and sword-fighting! Also, her dad kind of looks like Liam Neeson.
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2012/06/new-merida-brave-stills-02.jpg"><img class="aligncenter  wp-image-7042" title="new-merida-brave-stills-02" src="http://blog.vickiboykis.com/wp-content/uploads/2012/06/new-merida-brave-stills-02-1024x429.jpg" alt="" width="574" height="240" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/06/new-merida-brave-stills-02.jpg"><img class="aligncenter  wp-image-7042" title="new-merida-brave-stills-02" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/06/new-merida-brave-stills-02-1024x429.jpg" alt="" width="574" height="240" /></a>
 </p>
 
 I was SO excited.  I haven&#8217;t been this excited for a movie since I found out I could watch <a href="https://www.facebook.com/note.php?note_id=188969317816516" target="_blank">all of Mosfilm online for free</a>.
@@ -70,7 +70,7 @@ It was honestly disappointing.  How many amazing people does Pixar have working
 
 La Luna is the Pixar short that came on before Brave started, and it is beautiful and whimsical. It&#8217;s about dreaming and cleaning falling stars off the moon.  It&#8217;s the stuff true, good movies are made of.  I wish there were a full clip of it somewhere online.  It makes you feel all the things a Pixar movie should make you feel.
 
-[<img class="aligncenter size-full wp-image-7044" title="MCDLALU-EC002-H-jpg_162825" src="http://blog.vickiboykis.com/wp-content/uploads/2012/06/MCDLALU-EC002-H-jpg_162825.jpg" alt="" width="630" height="264" />](http://blog.vickiboykis.com/wp-content/uploads/2012/06/MCDLALU-EC002-H-jpg_162825.jpg)
+[<img class="aligncenter size-full wp-image-7044" title="MCDLALU-EC002-H-jpg_162825" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/06/MCDLALU-EC002-H-jpg_162825.jpg" alt="" width="630" height="264" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/06/MCDLALU-EC002-H-jpg_162825.jpg)
 
 So, ok, terrible previews, beautiful La Luna.  I was ready for the movie.  ON THE EDGE OF MY CREEPY ADULT-KID SEAT.
 
@@ -79,7 +79,7 @@ Unfortunately, the movie fell completely flat.
 It starts with the beautiful landscapes, which is what happens when you get paid to <a href="https://www.facebook.com/photo.php?fbid=416824265014005&set=a.156317561064678.37301.156129274416840&type=1&permPage=1" target="_blank">lie around in the heather</a> for a couple months, I guess:
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2012/06/heather1.jpg"><img class="aligncenter  wp-image-7040" title="heather1" src="http://blog.vickiboykis.com/wp-content/uploads/2012/06/heather1.jpg" alt="" width="504" height="379" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/06/heather1.jpg"><img class="aligncenter  wp-image-7040" title="heather1" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/06/heather1.jpg" alt="" width="504" height="379" /></a>
 </p>
 
 &nbsp;
@@ -98,7 +98,7 @@ Somehow, the struggle between creativity and profitability has never been a prob
 
 Because I can catch up with the <a href="http://www.scotsman.com/the-scotsman/scotland/royal-highland-show-2012-rain-turns-ingliston-into-a-mudbath-1-2373866" target="_blank">real Scotland anytime</a>. DAT WEATHER.
 
-[<img class="aligncenter size-full wp-image-7045" title="Screen shot 2012-06-25 at 7.11.18 AM" src="http://blog.vickiboykis.com/wp-content/uploads/2012/06/Screen-shot-2012-06-25-at-7.11.18-AM.png" alt="" width="678" height="520" />](http://blog.vickiboykis.com/wp-content/uploads/2012/06/Screen-shot-2012-06-25-at-7.11.18-AM.png)
+[<img class="aligncenter size-full wp-image-7045" title="Screen shot 2012-06-25 at 7.11.18 AM" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/06/Screen-shot-2012-06-25-at-7.11.18-AM.png" alt="" width="678" height="520" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/06/Screen-shot-2012-06-25-at-7.11.18-AM.png)
 
 &nbsp;
 

@@ -19,7 +19,7 @@ tags:
 Last weekend, I was in Ikea, as I have been every weekend for the past year of my life since we bought this house to practice good old American consumerism (except for when <a href="http://blog.vickiboykis.com/2011/06/29/i-almost-died-for-a-250-discount-on-an-ikea-chair/" target="_blank">I&#8217;m out on the streets</a>). I was browsing their art section because we still have almost no art in the living room and bedrooms.  We have some good stuff in the kitchen, though.  This one&#8217;s my favorite:
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2012/03/Photo-on-2012-03-07-at-07.45.jpg"><img class="aligncenter  wp-image-6524" title="Photo on 2012-03-07 at 07.45" src="http://blog.vickiboykis.com/wp-content/uploads/2012/03/Photo-on-2012-03-07-at-07.45.jpg" alt="" width="448" height="336" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/03/Photo-on-2012-03-07-at-07.45.jpg"><img class="aligncenter  wp-image-6524" title="Photo on 2012-03-07 at 07.45" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/03/Photo-on-2012-03-07-at-07.45.jpg" alt="" width="448" height="336" /></a>
 </p>
 
 <p style="text-align: left;">
@@ -27,7 +27,7 @@ Last weekend, I was in Ikea, as I have been every weekend for the past year of m
 </p>
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2012/03/Screen-shot-2012-03-07-at-7.47.28-AM.png"><img class="aligncenter  wp-image-6525" title="Screen shot 2012-03-07 at 7.47.28 AM" src="http://blog.vickiboykis.com/wp-content/uploads/2012/03/Screen-shot-2012-03-07-at-7.47.28-AM.png" alt="" width="493" height="349" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/03/Screen-shot-2012-03-07-at-7.47.28-AM.png"><img class="aligncenter  wp-image-6525" title="Screen shot 2012-03-07 at 7.47.28 AM" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/03/Screen-shot-2012-03-07-at-7.47.28-AM.png" alt="" width="493" height="349" /></a>
 </p>
 
 <p style="text-align: left;">

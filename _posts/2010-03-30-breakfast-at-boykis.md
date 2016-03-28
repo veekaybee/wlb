@@ -19,5 +19,5 @@ Mr. B loves Audrey Hepburn.  Has seen every single one of her movies.  He love
 We were re-watching Breakfast at Tiffany&#8217;s today.  I can understand why he likes her.  We have a striking resemblance both in physique and personality.
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2010/03/Hepburn.png"><img class="aligncenter size-full wp-image-2688" title="Hepburn" src="http://blog.vickiboykis.com/wp-content/uploads/2010/03/Hepburn.png" alt="" width="474" height="717" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/03/Hepburn.png"><img class="aligncenter size-full wp-image-2688" title="Hepburn" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/03/Hepburn.png" alt="" width="474" height="717" /></a>
 </p>

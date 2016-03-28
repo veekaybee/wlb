@@ -18,7 +18,7 @@ tags:
   - Russia
   - Zionism
 ---
-[<img class="aligncenter size-full wp-image-524" title="shsuh" src="http://blog.vickiboykis.com/wp-content/uploads/2009/06/shsuh.jpg" alt="shsuh" width="297" height="459" />](http://blog.vickiboykis.com/wp-content/uploads/2009/06/shsuh.jpg)
+[<img class="aligncenter size-full wp-image-524" title="shsuh" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/06/shsuh.jpg" alt="shsuh" width="297" height="459" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/06/shsuh.jpg)
 
 Have you ever read any books that perfectly articulate how you see the world?  Books that you can show to your friends when you don&#8217;t feel like explaining your life view and say, &#8220;Here, read this, and you will understand me?&#8221;  [Shush, A Memoir-Growing up Jewish under Stalin](http://www.amazon.com/Shush-Growing-Jewish-under-Stalin/dp/0520254465/ref=cm_srch_tsr_rtr) by Emil Draitser, is such a book for me.
 

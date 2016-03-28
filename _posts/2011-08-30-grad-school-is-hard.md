@@ -14,7 +14,7 @@ tags:
   - temple
 ---
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2011/08/photo11.jpg"><img class="aligncenter size-full wp-image-5671" title="photo1" src="http://blog.vickiboykis.com/wp-content/uploads/2011/08/photo11.jpg" alt="" width="353" height="470" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/08/photo11.jpg"><img class="aligncenter size-full wp-image-5671" title="photo1" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/08/photo11.jpg" alt="" width="353" height="470" /></a>
 </p>
 
 Grad school is hard. I know this because I just got back from my first class, Microeconomics, and the only thing I understood was the Academic Integrity Policy on the syllabus. Aka, don&#8217;t be shady.

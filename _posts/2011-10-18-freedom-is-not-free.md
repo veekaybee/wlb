@@ -12,7 +12,7 @@ tags:
   - gilad
   - Israel
 ---
-[<img class="aligncenter size-full wp-image-5849" title="Screen shot 2011-10-18 at 7.27.15 AM" src="http://blog.vickiboykis.com/wp-content/uploads/2011/10/Screen-shot-2011-10-18-at-7.27.15-AM.png" alt="" width="642" height="278" />](http://blog.vickiboykis.com/wp-content/uploads/2011/10/Screen-shot-2011-10-18-at-7.27.15-AM.png)
+[<img class="aligncenter size-full wp-image-5849" title="Screen shot 2011-10-18 at 7.27.15 AM" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/10/Screen-shot-2011-10-18-at-7.27.15-AM.png" alt="" width="642" height="278" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/10/Screen-shot-2011-10-18-at-7.27.15-AM.png)
 
 Five years of replaying this moment in your head like a dream, like a fantasy.  Both the father and the son. So much so that when it actually happens, <a href="http://www.forward.com/articles/144426/" target="_blank">you&#8217;re numb</a>.  You don&#8217;t realize it&#8217;s happening.  Five years of <a href="http://www.damninteresting.com/the-artificial-prison-of-the-human-mind/" target="_blank">psychological hell</a>.    Both the soldier and the nation.
 

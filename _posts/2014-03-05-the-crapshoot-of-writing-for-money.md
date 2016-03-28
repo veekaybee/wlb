@@ -15,7 +15,7 @@ tags:
   - nyc
   - writing
 ---
-[<img class="aligncenter size-medium wp-image-9565" alt="winter-twilight.jpg!Large" src="http://blog.vickiboykis.com/wp-content/uploads/2014/02/winter-twilight.jpgLarge-580x450.jpg" width="580" height="450" />](http://blog.vickiboykis.com/wp-content/uploads/2014/02/winter-twilight.jpgLarge.jpg)
+[<img class="aligncenter size-medium wp-image-9565" alt="winter-twilight.jpg!Large" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2014/02/winter-twilight.jpgLarge-580x450.jpg" width="580" height="450" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2014/02/winter-twilight.jpgLarge.jpg)
 
 I read recently that Karen Russell, who wrote one of my favorite short stories, <a href="http://www.amazon.com/Lucys-Raised-Wolves-Vintage-Contemporaries/dp/0307276678" target="_blank">St. Lucy&#8217;s Home for Girls Raised by Wolves</a>, won a MacArthur Genius Grant, which guarantees the recipient $625,000 over five years, interest and tax-free, to pursue whatever it is the author was doing that resulted in the Genius Grant award in the first place.  That&#8217;s $125k a year.
 
@@ -85,7 +85,7 @@ Virigina Woolf said a woman needs a place of her own to work without distraction
 
 I am not alone. Anthony Trollope wrote two hours every day for twenty years before going to his job at the post office. Kurt Vonnegut worked at IBM. <a href="http://www.laphamsquarterly.org/visual/charts-graphs/day-jobs.php" target="_blank">Faulkner, a postmaster</a>.
 
-[<img class="aligncenter size-medium wp-image-9580" alt="DayJobs-thumb-612x964-1205" src="http://blog.vickiboykis.com/wp-content/uploads/2014/03/DayJobs-thumb-612x964-1205-580x913.png" width="580" height="913" />](http://blog.vickiboykis.com/wp-content/uploads/2014/03/DayJobs-thumb-612x964-1205.png)
+[<img class="aligncenter size-medium wp-image-9580" alt="DayJobs-thumb-612x964-1205" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2014/03/DayJobs-thumb-612x964-1205-580x913.png" width="580" height="913" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2014/03/DayJobs-thumb-612x964-1205.png)
 
 What about women, with children? Tina Fey, cranking out <a href="http://en.wikipedia.org/wiki/Bossypants" target="_blank">Bossypants</a> while  she was in the middle of a career and child-wrangling.
 

@@ -18,7 +18,7 @@ My new [HTC Incredible](http://www.wired.com/reviews/product/pr_htc_incredible) 
 This is not my phone, but [engaget&#8217;s](http://www.engadget.com/2010/04/19/droid-incredible-review/), because, unfortunately, out of all of the things he can do, he can&#8217;t take pictures of himself.  Also, I don&#8217;t wear paisley ties. Mostly.
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2010/05/incredible60015.jpg"><img class="aligncenter size-full wp-image-2870" title="incredible60015" src="http://blog.vickiboykis.com/wp-content/uploads/2010/05/incredible60015.jpg" alt="" width="420" height="279" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/05/incredible60015.jpg"><img class="aligncenter size-full wp-image-2870" title="incredible60015" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/05/incredible60015.jpg" alt="" width="420" height="279" /></a>
 </p>
 
 <p style="text-align: left;">

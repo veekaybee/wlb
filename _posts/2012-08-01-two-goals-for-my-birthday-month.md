@@ -14,7 +14,7 @@ tags:
   - running
   - writing
 ---
-[<img class="aligncenter size-full wp-image-7276" title="girlinwindow" src="http://blog.vickiboykis.com/wp-content/uploads/2012/08/girlinwindow.jpeg" alt="" width="355" height="500" />](http://blog.vickiboykis.com/wp-content/uploads/2012/08/girlinwindow.jpeg)
+[<img class="aligncenter size-full wp-image-7276" title="girlinwindow" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/08/girlinwindow.jpeg" alt="" width="355" height="500" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/08/girlinwindow.jpeg)
 
 &nbsp;
 

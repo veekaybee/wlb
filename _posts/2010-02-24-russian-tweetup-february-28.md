@@ -14,7 +14,7 @@ tags:
   - tweetup
 ---
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2010/02/Lenin_Statue_at_Grutas_Park-copy.jpg"><img class="aligncenter size-full wp-image-2395" title="Lenin_Statue_at_Grutas_Park copy" src="http://blog.vickiboykis.com/wp-content/uploads/2010/02/Lenin_Statue_at_Grutas_Park-copy.jpg" alt="" width="651" height="869" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/02/Lenin_Statue_at_Grutas_Park-copy.jpg"><img class="aligncenter size-full wp-image-2395" title="Lenin_Statue_at_Grutas_Park copy" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/02/Lenin_Statue_at_Grutas_Park-copy.jpg" alt="" width="651" height="869" /></a>
 </p>
 
 My online friend [Karyn](http://passionforrussian.com/) organizes D.C. language meetups on a frequent basis, and now she is organizing a [Russian-language chat](http://passionforrussian.com/2010/02/03/lets-tweet-up/) on Twitter, so you should come, if you&#8217;re into learning Russian.

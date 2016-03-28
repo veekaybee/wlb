@@ -11,7 +11,7 @@ categories:
 tags:
   - NaNoWriMo
 ---
-<img class="aligncenter size-full wp-image-1600" title="Page_1" src="http://blog.vickiboykis.com/wp-content/uploads/2009/11/Page_1.jpg" alt="Page_1" width="500" height="100" />
+<img class="aligncenter size-full wp-image-1600" title="Page_1" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/11/Page_1.jpg" alt="Page_1" width="500" height="100" />
 
 Today was a really tough day.  I just could not get motivated at all.  But I still somehow managed to get to 10,028 words, most of which are pure junk.  Thank you for your insightful comments and opinions&#8230;they have helepd me to keep accountable (knowing I&#8217;ll be posting at night), shaped my thoughts, and slog through.   Two things: Questions, and then a little excerpt from the novel (which is only fair given how much you&#8217;ve helped out.)
 

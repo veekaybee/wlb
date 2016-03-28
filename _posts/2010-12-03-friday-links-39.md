@@ -17,7 +17,7 @@ Two nights ago marked the start of Hanukah, which is a Jewish holiday that will 
 Luckily, I was able to travel to Israel and celebrate there. (ok, so I don&#8217;t know what kind of plane I was traveling on, but it was cheap enough to splice me from the neck down.)
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2010/12/Photo-on-2010-12-03-at-06.23.jpg"><img class="aligncenter size-full wp-image-3979" title="Photo on 2010-12-03 at 06.23" src="http://blog.vickiboykis.com/wp-content/uploads/2010/12/Photo-on-2010-12-03-at-06.23.jpg" alt="" width="384" height="288" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/12/Photo-on-2010-12-03-at-06.23.jpg"><img class="aligncenter size-full wp-image-3979" title="Photo on 2010-12-03 at 06.23" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/12/Photo-on-2010-12-03-at-06.23.jpg" alt="" width="384" height="288" /></a>
 </p>
 
 <p style="text-align: left;">
@@ -31,7 +31,7 @@ Luckily, I was able to travel to Israel and celebrate there. (ok, so I don&#8217
 Luckily, I was able to travel to Israel and celebrate there. (ok, so I don&#8217;t know what kind of plane I was traveling on, but it was cheap enough to splice me from the neck down.)
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2010/12/Photo-on-2010-12-03-at-06.23.jpg"><img class="aligncenter size-full wp-image-3979" title="Photo on 2010-12-03 at 06.23" src="http://blog.vickiboykis.com/wp-content/uploads/2010/12/Photo-on-2010-12-03-at-06.23.jpg" alt="" width="384" height="288" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/12/Photo-on-2010-12-03-at-06.23.jpg"><img class="aligncenter size-full wp-image-3979" title="Photo on 2010-12-03 at 06.23" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/12/Photo-on-2010-12-03-at-06.23.jpg" alt="" width="384" height="288" /></a>
 </p>
 
 <p style="text-align: left;">
@@ -46,7 +46,7 @@ Luckily, I was able to travel to Israel and celebrate there. (ok, so I don&#8217
 Luckily, I was able to travel to Israel and celebrate there. (ok, so I don&#8217;t know what kind of plane I was traveling on, but it was cheap enough to splice me from the neck down.)
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2010/12/Photo-on-2010-12-03-at-06.23.jpg"><img class="aligncenter size-full wp-image-3979" title="Photo on 2010-12-03 at 06.23" src="http://blog.vickiboykis.com/wp-content/uploads/2010/12/Photo-on-2010-12-03-at-06.23.jpg" alt="" width="384" height="288" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/12/Photo-on-2010-12-03-at-06.23.jpg"><img class="aligncenter size-full wp-image-3979" title="Photo on 2010-12-03 at 06.23" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/12/Photo-on-2010-12-03-at-06.23.jpg" alt="" width="384" height="288" /></a>
 </p>
 
 <p style="text-align: left;">
@@ -60,7 +60,7 @@ Luckily, I was able to travel to Israel and celebrate there. (ok, so I don&#8217
 Luckily, I was able to travel to Israel and celebrate there. (ok, so I don&#8217;t know what kind of plane I was traveling on, but it was cheap enough to splice me from the neck down.)
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2010/12/Photo-on-2010-12-03-at-06.23.jpg"><img class="aligncenter size-full wp-image-3979" title="Photo on 2010-12-03 at 06.23" src="http://blog.vickiboykis.com/wp-content/uploads/2010/12/Photo-on-2010-12-03-at-06.23.jpg" alt="" width="384" height="288" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/12/Photo-on-2010-12-03-at-06.23.jpg"><img class="aligncenter size-full wp-image-3979" title="Photo on 2010-12-03 at 06.23" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/12/Photo-on-2010-12-03-at-06.23.jpg" alt="" width="384" height="288" /></a>
 </p>
 
 <p style="text-align: left;">

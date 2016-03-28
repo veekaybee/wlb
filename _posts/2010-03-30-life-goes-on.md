@@ -16,7 +16,7 @@ tags:
   - youth
 ---
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2010/03/3722959455_82e30f7c0f.jpg"><img class="aligncenter size-full wp-image-2681" title="3722959455_82e30f7c0f" src="http://blog.vickiboykis.com/wp-content/uploads/2010/03/3722959455_82e30f7c0f.jpg" alt="" width="500" height="358" /></a><a href="http://www.flickr.com/photos/llgc/3722959455/">source.  You&#8217;ll see where I&#8217;m going with this in a minute.</a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/03/3722959455_82e30f7c0f.jpg"><img class="aligncenter size-full wp-image-2681" title="3722959455_82e30f7c0f" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/03/3722959455_82e30f7c0f.jpg" alt="" width="500" height="358" /></a><a href="http://www.flickr.com/photos/llgc/3722959455/">source.  You&#8217;ll see where I&#8217;m going with this in a minute.</a>
 </p>
 
 It&#8217;s so surreal that, in the wake of the [hideous, gruesome Metro bombing in Russia](http://www1.voanews.com/english/news/europe/Russia-Mourns-Moscow-Terror-Victims--89495837.html), I found out yesterday that I had a new baby cousin, just in time for Passover.  People die, people are born, life goes on.   It&#8217;s so crazy to think that when Baby Cousin is 10 years old, I&#8217;ll have known him his entire life.

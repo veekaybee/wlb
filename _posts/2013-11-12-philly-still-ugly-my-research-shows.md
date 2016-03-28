@@ -15,7 +15,7 @@ tags:
 &nbsp;
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2013/11/TradingPlaces_montage.png"><img class="aligncenter  wp-image-9255" alt="TradingPlaces_montage" src="http://blog.vickiboykis.com/wp-content/uploads/2013/11/TradingPlaces_montage-580x335.png" width="464" height="268" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/11/TradingPlaces_montage.png"><img class="aligncenter  wp-image-9255" alt="TradingPlaces_montage" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/11/TradingPlaces_montage-580x335.png" width="464" height="268" /></a>
 </p>
 
 Last week, Mr. B and I went to the perennially-sold-out <a href="http://technical.ly/philly/2013/11/08/ignite-philly-accessibility/" target="_blank">Ignite Philly</a>, which has Philadelphians from all walks of life (but mostly from tech) gather in a bar and talk about stuff that makes Philly better in five minutes or less. My favorite presentations were by <a href="http://www.phillylovenotes.com/" target="_blank">Philly Love Notes</a>, <a href="http://christopherwink.com/2013/08/26/lifehacks-for-living-in-philly-and-probably-other-cities-too/" target="_blank">Life Hacks for Living in Philly</a>, and Austin, who&#8217;s a <a href="http://austinseraphin.com/" target="_blank">blind developer</a>.  It was a really cool event that made me inspired about the changes that are going on in the city, and made me excited to live in Philly.
@@ -31,13 +31,13 @@ The cognitive dissonance happened for me when Mr. B forced me to watch Trading P
 For some places, like Old City, that&#8217;s a good thing.
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2013/11/design-ideas-holiday-movies-06-1.jpg"><img class="aligncenter  wp-image-9262" alt="design-ideas-holiday-movies-06-1" src="http://blog.vickiboykis.com/wp-content/uploads/2013/11/design-ideas-holiday-movies-06-1-580x316.jpg" width="464" height="253" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/11/design-ideas-holiday-movies-06-1.jpg"><img class="aligncenter  wp-image-9262" alt="design-ideas-holiday-movies-06-1" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/11/design-ideas-holiday-movies-06-1-580x316.jpg" width="464" height="253" /></a>
 </p>
 
 But 30th Street Station hasn&#8217;t changed at all, down to the 70s-era Amtrak trains.
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2013/11/30thStStation_TradingPlaces.jpg"><img class="aligncenter  wp-image-9263" alt="30thStStation_TradingPlaces" src="http://blog.vickiboykis.com/wp-content/uploads/2013/11/30thStStation_TradingPlaces-580x323.jpg" width="464" height="258" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/11/30thStStation_TradingPlaces.jpg"><img class="aligncenter  wp-image-9263" alt="30thStStation_TradingPlaces" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/11/30thStStation_TradingPlaces-580x323.jpg" width="464" height="258" /></a>
 </p>
 
 <p style="text-align: left;">
@@ -45,7 +45,7 @@ But 30th Street Station hasn&#8217;t changed at all, down to the 70s-era Amtrak 
 </p>
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2013/11/Clothespin_CentreSq_TradingPlaces.jpg"><img class="aligncenter  wp-image-9264" alt="Clothespin_CentreSq_TradingPlaces" src="http://blog.vickiboykis.com/wp-content/uploads/2013/11/Clothespin_CentreSq_TradingPlaces-580x323.jpg" width="464" height="258" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/11/Clothespin_CentreSq_TradingPlaces.jpg"><img class="aligncenter  wp-image-9264" alt="Clothespin_CentreSq_TradingPlaces" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/11/Clothespin_CentreSq_TradingPlaces-580x323.jpg" width="464" height="258" /></a>
 </p>
 
 <p style="text-align: center;">
@@ -53,7 +53,7 @@ But 30th Street Station hasn&#8217;t changed at all, down to the 70s-era Amtrak 
 </p>
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2013/11/500full.jpg"><img class="aligncenter size-full wp-image-9265" alt="500full" src="http://blog.vickiboykis.com/wp-content/uploads/2013/11/500full.jpg" width="500" height="284" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/11/500full.jpg"><img class="aligncenter size-full wp-image-9265" alt="500full" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/11/500full.jpg" width="500" height="284" /></a>
 </p>
 
 <p style="text-align: left;">
@@ -69,7 +69,7 @@ But 30th Street Station hasn&#8217;t changed at all, down to the 70s-era Amtrak 
 </p>
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2013/11/8567185212_2f04f84dd6_z.jpg"><img class="aligncenter  wp-image-9267" alt="8567185212_2f04f84dd6_z" src="http://blog.vickiboykis.com/wp-content/uploads/2013/11/8567185212_2f04f84dd6_z-580x386.jpg" width="464" height="309" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/11/8567185212_2f04f84dd6_z.jpg"><img class="aligncenter  wp-image-9267" alt="8567185212_2f04f84dd6_z" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/11/8567185212_2f04f84dd6_z-580x386.jpg" width="464" height="309" /></a>
 </p>
 
 <p style="text-align: left;">

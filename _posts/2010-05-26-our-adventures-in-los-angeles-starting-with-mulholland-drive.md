@@ -15,7 +15,7 @@ tags:
   - vacation
 ---
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2010/05/DSC_0581.jpg"><img class="aligncenter size-full wp-image-3005" title="DSC_0581" src="http://blog.vickiboykis.com/wp-content/uploads/2010/05/DSC_0581.jpg" alt="" width="448" height="298" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/05/DSC_0581.jpg"><img class="aligncenter size-full wp-image-3005" title="DSC_0581" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/05/DSC_0581.jpg" alt="" width="448" height="298" /></a>
 </p>
 
 My impressions of Hollywood and Los Angeles are framed mostly by the movie [Mulholland Drive](http://www.youtube.com/watch?v=96R9MG0DxLc).
@@ -29,7 +29,7 @@ It&#8217;s like looking through a a sharp camera lens pointed in the wrong direc
 
 
 [<p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2010/05/DSC_0581.jpg"><img class="aligncenter size-full wp-image-3005" title="DSC_0581" src="http://blog.vickiboykis.com/wp-content/uploads/2010/05/DSC_0581.jpg" alt="" width="448" height="298" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/05/DSC_0581.jpg"><img class="aligncenter size-full wp-image-3005" title="DSC_0581" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/05/DSC_0581.jpg" alt="" width="448" height="298" /></a>
 </p>
 
 My impressions of Hollywood and Los Angeles are framed mostly by the movie [Mulholland Drive](http://www.youtube.com/watch?v=96R9MG0DxLc).
@@ -43,7 +43,7 @@ It&#8217;s like looking through a a sharp camera lens pointed in the wrong direc
 
 
 ](http://www.exclusivecarrentals.com/mulholland-drive.html) in real life is [<p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2010/05/DSC_0581.jpg"><img class="aligncenter size-full wp-image-3005" title="DSC_0581" src="http://blog.vickiboykis.com/wp-content/uploads/2010/05/DSC_0581.jpg" alt="" width="448" height="298" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/05/DSC_0581.jpg"><img class="aligncenter size-full wp-image-3005" title="DSC_0581" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/05/DSC_0581.jpg" alt="" width="448" height="298" /></a>
 </p>
 
 My impressions of Hollywood and Los Angeles are framed mostly by the movie [Mulholland Drive](http://www.youtube.com/watch?v=96R9MG0DxLc).
@@ -57,7 +57,7 @@ It&#8217;s like looking through a a sharp camera lens pointed in the wrong direc
 
 
 [<p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2010/05/DSC_0581.jpg"><img class="aligncenter size-full wp-image-3005" title="DSC_0581" src="http://blog.vickiboykis.com/wp-content/uploads/2010/05/DSC_0581.jpg" alt="" width="448" height="298" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/05/DSC_0581.jpg"><img class="aligncenter size-full wp-image-3005" title="DSC_0581" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/05/DSC_0581.jpg" alt="" width="448" height="298" /></a>
 </p>
 
 My impressions of Hollywood and Los Angeles are framed mostly by the movie [Mulholland Drive](http://www.youtube.com/watch?v=96R9MG0DxLc).
@@ -73,17 +73,17 @@ It&#8217;s like looking through a a sharp camera lens pointed in the wrong direc
 ](http://www.exclusivecarrentals.com/mulholland-drive.html) in real life is](http://en.wikipedia.org/wiki/Mulholland_Drive) that goes from Los Angeles, through the Santa Monica mountains, to the Pacific Ocean.  It rises above the city and, at night, you can see the glittering lights of the San Fernando Valley and downtown Los Angeles.   [Lots and lots of famous people](http://realestalker.blogspot.com/2008/07/william-monahans-modest-mulholland.html) live on Mulholland Drive.  Rent costs $20,000 a month. And it is also amazingly gorgeous.  Mr. B and I decided to take on its infamy first thing when we got to LA.
 
 <p style="text-align: left;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2010/05/DSC_0522.jpg"></a><a href="http://blog.vickiboykis.com/wp-content/uploads/2010/05/DSC_0551.jpg"><img class="aligncenter size-full wp-image-3007" title="DSC_0551" src="http://blog.vickiboykis.com/wp-content/uploads/2010/05/DSC_0551.jpg" alt="" width="461" height="307" /></a><br /> We set out at 7:00 in the morning to beat the traffic.  There are multiple stops along Mulholland Drive where you can look out over the city at different angles.
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/05/DSC_0522.jpg"></a><a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/05/DSC_0551.jpg"><img class="aligncenter size-full wp-image-3007" title="DSC_0551" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/05/DSC_0551.jpg" alt="" width="461" height="307" /></a><br /> We set out at 7:00 in the morning to beat the traffic.  There are multiple stops along Mulholland Drive where you can look out over the city at different angles.
 </p>
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2010/05/DSC_0556.jpg"><img class="aligncenter size-full wp-image-3008" title="DSC_0556" src="http://blog.vickiboykis.com/wp-content/uploads/2010/05/DSC_0556.jpg" alt="" width="448" height="298" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/05/DSC_0556.jpg"><img class="aligncenter size-full wp-image-3008" title="DSC_0556" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/05/DSC_0556.jpg" alt="" width="448" height="298" /></a>
 </p>
 
 The houses there are crazy.
 
 <p style="text-align: left;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2010/05/DSC_0566.jpg"><img class="aligncenter size-full wp-image-3009" title="DSC_0566" src="http://blog.vickiboykis.com/wp-content/uploads/2010/05/DSC_0566.jpg" alt="" width="512" height="341" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/05/DSC_0566.jpg"><img class="aligncenter size-full wp-image-3009" title="DSC_0566" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/05/DSC_0566.jpg" alt="" width="512" height="341" /></a>
 </p>
 
 <p style="text-align: left;">
@@ -91,7 +91,7 @@ The houses there are crazy.
 </p>
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2010/05/DSC_0643.jpg"><img class="aligncenter size-full wp-image-3010" title="DSC_0643" src="http://blog.vickiboykis.com/wp-content/uploads/2010/05/DSC_0643.jpg" alt="" width="512" height="341" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/05/DSC_0643.jpg"><img class="aligncenter size-full wp-image-3010" title="DSC_0643" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/05/DSC_0643.jpg" alt="" width="512" height="341" /></a>
 </p>
 
 <p style="text-align: left;">
@@ -99,7 +99,7 @@ The houses there are crazy.
 </p>
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2010/05/IMAG0079.jpg"><img class="aligncenter size-full wp-image-3014" title="IMAG0079" src="http://blog.vickiboykis.com/wp-content/uploads/2010/05/IMAG0079.jpg" alt="" width="538" height="896" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/05/IMAG0079.jpg"><img class="aligncenter size-full wp-image-3014" title="IMAG0079" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/05/IMAG0079.jpg" alt="" width="538" height="896" /></a>
 </p>
 
 <p style="text-align: left;">
@@ -107,7 +107,7 @@ The houses there are crazy.
 </p>
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2010/05/DSC_0665.jpg"><img class="aligncenter size-full wp-image-3015" title="DSC_0665" src="http://blog.vickiboykis.com/wp-content/uploads/2010/05/DSC_0665.jpg" alt="" width="448" height="298" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/05/DSC_0665.jpg"><img class="aligncenter size-full wp-image-3015" title="DSC_0665" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/05/DSC_0665.jpg" alt="" width="448" height="298" /></a>
 </p>
 
 <p style="text-align: left;">
@@ -115,12 +115,12 @@ The houses there are crazy.
 </p>
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2010/05/DSC_0692.jpg"><img class="aligncenter size-full wp-image-3016" title="DSC_0692" src="http://blog.vickiboykis.com/wp-content/uploads/2010/05/DSC_0692.jpg" alt="" width="448" height="298" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/05/DSC_0692.jpg"><img class="aligncenter size-full wp-image-3016" title="DSC_0692" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/05/DSC_0692.jpg" alt="" width="448" height="298" /></a>
 </p>
 
 <p style="text-align: left;">
   <p style="text-align: left;">
-    <a href="http://blog.vickiboykis.com/wp-content/uploads/2010/05/DSC_0694.jpg"><img class="aligncenter size-full wp-image-3017" title="DSC_0694" src="http://blog.vickiboykis.com/wp-content/uploads/2010/05/DSC_0694.jpg" alt="" width="448" height="298" /></a>
+    <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/05/DSC_0694.jpg"><img class="aligncenter size-full wp-image-3017" title="DSC_0694" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/05/DSC_0694.jpg" alt="" width="448" height="298" /></a>
   </p>
   
   <p style="text-align: left;">
@@ -132,7 +132,7 @@ The houses there are crazy.
   </p>
   
   <p style="text-align: center;">
-    <a href="http://blog.vickiboykis.com/wp-content/uploads/2010/05/DSC_0750.jpg"><img class="aligncenter size-full wp-image-3019" title="DSC_0750" src="http://blog.vickiboykis.com/wp-content/uploads/2010/05/DSC_0750.jpg" alt="" width="448" height="298" /></a>
+    <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/05/DSC_0750.jpg"><img class="aligncenter size-full wp-image-3019" title="DSC_0750" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/05/DSC_0750.jpg" alt="" width="448" height="298" /></a>
   </p>
   
   <p style="text-align: left;">
@@ -140,7 +140,7 @@ The houses there are crazy.
   </p>
   
   <p style="text-align: left;">
-    <a href="http://blog.vickiboykis.com/wp-content/uploads/2010/05/DSC_0745.jpg"><img class="aligncenter size-full wp-image-3021" title="DSC_0745" src="http://blog.vickiboykis.com/wp-content/uploads/2010/05/DSC_0745.jpg" alt="" width="448" height="298" /></a>
+    <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/05/DSC_0745.jpg"><img class="aligncenter size-full wp-image-3021" title="DSC_0745" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/05/DSC_0745.jpg" alt="" width="448" height="298" /></a>
   </p>
   
   <p style="text-align: left;">
@@ -148,11 +148,11 @@ The houses there are crazy.
   </p>
   
   <p style="text-align: left;">
-    <a href="http://blog.vickiboykis.com/wp-content/uploads/2010/05/DSC_0775.jpg"><img class="aligncenter size-full wp-image-3023" title="DSC_0775" src="http://blog.vickiboykis.com/wp-content/uploads/2010/05/DSC_0775.jpg" alt="" width="341" height="512" /></a>cold, but happy.
+    <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/05/DSC_0775.jpg"><img class="aligncenter size-full wp-image-3023" title="DSC_0775" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/05/DSC_0775.jpg" alt="" width="341" height="512" /></a>cold, but happy.
   </p>
   
   <p style="text-align: center;">
-    <a href="http://blog.vickiboykis.com/wp-content/uploads/2010/05/DSC_0787.jpg"><img class="aligncenter size-full wp-image-3024" title="DSC_0787" src="http://blog.vickiboykis.com/wp-content/uploads/2010/05/DSC_0787.jpg" alt="" width="448" height="298" /></a>
+    <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/05/DSC_0787.jpg"><img class="aligncenter size-full wp-image-3024" title="DSC_0787" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/05/DSC_0787.jpg" alt="" width="448" height="298" /></a>
   </p>
   
   <p style="text-align: left;">
@@ -160,7 +160,7 @@ The houses there are crazy.
   </p>
   
   <p style="text-align: left;">
-    As Mr. B stood at the end of our day at the Getty, looking out over the city, we were both filled with endless impressions. <a href="http://blog.vickiboykis.com/wp-content/uploads/2010/05/DSC_0878.jpg"><img class="aligncenter size-full wp-image-3025" title="DSC_0878" src="http://blog.vickiboykis.com/wp-content/uploads/2010/05/DSC_0878.jpg" alt="" width="448" height="298" /></a>
+    As Mr. B stood at the end of our day at the Getty, looking out over the city, we were both filled with endless impressions. <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/05/DSC_0878.jpg"><img class="aligncenter size-full wp-image-3025" title="DSC_0878" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/05/DSC_0878.jpg" alt="" width="448" height="298" /></a>
   </p>
   
   <p style="text-align: left;">

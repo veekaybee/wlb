@@ -12,7 +12,7 @@ tags:
   - life
 ---
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2010/11/wpid-1289830147_picsay-1289830147.jpg"><img class="aligncenter size-full wp-image-3880" title="wpid-1289830147_picsay-1289830147.jpg" src="http://blog.vickiboykis.com/wp-content/uploads/2010/11/wpid-1289830147_picsay-1289830147.jpg" alt="" width="269" height="448" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/11/wpid-1289830147_picsay-1289830147.jpg"><img class="aligncenter size-full wp-image-3880" title="wpid-1289830147_picsay-1289830147.jpg" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/11/wpid-1289830147_picsay-1289830147.jpg" alt="" width="269" height="448" /></a>
 </p>
 
 I didn&#8217;t have to do anything except go to museums in D.C.  But ever since I moved to Philly, it&#8217;s like real life found me and assaulted me. Over the past week, I&#8217;ve done the following:

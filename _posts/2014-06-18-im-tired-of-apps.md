@@ -12,7 +12,7 @@ tags:
   - Facebook
   - Twitter
 ---
-[<img class="aligncenter size-medium wp-image-9747" src="http://blog.vickiboykis.com/wp-content/uploads/2014/06/the-lovers-19281.jpgLarge-580x436.jpg" alt="the-lovers-1928(1).jpg!Large" width="580" height="436" />](http://blog.vickiboykis.com/wp-content/uploads/2014/06/the-lovers-19281.jpgLarge.jpg)
+[<img class="aligncenter size-medium wp-image-9747" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2014/06/the-lovers-19281.jpgLarge-580x436.jpg" alt="the-lovers-1928(1).jpg!Large" width="580" height="436" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2014/06/the-lovers-19281.jpgLarge.jpg)
 
 Every morning, I wake up by scrolling through my Twitter and Facebook feeds. It&#8217;s probably the most <a href="http://blog.vickiboykis.com/2013/03/the-banality-of-evil-on-facebook/" target="_blank">unhealthy </a>thing I do to myself all day.  As I scroll through, about 1/10th of the content at any given time is ads, and 90% of those ads are for apps.
 

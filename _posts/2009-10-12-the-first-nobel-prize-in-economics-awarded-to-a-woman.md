@@ -15,7 +15,7 @@ tags:
   - professional development
 ---
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2009/10/3559.jpg"><img class="size-full wp-image-1427 aligncenter" title="3559" src="http://blog.vickiboykis.com/wp-content/uploads/2009/10/3559.jpg" alt="3559" width="308" height="308" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/10/3559.jpg"><img class="size-full wp-image-1427 aligncenter" title="3559" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/10/3559.jpg" alt="3559" width="308" height="308" /></a>
 </p>
 
 Today, [Elinor Ostrom](http://www.indiana.edu/~workshop/people/lostromcv.htm) was the first woman [to win the Novel Prize in Economics](http://curiouscapitalist.blogs.time.com/2009/10/12/ostrom-and-williamson-get-the-riksbank/), together with [Oliver Williamson](http://delong.posterous.com/20091012-oliver-williamson), both Americans.  She never even got a Ph.D. in Economics.  This, combined with  her picture, above, make me feel great, for two reasons.
@@ -39,7 +39,7 @@ Which brings me to my second observation:
 I don&#8217;t know about you, but for me it is such a relief to see a successful woman who doesn&#8217;t look like this:
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2009/10/blakelivery.jpg"><img class="size-full wp-image-1429 aligncenter" title="blakelivery" src="http://blog.vickiboykis.com/wp-content/uploads/2009/10/blakelivery.jpg" alt="blakelively" width="358" height="475" /></a> 
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/10/blakelivery.jpg"><img class="size-full wp-image-1429 aligncenter" title="blakelivery" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/10/blakelivery.jpg" alt="blakelively" width="358" height="475" /></a> 
   
   <p>
     Or like this:
@@ -47,7 +47,7 @@ I don&#8217;t know about you, but for me it is such a relief to see a successful
   
   <p>
     <center>
-      <a href="http://blog.vickiboykis.com/wp-content/uploads/2009/10/mariah_carey.jpg"><img class="aligncenter size-full wp-image-1430" title="mariah_carey" src="http://blog.vickiboykis.com/wp-content/uploads/2009/10/mariah_carey.jpg" alt="mariah_carey" width="339" height="339" /></a>
+      <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/10/mariah_carey.jpg"><img class="aligncenter size-full wp-image-1430" title="mariah_carey" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/10/mariah_carey.jpg" alt="mariah_carey" width="339" height="339" /></a>
     </center>
   </p>
   
@@ -57,7 +57,7 @@ I don&#8217;t know about you, but for me it is such a relief to see a successful
   
   <p>
     <center>
-      <a href="http://blog.vickiboykis.com/wp-content/uploads/2009/10/tonibraxton.jpg"><img class="aligncenter size-full wp-image-1431" title="tonibraxton" src="http://blog.vickiboykis.com/wp-content/uploads/2009/10/tonibraxton.jpg" alt="tonibraxton" width="319" height="500" /></a>
+      <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/10/tonibraxton.jpg"><img class="aligncenter size-full wp-image-1431" title="tonibraxton" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/10/tonibraxton.jpg" alt="tonibraxton" width="319" height="500" /></a>
     </center>
   </p>
   

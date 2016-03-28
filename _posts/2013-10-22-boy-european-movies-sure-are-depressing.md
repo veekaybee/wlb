@@ -21,7 +21,7 @@ tags:
 ---
 This post contains spoilers about a movie you probably never want to watch anyway because it will make you want to stab yourself, and all of humanity.
   
-[<img class="aligncenter size-full wp-image-9128" alt="igiraso" src="http://blog.vickiboykis.com/wp-content/uploads/2013/09/igiraso.jpg" width="500" height="715" />](http://blog.vickiboykis.com/wp-content/uploads/2013/09/igiraso.jpg)
+[<img class="aligncenter size-full wp-image-9128" alt="igiraso" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/09/igiraso.jpg" width="500" height="715" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/09/igiraso.jpg)
 
 &nbsp;
 
@@ -31,11 +31,11 @@ We&#8217;ve had great success watching other Loren-Mastroianni combinations. The
 
 &nbsp;
 
-[<img class="aligncenter size-medium wp-image-9129" alt="url" src="http://blog.vickiboykis.com/wp-content/uploads/2013/09/url-580x440.jpg" width="580" height="440" />](http://blog.vickiboykis.com/wp-content/uploads/2013/09/url.jpg)
+[<img class="aligncenter size-medium wp-image-9129" alt="url" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/09/url-580x440.jpg" width="580" height="440" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/09/url.jpg)
 
 Our favorite so far has been <a href="http://www.imdb.com/title/tt0057171/" target="_blank">Leri Oggi Domani</a>, a comedy with three scenarios about men and women, including a woman in Naples who keeps having babies so she doesn&#8217;t have to go to jail, a Milanese socialite bored by her husband, and a prostitute who urges the local priest to commit comedic sins.
 
-[<img class="aligncenter size-medium wp-image-9203" alt="Ieri_oggi_domani_secondo_episodio" src="http://blog.vickiboykis.com/wp-content/uploads/2013/10/Ieri_oggi_domani_secondo_episodio-580x251.jpg" width="580" height="251" />](http://blog.vickiboykis.com/wp-content/uploads/2013/10/Ieri_oggi_domani_secondo_episodio.jpg)
+[<img class="aligncenter size-medium wp-image-9203" alt="Ieri_oggi_domani_secondo_episodio" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/10/Ieri_oggi_domani_secondo_episodio-580x251.jpg" width="580" height="251" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/10/Ieri_oggi_domani_secondo_episodio.jpg)
 
 So, I decided this one also would be great, especially since it was directed by the same guy who did most of their movies.
 
@@ -57,7 +57,7 @@ We start watching. A field of sunflowers. Ok, great! Nice, light-hearted movie! 
 
 The sunflowers and the opening credits end, and we see a woman, late 30s, dressed all in black, at an Italian train station or post office, begging for information about her husband, who is a prisoner of war in Russia.  She is struggling to hold herself together. (But she has great eyebrows)
 
-[<img class="aligncenter size-medium wp-image-9206" alt="Sophia_Loren_(I_Girasoli)_filtered" src="http://blog.vickiboykis.com/wp-content/uploads/2013/10/Sophia_Loren_I_Girasoli_filtered-580x311.jpg" width="580" height="311" />](http://blog.vickiboykis.com/wp-content/uploads/2013/10/Sophia_Loren_I_Girasoli_filtered.jpg)
+[<img class="aligncenter size-medium wp-image-9206" alt="Sophia_Loren_(I_Girasoli)_filtered" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/10/Sophia_Loren_I_Girasoli_filtered-580x311.jpg" width="580" height="311" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/10/Sophia_Loren_I_Girasoli_filtered.jpg)
 
 That&#8217;s cool, I thought, still eating the popcorn. She&#8217;s going to be classy and widowed until the middle of the movie, when her and Marcello reunite and have tasteful European sex. Go ahead and cry. It&#8217;s going to be ok.
 
@@ -71,15 +71,15 @@ But then, oh crap, Sophia looks at the picture of her husband in uniform, and it
 
 Oh God, it was starting.  I put down the popcorn.  Mr. B tried to move away on the couch, feeling that this movie was about real human emotions. He was already plotting his escape.
 
-[<img class="aligncenter size-full wp-image-9207" alt="d48klypv3cirk8yr" src="http://blog.vickiboykis.com/wp-content/uploads/2013/10/d48klypv3cirk8yr.jpg" width="454" height="303" />](http://blog.vickiboykis.com/wp-content/uploads/2013/10/d48klypv3cirk8yr.jpg)
+[<img class="aligncenter size-full wp-image-9207" alt="d48klypv3cirk8yr" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/10/d48klypv3cirk8yr.jpg" width="454" height="303" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/10/d48klypv3cirk8yr.jpg)
 
 And then,  after two weeks like this in limbo, their nerves strung out with love and fear, Marcello went back to the army, to the front.  This, apparently, was not a lighthearted Italian comedy.
 
-[<img class="aligncenter size-medium wp-image-9208" alt="1_girasoles" src="http://blog.vickiboykis.com/wp-content/uploads/2013/10/1_girasoles-580x327.jpg" width="580" height="327" />](http://blog.vickiboykis.com/wp-content/uploads/2013/10/1_girasoles.jpg)
+[<img class="aligncenter size-medium wp-image-9208" alt="1_girasoles" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/10/1_girasoles-580x327.jpg" width="580" height="327" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/10/1_girasoles.jpg)
 
 And then the Eastern Front. Jesus Christ.  I mean, I know I&#8217;m <a href="http://blog.vickiboykis.com/2012/05/mr-b-and-i-are-prepared-for-anything-anything-being-either-pogroms-or-the-siege-of-leningrad/" target="_blank">ready to do Stalingrad</a>, but not like this.
 
-[<img class="aligncenter size-medium wp-image-9209" alt="girasoli_sophia_loren_vittorio_de_sica_008_jpg_sqqq" src="http://blog.vickiboykis.com/wp-content/uploads/2013/10/girasoli_sophia_loren_vittorio_de_sica_008_jpg_sqqq-580x386.jpg" width="580" height="386" />](http://blog.vickiboykis.com/wp-content/uploads/2013/10/girasoli_sophia_loren_vittorio_de_sica_008_jpg_sqqq.jpg)
+[<img class="aligncenter size-medium wp-image-9209" alt="girasoli_sophia_loren_vittorio_de_sica_008_jpg_sqqq" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/10/girasoli_sophia_loren_vittorio_de_sica_008_jpg_sqqq-580x386.jpg" width="580" height="386" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/10/girasoli_sophia_loren_vittorio_de_sica_008_jpg_sqqq.jpg)
 
 You can&#8217;t eat popcorn when people are losing toes right and left.
 
@@ -93,11 +93,11 @@ Yeah, she goes to the Soviet Union to look for him.
 
 She goes through every nook and cranny.
 
-[<img class="aligncenter size-full wp-image-9210" alt="3" src="http://blog.vickiboykis.com/wp-content/uploads/2013/10/3.jpg" width="450" height="253" />](http://blog.vickiboykis.com/wp-content/uploads/2013/10/3.jpg)
+[<img class="aligncenter size-full wp-image-9210" alt="3" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/10/3.jpg" width="450" height="253" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/10/3.jpg)
 
 This was in the 50s. And guess what? She finds him! Except guess what, he&#8217;s fully integrated into Soviet society and he married a Russian woman! The look as she sees him embrace his new wife and his !daughter! and she boards the train:
 
-[<img class="aligncenter size-medium wp-image-9211" alt="eG9sbmxvMTI=_o_i-girasoli-2" src="http://blog.vickiboykis.com/wp-content/uploads/2013/10/eG9sbmxvMTI_o_i-girasoli-2-580x326.jpg" width="580" height="326" />](http://blog.vickiboykis.com/wp-content/uploads/2013/10/eG9sbmxvMTI_o_i-girasoli-2.jpg)
+[<img class="aligncenter size-medium wp-image-9211" alt="eG9sbmxvMTI=_o_i-girasoli-2" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/10/eG9sbmxvMTI_o_i-girasoli-2-580x326.jpg" width="580" height="326" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/10/eG9sbmxvMTI_o_i-girasoli-2.jpg)
 
 Do you want to die yet?
 
@@ -109,6 +109,6 @@ God.
 
 What a horrible, horrible, beautiful film.
 
-[<img class="aligncenter size-medium wp-image-9212" alt="igirasoliscreen4" src="http://blog.vickiboykis.com/wp-content/uploads/2013/10/igirasoliscreen4-580x315.jpg" width="580" height="315" />](http://blog.vickiboykis.com/wp-content/uploads/2013/10/igirasoliscreen4.jpg)
+[<img class="aligncenter size-medium wp-image-9212" alt="igirasoliscreen4" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/10/igirasoliscreen4-580x315.jpg" width="580" height="315" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/10/igirasoliscreen4.jpg)
 
 Long story short, I&#8217;m sorry Mr. B. I&#8217;ll watch The Walking Dead with you next time.

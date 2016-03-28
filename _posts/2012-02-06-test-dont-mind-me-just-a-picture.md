@@ -9,4 +9,4 @@ permalink: /2012/02/test-dont-mind-me-just-a-picture/
 categories:
   - Uncategorized
 ---
-<img title="" class="alignnone" alt="image" src="http://blog.vickiboykis.com/wp-content/uploads/2012/02/wpid-IMG_20120201_182858.jpg" />
+<img title="" class="alignnone" alt="image" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/02/wpid-IMG_20120201_182858.jpg" />

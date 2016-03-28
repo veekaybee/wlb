@@ -19,7 +19,7 @@ tags:
 My morning [drive is a  pretty brutal](http://blog.vickiboykis.com/2010/11/22/in-philadelphia-traffic-everyones-an-engineer/) hour.
 
 <div id="attachment_4800" style="width: 360px" class="wp-caption aligncenter">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2011/04/wpid-IMAG0661.jpg"><img class="size-full wp-image-4800" title="wpid-IMAG0661.jpg" src="http://blog.vickiboykis.com/wp-content/uploads/2011/04/wpid-IMAG0661.jpg" alt="" width="350" height="583" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/04/wpid-IMAG0661.jpg"><img class="size-full wp-image-4800" title="wpid-IMAG0661.jpg" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/04/wpid-IMAG0661.jpg" alt="" width="350" height="583" /></a>
   
   <p class="wp-caption-text">
     Almost exactly how my brain feels at 6:40 in the morning.

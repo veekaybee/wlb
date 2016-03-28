@@ -15,7 +15,7 @@ tags:
 Spring in [Northeast Philly](http://www.phillymag.com/articles/the_late_great_northeast/) has sprung. I guess I should stop taking pictures from the car, but this was at a traffic light, so no possible hipster injury risk.
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2011/04/wpid-IMAG0743.jpg"><img class="aligncenter size-full wp-image-4812" title="wpid-IMAG0743.jpg" src="http://blog.vickiboykis.com/wp-content/uploads/2011/04/wpid-IMAG0743.jpg" alt="" width="280" height="466" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/04/wpid-IMAG0743.jpg"><img class="aligncenter size-full wp-image-4812" title="wpid-IMAG0743.jpg" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/04/wpid-IMAG0743.jpg" alt="" width="280" height="466" /></a>
 </p>
 
   1. &#8220;[The Grand Tour has been a tradition of newly rich countries](http://www.newyorker.com/reporting/2011/04/18/110418fa_fact_osnos#ixzz1JQs8A100) ever since young British aristocrats took to the Continent in the eighteenth century, picking up languages, antiques, and venereal disease.&#8221;

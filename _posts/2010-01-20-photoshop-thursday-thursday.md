@@ -15,11 +15,11 @@ tags:
 ---
 I haven&#8217;t had one of these in a while, and I&#8217;ve been inspired by playing around with [all kinds of typography](http://ilovetypography.com/). In other news, check out my f[irst actual Photoshop design for someone else](http://sfabrications.wordpress.com/), Sophie!  She is selling kick-ass purses.  <img src="http://blog.vickiboykis.com/wp-includes/images/smilies/simple-smile.png" alt=":)" class="wp-smiley" style="height: 1em; max-height: 1em;" />
 
-[<img class="aligncenter size-full wp-image-2150" title="Thursday" src="http://blog.vickiboykis.com/wp-content/uploads/2010/01/Thursday.jpeg" alt="" width="500" height="400" />](http://blog.vickiboykis.com/wp-content/uploads/2010/01/Thursday.jpeg)
+[<img class="aligncenter size-full wp-image-2150" title="Thursday" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/01/Thursday.jpeg" alt="" width="500" height="400" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/01/Thursday.jpeg)
 
 If you are interested in something custom for free, let me know.  I am trying to learn Photoshop so it would work out great for me, and for you. But mostly for me.  Happy Thursday.
 
- [](http://blog.vickiboykis.com/wp-content/uploads/2010/01/Thursday.jpeg)[<img class="aligncenter size-full wp-image-2151" title="Name-Logo" src="http://blog.vickiboykis.com/wp-content/uploads/2010/01/Name-Logo.jpeg" alt="" width="500" height="200" />](http://blog.vickiboykis.com/wp-content/uploads/2010/01/Name-Logo.jpeg)
+ [](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/01/Thursday.jpeg)[<img class="aligncenter size-full wp-image-2151" title="Name-Logo" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/01/Name-Logo.jpeg" alt="" width="500" height="200" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/01/Name-Logo.jpeg)
 
 Related on the Blog:
 

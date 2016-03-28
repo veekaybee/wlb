@@ -16,7 +16,7 @@ tags:
   - Mr. B
 ---
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2013/10/IMG_20131003_070744.jpg"><img class="aligncenter  wp-image-9170" alt="IMG_20131003_070744" src="http://blog.vickiboykis.com/wp-content/uploads/2013/10/IMG_20131003_070744-580x698.jpg" width="406" height="489" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/10/IMG_20131003_070744.jpg"><img class="aligncenter  wp-image-9170" alt="IMG_20131003_070744" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/10/IMG_20131003_070744-580x698.jpg" width="406" height="489" /></a>
 </p>
 
 If you come to my home, it will be hard to tell that Jews habitate within. Sure, there is the kiddush cup from our wedding, sitting on a side shelf, or a menorah in the library, or the <a href="http://blog.vickiboykis.com/2011/05/mezuzah-snafus/" target="_blank">mezuzah</a> tucked away in our front door. Our ketubah is lying around somewhere upstairs.  There is a vintage travel poster urging you to &#8220;Come Visit Palestine!&#8221; with a picture of Jaffa sprawled out near the sea. Hebrew letter Jewish? Or just hipster?

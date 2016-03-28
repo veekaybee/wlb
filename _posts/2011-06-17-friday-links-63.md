@@ -15,7 +15,7 @@ tags:
 ---
 Hello. Are you enjoying your Friday? I&#8217;m not.
 
-[<img class="aligncenter size-full wp-image-5128" title="Screen shot 2011-06-17 at 8.39.47 AM" src="http://blog.vickiboykis.com/wp-content/uploads/2011/06/Screen-shot-2011-06-17-at-8.39.47-AM.png" alt="" width="562" height="280" />](http://blog.vickiboykis.com/wp-content/uploads/2011/06/Screen-shot-2011-06-17-at-8.39.47-AM.png)
+[<img class="aligncenter size-full wp-image-5128" title="Screen shot 2011-06-17 at 8.39.47 AM" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/06/Screen-shot-2011-06-17-at-8.39.47-AM.png" alt="" width="562" height="280" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/06/Screen-shot-2011-06-17-at-8.39.47-AM.png)
 
 **Links:**
 

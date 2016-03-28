@@ -37,7 +37,7 @@ tags:
 </p>
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2010/12/Screen-shot-2010-12-08-at-4.06.51-PM.png"><img class="aligncenter size-full wp-image-4021" title="Screen shot 2010-12-08 at 4.06.51 PM" src="http://blog.vickiboykis.com/wp-content/uploads/2010/12/Screen-shot-2010-12-08-at-4.06.51-PM.png" alt="" width="446" height="297" /></a><strong> </strong>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/12/Screen-shot-2010-12-08-at-4.06.51-PM.png"><img class="aligncenter size-full wp-image-4021" title="Screen shot 2010-12-08 at 4.06.51 PM" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/12/Screen-shot-2010-12-08-at-4.06.51-PM.png" alt="" width="446" height="297" /></a><strong> </strong>
 </p>
 
 <p style="text-align: left;">
@@ -45,7 +45,7 @@ tags:
 </p>
 
 <p style="text-align: left;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2010/12/Screen-shot-2010-12-08-at-4.08.17-PM.png"><img class="aligncenter size-full wp-image-4022" title="Screen shot 2010-12-08 at 4.08.17 PM" src="http://blog.vickiboykis.com/wp-content/uploads/2010/12/Screen-shot-2010-12-08-at-4.08.17-PM.png" alt="" width="420" height="410" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/12/Screen-shot-2010-12-08-at-4.08.17-PM.png"><img class="aligncenter size-full wp-image-4022" title="Screen shot 2010-12-08 at 4.08.17 PM" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/12/Screen-shot-2010-12-08-at-4.08.17-PM.png" alt="" width="420" height="410" /></a>
 </p>
 
 <p style="text-align: left;">
@@ -53,7 +53,7 @@ tags:
 </p>
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2010/12/Screen-shot-2010-12-08-at-4.08.50-PM.png"><img class="aligncenter size-full wp-image-4023" title="Screen shot 2010-12-08 at 4.08.50 PM" src="http://blog.vickiboykis.com/wp-content/uploads/2010/12/Screen-shot-2010-12-08-at-4.08.50-PM.png" alt="" width="324" height="137" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/12/Screen-shot-2010-12-08-at-4.08.50-PM.png"><img class="aligncenter size-full wp-image-4023" title="Screen shot 2010-12-08 at 4.08.50 PM" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/12/Screen-shot-2010-12-08-at-4.08.50-PM.png" alt="" width="324" height="137" /></a>
 </p>
 
 <p style="text-align: center;">
@@ -62,7 +62,7 @@ tags:
   </p>
   
   <p style="text-align: left;">
-    <a href="http://blog.vickiboykis.com/wp-content/uploads/2010/12/Screen-shot-2010-12-08-at-4.12.56-PM.png"><img class="aligncenter size-full wp-image-4025" title="Screen shot 2010-12-08 at 4.12.56 PM" src="http://blog.vickiboykis.com/wp-content/uploads/2010/12/Screen-shot-2010-12-08-at-4.12.56-PM.png" alt="" width="215" height="280" /></a><strong> </strong>
+    <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/12/Screen-shot-2010-12-08-at-4.12.56-PM.png"><img class="aligncenter size-full wp-image-4025" title="Screen shot 2010-12-08 at 4.12.56 PM" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/12/Screen-shot-2010-12-08-at-4.12.56-PM.png" alt="" width="215" height="280" /></a><strong> </strong>
   </p>
   
   <p style="text-align: left;">
@@ -70,7 +70,7 @@ tags:
   </p>
   
   <p style="text-align: center;">
-    <a href="http://blog.vickiboykis.com/wp-content/uploads/2010/12/Screen-shot-2010-12-08-at-4.14.01-PM.png"><img class="aligncenter size-full wp-image-4026" title="Screen shot 2010-12-08 at 4.14.01 PM" src="http://blog.vickiboykis.com/wp-content/uploads/2010/12/Screen-shot-2010-12-08-at-4.14.01-PM.png" alt="" width="277" height="317" /></a>
+    <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/12/Screen-shot-2010-12-08-at-4.14.01-PM.png"><img class="aligncenter size-full wp-image-4026" title="Screen shot 2010-12-08 at 4.14.01 PM" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/12/Screen-shot-2010-12-08-at-4.14.01-PM.png" alt="" width="277" height="317" /></a>
   </p>
   
   <p style="text-align: left;">
@@ -78,7 +78,7 @@ tags:
   </p>
   
   <p style="text-align: center;">
-    <a href="http://blog.vickiboykis.com/wp-content/uploads/2010/12/5096923270_36ae057793.jpg"><img class="aligncenter size-full wp-image-4028" title="5096923270_36ae057793" src="http://blog.vickiboykis.com/wp-content/uploads/2010/12/5096923270_36ae057793.jpg" alt="" width="350" height="263" /></a>
+    <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/12/5096923270_36ae057793.jpg"><img class="aligncenter size-full wp-image-4028" title="5096923270_36ae057793" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/12/5096923270_36ae057793.jpg" alt="" width="350" height="263" /></a>
   </p>
   
   <p style="text-align: left;">
@@ -86,7 +86,7 @@ tags:
   </p>
   
   <p style="text-align: center;">
-    <a href="http://blog.vickiboykis.com/wp-content/uploads/2010/12/Screen-shot-2010-12-08-at-4.18.47-PM.png"><img class="aligncenter size-full wp-image-4029" title="Screen shot 2010-12-08 at 4.18.47 PM" src="http://blog.vickiboykis.com/wp-content/uploads/2010/12/Screen-shot-2010-12-08-at-4.18.47-PM.png" alt="" width="285" height="419" /></a>
+    <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/12/Screen-shot-2010-12-08-at-4.18.47-PM.png"><img class="aligncenter size-full wp-image-4029" title="Screen shot 2010-12-08 at 4.18.47 PM" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/12/Screen-shot-2010-12-08-at-4.18.47-PM.png" alt="" width="285" height="419" /></a>
   </p>
   
   <p>
@@ -98,7 +98,7 @@ tags:
   </p>
   
   <p>
-    <a href="http://blog.vickiboykis.com/wp-content/uploads/2010/12/Screen-shot-2010-12-21-at-1.58.58-PM.png"><img class="aligncenter size-full wp-image-4084" title="Screen shot 2010-12-21 at 1.58.58 PM" src="http://blog.vickiboykis.com/wp-content/uploads/2010/12/Screen-shot-2010-12-21-at-1.58.58-PM.png" alt="" width="579" height="415" /></a>
+    <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/12/Screen-shot-2010-12-21-at-1.58.58-PM.png"><img class="aligncenter size-full wp-image-4084" title="Screen shot 2010-12-21 at 1.58.58 PM" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/12/Screen-shot-2010-12-21-at-1.58.58-PM.png" alt="" width="579" height="415" /></a>
   </p>
   
   <p>

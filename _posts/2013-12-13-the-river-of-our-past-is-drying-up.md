@@ -17,7 +17,7 @@ tags:
   - memories
   - the flat
 ---
-[<img class="aligncenter size-full wp-image-9303" alt="flat_WEB_LoRez" src="http://blog.vickiboykis.com/wp-content/uploads/2013/12/flat_WEB_LoRez.jpg" width="560" height="315" />](http://blog.vickiboykis.com/wp-content/uploads/2013/12/flat_WEB_LoRez.jpg)
+[<img class="aligncenter size-full wp-image-9303" alt="flat_WEB_LoRez" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/12/flat_WEB_LoRez.jpg" width="560" height="315" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/12/flat_WEB_LoRez.jpg)
 
 &nbsp;
 
@@ -36,7 +36,7 @@ Then, there is the rest of Arnon&#8217;s family, who are just interested in loot
 As his mother and aunt are throwing away hundreds of letters and breaking down furniture, Arnon is trying to find out why his grandparents corresponded with Nazis through the things they kept. He not only digs through the chaos to find notes that were actually relevant, but also talks to elderly German Jews in Israel, flies to Germany to talk to Von Mildstein&#8217;s relatives, and meets with his third cousin to get notes she made while she visited with his grandma (because she missed &#8220;hearing German.&#8221;)
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2013/12/87dbefff42329b5e_large.jpg"><img class="aligncenter  wp-image-9313" alt="87dbefff42329b5e_large" src="http://blog.vickiboykis.com/wp-content/uploads/2013/12/87dbefff42329b5e_large-580x881.jpg" width="464" height="705" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/12/87dbefff42329b5e_large.jpg"><img class="aligncenter  wp-image-9313" alt="87dbefff42329b5e_large" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/12/87dbefff42329b5e_large-580x881.jpg" width="464" height="705" /></a>
 </p>
 
 The whole situation is chaos. There are family trees drawn on paper, hundreds of scraps of information. You feel panicked, as if, at any moment, the memories holding their family together will fly away, eroded by the sands of time.
@@ -70,7 +70,7 @@ In the 1930s, several members of my mother&#8217;s family decided they wanted to
 This immigration impacted my grandfather so much that he decided, in the 1970s, when no one dared breathe a word about Israel, to write a novelized account of it. That book was the first (but not last, unfortunately for you, dear reader) thing our family self-published. It&#8217;s written on thick heavy-grade Soviet paper, typed up. It is in my parents&#8217; house right now.
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2013/12/0_db48_23576737_XL.jpg"><img class="aligncenter  wp-image-9315" alt="0_db48_23576737_XL" src="http://blog.vickiboykis.com/wp-content/uploads/2013/12/0_db48_23576737_XL-580x782.jpg" width="464" height="626" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/12/0_db48_23576737_XL.jpg"><img class="aligncenter  wp-image-9315" alt="0_db48_23576737_XL" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/12/0_db48_23576737_XL-580x782.jpg" width="464" height="626" /></a>
 </p>
 
 Our family kept in touch with these relatives, even through the 1990s, through the immigration, through everything, and the completely-Israeli children of these relatives,  now also in their 70s, made their way to America a couple months ago (the husband is an agronomist, and he lived as a shaliach, an Israeli government representative, in America in the 1970s), and paid all of our family in Philadelphia a visit.
@@ -89,7 +89,7 @@ For me, I couldn&#8217;t stop being amazed that I was tied to these people, that
 
 After dinner, they brought out a carefully-written a family tree. The archivist in my family, who also has put amazing care and time into documenting our family, also produced a family tree, and they started vigorously comparing, who came from what, when, and where. It was amazing to me to see that other people cared just as much as me about legacy and grabbing the pieces of information as they floated through the whirlwind of time. I saw my parents on the family tree, and the branch for me, and the branch tying me to Mr. B, with our birth years neatly inscribed under our names with a dash, and I became very emotional. Here were our lives, packed down to their barest essentials. What would we leave as a legacy on paper?
 
-[<img class="aligncenter size-medium wp-image-9314" alt="kolkhoz007-208" src="http://blog.vickiboykis.com/wp-content/uploads/2013/12/kolkhoz007-208-580x777.jpg" width="580" height="777" />](http://blog.vickiboykis.com/wp-content/uploads/2013/12/kolkhoz007-208.jpg)
+[<img class="aligncenter size-medium wp-image-9314" alt="kolkhoz007-208" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/12/kolkhoz007-208-580x777.jpg" width="580" height="777" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/12/kolkhoz007-208.jpg)
 
 I didn&#8217;t have a lot of time to reflect, however, because the Israelis then got down to business: the pictures they&#8217;d talked about at dinner. I saw a blonde girl in an Israeli olive-green uniform, smiling. That could have been me, I thought. I&#8217;m an entire world away from her, and yet, we somehow have something in common.  Who was this girl, and why?
 

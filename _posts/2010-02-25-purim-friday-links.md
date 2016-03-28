@@ -11,13 +11,13 @@ categories:
   - Uncategorized
 ---
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2010/02/Purim1.jpg"><img class="aligncenter size-full wp-image-2426" title="Purim" src="http://blog.vickiboykis.com/wp-content/uploads/2010/02/Purim1.jpg" alt="" width="500" height="700" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/02/Purim1.jpg"><img class="aligncenter size-full wp-image-2426" title="Purim" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/02/Purim1.jpg" alt="" width="500" height="700" /></a>
 </p>
 
 **From ze blogz**
 
   1. I just discovered the amazing trainwreck that is [<p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2010/02/Purim1.jpg"><img class="aligncenter size-full wp-image-2426" title="Purim" src="http://blog.vickiboykis.com/wp-content/uploads/2010/02/Purim1.jpg" alt="" width="500" height="700" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/02/Purim1.jpg"><img class="aligncenter size-full wp-image-2426" title="Purim" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/02/Purim1.jpg" alt="" width="500" height="700" /></a>
 </p>
 
 **From ze blogz**

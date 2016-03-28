@@ -20,7 +20,7 @@ tags:
 Mr. B and I went to my parents&#8217; for Thanksgiving. My parents recently got a free year of Russian channels on their cable account, which makes for some entertaining viewing.
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2011/11/DSC_0373.jpg"><img class="aligncenter" title="DSC_0373" src="http://blog.vickiboykis.com/wp-content/uploads/2011/11/DSC_0373.jpg" alt="" width="578" height="384" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/11/DSC_0373.jpg"><img class="aligncenter" title="DSC_0373" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/11/DSC_0373.jpg" alt="" width="578" height="384" /></a>
 </p>
 
 <p style="text-align: center;">
@@ -36,7 +36,7 @@ Mr. B and I went to my parents&#8217; for Thanksgiving. My parents recently got 
 </p>
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2011/11/pWfIl6TwkkEBWnDZtCk_dg.jpg"><img class="aligncenter size-full wp-image-5948" title="pWfIl6TwkkEBWnDZtCk_dg" src="http://blog.vickiboykis.com/wp-content/uploads/2011/11/pWfIl6TwkkEBWnDZtCk_dg.jpg" alt="" width="300" height="225" /></a>The dad decides that his son does not need a medical professional, but this fake blonde woman who looks like the anthromorphization of Russian Sorrow.
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/11/pWfIl6TwkkEBWnDZtCk_dg.jpg"><img class="aligncenter size-full wp-image-5948" title="pWfIl6TwkkEBWnDZtCk_dg" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/11/pWfIl6TwkkEBWnDZtCk_dg.jpg" alt="" width="300" height="225" /></a>The dad decides that his son does not need a medical professional, but this fake blonde woman who looks like the anthromorphization of Russian Sorrow.
 </p>
 
 <p style="text-align: left;">

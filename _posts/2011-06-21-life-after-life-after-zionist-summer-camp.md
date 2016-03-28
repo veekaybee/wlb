@@ -16,7 +16,7 @@ tags:
   - Zionism
 ---
 <div id="attachment_5140" style="width: 279px" class="wp-caption aligncenter">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2011/06/DSC02502.jpg"><img class="size-full wp-image-5140" title="DSC02502" src="http://blog.vickiboykis.com/wp-content/uploads/2011/06/DSC02502.jpg" alt="" width="269" height="358" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/06/DSC02502.jpg"><img class="size-full wp-image-5140" title="DSC02502" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/06/DSC02502.jpg" alt="" width="269" height="358" /></a>
   
   <p class="wp-caption-text">
     Thinking about the occupation, human rights, democracy, the demographic problem, and more at Zionist Massada. Or maybe just thinking that I'm getting sunburnt.

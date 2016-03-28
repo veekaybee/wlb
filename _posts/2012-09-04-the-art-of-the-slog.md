@@ -19,7 +19,7 @@ tags:
   - writing
 ---
 <p style="text-align: center;">
-   <a href="http://blog.vickiboykis.com/wp-content/uploads/2012/09/Twilight-in-the-Wilderness.jpeg"><img class="aligncenter  wp-image-7472" title="Twilight in the Wilderness" src="http://blog.vickiboykis.com/wp-content/uploads/2012/09/Twilight-in-the-Wilderness-1024x643.jpeg" alt="" width="717" height="450" /></a>
+   <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/09/Twilight-in-the-Wilderness.jpeg"><img class="aligncenter  wp-image-7472" title="Twilight in the Wilderness" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/09/Twilight-in-the-Wilderness-1024x643.jpeg" alt="" width="717" height="450" /></a>
 </p>
 
 ### _Frederic Edwin Church, Twilight in the Wilderness_
@@ -40,7 +40,7 @@ Finally, in the fall of 1805,  they saw the broadening of the Columbia River ou
 
 This spring, Mr. B and I were bored, so we hopped a <a href="http://blog.vickiboykis.com/2012/06/seattle-and-portland/" target="_blank">five-hour flight from Philadelphia</a> to see the same thing.
 
-[<img class="aligncenter size-full wp-image-7471" title="DSC_0926" src="http://blog.vickiboykis.com/wp-content/uploads/2012/09/DSC_0926.jpeg" alt="" width="640" height="426" />](http://blog.vickiboykis.com/wp-content/uploads/2012/09/DSC_0926.jpeg)
+[<img class="aligncenter size-full wp-image-7471" title="DSC_0926" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/09/DSC_0926.jpeg" alt="" width="640" height="426" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/09/DSC_0926.jpeg)
 
 Back when, time between people used to be measured in wagon wheel tracks and letters, just like the ones Lewis, Clark, and the others on his expedition had written.
 
@@ -66,7 +66,7 @@ Have I written more before?  Sure, I wrote a 50-k word novel in a month.  Wher
 When I stated my weight loss goal in August, I wasn&#8217;t in the right frame of mind. I knew that two pounds a week was the most I could lose and be healthy while doing it, but I focused on the entire week.  I pictured cutting out my post-lunch candy snack every day, bringing meals to work instead of eating out, and watermelon for dinner, EVERY DAY.   I failed immediately for the first three weeks because I couldn&#8217;t stretch out my discipline that thin.
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2012/09/IMG_20120813_123205.jpeg"><img class="aligncenter size-full wp-image-7474" title="IMG_20120813_123205" src="http://blog.vickiboykis.com/wp-content/uploads/2012/09/IMG_20120813_123205.jpeg" alt="Don't judge me. " width="299" height="399" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/09/IMG_20120813_123205.jpeg"><img class="aligncenter size-full wp-image-7474" title="IMG_20120813_123205" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/09/IMG_20120813_123205.jpeg" alt="Don't judge me. " width="299" height="399" /></a>
 </p>
 
 All of this stuff is really hard psychologically on anyone.  The big reveal. The Big Results. The lose 30 lbs in five days. The flashy-flashy.
@@ -75,7 +75,7 @@ What I think we as a society need to learn, is how to slog, and, more importantl
 
 As of today, I&#8217;m at 31k words in my book, which means I only wrote 6,000 words all month.  But I&#8217;ve been writing steadily, day in and day out, on the train.  Some days, it&#8217;s hard for me to get inspired to write and I think the whole thing is a failure. But the next day, I pick up again, slowly, carefully, rereading paragraphs, doing research, and I keep going because I know I&#8217;ve done it before and I know I can do it again. I keep putting one word in front of the other, <a href="http://www.amazon.com/Bird-Some-Instructions-Writing-Life/dp/0385480016" target="_blank">bird by bird</a>. How long will it take me to finish? I&#8217;m hoping I&#8217;ll be done with the first draft by October.  But the more steady I go, the more the quality of the first draft improves.
 
-[<img class="aligncenter size-full wp-image-7475" title="IMG_20120824_080325" src="http://blog.vickiboykis.com/wp-content/uploads/2012/09/IMG_20120824_080325.jpeg" alt="" width="299" height="399" />](http://blog.vickiboykis.com/wp-content/uploads/2012/09/IMG_20120824_080325.jpeg)
+[<img class="aligncenter size-full wp-image-7475" title="IMG_20120824_080325" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/09/IMG_20120824_080325.jpeg" alt="" width="299" height="399" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/09/IMG_20120824_080325.jpeg)
 
 Last week, I joined Weight Watchers, which gave me exactly the social kick start I needed, and I started tracking meals on <a href="http://sparkpeople.com/" target="_blank">SparkPeople</a> (which I&#8217;ve lost 30 lbs with before).  I take every day meal by meal.  I eat my breakfast painfully slowly. I think about my next snack.  Tomorrow is as far away as next week.  I&#8217;m laser-focused on my next meal, the next olive, the next yogurt with those little bitter chocolates sprinkled into it.
 
@@ -87,6 +87,6 @@ Make no mistake about it, the slog is boring. The slog is hard. And the slog is 
 
 But if you stick to it, I tell myself,  you will see the Pacific.  And it will be even more beautiful than the real one.
 
-[<img class="aligncenter size-full wp-image-7473" title="IMG_20120527_182612" src="http://blog.vickiboykis.com/wp-content/uploads/2012/09/IMG_20120527_182612.jpeg" alt="" width="532" height="399" />](http://blog.vickiboykis.com/wp-content/uploads/2012/09/IMG_20120527_182612.jpeg)
+[<img class="aligncenter size-full wp-image-7473" title="IMG_20120527_182612" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/09/IMG_20120527_182612.jpeg" alt="" width="532" height="399" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/09/IMG_20120527_182612.jpeg)
 
 &nbsp;

@@ -13,7 +13,7 @@ tags:
   - breaking bad
   - feminism
 ---
-[<img class="aligncenter size-medium wp-image-9147" alt="bb2" src="http://blog.vickiboykis.com/wp-content/uploads/2013/09/bb2-580x408.jpg" width="580" height="408" />](http://blog.vickiboykis.com/wp-content/uploads/2013/09/bb2.jpg)
+[<img class="aligncenter size-medium wp-image-9147" alt="bb2" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/09/bb2-580x408.jpg" width="580" height="408" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/09/bb2.jpg)
 
 I&#8217;ve started watching the wildly popular Breaking Bad, because it was getting to the point where I couldn&#8217;t be on Twitter anymore on Sunday nights without hearing about how amazing it was. Of course, these are the same people who live-tweet American football plays and The Bachelor, so there was still room for a huge margin of error.
 

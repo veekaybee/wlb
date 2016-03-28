@@ -24,7 +24,7 @@ tags:
 ---
 [](http://www.amazon.com/Chasing-Sea-Ghosts-Empire-Central/dp/0375421300) 
 
-[<img class="aligncenter size-full wp-image-873" title="8298560" src="http://blog.vickiboykis.com/wp-content/uploads/2009/07/8298560.jpg" alt="8298560" width="378" height="578" />](http://blog.vickiboykis.com/wp-content/uploads/2009/07/8298560.jpg)
+[<img class="aligncenter size-full wp-image-873" title="8298560" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/07/8298560.jpg" alt="8298560" width="378" height="578" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/07/8298560.jpg)
 
 There are writers.  Then there are Writers.  Tom Bissell is a Writer. Lured by an incredible spurt of nobility (or stupidity), he decided to join the Peace Corps in college and was stationed in Uzbekistan.  You know how I always talk trash about Russia?  Uzbekistan makes Russia look like the Rockville Whole Foods by comparison.  Bissell ended up not finishing his stint, hightailing it out of the country after seven months (out of a two-year assignment.)  But then, five years later, he came back  to write [Chasing the Sea](http://www.amazon.com/Chasing-Sea-Ghosts-Empire-Central/dp/0375421300), a book whose subtitle is _Being a Narrative of a Journey Through Uzbekistan, Including Descriptions of LIfe Therein, Culminating with an Arrival at theAral Sea, the World&#8217;s Worst Man-Made Ecological Catastrophe, in One Volume_.
 

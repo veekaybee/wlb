@@ -14,7 +14,7 @@ tags:
   - Friday
 ---
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2011/05/judgementday.jpg"><img class="aligncenter size-full wp-image-4978" title="judgementday" src="http://blog.vickiboykis.com/wp-content/uploads/2011/05/judgementday.jpg" alt="" width="515" height="3216" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/05/judgementday.jpg"><img class="aligncenter size-full wp-image-4978" title="judgementday" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/05/judgementday.jpg" alt="" width="515" height="3216" /></a>
 </p>
 
 <p style="text-align: left;">

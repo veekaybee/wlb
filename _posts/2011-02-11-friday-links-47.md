@@ -16,7 +16,7 @@ Nothing says &#8220;This Valentine&#8217;s Day, I love you and am glad I am spen
 
 Or, I guess, you could just send a [free Valentine&#8217;s Day card](http://www.katespade.info/?section=bmine).
 
-[<img class="size-full wp-image-4370 alignleft" title="Screen shot 2011-02-11 at 8.55.45 AM" src="http://blog.vickiboykis.com/wp-content/uploads/2011/02/Screen-shot-2011-02-11-at-8.55.45-AM.png" alt="" width="627" height="288" />](http://blog.vickiboykis.com/wp-content/uploads/2011/02/Screen-shot-2011-02-11-at-8.55.45-AM.png)
+[<img class="size-full wp-image-4370 alignleft" title="Screen shot 2011-02-11 at 8.55.45 AM" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/02/Screen-shot-2011-02-11-at-8.55.45-AM.png" alt="" width="627" height="288" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/02/Screen-shot-2011-02-11-at-8.55.45-AM.png)
 
 <p style="text-align: left;">
   <p style="text-align: left;">

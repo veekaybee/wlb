@@ -18,7 +18,7 @@ tags:
   - PRISM
 ---
 <p style="text-align: center;">
-   <a href="http://blog.vickiboykis.com/wp-content/uploads/2013/06/IMG_20130121_071744.jpg"><img class="aligncenter  wp-image-8772" alt="IMG_20130121_071744" src="http://blog.vickiboykis.com/wp-content/uploads/2013/06/IMG_20130121_071744-580x435.jpg" width="487" height="366" /></a>
+   <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/06/IMG_20130121_071744.jpg"><img class="aligncenter  wp-image-8772" alt="IMG_20130121_071744" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/06/IMG_20130121_071744-580x435.jpg" width="487" height="366" /></a>
 </p>
 
 In spite of everything I write about my Russian and Jewish identities, there is a  piece of me that is wholly American. I can&#8217;t define what it means to be American entirely, because I only notice it when I&#8217;m not in America.  The last time was when we were in Italy a couple weeks ago.

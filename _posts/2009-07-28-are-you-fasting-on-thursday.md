@@ -18,7 +18,7 @@ tags:
   - religion
 ---
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2009/07/2820000904_57cee71418.jpg"><img class="aligncenter size-full wp-image-912" title="2820000904_57cee71418" src="http://blog.vickiboykis.com/wp-content/uploads/2009/07/2820000904_57cee71418.jpg" alt="2820000904_57cee71418" width="375" height="500" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/07/2820000904_57cee71418.jpg"><img class="aligncenter size-full wp-image-912" title="2820000904_57cee71418" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/07/2820000904_57cee71418.jpg" alt="2820000904_57cee71418" width="375" height="500" /></a>
 </p>
 
 <p style="text-align: center;">
@@ -28,7 +28,7 @@ tags:
 Thursday is [Tisha B&#8217;Av](http://www.jewfaq.org/holidayd.htm). This is a holiday in Judaism where you fast.  Religious Jews (and yours truly) fast on Tisha B&#8217;Av, or as I like to call it, HOLY CRAP B&#8217;Av, because on this day in history several bad things happened to Jews:
 
   * **The [<p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2009/07/2820000904_57cee71418.jpg"><img class="aligncenter size-full wp-image-912" title="2820000904_57cee71418" src="http://blog.vickiboykis.com/wp-content/uploads/2009/07/2820000904_57cee71418.jpg" alt="2820000904_57cee71418" width="375" height="500" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/07/2820000904_57cee71418.jpg"><img class="aligncenter size-full wp-image-912" title="2820000904_57cee71418" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/07/2820000904_57cee71418.jpg" alt="2820000904_57cee71418" width="375" height="500" /></a>
 </p>
 
 <p style="text-align: center;">

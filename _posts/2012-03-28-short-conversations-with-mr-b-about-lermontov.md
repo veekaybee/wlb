@@ -21,7 +21,7 @@ tags:
 &nbsp;
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2012/03/theduel.jpg"><img class="aligncenter  wp-image-6609" title="theduel" src="http://blog.vickiboykis.com/wp-content/uploads/2012/03/theduel.jpg" alt="" width="505" height="345" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/03/theduel.jpg"><img class="aligncenter  wp-image-6609" title="theduel" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/03/theduel.jpg" alt="" width="505" height="345" /></a>
 </p>
 
 &nbsp;

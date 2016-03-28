@@ -12,7 +12,7 @@ tags:
   - lazy
   - life
 ---
-[<img class="aligncenter wp-image-9763 size-medium" src="http://blog.vickiboykis.com/wp-content/uploads/2014/07/Screen-Shot-2014-07-21-at-11.57.07-AM-580x372.png" alt="Screen Shot 2014-07-21 at 11.57.07 AM" width="580" height="372" />](http://blog.vickiboykis.com/wp-content/uploads/2014/07/Screen-Shot-2014-07-21-at-11.57.07-AM.png)
+[<img class="aligncenter wp-image-9763 size-medium" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2014/07/Screen-Shot-2014-07-21-at-11.57.07-AM-580x372.png" alt="Screen Shot 2014-07-21 at 11.57.07 AM" width="580" height="372" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2014/07/Screen-Shot-2014-07-21-at-11.57.07-AM.png)
 
 When my classes end for the summer, I always quip to people that I&#8217;m on summer vacation because the only thing I&#8217;ll have to do now is go to work 9-5, and then have five blissful hours of freedom in the evenings.
 

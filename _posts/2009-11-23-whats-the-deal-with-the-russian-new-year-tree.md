@@ -17,7 +17,7 @@ tags:
   - Ёлка
 ---
 <div id="attachment_1732" style="width: 522px" class="wp-caption aligncenter">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2009/11/Russian_Tree_Yelka1.jpg"><img class="size-full wp-image-1732 " title="Russian_Tree_Yelka" src="http://blog.vickiboykis.com/wp-content/uploads/2009/11/Russian_Tree_Yelka1.jpg" alt="Russian_Tree_Yelka" width="512" height="383" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/11/Russian_Tree_Yelka1.jpg"><img class="size-full wp-image-1732 " title="Russian_Tree_Yelka" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/11/Russian_Tree_Yelka1.jpg" alt="Russian_Tree_Yelka" width="512" height="383" /></a>
   
   <p class="wp-caption-text">
     Yolka in Nizhniy Novgorod, my birthplace Source: Wikipedia user Setaries
@@ -27,7 +27,7 @@ tags:
 Nonna and Tzipporah asked in the comments to [yesterday&#8217;s post](http://blog.vickiboykis.com/2009/11/23/monday-photo-blues/) what the significance of the Russian New Year tree was to me. I  explain the concept of Russian New Year every year, so maybe if I explain it well enough in this blog post, I can just get a tattoo of the permalink and flash it to people at New Year parties.  That should really get the blog traffic going.  Also, people will think I&#8217;m insane.
 
 The New Year tree, [the Ёлка (yolka)](http://www.mahalo.com/new-years-tree) is the Russian equivalent of the Christmas tree.  However, since Russians weren&#8217;t allowed to celebrate Christmas for 80+ years because atheism was the state-mandated religion, t[<div id="attachment_1732" style="width: 522px" class="wp-caption aligncenter">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2009/11/Russian_Tree_Yelka1.jpg"><img class="size-full wp-image-1732 " title="Russian_Tree_Yelka" src="http://blog.vickiboykis.com/wp-content/uploads/2009/11/Russian_Tree_Yelka1.jpg" alt="Russian_Tree_Yelka" width="512" height="383" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/11/Russian_Tree_Yelka1.jpg"><img class="size-full wp-image-1732 " title="Russian_Tree_Yelka" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/11/Russian_Tree_Yelka1.jpg" alt="Russian_Tree_Yelka" width="512" height="383" /></a>
   
   <p class="wp-caption-text">
     Yolka in Nizhniy Novgorod, my birthplace Source: Wikipedia user Setaries

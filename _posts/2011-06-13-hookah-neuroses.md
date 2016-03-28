@@ -17,7 +17,7 @@ Last night, as Mr. B was busy engaging in a <a href="http://www.hbo.com/game-of-
 My rule was, no technology, no distractions, just relaxation.
 
 <div id="attachment_5087" style="width: 310px" class="wp-caption aligncenter">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2011/06/wpid-IMAG0857.jpg"><img class="size-full wp-image-5087" title="wpid-IMAG0857.jpg" src="http://blog.vickiboykis.com/wp-content/uploads/2011/06/wpid-IMAG0857.jpg" alt="" width="300" height="500" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/06/wpid-IMAG0857.jpg"><img class="size-full wp-image-5087" title="wpid-IMAG0857.jpg" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/06/wpid-IMAG0857.jpg" alt="" width="300" height="500" /></a>
   
   <p class="wp-caption-text">
     This is NOT illegal. Not yet.

@@ -24,7 +24,7 @@ Because I desperately want Mr. B to carry me and he doesn&#8217;t like [So, in p
 Because I desperately want Mr. B to carry me and he doesn&#8217;t like](http://blog.vickiboykis.com/2010/02/01/rabbit-rabbit-rabbit/) because they are  &#8220;bullshit&#8221; (or maybe because he&#8217;s afraid he&#8217;ll get a hernia, which is more likely.)  So for [every superstition I follow](http://en.wikipedia.org/wiki/Russian_traditions_and_superstitions), I have to somehow scientifically prove to him that they result in real life changes.  I know. I&#8217;m rolling my eyes, too.  Superstition > science.
 
 <div id="attachment_4748" style="width: 514px" class="wp-caption aligncenter">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2011/04/weddingevil.jpg"><img class="size-full wp-image-4748" title="weddingevil" src="http://blog.vickiboykis.com/wp-content/uploads/2011/04/weddingevil.jpg" alt="" width="504" height="337" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/04/weddingevil.jpg"><img class="size-full wp-image-4748" title="weddingevil" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/04/weddingevil.jpg" alt="" width="504" height="337" /></a>
   
   <p class="wp-caption-text">
     Practicing the Russian tradition/superstition of eating bread and salt so that your home is prosperous and never hungry. Hey, man. Whatever it takes to avoid bad superstitions. Especially if it means more carbs.
@@ -46,7 +46,7 @@ Because I desperately want Mr. B to carry me and he doesn&#8217;t like [So, in p
 Because I desperately want Mr. B to carry me and he doesn&#8217;t like](http://blog.vickiboykis.com/2010/02/01/rabbit-rabbit-rabbit/) because they are  &#8220;bullshit&#8221; (or maybe because he&#8217;s afraid he&#8217;ll get a hernia, which is more likely.)  So for [every superstition I follow](http://en.wikipedia.org/wiki/Russian_traditions_and_superstitions), I have to somehow scientifically prove to him that they result in real life changes.  I know. I&#8217;m rolling my eyes, too.  Superstition > science.
 
 <div id="attachment_4748" style="width: 514px" class="wp-caption aligncenter">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2011/04/weddingevil.jpg"><img class="size-full wp-image-4748" title="weddingevil" src="http://blog.vickiboykis.com/wp-content/uploads/2011/04/weddingevil.jpg" alt="" width="504" height="337" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/04/weddingevil.jpg"><img class="size-full wp-image-4748" title="weddingevil" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/04/weddingevil.jpg" alt="" width="504" height="337" /></a>
   
   <p class="wp-caption-text">
     Practicing the Russian tradition/superstition of eating bread and salt so that your home is prosperous and never hungry. Hey, man. Whatever it takes to avoid bad superstitions. Especially if it means more carbs.
@@ -71,7 +71,7 @@ P.S.B.T.W, did you know that the threshold is a bad place in general?  I found 
 
 <img src="http://books.google.com/books?id=Ue4MAAAAIAAJ&pg=PA6&img=1&zoom=3&hl=en&sig=ACfU3U0EyvDsNHql3X2F9emfZM5juOrmZw&ci=55%2C855%2C936%2C705&edge=0" alt="" width="538" height="405" />
 
-[<img class="aligncenter size-full wp-image-4749" title="Screen shot 2011-04-05 at 2.01.09 PM" src="http://blog.vickiboykis.com/wp-content/uploads/2011/04/Screen-shot-2011-04-05-at-2.01.09-PM.png" alt="" width="436" height="322" />](http://blog.vickiboykis.com/wp-content/uploads/2011/04/Screen-shot-2011-04-05-at-2.01.09-PM.png)Anyway, where was I, again?
+[<img class="aligncenter size-full wp-image-4749" title="Screen shot 2011-04-05 at 2.01.09 PM" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/04/Screen-shot-2011-04-05-at-2.01.09-PM.png" alt="" width="436" height="322" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/04/Screen-shot-2011-04-05-at-2.01.09-PM.png)Anyway, where was I, again?
 
 Oh yeah.
 

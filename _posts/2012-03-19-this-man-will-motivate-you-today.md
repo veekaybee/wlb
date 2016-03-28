@@ -16,7 +16,7 @@ tags:
   - WWII
 ---
 <p style="text-align: center;">
-   <a href="http://blog.vickiboykis.com/wp-content/uploads/2012/03/Jack_Churchill_leading_training_charge_with_sword.jpg"><img class="aligncenter  wp-image-6588" title="Jack_Churchill_leading_training_charge_with_sword" src="http://blog.vickiboykis.com/wp-content/uploads/2012/03/Jack_Churchill_leading_training_charge_with_sword.jpg" alt="" width="433" height="278" /></a>
+   <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/03/Jack_Churchill_leading_training_charge_with_sword.jpg"><img class="aligncenter  wp-image-6588" title="Jack_Churchill_leading_training_charge_with_sword" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/03/Jack_Churchill_leading_training_charge_with_sword.jpg" alt="" width="433" height="278" /></a>
 </p>
 
 > <a href="http://www.metafilter.com/88793/Mad-Jack-Churchill" target="_blank">Lieutenant Colonel John Malcolm Thorpe Fleming &#8220;Jack&#8221; Churchill</a>, DSO & Bar, MC & Bar (16 September 1906 – 8 March 1996), nicknamed &#8220;<a href="http://www.wwiihistorymagazine.com/2005/july/col-profiles.html" target="_blank">Fighting Jack Churchill</a>&#8221; and &#8220;<a href="http://en.wikipedia.org/wiki/Jack_Churchill" target="_blank">Mad Jack</a>&#8220;, was a British soldier who fought throughout World War II armed with a longbow, arrows and a Scottish broadsword. He once said &#8220;any officer who goes into action without his sword is improperly armed.&#8221;

@@ -19,7 +19,7 @@ tags:
   - WSJ
 ---
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2011/01/4342110980_02a7685e81_z.jpg"><img class="aligncenter size-full wp-image-4215" title="4342110980_02a7685e81_z" src="http://blog.vickiboykis.com/wp-content/uploads/2011/01/4342110980_02a7685e81_z.jpg" alt="" width="340" height="448" /></a><a href="http://www.flickr.com/photos/alexanderkaplan/4342110980/">source. </a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/01/4342110980_02a7685e81_z.jpg"><img class="aligncenter size-full wp-image-4215" title="4342110980_02a7685e81_z" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/01/4342110980_02a7685e81_z.jpg" alt="" width="340" height="448" /></a><a href="http://www.flickr.com/photos/alexanderkaplan/4342110980/">source. </a>
 </p>
 
 I have no children, so I am obviously a parenting expert.   And my parenting expertise tells me that Amy Chua, of the Mao Disciplinary Style Chuas, is onto something I&#8217;ve been struggling to articulate when talking to American-born friends about my upbringing. In her humblebrag post, &#8220;[Why Chinese Mothers are Superior](http://online.wsj.com/article/SB10001424052748704111504576059713528698754.html?mod=WSJ_hpp_RIGHTTopCarousel_1),&#8221;, designed to engineer enough controversy to ensure a reasonable first printing of [her book](http://www.amazon.com/Battle-Hymn-Tiger-Mother-Chua/dp/1594202842) and dibs on 4-star hotels at a future book tour, Chua outlines Chinese parenting techniques and delineates them from Western ones with a few bullet points that I found particularly relevant to my own experiences of being parented by immigrants:

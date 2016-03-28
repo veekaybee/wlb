@@ -16,7 +16,7 @@ tags:
 I had <a href="http://blog.vickiboykis.com/2011/11/22/im-getting-an-mba-it-wont-make-me-smarter-but-its-a-smart-move/" target="_blank">my first MBA class</a> this weekend.  It&#8217;s an intro management course that spans two weekends, designed to jump start you into the program.  Right before class, I got an email from my professor.  It included the following:
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2012/01/Screen-shot-2012-01-08-at-7.53.07-PM.png"><img class="aligncenter size-full wp-image-6199" title="Screen shot 2012-01-08 at 7.53.07 PM" src="http://blog.vickiboykis.com/wp-content/uploads/2012/01/Screen-shot-2012-01-08-at-7.53.07-PM.png" alt="" width="624" height="84" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/01/Screen-shot-2012-01-08-at-7.53.07-PM.png"><img class="aligncenter size-full wp-image-6199" title="Screen shot 2012-01-08 at 7.53.07 PM" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/01/Screen-shot-2012-01-08-at-7.53.07-PM.png" alt="" width="624" height="84" /></a>
 </p>
 
 &#8220;Create a Personal Coat of Arms.&#8221;
@@ -32,7 +32,7 @@ Here&#8217;s what I came up with:
 &nbsp;
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2012/01/AdAstra.png"><img class="aligncenter size-full wp-image-6198" title="AdAstra" src="http://blog.vickiboykis.com/wp-content/uploads/2012/01/AdAstra.png" alt="" width="490" height="634" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/01/AdAstra.png"><img class="aligncenter size-full wp-image-6198" title="AdAstra" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/01/AdAstra.png" alt="" width="490" height="634" /></a>
 </p>
 
 Terrifying, isn&#8217;t it?

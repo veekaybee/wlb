@@ -22,7 +22,7 @@ My entire life, I&#8217;ve always been striving for something in school-an A on 
 So, after the success I had [at my last 5k,](http://blog.vickiboykis.com/2010/06/10/in-which-i-run-my-first-5k/) and [all the training I did](http://blog.vickiboykis.com/2010/06/29/mr-bs-mom-inspires-me-to-drive-mr-b-to-dehydration/), I ran a second one on July 4, this time not alone.
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2010/07/IMAG0188.jpg"><img class="aligncenter size-full wp-image-3319" title="IMAG0188" src="http://blog.vickiboykis.com/wp-content/uploads/2010/07/IMAG0188.jpg" alt="" width="560" height="336" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/07/IMAG0188.jpg"><img class="aligncenter size-full wp-image-3319" title="IMAG0188" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/07/IMAG0188.jpg" alt="" width="560" height="336" /></a>
 </p>
 
 <p style="text-align: left;">
@@ -34,7 +34,7 @@ So, after the success I had [at my last 5k,](http://blog.vickiboykis.com/2010/06
 </p>
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2010/07/IMAG0190.jpg"><img class="aligncenter size-full wp-image-3322" title="IMAG0190" src="http://blog.vickiboykis.com/wp-content/uploads/2010/07/IMAG0190.jpg" alt="" width="307" height="512" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/07/IMAG0190.jpg"><img class="aligncenter size-full wp-image-3322" title="IMAG0190" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/07/IMAG0190.jpg" alt="" width="307" height="512" /></a>
 </p>
 
 <p style="text-align: left;">
@@ -42,7 +42,7 @@ So, after the success I had [at my last 5k,](http://blog.vickiboykis.com/2010/06
 </p>
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2010/07/IMAG0179.jpg"><img class="aligncenter size-full wp-image-3331" title="IMAG0179" src="http://blog.vickiboykis.com/wp-content/uploads/2010/07/IMAG0179.jpg" alt="" width="448" height="269" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/07/IMAG0179.jpg"><img class="aligncenter size-full wp-image-3331" title="IMAG0179" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/07/IMAG0179.jpg" alt="" width="448" height="269" /></a>
 </p>
 
 <p style="text-align: left;">

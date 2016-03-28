@@ -14,7 +14,7 @@ tags:
   - me
 ---
 <p style="text-align: left;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2009/06/dsc00743.jpg"><img class="aligncenter size-full wp-image-564" title="dsc00743" src="http://blog.vickiboykis.com/wp-content/uploads/2009/06/dsc00743.jpg" alt="dsc00743" width="463" height="348" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/06/dsc00743.jpg"><img class="aligncenter size-full wp-image-564" title="dsc00743" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/06/dsc00743.jpg" alt="dsc00743" width="463" height="348" /></a>
 </p>
 
 <p style="text-align: left;">

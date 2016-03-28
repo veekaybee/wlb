@@ -20,7 +20,7 @@ tags:
   - writing
 ---
 <div id="attachment_1393" style="width: 510px" class="wp-caption aligncenter">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2009/10/flemming.jpg"><img class="size-full wp-image-1393" title="flemming" src="http://blog.vickiboykis.com/wp-content/uploads/2009/10/flemming.jpg" alt="Portrait of Ian Flemming, or Daniel Silva 1.0 beta" width="500" height="500" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/10/flemming.jpg"><img class="size-full wp-image-1393" title="flemming" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/10/flemming.jpg" alt="Portrait of Ian Flemming, or Daniel Silva 1.0 beta" width="500" height="500" /></a>
   
   <p class="wp-caption-text">
     Portrait of Ian Flemming, or Daniel Silva 1.0 beta, via ConnArtist on Flickr

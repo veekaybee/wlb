@@ -15,7 +15,7 @@ tags:
 ---
 Since it&#8217;s a 3-day weekend and I probably won&#8217;t be thinking about the world economy or [how ridiculous Putin is](http://www.robertamsterdam.com/2010/09/video_putins_common_touch_on_the_highway.htm), and Mr. B is actually going to the U.S. open to see Novak this weekend,  here&#8217;s a comic. Links if you can get to the bottom!
 
-[<img class="aligncenter size-full wp-image-3570" title="Page_1" src="http://blog.vickiboykis.com/wp-content/uploads/2010/09/Page_11.jpg" alt="" width="450" height="3500" />](http://blog.vickiboykis.com/wp-content/uploads/2010/09/Page_11.jpg)**From the blogs:**
+[<img class="aligncenter size-full wp-image-3570" title="Page_1" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/09/Page_11.jpg" alt="" width="450" height="3500" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/09/Page_11.jpg)**From the blogs:**
 
   1. Gubbi&#8217;s [car dealership in the Emirates](http://gubbiofarabia.tumblr.com/post/1051802266/at-the-car-dealership-this-morning-taking-big)
   2. [Wendi crowdsources her questions](http://wendiaarons.com/2010/08/i-need-answers-people.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+blogspot%2FmRwg+%28Wendi+Aarons%29)

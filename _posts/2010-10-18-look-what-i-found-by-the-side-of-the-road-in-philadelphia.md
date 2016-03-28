@@ -12,7 +12,7 @@ tags:
   - Jewish
   - philly
 ---
-<img style="display: block; margin-right: auto; margin-left: auto;" src="http://blog.vickiboykis.com/wp-content/uploads/2010/10/wpid-IMAG0434.jpg" alt="image" />
+<img style="display: block; margin-right: auto; margin-left: auto;" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/10/wpid-IMAG0434.jpg" alt="image" />
 
 It&#8217;s a [synagogue](http://www.rodephshalom.org/)! And not just any synagogue, one of the only ones in the United States that retains a Byzantine-Moorish style and is the o[ldest synagogue in the Western Hemisphere](http://en.wikipedia.org/wiki/Congregation_Rodeph_Shalom_(Philadelphia,_Pennsylvania)). ALSO included:
 

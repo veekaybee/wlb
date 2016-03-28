@@ -17,7 +17,7 @@ tags:
   - taxes
   - writing
 ---
-[<img class="aligncenter size-full wp-image-6388" title="P46600219_b" src="http://blog.vickiboykis.com/wp-content/uploads/2012/01/P46600219_b1.jpg" alt="" width="456" height="528" />](http://blog.vickiboykis.com/wp-content/uploads/2012/01/P46600219_b1.jpg)
+[<img class="aligncenter size-full wp-image-6388" title="P46600219_b" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/01/P46600219_b1.jpg" alt="" width="456" height="528" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/01/P46600219_b1.jpg)
 
 &nbsp;
 
@@ -38,7 +38,7 @@ Mr. B rolls his eyes. &#8220;No one hates us. We have no enemies.&#8221; He pour
 &#8220;That&#8217;s what you think,&#8221; Vicki says, pushing a couple of folders full of mortgage information out of the way, onto the floor. &#8220;Moriarty&#8217;s spies are everywhere.  Especially when it comes to finding the two documents we need to be able to finish our returns. I bet,&#8221; she trails off and puffs on a <a href="http://blog.vickiboykis.com/2011/09/26/facebook-anxiety/" target="_blank">hookah pipe</a> lying on the floor.
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2012/01/IMAG1046.jpg"><img class="aligncenter  wp-image-6395" title="IMAG1046" src="http://blog.vickiboykis.com/wp-content/uploads/2012/01/IMAG1046.jpg" alt="" width="538" height="323" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/01/IMAG1046.jpg"><img class="aligncenter  wp-image-6395" title="IMAG1046" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/01/IMAG1046.jpg" alt="" width="538" height="323" /></a>
 </p>
 
 &#8220;I bet they realized that we were working on taxes since they saw our attic light on late at night.  They knew we were missing papers, so every day they checked our mailbox while we were out.  One day this week, the electric man was supposed to come check our meter.  Under that pretense and since we live in a relatively crime-free neighborhood where no one is suspicious of normal activity, they came to our house dressed as the electrician and-&#8221; Vicki gets up and rushes outside in her bare feet.

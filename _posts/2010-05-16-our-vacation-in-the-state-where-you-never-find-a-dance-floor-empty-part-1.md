@@ -15,7 +15,7 @@ tags:
   - vacation
 ---
 <p style="text-align: left;">
-  This is the first part in a two-ish-part series describing our vacation in California last week.  <a href="http://www.youtube.com/watch?v=kSPce6WVLiM">Suggested listening as you read</a>. <a href="http://blog.vickiboykis.com/wp-content/uploads/2010/05/DSC_0669.jpg"><img class="aligncenter size-full wp-image-2917" title="DSC_0669" src="http://blog.vickiboykis.com/wp-content/uploads/2010/05/DSC_0669.jpg" alt="" width="577" height="299" /></a>
+  This is the first part in a two-ish-part series describing our vacation in California last week.  <a href="http://www.youtube.com/watch?v=kSPce6WVLiM">Suggested listening as you read</a>. <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/05/DSC_0669.jpg"><img class="aligncenter size-full wp-image-2917" title="DSC_0669" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/05/DSC_0669.jpg" alt="" width="577" height="299" /></a>
 </p>
 
 > <p style="text-align: center;">
@@ -28,7 +28,7 @@ tags:
 >   </p>
 >   
 >   <p style="text-align: center;">
->     <a href="http://blog.vickiboykis.com/wp-content/uploads/2010/05/DSC_0029.jpg"><img class="aligncenter size-full wp-image-2918" title="DSC_0029" src="http://blog.vickiboykis.com/wp-content/uploads/2010/05/DSC_0029.jpg" alt="" width="700" height="1053" /></a>
+>     <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/05/DSC_0029.jpg"><img class="aligncenter size-full wp-image-2918" title="DSC_0029" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/05/DSC_0029.jpg" alt="" width="700" height="1053" /></a>
 >   </p>
 >   
 >   <p>
@@ -44,7 +44,7 @@ tags:
 >   </p>
 >   
 >   <p style="text-align: center;">
->     <a href="http://blog.vickiboykis.com/wp-content/uploads/2010/05/DSC_0075.jpg"><img class="aligncenter size-full wp-image-2919" title="DSC_0075" src="http://blog.vickiboykis.com/wp-content/uploads/2010/05/DSC_0075.jpg" alt="" width="632" height="420" /></a>
+>     <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/05/DSC_0075.jpg"><img class="aligncenter size-full wp-image-2919" title="DSC_0075" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/05/DSC_0075.jpg" alt="" width="632" height="420" /></a>
 >   </p>
 >   
 >   <p style="text-align: left;">
@@ -56,7 +56,7 @@ tags:
 >   </p>
 >   
 >   <p style="text-align: center;">
->     <a href="http://blog.vickiboykis.com/wp-content/uploads/2010/05/DSC_0107.jpg"><img class="aligncenter size-full wp-image-2921" title="DSC_0107" src="http://blog.vickiboykis.com/wp-content/uploads/2010/05/DSC_0107.jpg" alt="" width="600" height="902" /></a>
+>     <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/05/DSC_0107.jpg"><img class="aligncenter size-full wp-image-2921" title="DSC_0107" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/05/DSC_0107.jpg" alt="" width="600" height="902" /></a>
 >   </p>
 >   
 >   <p style="text-align: center;">
@@ -65,7 +65,7 @@ tags:
 >     </p>
 >     
 >     <p style="text-align: center;">
->       <a href="http://blog.vickiboykis.com/wp-content/uploads/2010/05/DSC_0167.jpg"><img class="aligncenter size-full wp-image-2923" title="DSC_0167" src="http://blog.vickiboykis.com/wp-content/uploads/2010/05/DSC_0167.jpg" alt="" width="541" height="360" /></a>
+>       <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/05/DSC_0167.jpg"><img class="aligncenter size-full wp-image-2923" title="DSC_0167" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/05/DSC_0167.jpg" alt="" width="541" height="360" /></a>
 >     </p>
 >     
 >     <p>
@@ -73,11 +73,11 @@ tags:
 >     </p>
 >     
 >     <p style="text-align: center;">
->       <a href="http://blog.vickiboykis.com/wp-content/uploads/2010/05/DSC_0211.jpg"><img class="aligncenter size-full wp-image-2924" title="DSC_0211" src="http://blog.vickiboykis.com/wp-content/uploads/2010/05/DSC_0211.jpg" alt="" width="541" height="360" /></a>
+>       <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/05/DSC_0211.jpg"><img class="aligncenter size-full wp-image-2924" title="DSC_0211" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/05/DSC_0211.jpg" alt="" width="541" height="360" /></a>
 >     </p>
 >     
 >     <p style="text-align: left;">
->       Then, we went to Alcatraz, because I wasn&#8217;t tired of being cold and windy yet.  Mr. B wasn&#8217;t enthused with the idea, because, according to him, &#8220;Alcatraz represented everything that was wrong with the American correctional facility system before the idea of rehabilitation arose,&#8221; but I said, screw it, I really want to go to creepy places, so we went to Alcatraz.  It was cold.  Did I mention that? <a href="http://blog.vickiboykis.com/wp-content/uploads/2010/05/DSC_0254.jpg"><img class="aligncenter size-full wp-image-2925" title="DSC_0254" src="http://blog.vickiboykis.com/wp-content/uploads/2010/05/DSC_0254.jpg" alt="" width="541" height="360" /></a>
+>       Then, we went to Alcatraz, because I wasn&#8217;t tired of being cold and windy yet.  Mr. B wasn&#8217;t enthused with the idea, because, according to him, &#8220;Alcatraz represented everything that was wrong with the American correctional facility system before the idea of rehabilitation arose,&#8221; but I said, screw it, I really want to go to creepy places, so we went to Alcatraz.  It was cold.  Did I mention that? <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/05/DSC_0254.jpg"><img class="aligncenter size-full wp-image-2925" title="DSC_0254" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/05/DSC_0254.jpg" alt="" width="541" height="360" /></a>
 >     </p>
 >     
 >     <p style="text-align: left;">
@@ -85,7 +85,7 @@ tags:
 >     </p>
 >     
 >     <p style="text-align: center;">
->       <a href="http://blog.vickiboykis.com/wp-content/uploads/2010/05/DSC_0259.jpg"><img class="aligncenter size-full wp-image-2930" title="DSC_0259" src="http://blog.vickiboykis.com/wp-content/uploads/2010/05/DSC_0259.jpg" alt="" width="902" height="600" /></a>
+>       <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/05/DSC_0259.jpg"><img class="aligncenter size-full wp-image-2930" title="DSC_0259" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/05/DSC_0259.jpg" alt="" width="902" height="600" /></a>
 >     </p>
 >     
 >     <p>
@@ -97,17 +97,17 @@ tags:
 >     </p>
 >     
 >     <p style="text-align: center;">
->       <a href="http://blog.vickiboykis.com/wp-content/uploads/2010/05/1.jpg"><img class="aligncenter size-full wp-image-2932" title="-1" src="http://blog.vickiboykis.com/wp-content/uploads/2010/05/1.jpg" alt="" width="560" height="336" /></a>
+>       <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/05/1.jpg"><img class="aligncenter size-full wp-image-2932" title="-1" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/05/1.jpg" alt="" width="560" height="336" /></a>
 >     </p>
 >     
 >     <p style="text-align: left;">
 >       <p style="text-align: left;">
 >         <p style="text-align: center;">
->           <a href="http://blog.vickiboykis.com/wp-content/uploads/2010/05/2.jpg"><img class="aligncenter size-full wp-image-2933" title="-2" src="http://blog.vickiboykis.com/wp-content/uploads/2010/05/2.jpg" alt="" width="560" height="336" /></a>
+>           <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/05/2.jpg"><img class="aligncenter size-full wp-image-2933" title="-2" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/05/2.jpg" alt="" width="560" height="336" /></a>
 >         </p>
 >         
 >         <p>
->           <a href="http://blog.vickiboykis.com/wp-content/uploads/2010/05/4.jpg"><img class="aligncenter size-full wp-image-2935" title="-4" src="http://blog.vickiboykis.com/wp-content/uploads/2010/05/4.jpg" alt="" width="226" height="136" /></a>
+>           <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/05/4.jpg"><img class="aligncenter size-full wp-image-2935" title="-4" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/05/4.jpg" alt="" width="226" height="136" /></a>
 >         </p>
 >         
 >         <p style="text-align: left;">

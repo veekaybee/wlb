@@ -22,7 +22,7 @@ tags:
   - Russian
 ---
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2009/09/DSC02339.JPG"><img class="aligncenter size-full wp-image-1255" title="DSC02339" src="http://blog.vickiboykis.com/wp-content/uploads/2009/09/DSC02339.JPG" alt="DSC02339" width="465" height="347" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/09/DSC02339.JPG"><img class="aligncenter size-full wp-image-1255" title="DSC02339" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/09/DSC02339.JPG" alt="DSC02339" width="465" height="347" /></a>
 </p>
 
 So, the other week, I was in Jerusalem to bargain with God.  It&#8217;s something I do on a regular basis when I&#8217;m in Jerusalem.  Usually, at [the Kotel](http://english.thekotel.org/).  However, I have to be careful when I bargain with him there, because God is a jerk and gives me what I ask for.  The first time I went, I&#8217;d just met Mr. B casually, and had gone through a horrible break-up, and decided that he would make a good boyfriend.
@@ -30,7 +30,7 @@ So, the other week, I was in Jerusalem to bargain with God.  It&#8217;s somethi
 &#8220;If you write a note to the wall, it goes straight to God in the form of a prayer,&#8221; the others in my group had told me on my first group trip to Israel.  I had a panic attack. What language was I supposed to write it in?  Was God&#8217;s English as good as his Hebrew?  At that time, I didn&#8217;t know Hebrew yet.  Would it be better to write it in Russian? But what if Russian God was in a different place than English God? What if my note went to the wrong one, like missing luggage and Russian God killed me with post- Chernobyl nuclear waste and English God killed me with bad dental care?  I settled down, and wrote the note, asking for health for my family, and at the end, asked him to make Mr. B my boyfriend. A month later,  we started going out.
 
 The next time I was going to Israel, I wrote another note, praying that Mr. B and I would get married because in reality I was really hoping that he would become a [famous physicist](http://blog.vickiboykis.com/2009/06/17/life-with-landau-hint-lots-of-extramarital-sex/) and I could just stop working and watch  The Real Housewives of Atlanta all day.  [Unfortunately](http://blog.vickiboykis.com/2009/02/18/shlom-bayit-%D7%A9%D7%9C%D7%95%D7%9D-%D7%91%D7%99%D7%AA-maintaining-sanity-and-comparative-advantage-in-the-household/), that prayer [was answered](http://blog.vickiboykis.com/2009/01/27/changing-my-last-name-or-how-i-totally-screwed-over-feminism/) too, and now, as Mr. B likes to remind me gleefully as I make him [<p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2009/09/DSC02339.JPG"><img class="aligncenter size-full wp-image-1255" title="DSC02339" src="http://blog.vickiboykis.com/wp-content/uploads/2009/09/DSC02339.JPG" alt="DSC02339" width="465" height="347" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/09/DSC02339.JPG"><img class="aligncenter size-full wp-image-1255" title="DSC02339" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/09/DSC02339.JPG" alt="DSC02339" width="465" height="347" /></a>
 </p>
 
 So, the other week, I was in Jerusalem to bargain with God.  It&#8217;s something I do on a regular basis when I&#8217;m in Jerusalem.  Usually, at [the Kotel](http://english.thekotel.org/).  However, I have to be careful when I bargain with him there, because God is a jerk and gives me what I ask for.  The first time I went, I&#8217;d just met Mr. B casually, and had gone through a horrible break-up, and decided that he would make a good boyfriend.
@@ -41,7 +41,7 @@ The next time I was going to Israel, I wrote another note, praying that Mr. B an
 
 This time, I went to the Kotel and did my thing. Which usually involves squishing into the womens&#8217; section (which is 3X smaller than the men&#8217;s because apparently God is also a chauvinist AND a sadist) :
 
-[<img class="aligncenter size-full wp-image-1254" title="Picture 7" src="http://blog.vickiboykis.com/wp-content/uploads/2009/09/Picture-7.png" alt="Picture 7" width="490" height="325" />](http://blog.vickiboykis.com/wp-content/uploads/2009/09/Picture-7.png)
+[<img class="aligncenter size-full wp-image-1254" title="Picture 7" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/09/Picture-7.png" alt="Picture 7" width="490" height="325" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/09/Picture-7.png)
 
 and putting the note in before being overcome with something inexplicably bigger than me and connecting me to every Jew in the world that&#8217;s ever lived and that will ever live, including both Billy Crystal AND Zac Efron (yes, yes he is).   It overpowers me every time.  And then I cry uncontrollably, in an emotional release not unlike the one I felt when I bought my wedding dress for 50% off retail price.  It&#8217;s very trippy.
 
@@ -64,7 +64,7 @@ Despite the fact that I consider myself 100% Jewish, I have a very deep connecti
 Anyway, every time I enter an Orthodox Church, I feel a very deep connection to my Russianness, and even to the religion. There is something beautiful in the icons, and in the Slavonic that calms me in the same way that Jewish rituals do, but [doesn&#8217;t call me every five minutes asking me if I&#8217;m wearing a sweater](http://www.youtube.com/watch?v=uhilbbeUc0g).
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2009/09/russianicon.jpg"><img class="aligncenter size-full wp-image-1261" title="russianicon" src="http://blog.vickiboykis.com/wp-content/uploads/2009/09/russianicon.jpg" alt="russianicon" width="263" height="291" /></a> <em> Hey, Moishe, did you eat the gefilte fish I left for you on the counter today? </em>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/09/russianicon.jpg"><img class="aligncenter size-full wp-image-1261" title="russianicon" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/09/russianicon.jpg" alt="russianicon" width="263" height="291" /></a> <em> Hey, Moishe, did you eat the gefilte fish I left for you on the counter today? </em>
 </p>
 
 We went in to the church.  I covered my head.  We sat quietly in the church.  I was overcome again, this time by something very Russian, very ancient, and very monastic. Something very, very unJewish.   I made sure Mr. B wasn&#8217;t looking and crossed myself, a skill I had learned from my (now passed-away) Russian grandma at age four, and one that had made my mom turn pale white when I demonstrated it to her. I was treading on thin ice.

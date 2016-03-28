@@ -12,7 +12,7 @@ categories:
 tags:
   - Friday
 ---
-[<img class="aligncenter size-full wp-image-1708" title="Pen of Doom" src="http://blog.vickiboykis.com/wp-content/uploads/2009/11/Pen-of-Doom.jpg" alt="Pen of Doom" width="565" height="424" />](http://blog.vickiboykis.com/wp-content/uploads/2009/11/Pen-of-Doom.jpg)
+[<img class="aligncenter size-full wp-image-1708" title="Pen of Doom" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/11/Pen-of-Doom.jpg" alt="Pen of Doom" width="565" height="424" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/11/Pen-of-Doom.jpg)
 
 I am off for the day today from work! I am hoping to have a productive day by catching up on writing the novel.  I have about 15k words to go to finish, so this particular poster above represents how I&#8217;m feeling right now. (in case you can&#8217;t tell, I&#8217;ve been playing around with Photoshop.)
 
@@ -30,7 +30,7 @@ Here are the links for today:
 
 [Russian policemen turn to YouTube](http://www.google.com/hostednews/ap/article/ALeqM5jCoX9otDlw2Eo9kL-ZtKRPGR6ZwAD9BURISO0) for help
   
-[[<img class="aligncenter size-full wp-image-1708" title="Pen of Doom" src="http://blog.vickiboykis.com/wp-content/uploads/2009/11/Pen-of-Doom.jpg" alt="Pen of Doom" width="565" height="424" />](http://blog.vickiboykis.com/wp-content/uploads/2009/11/Pen-of-Doom.jpg)
+[[<img class="aligncenter size-full wp-image-1708" title="Pen of Doom" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/11/Pen-of-Doom.jpg" alt="Pen of Doom" width="565" height="424" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/11/Pen-of-Doom.jpg)
 
 I am off for the day today from work! I am hoping to have a productive day by catching up on writing the novel.  I have about 15k words to go to finish, so this particular poster above represents how I&#8217;m feeling right now. (in case you can&#8217;t tell, I&#8217;ve been playing around with Photoshop.)
 

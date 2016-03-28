@@ -15,7 +15,7 @@ tags:
 ---
 I need to make a confession.
 
-[<img class="aligncenter size-full wp-image-7404" title="bf889360b04414a87c08ff9c6141d985423a6e33" src="http://blog.vickiboykis.com/wp-content/uploads/2012/08/bf889360b04414a87c08ff9c6141d985423a6e331.jpeg" alt="" width="472" height="450" />](http://blog.vickiboykis.com/wp-content/uploads/2012/08/bf889360b04414a87c08ff9c6141d985423a6e331.jpeg)
+[<img class="aligncenter size-full wp-image-7404" title="bf889360b04414a87c08ff9c6141d985423a6e33" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/08/bf889360b04414a87c08ff9c6141d985423a6e331.jpeg" alt="" width="472" height="450" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/08/bf889360b04414a87c08ff9c6141d985423a6e331.jpeg)
 
 I judge books by their covers.
 
@@ -35,62 +35,62 @@ Why can&#8217;t I be published by them? Why can&#8217;t I be published at all an
 
 These are all book covers that I love lately.
 
-[<img class="aligncenter size-full wp-image-7387" title="153176411" src="http://blog.vickiboykis.com/wp-content/uploads/2012/08/153176411.jpeg" alt="" width="300" height="457" />](http://blog.vickiboykis.com/wp-content/uploads/2012/08/153176411.jpeg)
+[<img class="aligncenter size-full wp-image-7387" title="153176411" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/08/153176411.jpeg" alt="" width="300" height="457" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/08/153176411.jpeg)
 
-[<img class="aligncenter size-full wp-image-7388" title="179643571" src="http://blog.vickiboykis.com/wp-content/uploads/2012/08/179643571.jpeg" alt="" width="300" height="464" />](http://blog.vickiboykis.com/wp-content/uploads/2012/08/179643571.jpeg)
+[<img class="aligncenter size-full wp-image-7388" title="179643571" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/08/179643571.jpeg" alt="" width="300" height="464" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/08/179643571.jpeg)
 
-[<img class="aligncenter size-full wp-image-7389" title="seating-arrangements-full_320" src="http://blog.vickiboykis.com/wp-content/uploads/2012/08/seating-arrangements-full_320.jpeg" alt="" width="320" height="484" />](http://blog.vickiboykis.com/wp-content/uploads/2012/08/seating-arrangements-full_320.jpeg)
+[<img class="aligncenter size-full wp-image-7389" title="seating-arrangements-full_320" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/08/seating-arrangements-full_320.jpeg" alt="" width="320" height="484" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/08/seating-arrangements-full_320.jpeg)
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2012/08/paris-i.jpeg"><img class="aligncenter  wp-image-7390" title="paris-i" src="http://blog.vickiboykis.com/wp-content/uploads/2012/08/paris-i.jpeg" alt="" width="322" height="486" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/08/paris-i.jpeg"><img class="aligncenter  wp-image-7390" title="paris-i" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/08/paris-i.jpeg" alt="" width="322" height="486" /></a>
 </p>
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2012/08/BeautifulRuins_small-330-exp.jpeg"><img class="aligncenter size-full wp-image-7391" title="BeautifulRuins_small-330-exp" src="http://blog.vickiboykis.com/wp-content/uploads/2012/08/BeautifulRuins_small-330-exp.jpeg" alt="" width="330" height="503" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/08/BeautifulRuins_small-330-exp.jpeg"><img class="aligncenter size-full wp-image-7391" title="BeautifulRuins_small-330-exp" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/08/BeautifulRuins_small-330-exp.jpeg" alt="" width="330" height="503" /></a>
 </p>
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2012/08/5-goon-squad.jpeg"><img class="aligncenter  wp-image-7392" title="5-goon-squad" src="http://blog.vickiboykis.com/wp-content/uploads/2012/08/5-goon-squad.jpeg" alt="" width="320" height="477" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/08/5-goon-squad.jpeg"><img class="aligncenter  wp-image-7392" title="5-goon-squad" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/08/5-goon-squad.jpeg" alt="" width="320" height="477" /></a>
 </p>
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2012/08/this.jpeg"><img class="aligncenter size-full wp-image-7393" title="this" src="http://blog.vickiboykis.com/wp-content/uploads/2012/08/this.jpeg" alt="" width="316" height="474" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/08/this.jpeg"><img class="aligncenter size-full wp-image-7393" title="this" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/08/this.jpeg" alt="" width="316" height="474" /></a>
 </p>
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2012/08/12982393.jpeg"><img class="aligncenter size-full wp-image-7394" title="12982393" src="http://blog.vickiboykis.com/wp-content/uploads/2012/08/12982393.jpeg" alt="" width="300" height="454" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/08/12982393.jpeg"><img class="aligncenter size-full wp-image-7394" title="12982393" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/08/12982393.jpeg" alt="" width="300" height="454" /></a>
 </p>
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2012/08/Gold_11_14.jpeg"><img class="aligncenter  wp-image-7395" title="Gold_11_14" src="http://blog.vickiboykis.com/wp-content/uploads/2012/08/Gold_11_14.jpeg" alt="" width="335" height="512" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/08/Gold_11_14.jpeg"><img class="aligncenter  wp-image-7395" title="Gold_11_14" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/08/Gold_11_14.jpeg" alt="" width="335" height="512" /></a>
 </p>
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2012/08/telegraph-avenue.jpeg"><img class="aligncenter size-full wp-image-7399" title="telegraph-avenue" src="http://blog.vickiboykis.com/wp-content/uploads/2012/08/telegraph-avenue.jpeg" alt="" width="350" height="531" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/08/telegraph-avenue.jpeg"><img class="aligncenter size-full wp-image-7399" title="telegraph-avenue" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/08/telegraph-avenue.jpeg" alt="" width="350" height="531" /></a>
 </p>
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2012/08/12040405.jpeg"><img class="aligncenter size-full wp-image-7405" title="12040405" src="http://blog.vickiboykis.com/wp-content/uploads/2012/08/12040405.jpeg" alt="" width="316" height="475" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/08/12040405.jpeg"><img class="aligncenter size-full wp-image-7405" title="12040405" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/08/12040405.jpeg" alt="" width="316" height="475" /></a>
 </p>
 
 <p style="text-align: left;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2012/08/TheEmperorofLies.jpeg"><img class="aligncenter size-full wp-image-7407" title="TheEmperorofLies" src="http://blog.vickiboykis.com/wp-content/uploads/2012/08/TheEmperorofLies.jpeg" alt="" width="336" height="500" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/08/TheEmperorofLies.jpeg"><img class="aligncenter size-full wp-image-7407" title="TheEmperorofLies" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/08/TheEmperorofLies.jpeg" alt="" width="336" height="500" /></a>
 </p>
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2012/08/bookbox1-570.jpeg"><img class="aligncenter  wp-image-7408" title="bookbox1-570" src="http://blog.vickiboykis.com/wp-content/uploads/2012/08/bookbox1-570.jpeg" alt="" width="359" height="543" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/08/bookbox1-570.jpeg"><img class="aligncenter  wp-image-7408" title="bookbox1-570" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/08/bookbox1-570.jpeg" alt="" width="359" height="543" /></a>
 </p>
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2012/08/tumblr_ltboy5Tgo61qjhzvpo1_500.jpeg"><img class="aligncenter  wp-image-7409" title="tumblr_ltboy5Tgo61qjhzvpo1_500" src="http://blog.vickiboykis.com/wp-content/uploads/2012/08/tumblr_ltboy5Tgo61qjhzvpo1_500.jpeg" alt="" width="324" height="490" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/08/tumblr_ltboy5Tgo61qjhzvpo1_500.jpeg"><img class="aligncenter  wp-image-7409" title="tumblr_ltboy5Tgo61qjhzvpo1_500" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/08/tumblr_ltboy5Tgo61qjhzvpo1_500.jpeg" alt="" width="324" height="490" /></a>
 </p>
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2012/08/9781250003164.jpeg"><img class="aligncenter  wp-image-7411" title="9781250003164" src="http://blog.vickiboykis.com/wp-content/uploads/2012/08/9781250003164.jpeg" alt="" width="354" height="560" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/08/9781250003164.jpeg"><img class="aligncenter  wp-image-7411" title="9781250003164" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/08/9781250003164.jpeg" alt="" width="354" height="560" /></a>
 </p>
 
 <p style="text-align: center;">
-   <a href="http://blog.vickiboykis.com/wp-content/uploads/2012/08/12611253.jpeg"><img class="aligncenter size-full wp-image-7412" title="12611253" src="http://blog.vickiboykis.com/wp-content/uploads/2012/08/12611253.jpeg" alt="" width="311" height="475" /></a>
+   <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/08/12611253.jpeg"><img class="aligncenter size-full wp-image-7412" title="12611253" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/08/12611253.jpeg" alt="" width="311" height="475" /></a>
 </p>
 
 <p style="text-align: left;">

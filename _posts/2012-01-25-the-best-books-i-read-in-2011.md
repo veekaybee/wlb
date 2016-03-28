@@ -22,7 +22,7 @@ I realize this is post is little late, but I was otherwise <del>lazy</del> preoc
 
 Since <a href="http://blog.vickiboykis.com/2011/08/02/the-great-news-im-getting-an-ipad-the-terrible-news-im-getting-an-ipad/" target="_blank">Mr. B gave me an iPad</a> for my birthday and <a href="http://blog.vickiboykis.com/2011/04/13/whines-about-commutes-and-the-radio-part-two/" target="_blank">I started commuting by train</a>, I have been going through books like crazy. I think I must have read around 30 books last year. The hard part is finding really good books. Those are the books you don&#8217;t want to put down even though it&#8217;s 11:49 and you have work tomorrow.   Fortunately, I&#8217;ve sifted through the piles and found some real gems this year.
 
-[<img class="size-medium wp-image-6364 alignleft" title="Cover_TheMagicians" src="http://blog.vickiboykis.com/wp-content/uploads/2012/01/Cover_TheMagicians-195x300.jpg" alt="" width="195" height="300" /><img class="size-medium wp-image-6365 alignleft" title="the-magician-king-by-lev-grossman" src="http://blog.vickiboykis.com/wp-content/uploads/2012/01/the-magician-king-by-lev-grossman-201x300.jpg" alt="" width="201" height="300" />](http://blog.vickiboykis.com/wp-content/uploads/2012/01/Cover_TheMagicians.jpg)
+[<img class="size-medium wp-image-6364 alignleft" title="Cover_TheMagicians" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/01/Cover_TheMagicians-195x300.jpg" alt="" width="195" height="300" /><img class="size-medium wp-image-6365 alignleft" title="the-magician-king-by-lev-grossman" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/01/the-magician-king-by-lev-grossman-201x300.jpg" alt="" width="201" height="300" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/01/Cover_TheMagicians.jpg)
 
 >  **Choice quote:**
 > 
@@ -30,7 +30,7 @@ Since <a href="http://blog.vickiboykis.com/2011/08/02/the-great-news-im-getting-
 
 I love fantasy books, but they have to be smart, too.  So right around the time that **The Magician King** was coming out, I decided to pick up its prequel **The Magicians** .  I don&#8217;t know why I didn&#8217;t read it before.  I just wasn&#8217;t feeling it, I think because the premise (boy Quentin is different from everyone else, attends a school of magicians and has adventures with his friends from the school) sounded too much like Harry Potter and as much as I love Harry Potter, I hate knockoffs.  I was wrong.  These  two books have quickly made their way into my top ten favorite books of all time.  They not only take you into another universe, they make you understand our world better. They&#8217;re both creepily dark and ridiculously hilarious, and **Lev Grossman** is incredibly talented; he leads you to where he wants you to go.  You feel like you&#8217;re right along with Quentin and the others on their adventures, and they perform magic in a way that seems actually possible.  Once you&#8217;re done with this book, you&#8217;ll be so sad that we really don&#8217;t have magic in this world.
 
-[<img class="size-medium wp-image-6366 alignleft" title="NightCircus" src="http://blog.vickiboykis.com/wp-content/uploads/2012/01/NightCircus-197x300.jpg" alt="" width="197" height="300" />](http://blog.vickiboykis.com/wp-content/uploads/2012/01/NightCircus.jpg)
+[<img class="size-medium wp-image-6366 alignleft" title="NightCircus" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/01/NightCircus-197x300.jpg" alt="" width="197" height="300" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/01/NightCircus.jpg)
 
 >  **Choice quote:**
 > 
@@ -44,7 +44,7 @@ After I was finished with that pair of books, I suffered from withdrawal pretty 
 
 &nbsp;
   
-[<img class="size-medium wp-image-6367 alignleft" title="cover-good-omens" src="http://blog.vickiboykis.com/wp-content/uploads/2012/01/cover-good-omens-212x300.jpg" alt="" width="212" height="300" />](http://blog.vickiboykis.com/wp-content/uploads/2012/01/cover-good-omens.jpg)[<img class="size-medium wp-image-6368 alignleft" title="neverwhere" src="http://blog.vickiboykis.com/wp-content/uploads/2012/01/neverwhere-183x300.jpg" alt="" width="183" height="300" />](http://blog.vickiboykis.com/wp-content/uploads/2012/01/neverwhere.jpg)
+[<img class="size-medium wp-image-6367 alignleft" title="cover-good-omens" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/01/cover-good-omens-212x300.jpg" alt="" width="212" height="300" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/01/cover-good-omens.jpg)[<img class="size-medium wp-image-6368 alignleft" title="neverwhere" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/01/neverwhere-183x300.jpg" alt="" width="183" height="300" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/01/neverwhere.jpg)
 
 > **Choice quote:**
 > 
@@ -52,7 +52,7 @@ After I was finished with that pair of books, I suffered from withdrawal pretty 
 
 From schools for magic and circuses that vanish into thin air,  it&#8217;s only a short step to heaven and hell, and I am so, so glad I&#8217;ve finally gotten into **Neil Gaiman**, because he is just as amazing as everyone says he is, especially when he&#8217;s writing with **Terry Pratchett** in **Good Omens.** This book is told from the point of view of a Legionaire of Hell, the suitably British Crowley, and an Angel, Azirophale. Long-time enemies, they&#8217;re now more or less friends and have the annoying burden of saving the world from Armageddon. But first, they have to get past the traffic on the <a href="http://en.wikipedia.org/wiki/M25_motorway" target="_blank">London orbital</a>.    I read this right before we went to England and it is just such a perfect description of the British disposition and understated humor that I could not recommend it more highly.  Also, Crowley is hot. One of my other Gaiman favorites is **Neverwhere**, in which he creates a whole new layer of London out of thin air.  I believe it was this book that invented the steampunk genre.
 
-[<img class="size-medium wp-image-6369 alignleft" title="karenrussellStLucysHomeforGirls" src="http://blog.vickiboykis.com/wp-content/uploads/2012/01/karenrussellStLucysHomeforGirls-201x300.jpg" alt="" width="201" height="300" />](http://blog.vickiboykis.com/wp-content/uploads/2012/01/karenrussellStLucysHomeforGirls.jpg)
+[<img class="size-medium wp-image-6369 alignleft" title="karenrussellStLucysHomeforGirls" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/01/karenrussellStLucysHomeforGirls-201x300.jpg" alt="" width="201" height="300" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/01/karenrussellStLucysHomeforGirls.jpg)
 
 > **Choice Quote: **
 > 
@@ -68,7 +68,7 @@ From there, it was a straight shot into magical realism with **Karen Russell&#82
 
 &nbsp;
 
-[<img class="size-medium wp-image-6370 alignleft" title="A-Confederacy-of-Dunces-Toole-John-Kennedy-9780802130204" src="http://blog.vickiboykis.com/wp-content/uploads/2012/01/A-Confederacy-of-Dunces-Toole-John-Kennedy-9780802130204-189x300.jpg" alt="" width="189" height="300" />](http://blog.vickiboykis.com/wp-content/uploads/2012/01/A-Confederacy-of-Dunces-Toole-John-Kennedy-9780802130204.jpg)
+[<img class="size-medium wp-image-6370 alignleft" title="A-Confederacy-of-Dunces-Toole-John-Kennedy-9780802130204" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/01/A-Confederacy-of-Dunces-Toole-John-Kennedy-9780802130204-189x300.jpg" alt="" width="189" height="300" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/01/A-Confederacy-of-Dunces-Toole-John-Kennedy-9780802130204.jpg)
 
 > **Choice quote: **
 > 
@@ -84,7 +84,7 @@ And, grudgingly, after that, I moved on to literary fiction. But what I didn&#82
 
 &nbsp;
 
-[<img class="size-medium wp-image-6371 alignleft" title="The-Art-of-Fielding--A-Novel" src="http://blog.vickiboykis.com/wp-content/uploads/2012/01/The-Art-of-Fielding-A-Novel-194x300.jpg" alt="" width="194" height="300" />](http://blog.vickiboykis.com/wp-content/uploads/2012/01/The-Art-of-Fielding-A-Novel.jpg)
+[<img class="size-medium wp-image-6371 alignleft" title="The-Art-of-Fielding--A-Novel" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/01/The-Art-of-Fielding-A-Novel-194x300.jpg" alt="" width="194" height="300" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/01/The-Art-of-Fielding-A-Novel.jpg)
 
 > **Choice Quote: **
 > 
@@ -100,7 +100,7 @@ Speaking of TGAN,** Chad Harbach&#8217;s The Art of Fielding** is another obvio
 
 &nbsp;
 
-[<img class="size-medium wp-image-6373 alignleft" title="The-Lady-and-the-Unicorn-275155" src="http://blog.vickiboykis.com/wp-content/uploads/2012/01/The-Lady-and-the-Unicorn-275155-214x300.jpg" alt="" width="214" height="300" />](http://blog.vickiboykis.com/wp-content/uploads/2012/01/The-Lady-and-the-Unicorn-275155.jpg)
+[<img class="size-medium wp-image-6373 alignleft" title="The-Lady-and-the-Unicorn-275155" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/01/The-Lady-and-the-Unicorn-275155-214x300.jpg" alt="" width="214" height="300" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/01/The-Lady-and-the-Unicorn-275155.jpg)
 
 > **Choice Quote:**
 > 
@@ -114,7 +114,7 @@ Next, we have **The Lady and the Unicorn**, by an author I&#8217;ve enjoyed befo
 
 &nbsp;
 
-[<img class="size-medium wp-image-6374 alignleft" title="ojerusalem" src="http://blog.vickiboykis.com/wp-content/uploads/2012/01/ojerusalem-195x300.jpg" alt="" width="195" height="300" />](http://blog.vickiboykis.com/wp-content/uploads/2012/01/ojerusalem.jpg)We also have one non-fiction book: **O Jerusalem!**  Completely 100% awesome history book that is, really, as non-biased as it possibly can be, an account of Jerusalem in the time leading up to Israeli statehood and the battle for the city in 1948.  I&#8217;d learned a lot about Israeli early history before in books and on tours in the city, but this book is so well-researched and with such a good tone that it makes you feel like you&#8217;re reading a novel instead of a history book.  There are anecdotes and pictures of everyday life, an examination of the Arabs&#8217; and the Jews&#8217; motivations, and bits of songs from the time. The way Collins and Lapierre describe the part when Israeli paratroopers decided to storm the old city on 2 hours of sleep, using diet pills to keep themselves awake, as well as descriptions of how the city was kept fed during the blockade, really make you appreciate what people will do for a cause.
+[<img class="size-medium wp-image-6374 alignleft" title="ojerusalem" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/01/ojerusalem-195x300.jpg" alt="" width="195" height="300" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/01/ojerusalem.jpg)We also have one non-fiction book: **O Jerusalem!**  Completely 100% awesome history book that is, really, as non-biased as it possibly can be, an account of Jerusalem in the time leading up to Israeli statehood and the battle for the city in 1948.  I&#8217;d learned a lot about Israeli early history before in books and on tours in the city, but this book is so well-researched and with such a good tone that it makes you feel like you&#8217;re reading a novel instead of a history book.  There are anecdotes and pictures of everyday life, an examination of the Arabs&#8217; and the Jews&#8217; motivations, and bits of songs from the time. The way Collins and Lapierre describe the part when Israeli paratroopers decided to storm the old city on 2 hours of sleep, using diet pills to keep themselves awake, as well as descriptions of how the city was kept fed during the blockade, really make you appreciate what people will do for a cause.
 
 &nbsp;
 

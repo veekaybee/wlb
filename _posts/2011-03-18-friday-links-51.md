@@ -17,13 +17,13 @@ It&#8217;s Friday once again, and this weekend is our home inspection.  I playe
 Also, I had this much miso soup yesterday:
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2011/03/wpid-IMAG0692.jpg"><img class="aligncenter size-full wp-image-4586" title="wpid-IMAG0692.jpg" src="http://blog.vickiboykis.com/wp-content/uploads/2011/03/wpid-IMAG0692.jpg" alt="" width="245" height="408" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/03/wpid-IMAG0692.jpg"><img class="aligncenter size-full wp-image-4586" title="wpid-IMAG0692.jpg" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/03/wpid-IMAG0692.jpg" alt="" width="245" height="408" /></a>
 </p>
 
 Also, I saw this license plate:
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2011/03/wpid-IMAG0685.jpg"><img class="aligncenter size-full wp-image-4589" title="wpid-IMAG0685.jpg" src="http://blog.vickiboykis.com/wp-content/uploads/2011/03/wpid-IMAG0685.jpg" alt="" width="350" height="583" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/03/wpid-IMAG0685.jpg"><img class="aligncenter size-full wp-image-4589" title="wpid-IMAG0685.jpg" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/03/wpid-IMAG0685.jpg" alt="" width="350" height="583" /></a>
 </p>
 
 It&#8217;s been a good week.

@@ -11,7 +11,7 @@ categories:
 ---
 Happy Jew Year New Year!
 
-[<img class="aligncenter size-full wp-image-5772" title="mark-zuckerberg-facebook-rosh-hashanah-ecards-someecards" src="http://blog.vickiboykis.com/wp-content/uploads/2011/09/mark-zuckerberg-facebook-rosh-hashanah-ecards-someecards.png" alt="" width="425" height="237" />](http://blog.vickiboykis.com/wp-content/uploads/2011/09/mark-zuckerberg-facebook-rosh-hashanah-ecards-someecards.png)
+[<img class="aligncenter size-full wp-image-5772" title="mark-zuckerberg-facebook-rosh-hashanah-ecards-someecards" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/09/mark-zuckerberg-facebook-rosh-hashanah-ecards-someecards.png" alt="" width="425" height="237" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/09/mark-zuckerberg-facebook-rosh-hashanah-ecards-someecards.png)
 
 Links:
 

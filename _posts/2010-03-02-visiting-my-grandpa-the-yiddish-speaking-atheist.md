@@ -18,7 +18,7 @@ This weekend, as we often do, Mr. B and I went to see the fam.  The fam is enor
 In the meanwhile, here&#8217;s a gratuitous photo of me with my grandpa, one of the people we visited:
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2010/03/DSC01210.jpg"><img class="aligncenter size-full wp-image-2431" title="DSC01210" src="http://blog.vickiboykis.com/wp-content/uploads/2010/03/DSC01210.jpg" alt="" width="737" height="553" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/03/DSC01210.jpg"><img class="aligncenter size-full wp-image-2431" title="DSC01210" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/03/DSC01210.jpg" alt="" width="737" height="553" /></a>
 </p>
 
 One of the people we saw was my grandpa, who is awesome.   He is old, but he never complains about it like many old people tend to do.  He, like Mr. B&#8217;s grandparents, has outlived WWII, [evacuation in Uzbekistan](http://blog.vickiboykis.com/2009/05/08/may-9-the-day-we-pwned-the-germans/), going to work at age 12 to support his family, Stalin, Krushchev, Jewish oppression in the Soviet Union, the death of my grandmother, and still somehow has an enormous and healthy sense of humor.  He is also the only other blonde in my entire family (both natural and in-laws), which makes me feel like I wasn&#8217;t adopted.

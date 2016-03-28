@@ -24,7 +24,7 @@ Why do upper-middle-class yupsters want to be Soviet?
 <a href="http://blog.vickiboykis.com/2010/03/11/environmentalism-has-its-roots-in-millions-of-violently-angry-soviet-women/" target="_blank">I reported on this trend earlier,</a> but I see it is now getting out of control. Because of this:
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2011/12/IMAG1035.jpg"><img class="aligncenter size-full wp-image-6041" title="IMAG1035" src="http://blog.vickiboykis.com/wp-content/uploads/2011/12/IMAG1035.jpg" alt="" width="323" height="538" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/12/IMAG1035.jpg"><img class="aligncenter size-full wp-image-6041" title="IMAG1035" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/12/IMAG1035.jpg" alt="" width="323" height="538" /></a>
 </p>
 
 <p style="text-align: left;">

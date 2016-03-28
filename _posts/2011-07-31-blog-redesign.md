@@ -35,37 +35,37 @@ I&#8217;m going to have another, non redesign-related post up today, but just fo
 This was my original logo and placeholder.  I love using the font Creampuff for all of my logos so that it&#8217;s easily-recognizable as my &#8220;brand&#8221;- whimsical and humorous.
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2011/07/Logo1.jpg"><img class="aligncenter size-full wp-image-5385" title="Logo1" src="http://blog.vickiboykis.com/wp-content/uploads/2011/07/Logo1.jpg" alt="" width="200" height="100" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/07/Logo1.jpg"><img class="aligncenter size-full wp-image-5385" title="Logo1" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/07/Logo1.jpg" alt="" width="200" height="100" /></a>
 </p>
 
 Second iteration. I knew I wanted something other than &#8220;Russian, Jewish, named after a strawberry,&#8221; because I think the tagline&#8217;s too limiting in what I discuss on here, which is practically everything, but within the framework of Russian and Jewish and strawberry-ness. But still playful. Cause you know how I do.  So I decided on the tagline below. I wanted to also keep the Creampuff logo with my name.
   
-[<img class="aligncenter size-full wp-image-5386" title="LogoNew" src="http://blog.vickiboykis.com/wp-content/uploads/2011/07/LogoNew.png" alt="" width="665" height="70" />](http://blog.vickiboykis.com/wp-content/uploads/2011/07/LogoNew.png)
+[<img class="aligncenter size-full wp-image-5386" title="LogoNew" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/07/LogoNew.png" alt="" width="665" height="70" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/07/LogoNew.png)
 
 I decided, after that, that I wanted to go in a more comic-y  direction, since I often do a lot of comics on this blog. So I started with this:
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2011/07/LOGOCOMIC.jpg"><img class="aligncenter size-full wp-image-5389" title="LOGOCOMIC" src="http://blog.vickiboykis.com/wp-content/uploads/2011/07/LOGOCOMIC.jpg" alt="" width="669" height="210" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/07/LOGOCOMIC.jpg"><img class="aligncenter size-full wp-image-5389" title="LOGOCOMIC" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/07/LOGOCOMIC.jpg" alt="" width="669" height="210" /></a>
 </p>
 
 But then I felt like it was too busy, so I changed it to the following, so the background could bleed through:
 
 <p style="text-align: left;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2011/07/LOGOCOMIC4.png"><img class="aligncenter size-full wp-image-5390" title="LOGOCOMIC4" src="http://blog.vickiboykis.com/wp-content/uploads/2011/07/LOGOCOMIC4.png" alt="" width="669" height="175" /></a>But then that was too plain again, also the photo was a little TOO cynical, even though Mr. B said &#8220;You look like this 90% of the time&#8221;,  so I started moving it around and came up with..
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/07/LOGOCOMIC4.png"><img class="aligncenter size-full wp-image-5390" title="LOGOCOMIC4" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/07/LOGOCOMIC4.png" alt="" width="669" height="175" /></a>But then that was too plain again, also the photo was a little TOO cynical, even though Mr. B said &#8220;You look like this 90% of the time&#8221;,  so I started moving it around and came up with..
 </p>
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2011/07/LOGOCOMIC9.png"><img class="aligncenter size-full wp-image-5391" title="LOGOCOMIC9" src="http://blog.vickiboykis.com/wp-content/uploads/2011/07/LOGOCOMIC9.png" alt="" width="669" height="210" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/07/LOGOCOMIC9.png"><img class="aligncenter size-full wp-image-5391" title="LOGOCOMIC9" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/07/LOGOCOMIC9.png" alt="" width="669" height="210" /></a>
 </p>
 
 Which eventually became&#8230;
 
 <p style="text-align: left;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2011/07/LOGOCOMIC1141.png"><img class="aligncenter size-full wp-image-5392" title="LOGOCOMIC114" src="http://blog.vickiboykis.com/wp-content/uploads/2011/07/LOGOCOMIC1141.png" alt="" width="669" height="175" /></a>and finally&#8230;.
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/07/LOGOCOMIC1141.png"><img class="aligncenter size-full wp-image-5392" title="LOGOCOMIC114" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/07/LOGOCOMIC1141.png" alt="" width="669" height="175" /></a>and finally&#8230;.
 </p>
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2011/07/LOGOCOMIC1181.png"><img class="aligncenter size-full wp-image-5393" title="LOGOCOMIC118" src="http://blog.vickiboykis.com/wp-content/uploads/2011/07/LOGOCOMIC1181.png" alt="" width="574" height="150" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/07/LOGOCOMIC1181.png"><img class="aligncenter size-full wp-image-5393" title="LOGOCOMIC118" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/07/LOGOCOMIC1181.png" alt="" width="574" height="150" /></a>
 </p>
 
 _P.S. A big thank you to, first and foremost, Mr. B, for helping me on the backend (that&#8217;s what she DIDN&#8217;T say) with Apache, DNS, and other issues that I am too stupid for on my own right now. To Jamie for inspiring me to make my site look pretty <a href="http://www.shatterboxx.com/" target="_blank">as the ones she designs</a> although she totally doesn&#8217;t know it, to Andrew for lots of helpful tips via Twitter and <a href="http://andrewnorcross.com/" target="_blank">also being a stellar designer</a> I look up to, and to Matt Mullenweg for having <a href="http://ma.tt/" target="_blank">a very cool blog design</a> that served as inspiration halfway through. _

@@ -13,4 +13,4 @@ tags:
   - pain
   - PowerPoint
 ---
-[<img class="aligncenter size-medium wp-image-9084" alt="mba" src="http://blog.vickiboykis.com/wp-content/uploads/2013/09/mba-580x692.png" width="580" height="692" />](http://blog.vickiboykis.com/wp-content/uploads/2013/09/mba.png)
+[<img class="aligncenter size-medium wp-image-9084" alt="mba" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/09/mba-580x692.png" width="580" height="692" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/09/mba.png)

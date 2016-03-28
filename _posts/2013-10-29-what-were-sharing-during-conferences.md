@@ -13,7 +13,7 @@ tags:
   - conference
   - strata
 ---
-  1. [<img class="aligncenter size-full wp-image-9221" alt="brain" src="http://blog.vickiboykis.com/wp-content/uploads/2013/10/brain.png" width="500" height="500" />](http://blog.vickiboykis.com/wp-content/uploads/2013/10/brain.png)That we&#8217;re on our way to a conference
+  1. [<img class="aligncenter size-full wp-image-9221" alt="brain" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/10/brain.png" width="500" height="500" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/10/brain.png)That we&#8217;re on our way to a conference
   2. Pictures of the wings of our plane
   3. FourSquare Checkin at conference hotel registration
   4. Picture of free Fortune 500 company ballpoint pen

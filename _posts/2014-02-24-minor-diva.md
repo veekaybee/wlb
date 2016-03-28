@@ -10,7 +10,7 @@ permalink: /2014/02/minor-diva/
 categories:
   - Uncategorized
 ---
-[<img class="aligncenter size-full wp-image-9554" alt="mariah-carey-435" src="http://blog.vickiboykis.com/wp-content/uploads/2014/02/mariah-carey-435.jpg" width="435" height="580" />](http://blog.vickiboykis.com/wp-content/uploads/2014/02/mariah-carey-435.jpg)
+[<img class="aligncenter size-full wp-image-9554" alt="mariah-carey-435" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2014/02/mariah-carey-435.jpg" width="435" height="580" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2014/02/mariah-carey-435.jpg)
 
 I&#8217;m used to living in the lap of luxury. For example, whenever it dips below 32 degrees Farenheit, I make Mr. B brave the taiga outside the house to warm up the car for ten minutes before I can get in, because what am I, a peasant? He also peels my pomagranates, because what am I, good with tropical fruit?
 
@@ -22,7 +22,7 @@ When you become an internet celebrity with over 5,000 distinct people (not count
 
 You&#8217;re no longer blogging about Nutella and the time you almost got shanked in Jerusalem. You are an icon. A commentator. The People demand your opinion.  You are basically Enjolras.
 
-[<img class="aligncenter size-medium wp-image-9555" alt="LesMis_rables_2446250b" src="http://blog.vickiboykis.com/wp-content/uploads/2014/02/LesMis_rables_2446250b-580x362.jpg" width="580" height="362" />](http://blog.vickiboykis.com/wp-content/uploads/2014/02/LesMis_rables_2446250b.jpg)
+[<img class="aligncenter size-medium wp-image-9555" alt="LesMis_rables_2446250b" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2014/02/LesMis_rables_2446250b-580x362.jpg" width="580" height="362" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2014/02/LesMis_rables_2446250b.jpg)
 
 Well, I&#8217;m not really sure anyone expects me to know anything and they are probably actually praying that I don&#8217;t write any more about Russian toilets. But, like all celebrities, I now feel the need to share my thoughts on political events I don&#8217;t completely understand the nuances of with the world.
 

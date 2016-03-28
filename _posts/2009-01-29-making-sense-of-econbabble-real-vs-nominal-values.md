@@ -12,7 +12,7 @@ tags:
   - economics
   - terminology
 ---
-[<img class="alignnone size-full wp-image-83" title="borgman-thurs-51106-copy-716652gif" src="http://blog.vickiboykis.com/wp-content/uploads/2009/01/borgman-thurs-51106-copy-716652gif.png" alt="borgman-thurs-51106-copy-716652gif" width="430" height="279" />](http://blog.vickiboykis.com/wp-content/uploads/2009/01/borgman-thurs-51106-copy-716652gif.png)
+[<img class="alignnone size-full wp-image-83" title="borgman-thurs-51106-copy-716652gif" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/01/borgman-thurs-51106-copy-716652gif.png" alt="borgman-thurs-51106-copy-716652gif" width="430" height="279" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/01/borgman-thurs-51106-copy-716652gif.png)
 
 ###### (source: Cincinnati Enquirer)
 

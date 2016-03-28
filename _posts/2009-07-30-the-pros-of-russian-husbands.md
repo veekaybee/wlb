@@ -22,7 +22,7 @@ Note: From time to time, I get questions asking me for Russian-related advice, w
 
 _Note: I censor swear words on this blog because there&#8217;s just so much f&#8212;&#8212;&#8211; vocabulary words you can f&#8212;&#8212;- use without swearwords, that there&#8217;s no point to this s&#8212;-.  Also, I think my mom reads this blog.  Because she calls me and tells me she reads the blog._ 
 
-_[<img class="aligncenter size-full wp-image-922" title="svadba" src="http://blog.vickiboykis.com/wp-content/uploads/2009/07/svadba.jpg" alt="svadba" width="500" height="329" />](http://blog.vickiboykis.com/wp-content/uploads/2009/07/svadba.jpg)
+_[<img class="aligncenter size-full wp-image-922" title="svadba" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/07/svadba.jpg" alt="svadba" width="500" height="329" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/07/svadba.jpg)
   
 _ 
 

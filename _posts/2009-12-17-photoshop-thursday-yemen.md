@@ -17,4 +17,4 @@ There&#8217;s something about Yemen that catches the eye and the mind.  Yemen i
 
 And yet, the more dangerous and far away a place seems, the more I want to pack my bags.  [C.f. Kabul](http://www.youtube.com/watch?v=vSCWVTjMwos).  Yalla!
 
-[<img class="aligncenter size-full wp-image-1900" title="Yemen" src="http://blog.vickiboykis.com/wp-content/uploads/2009/12/Yemen.jpg" alt="Yemen" width="600" height="857" />](http://blog.vickiboykis.com/wp-content/uploads/2009/12/Yemen.jpg)Beautiful picture from [http://www.stevemccurry.com](http://www.stevemccurry.com/main.php).
+[<img class="aligncenter size-full wp-image-1900" title="Yemen" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/12/Yemen.jpg" alt="Yemen" width="600" height="857" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/12/Yemen.jpg)Beautiful picture from [http://www.stevemccurry.com](http://www.stevemccurry.com/main.php).

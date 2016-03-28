@@ -21,7 +21,7 @@ It was late.  We were driving the home stretch back to Washington, D.C., after 
 When, all of a sudden,
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2009/11/DSC02697.JPG"><img class="aligncenter size-full wp-image-1605" title="DSC02697" src="http://blog.vickiboykis.com/wp-content/uploads/2009/11/DSC02697.JPG" alt="DSC02697" width="607" height="454" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/11/DSC02697.JPG"><img class="aligncenter size-full wp-image-1605" title="DSC02697" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/11/DSC02697.JPG" alt="DSC02697" width="607" height="454" /></a>
 </p>
 
 <p style="text-align: left;">
@@ -29,7 +29,7 @@ When, all of a sudden,
 </p>
 
 <p style="text-align: left;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2009/11/DSC02700.JPG"><img class="aligncenter size-full wp-image-1607" title="DSC02700" src="http://blog.vickiboykis.com/wp-content/uploads/2009/11/DSC02700.JPG" alt="DSC02700" width="708" height="529" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/11/DSC02700.JPG"><img class="aligncenter size-full wp-image-1607" title="DSC02700" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/11/DSC02700.JPG" alt="DSC02700" width="708" height="529" /></a>
 </p>
 
 <p style="text-align: left;">

@@ -9,4 +9,4 @@ permalink: /2009/11/comic-the-jews-of-the-mayflower/
 categories:
   - Uncategorized
 ---
-[<img class="aligncenter size-full wp-image-1760" title="Page_2" src="http://blog.vickiboykis.com/wp-content/uploads/2009/11/Page_21.jpg" alt="Page_2" width="612" height="1000" />](http://blog.vickiboykis.com/wp-content/uploads/2009/11/Page_21.jpg)
+[<img class="aligncenter size-full wp-image-1760" title="Page_2" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/11/Page_21.jpg" alt="Page_2" width="612" height="1000" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/11/Page_21.jpg)

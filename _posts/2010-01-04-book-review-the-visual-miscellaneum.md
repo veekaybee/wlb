@@ -19,7 +19,7 @@ tags:
 Note: _Book for review kindly provided by HarperCollins._
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2009/12/TheVisualMiscellaneum.jpg"><img class="size-full wp-image-1970   aligncenter" title="TheVisualMiscellaneum" src="http://blog.vickiboykis.com/wp-content/uploads/2009/12/TheVisualMiscellaneum.jpg" alt="TheVisualMiscellaneum" width="298" height="388" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/12/TheVisualMiscellaneum.jpg"><img class="size-full wp-image-1970   aligncenter" title="TheVisualMiscellaneum" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/12/TheVisualMiscellaneum.jpg" alt="TheVisualMiscellaneum" width="298" height="388" /></a>
 </p>
 
 I first heard about this book from [Nathan of Flowing Data](http://flowingdata.com/2009/11/16/review-the-visual-miscellaneum-by-david-mccandless/) (a data visualization blog I read semi-religiously) and I knew I had to read it.  I love data displayed in any form, and in fact, part of my job at work is helping people to visualize data in a way that makes sense to them (although I don&#8217;t get to play around with pretty graphics as much.)
@@ -27,7 +27,7 @@ I first heard about this book from [Nathan of Flowing Data](http://flowingdata.c
 David writes a blog called [Information is Beautiful](http://www.informationisbeautiful.net/) from whence some of the data for the book emerged.  The book is truly beautiful, and it is obvious, and [not just from his website](http://www.informationisbeautiful.net/2009/the-visual-miscellaneum-errata/), that the author put his life into it. The colors are as amazing as the cover looks and some of the concepts are ones I would never think about blending together to provide images.  Some of my favorites were the spouses of dictators, food colorings linked to unpleasant health defects, and a timeline of global media scare stories, which contrasts how much media attention the story got with how many people they actually killed (ex: Swine Flu.) And, I love the title. I am also thrilled that McCandless included the software he used in compiling the book so that I can play around with it in a similar manner for data display.
 
 <div id="attachment_1987" style="width: 597px" class="wp-caption aligncenter">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2009/12/DSC02880.JPG"><img class="size-full wp-image-1987 " title="DSC02880" src="http://blog.vickiboykis.com/wp-content/uploads/2009/12/DSC02880.JPG" alt="DSC02880" width="587" height="439" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/12/DSC02880.JPG"><img class="size-full wp-image-1987 " title="DSC02880" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/12/DSC02880.JPG" alt="DSC02880" width="587" height="439" /></a>
   
   <p class="wp-caption-text">
     Brazil's rainforest in 30 years
@@ -45,7 +45,7 @@ David writes a blog called [Information is Beautiful](http://www.informationisbe
   
   <p style="text-align: center;">
     <p style="text-align: center;">
-      <a href="http://blog.vickiboykis.com/wp-content/uploads/2010/01/Visual-Miscellaneum.jpg"><img class="aligncenter size-full wp-image-2027" title="Visual Miscellaneum" src="http://blog.vickiboykis.com/wp-content/uploads/2010/01/Visual-Miscellaneum.jpg" alt="Visual Miscellaneum" width="542" height="391" /></a>
+      <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/01/Visual-Miscellaneum.jpg"><img class="aligncenter size-full wp-image-2027" title="Visual Miscellaneum" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/01/Visual-Miscellaneum.jpg" alt="Visual Miscellaneum" width="542" height="391" /></a>
     </p>
     
     <p style="text-align: left;">

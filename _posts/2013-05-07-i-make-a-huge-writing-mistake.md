@@ -17,7 +17,7 @@ tags:
   - writing
 ---
 <p style="text-align: center;">
-   <a href="http://blog.vickiboykis.com/wp-content/uploads/2013/05/2c5a436e0d3f.jpg"><img class="aligncenter  wp-image-8695" alt="2c5a436e0d3f" src="http://blog.vickiboykis.com/wp-content/uploads/2013/05/2c5a436e0d3f-580x493.jpg" width="406" height="345" /></a>
+   <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/05/2c5a436e0d3f.jpg"><img class="aligncenter  wp-image-8695" alt="2c5a436e0d3f" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/05/2c5a436e0d3f-580x493.jpg" width="406" height="345" /></a>
 </p>
 
 Two weeks ago, I made a horrible mistake. I agreed to send my mom the first chapter of the second draft of the novel.

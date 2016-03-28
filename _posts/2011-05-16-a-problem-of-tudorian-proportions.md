@@ -17,7 +17,7 @@ tags:
   - tudors
 ---
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2011/05/King.jpg"><img class="aligncenter size-full wp-image-4960" title="King" src="http://blog.vickiboykis.com/wp-content/uploads/2011/05/King.jpg" alt="" width="343" height="2143" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/05/King.jpg"><img class="aligncenter size-full wp-image-4960" title="King" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/05/King.jpg" alt="" width="343" height="2143" /></a>
 </p>
 
 Did you miss these? I did.

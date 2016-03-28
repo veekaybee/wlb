@@ -18,7 +18,7 @@ Last week, me, Mr. B, his mom, and his aunt saw <a href="http://www.imdb.com/tit
 It&#8217;s about a father and son who both study Talmudic literature.  The father is extraordinarily weird and intensely into his field, but without much success. The son is shallower but successful and well-acknowledged by popular society for his work.  The conflict that comes between them is the Israel Prize, the most prestigious in the country.  Jerusalem acts as a backdrop for the drama centered on small things.
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2012/05/footnote.jpg"><img class="aligncenter  wp-image-6911" title="footnote" src="http://blog.vickiboykis.com/wp-content/uploads/2012/05/footnote.jpg" alt="" width="439" height="227" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/05/footnote.jpg"><img class="aligncenter  wp-image-6911" title="footnote" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/05/footnote.jpg" alt="" width="439" height="227" /></a>
 </p>
 
 All the time I was watching the movie, I was embroiled in the emotional turmoil over what is essentially academic minutiae (quibbling over footnotes on Talmudic literature).  I was also practicing my Hebrew. I was so busy doing both of these things that I didn&#8217;t recognize the main actor.  He&#8217;s so good, I thought to myself.  Who is the guy that plays the son?
@@ -31,7 +31,7 @@ The previews were for movies I didn&#8217;t know, but I was interested in every 
 
 The lights dimmed, and there it was, my first movie in Hebrew.  _That&#8217;s such a weird language_, I thought. I&#8217;ve never heard anything like it.  And Israel.  That&#8217;s such an interesting country, I thought.  _People actually live there?  People actually live in that place that I always see on the news with the golden rock? And that guy&#8217;s name is Lior?  What a weird name. _
 
-[<img class="aligncenter size-full wp-image-6912" title="LM3" src="http://blog.vickiboykis.com/wp-content/uploads/2012/05/LM3.jpg" alt="" width="400" height="241" />](http://blog.vickiboykis.com/wp-content/uploads/2012/05/LM3.jpg)
+[<img class="aligncenter size-full wp-image-6912" title="LM3" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/05/LM3.jpg" alt="" width="400" height="241" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/05/LM3.jpg)
 
 The subtitles and the Israeli feel of the movie were exotic to me.  But everything else I understood.  Lior Ashkenazi&#8217;s character was 31 and unmarried, an unmistakable sin in his Georgian family. (God forbid it happen to you, my internal monologue said to me. You&#8217;re going to get married really early.  At 21 if you can do it. ) He loved an Israeli woman with a child rather than the arrangement of shy Georgian girls his mother paraded forcibly before him.  He was torn between this love for the woman and her daughter and the obligations of generations of tradition.
 

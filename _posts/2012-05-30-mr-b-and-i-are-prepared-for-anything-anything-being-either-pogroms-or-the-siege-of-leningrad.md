@@ -23,7 +23,7 @@ I haven&#8217;t been blogging because every time I sit down to blog, my mind goe
 Last weekend, it went to Seattle and Portland, where Mr. B and I spent a couple days on sanity leave (aka vacation.)  Much more on that later, but for now, here&#8217;s one of my favorite pics from the trip, from <a href="http://www.yelp.com/biz/washington-state-ferries-seattle" target="_blank">the ferries</a> to Bainbridge Island. I think it pretty much sums up the Pacific Northwest.
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2012/05/DSC_0937.jpg"><img class="aligncenter  wp-image-6917" title="DSC_0937" src="http://blog.vickiboykis.com/wp-content/uploads/2012/05/DSC_0937.jpg" alt="" width="448" height="298" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/05/DSC_0937.jpg"><img class="aligncenter  wp-image-6917" title="DSC_0937" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/05/DSC_0937.jpg" alt="" width="448" height="298" /></a>
 </p>
 
 <p style="text-align: left;">

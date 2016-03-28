@@ -19,7 +19,7 @@ tags:
   - shooting
 ---
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/2012/12/how-to-watch-internet-news/wyman-newsboy/" rel="attachment wp-att-8040"><img class="aligncenter  wp-image-8040" alt="Wyman-Newsboy" src="http://blog.vickiboykis.com/wp-content/uploads/2012/12/Wyman-Newsboy.jpg" width="377" height="420" /></a>
+  <a href="http://blog.vickiboykis.com/2012/12/how-to-watch-internet-news/wyman-newsboy/" rel="attachment wp-att-8040"><img class="aligncenter  wp-image-8040" alt="Wyman-Newsboy" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/12/Wyman-Newsboy.jpg" width="377" height="420" /></a>
 </p>
 
 <p style="text-align: center;">
@@ -39,7 +39,7 @@ The book was written at the dawn of the cable age, when there was no such thing 
 That part is still off in the future, but it&#8217;s not as relevant anymore, because there is the internet. Cookies track every site we visit, and Google has, in a quiet, genius way, tied our identity to every one of their products. I am still holding out on the last bastion of privacy, Chrome, which you can sign into to synch across ALL of your devices, which means not only what you do in Google, but what you do everywhere is up for dissection. Fun.
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/2012/12/how-to-watch-internet-news/screen-shot-2012-12-18-at-7-11-51-am/" rel="attachment wp-att-8045"><img class="aligncenter  wp-image-8045" alt="Screen shot 2012-12-18 at 7.11.51 AM" src="http://blog.vickiboykis.com/wp-content/uploads/2012/12/Screen-shot-2012-12-18-at-7.11.51-AM.png" width="676" height="253" /></a>
+  <a href="http://blog.vickiboykis.com/2012/12/how-to-watch-internet-news/screen-shot-2012-12-18-at-7-11-51-am/" rel="attachment wp-att-8045"><img class="aligncenter  wp-image-8045" alt="Screen shot 2012-12-18 at 7.11.51 AM" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/12/Screen-shot-2012-12-18-at-7.11.51-AM.png" width="676" height="253" /></a>
 </p>
 
 &nbsp;
@@ -70,25 +70,25 @@ And what could be more Man Bites Dog and  than a school shooting?  From the me
 
 On Twitter, it was even more fun as news outlets decided to go for the full scoop and interview children,
 
-<a href="http://blog.vickiboykis.com/2012/12/how-to-watch-internet-news/screen-shot-2012-12-17-at-7-58-59-am/" rel="attachment wp-att-8041"><img class="aligncenter size-full wp-image-8041" alt="Screen shot 2012-12-17 at 7.58.59 AM" src="http://blog.vickiboykis.com/wp-content/uploads/2012/12/Screen-shot-2012-12-17-at-7.58.59-AM.png" width="487" height="300" /></a>
+<a href="http://blog.vickiboykis.com/2012/12/how-to-watch-internet-news/screen-shot-2012-12-17-at-7-58-59-am/" rel="attachment wp-att-8041"><img class="aligncenter size-full wp-image-8041" alt="Screen shot 2012-12-17 at 7.58.59 AM" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/12/Screen-shot-2012-12-17-at-7.58.59-AM.png" width="487" height="300" /></a>
 
 and <a href="http://www.poynter.org/latest-news/media-lab/social-media/198573/newtown-response-shows-perils-of-post-tragedy-interview-requests-via-social-media/" target="_blank">families of victims</a>:
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/2012/12/how-to-watch-internet-news/shubailat-abc-tweet1/" rel="attachment wp-att-8046"><img class="aligncenter  wp-image-8046" alt="shubailat-abc-tweet1" src="http://blog.vickiboykis.com/wp-content/uploads/2012/12/shubailat-abc-tweet1.jpg" width="370" height="377" /></a>
+  <a href="http://blog.vickiboykis.com/2012/12/how-to-watch-internet-news/shubailat-abc-tweet1/" rel="attachment wp-att-8046"><img class="aligncenter  wp-image-8046" alt="shubailat-abc-tweet1" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/12/shubailat-abc-tweet1.jpg" width="370" height="377" /></a>
 </p>
 
 &nbsp;
 
 As a result, the news outlets had a field day. Traffic to CNN was up 65% day over day, during a weekend, when no one is reading news online.
 
-<a href="http://blog.vickiboykis.com/2012/12/how-to-watch-internet-news/screen-shot-2012-12-17-at-8-02-43-am/" rel="attachment wp-att-8042"><img class="aligncenter size-full wp-image-8042" alt="Screen shot 2012-12-17 at 8.02.43 AM" src="http://blog.vickiboykis.com/wp-content/uploads/2012/12/Screen-shot-2012-12-17-at-8.02.43-AM.png" width="625" height="261" /></a>
+<a href="http://blog.vickiboykis.com/2012/12/how-to-watch-internet-news/screen-shot-2012-12-17-at-8-02-43-am/" rel="attachment wp-att-8042"><img class="aligncenter size-full wp-image-8042" alt="Screen shot 2012-12-17 at 8.02.43 AM" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/12/Screen-shot-2012-12-17-at-8.02.43-AM.png" width="625" height="261" /></a>
 
 Was it worth it, sensationalizing the death of people under the age of 10? Of featuring them in interviews? Of <a href="http://www.cjr.org/the_observatory/lanza_autism_speculation_newto.php" target="_blank">speculating and sensationalizing </a>autism? Of making constant mistakes in reporting to get the actual story?  Of instantly driving the debate in only one of two directions: mental health and gun policy?
 
 For Buick, or whoever was the advertiser that day in the right-hand corner,  oh God, oh God yes.
 
-<a href="http://blog.vickiboykis.com/2012/12/how-to-watch-internet-news/screen-shot-2012-12-18-at-7-30-16-am/" rel="attachment wp-att-8047"><img class="aligncenter size-medium wp-image-8047" alt="Screen shot 2012-12-18 at 7.30.16 AM" src="http://blog.vickiboykis.com/wp-content/uploads/2012/12/Screen-shot-2012-12-18-at-7.30.16-AM-580x274.png" width="580" height="274" /></a>
+<a href="http://blog.vickiboykis.com/2012/12/how-to-watch-internet-news/screen-shot-2012-12-18-at-7-30-16-am/" rel="attachment wp-att-8047"><img class="aligncenter size-medium wp-image-8047" alt="Screen shot 2012-12-18 at 7.30.16 AM" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/12/Screen-shot-2012-12-18-at-7.30.16-AM-580x274.png" width="580" height="274" /></a>
 
 For our national psyche, absolutely not.
 

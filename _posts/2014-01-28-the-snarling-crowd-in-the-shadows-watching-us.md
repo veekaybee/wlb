@@ -15,7 +15,7 @@ tags:
   - writing
 ---
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2014/01/a-collaboration.jpg"><img class="aligncenter  wp-image-9458" alt="a-collaboration" src="http://blog.vickiboykis.com/wp-content/uploads/2014/01/a-collaboration-580x384.jpg" width="464" height="307" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2014/01/a-collaboration.jpg"><img class="aligncenter  wp-image-9458" alt="a-collaboration" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2014/01/a-collaboration-580x384.jpg" width="464" height="307" /></a>
 </p>
 
 By the time she died in 1886, Emily Dickinson had written over eighteen hundred poems. Only twelve were ever published in her lifetime, and they were published anonymously in the Springfield Republican, which, today, after significant infrastructure and population growth in the United States,  has a circulation of 55,000.

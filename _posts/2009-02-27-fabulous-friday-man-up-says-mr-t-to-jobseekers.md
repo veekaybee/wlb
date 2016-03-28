@@ -18,7 +18,7 @@ tags:
 </p>
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2009/02/mrt-stained-glass1.jpg"><img class="size-full wp-image-169 alignnone" title="mrt-stained-glass1" src="http://blog.vickiboykis.com/wp-content/uploads/2009/02/mrt-stained-glass1.jpg" alt="mrt-stained-glass1" width="300" height="395" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/02/mrt-stained-glass1.jpg"><img class="size-full wp-image-169 alignnone" title="mrt-stained-glass1" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/02/mrt-stained-glass1.jpg" alt="mrt-stained-glass1" width="300" height="395" /></a>
 </p>
 
 <p style="text-align: center;">

@@ -19,7 +19,7 @@ tags:
   - thinking
   - Twitter
 ---
-[<img class="aligncenter size-full wp-image-8341" alt="brain" src="http://blog.vickiboykis.com/wp-content/uploads/2013/02/brain.png" width="500" height="500" />](http://blog.vickiboykis.com/wp-content/uploads/2013/02/brain.png)
+[<img class="aligncenter size-full wp-image-8341" alt="brain" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/02/brain.png" width="500" height="500" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/02/brain.png)
 
 &nbsp;
 

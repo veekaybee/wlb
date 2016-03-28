@@ -22,7 +22,7 @@ Mr. B and I were watching [Afghan Star](http://www.afghanstardocumentary.com/) l
 One of the things we noticed is that, in the beginning of the documentary, about 30 people would crowd around a TV set to watch the competition, like so:
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2010/06/kids-watch.jpg"><img class="aligncenter size-full wp-image-3121" title="kids-watch" src="http://blog.vickiboykis.com/wp-content/uploads/2010/06/kids-watch.jpg" alt="" width="717" height="1075" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/06/kids-watch.jpg"><img class="aligncenter size-full wp-image-3121" title="kids-watch" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/06/kids-watch.jpg" alt="" width="717" height="1075" /></a>
 </p>
 
 And Mr. B said, &#8220;I remember my dad telling me how they were one of three families in their town that had a TV and everyone would gather around to watch,&#8221; and I remembered my mom telling me the same thing, except that it wasn&#8217;t her family that had the TV but a friend&#8217;s and she and the neighborhood kids would run over and watch the one channel that was available in the Soviet Union in the late 1960s. And then I remembered when my parents bought their first TV in 1989 and what a huge deal and joy it was for them to be able to watch nightly news in our apartment while I was safe asleep across the room from them, shielded from the glare of the TV by a closet door propped ajar.  And Mr. B and I understood those kids in Afghanistan very well.

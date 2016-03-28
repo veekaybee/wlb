@@ -15,7 +15,7 @@ tags:
   - professional development
 ---
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2010/07/IMAG0192.jpg"><img class="aligncenter size-full wp-image-3291" title="IMAG0192" src="http://blog.vickiboykis.com/wp-content/uploads/2010/07/IMAG0192.jpg" alt="" width="307" height="512" /></a>After our 5k last weekend. She will outrun a bear.
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/07/IMAG0192.jpg"><img class="aligncenter size-full wp-image-3291" title="IMAG0192" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/07/IMAG0192.jpg" alt="" width="307" height="512" /></a>After our 5k last weekend. She will outrun a bear.
 </p>
 
 Mr. B&#8217;s mom was casually rolling meat into little balls for kebab on Saturday as she asked me, &#8220;You write a lot, right?&#8221;
@@ -33,7 +33,7 @@ Other various people mentioned that they had heard, among other things, toilets 
 It&#8217;s not the other things so much as [phone calls in the bathroom](http://www.snopes.com/embarrass/mistaken/stall.asp) that bother Mr. B&#8217;s mom.
 
 Her question is:  why do people [[<p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2010/07/IMAG0192.jpg"><img class="aligncenter size-full wp-image-3291" title="IMAG0192" src="http://blog.vickiboykis.com/wp-content/uploads/2010/07/IMAG0192.jpg" alt="" width="307" height="512" /></a>After our 5k last weekend. She will outrun a bear.
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/07/IMAG0192.jpg"><img class="aligncenter size-full wp-image-3291" title="IMAG0192" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/07/IMAG0192.jpg" alt="" width="307" height="512" /></a>After our 5k last weekend. She will outrun a bear.
 </p>
 
 Mr. B&#8217;s mom was casually rolling meat into little balls for kebab on Saturday as she asked me, &#8220;You write a lot, right?&#8221;

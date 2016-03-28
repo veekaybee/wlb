@@ -15,7 +15,7 @@ tags:
   - Washington DC
 ---
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2009/09/DSC02616.JPG"><img class="aligncenter size-full wp-image-1241" title="DSC02616" src="http://blog.vickiboykis.com/wp-content/uploads/2009/09/DSC02616.JPG" alt="DSC02616" width="352" height="467" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/09/DSC02616.JPG"><img class="aligncenter size-full wp-image-1241" title="DSC02616" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/09/DSC02616.JPG" alt="DSC02616" width="352" height="467" /></a>
 </p>
 
 This weekend, I went to see [Ritu Samharam, presented by the Nrityanjali dance Company](http://dcist.com/2009/09/dcist_preview_nrityanjalis_ritu_sam.php).  It was my first time ever seeing [Indian classical dance](http://en.wikipedia.org/wiki/Indian_classical_dance) live, and it was pretty exciting.
@@ -39,7 +39,7 @@ The things I got a kick out of most were not the actual performance but my obser
 First, I was the only white person at this performance:
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2009/09/0912091858.jpg"><img class="aligncenter size-full wp-image-1246" title="0912091858" src="http://blog.vickiboykis.com/wp-content/uploads/2009/09/0912091858.jpg" alt="0912091858" width="447" height="334" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/09/0912091858.jpg"><img class="aligncenter size-full wp-image-1246" title="0912091858" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/09/0912091858.jpg" alt="0912091858" width="447" height="334" /></a>
 </p>
 
 <p style="text-align: left;">
@@ -51,7 +51,7 @@ First, I was the only white person at this performance:
 </p>
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2009/09/0912091845.jpg"><img class="aligncenter size-full wp-image-1247" title="0912091845" src="http://blog.vickiboykis.com/wp-content/uploads/2009/09/0912091845.jpg" alt="0912091845" width="403" height="301" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/09/0912091845.jpg"><img class="aligncenter size-full wp-image-1247" title="0912091845" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/09/0912091845.jpg" alt="0912091845" width="403" height="301" /></a>
 </p>
 
 <p style="text-align: left;">

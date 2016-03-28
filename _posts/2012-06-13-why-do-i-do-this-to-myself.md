@@ -16,7 +16,7 @@ tags:
 Because I hate free time and love pain and misery, I&#8217;ve started working on my summer project, which is <a href="http://blog.vickiboykis.com/2012/05/i-basically-just-paid-myself-eight-cents-an-hour-to-learn-that-i-dont-need-an-mba/" target="_blank">my second book</a>.
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2012/06/aleksandr-deyneka-a-woman-reading-1934.jpg"><img class="aligncenter  wp-image-6973" title="aleksandr-deyneka-a-woman-reading-1934" src="http://blog.vickiboykis.com/wp-content/uploads/2012/06/aleksandr-deyneka-a-woman-reading-1934.jpg" alt="" width="420" height="399" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/06/aleksandr-deyneka-a-woman-reading-1934.jpg"><img class="aligncenter  wp-image-6973" title="aleksandr-deyneka-a-woman-reading-1934" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/06/aleksandr-deyneka-a-woman-reading-1934.jpg" alt="" width="420" height="399" /></a>
 </p>
 
 <p style="text-align: center;">
@@ -47,7 +47,7 @@ It&#8217;s hard going this time around not only because of the fictional compone
   
 It took me three weeks to write the first chapter.   Any time a character so much as takes a smoke or a drink, it&#8217;s off to the Googles for me. Not to mention the background reading.  Here&#8217;s my stack, which doesn&#8217;t include what I have on the iPad or what I&#8217;ve read online.
 
-[<img class="aligncenter" title="IMG_20120613_072307" src="http://blog.vickiboykis.com/wp-content/uploads/2012/06/IMG_20120613_072307-1024x768.jpg" alt="" width="502" height="377" />](http://blog.vickiboykis.com/wp-content/uploads/2012/06/IMG_20120613_072307.jpg)
+[<img class="aligncenter" title="IMG_20120613_072307" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/06/IMG_20120613_072307-1024x768.jpg" alt="" width="502" height="377" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/06/IMG_20120613_072307.jpg)
 
 I&#8217;m also reading primary source material in original language, which is a self-imposed challenge since my Russian comprehension is at the 10th grade level, but my reading speed is at a fourth-grade level. Because I&#8217;m a speed-reader in English, it&#8217;s really frustrating. I&#8217;m hoping this challenge will force me to read better and more in Russian.<span style="text-align: center;"> </span>
 

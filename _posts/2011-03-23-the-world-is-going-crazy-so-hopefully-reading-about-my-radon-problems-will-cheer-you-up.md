@@ -15,7 +15,7 @@ tags:
   - radon
   - science
 ---
-[<img class="aligncenter size-full wp-image-4639" title="hypochondriac" src="http://blog.vickiboykis.com/wp-content/uploads/2011/03/hypochondriac.jpg" alt="" width="425" height="237" />](http://blog.vickiboykis.com/wp-content/uploads/2011/03/hypochondriac.jpg)
+[<img class="aligncenter size-full wp-image-4639" title="hypochondriac" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/03/hypochondriac.jpg" alt="" width="425" height="237" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/03/hypochondriac.jpg)
 
 If you [search my blog for hypochondria](http://blog.vickiboykis.com/?s=hypochondria), you will get a plethora of entries where I think I have a brain tumor, neck problems, heat stroke, or the common cold.  And these are just the ones I blog about.  (B[logging with integrity.](http://blog.vickiboykis.com/2010/09/13/blogging-with-integrity-i-hate-small-talk/))
 

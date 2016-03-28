@@ -14,7 +14,7 @@ tags:
   - writing
 ---
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2012/06/argument-jan-steen-painting1.jpg"><img class="aligncenter  wp-image-6986" title="argument-jan-steen-painting1" src="http://blog.vickiboykis.com/wp-content/uploads/2012/06/argument-jan-steen-painting1.jpg" alt="" width="512" height="365" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/06/argument-jan-steen-painting1.jpg"><img class="aligncenter  wp-image-6986" title="argument-jan-steen-painting1" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/06/argument-jan-steen-painting1.jpg" alt="" width="512" height="365" /></a>
 </p>
 
 <p style="text-align: center;">

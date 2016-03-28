@@ -16,7 +16,7 @@ tags:
   - sushi
 ---
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2012/04/image_two_lg.jpg"><img class="aligncenter  wp-image-6659" title="image_two_lg" src="http://blog.vickiboykis.com/wp-content/uploads/2012/04/image_two_lg.jpg" alt="" width="420" height="277" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/04/image_two_lg.jpg"><img class="aligncenter  wp-image-6659" title="image_two_lg" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/04/image_two_lg.jpg" alt="" width="420" height="277" /></a>
 </p>
 
 <p style="text-align: center;">

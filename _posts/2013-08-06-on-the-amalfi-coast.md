@@ -19,7 +19,7 @@ tags:
   - travel
   - vacation
 ---
-[<img class="aligncenter size-medium wp-image-8956" alt="DSC_0628" src="http://blog.vickiboykis.com/wp-content/uploads/2013/08/DSC_0628-580x385.jpg" width="580" height="385" />](http://blog.vickiboykis.com/wp-content/uploads/2013/08/DSC_0628.jpg)
+[<img class="aligncenter size-medium wp-image-8956" alt="DSC_0628" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/08/DSC_0628-580x385.jpg" width="580" height="385" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/08/DSC_0628.jpg)
 
 An hour away from Naples, down the Amalfi Coast, past Sorrento, you have to take the narrow turn towards S&#8217;Agata si Due Golfi or else you&#8217;ll end up going over the whole Sorrentine Peninsula. You&#8217;ll pass a small clothing store on your lefthand side where the women speak no English and you&#8217;ll try to ask in broken Italian, &#8220;Ma scusi, dov&#8217;e&#8217; Nerano? A destro o a sinistro,&#8221; and they&#8217;ll scratch their heads and motion with their hands, helpless at your helplessness.
 
@@ -31,17 +31,17 @@ You will not understand the directions the person renting out the house to you w
 
 If Italy has none of the properties of the real world: time, logic, and personal space, the Amalfi Coast has even less. Natural oranges and lemons the size of your face grow on the sides of precipitous hills, farmed by large men in tiny, green , <a href="https://en.wikipedia.org/wiki/MEBEA" target="_blank">three-wheeled trucks</a> careening down the turns and breakneck pace. They are always pruning, always shearing, always tending to the fruit and the olives that seem to grow out of nowhere. Something is always carefully being burned on the slopes of the Amalfi Peninusla.
 
-[<img class="aligncenter size-medium wp-image-8957" alt="DSC_0463" src="http://blog.vickiboykis.com/wp-content/uploads/2013/08/DSC_0463-580x385.jpg" width="580" height="385" />](http://blog.vickiboykis.com/wp-content/uploads/2013/08/DSC_0463.jpg)
+[<img class="aligncenter size-medium wp-image-8957" alt="DSC_0463" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/08/DSC_0463-580x385.jpg" width="580" height="385" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/08/DSC_0463.jpg)
 
 You will finally follow your rentors down past S&#8217;Agata, past tiny, tiny Nerano with its narrow street open to traffic, Olga&#8217;s general store filled with fresh bread, olives, salumieri, and not much else, and finally down to Marina del Cantone, an even tinier town that has a hotel, three restaurants, and not much else.
 
 You are not staying at the hotel. You are staying at a house on a hill that has a view like this, straight into the sea. You can hear it at night. In the daytime, the breeze comes from it and the orange trees in your neighbors&#8217; yard sway.
 
-[<img class="aligncenter size-medium wp-image-8958" alt="IMG_20130529_021136" src="http://blog.vickiboykis.com/wp-content/uploads/2013/08/IMG_20130529_021136-580x773.jpg" width="580" height="773" />](http://blog.vickiboykis.com/wp-content/uploads/2013/08/IMG_20130529_021136.jpg)
+[<img class="aligncenter size-medium wp-image-8958" alt="IMG_20130529_021136" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/08/IMG_20130529_021136-580x773.jpg" width="580" height="773" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/08/IMG_20130529_021136.jpg)
 
 This is the clothes dryer. Italy gave up nuclear power some years ago, and drying clothes is expensive and stupid in a Mediterranean climate, so this is everyone&#8217;s clothes dryer in Italy:
 
-[<img class="aligncenter" alt="DSC_0650" src="http://blog.vickiboykis.com/wp-content/uploads/2013/08/DSC_0650-580x385.jpg" width="580" height="385" />](http://blog.vickiboykis.com/wp-content/uploads/2013/08/DSC_0650.jpg)
+[<img class="aligncenter" alt="DSC_0650" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/08/DSC_0650-580x385.jpg" width="580" height="385" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/08/DSC_0650.jpg)
 
 It&#8217;s Pinterest charming. It&#8217;s lifestyle magazine-worthy. There is no internet in the house, which is perfect for writing. Who else wrote facing the Mediterranean? Hemingway? Steinbeck? Gogol?  <a href="http://blog.luxurybazaar.com/wp-content/uploads/2011/09/ari-gold-2.jpg" target="_blank">Gold</a>?
 
@@ -57,23 +57,23 @@ On the Amalfi Coast, one of the most-visited places and most beautiful places in
 
 There is a Madonna in the garden, but she&#8217;s not going to save you, because you&#8217;re crazy. Mama doesn&#8217;t do crazy.
 
-[<img class="aligncenter size-medium wp-image-8962" alt="DSC_0539" src="http://blog.vickiboykis.com/wp-content/uploads/2013/08/DSC_0539-580x385.jpg" width="580" height="385" />](http://blog.vickiboykis.com/wp-content/uploads/2013/08/DSC_0539.jpg)
+[<img class="aligncenter size-medium wp-image-8962" alt="DSC_0539" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/08/DSC_0539-580x385.jpg" width="580" height="385" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/08/DSC_0539.jpg)
 
 During the daytime, you take trips around the Amalfi Coast. You go to Positano:
 
-[<img class="aligncenter size-medium wp-image-8968" alt="DSC_0533" src="http://blog.vickiboykis.com/wp-content/uploads/2013/08/DSC_0533-580x385.jpg" width="580" height="385" />](http://blog.vickiboykis.com/wp-content/uploads/2013/08/DSC_0533.jpg)
+[<img class="aligncenter size-medium wp-image-8968" alt="DSC_0533" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/08/DSC_0533-580x385.jpg" width="580" height="385" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/08/DSC_0533.jpg)
 
 You are smiling because you&#8217;re on vacation, even though you have just been given a tour of Positano by a woman whose idea of a tour is taking you into all the shops where she has friends and pointing out examples of Positano knicknacks that you can buy. &#8220;Here is a great example of a glazed vase. I&#8217;m not saying you have to buy it here, but it might be a great idea,&#8221; she enthuses to your tour group.
 
 Po$itano is full of tourists who all want to look at the tourist porn.
 
-[<img class="aligncenter size-medium wp-image-8972" alt="DSC_0504" src="http://blog.vickiboykis.com/wp-content/uploads/2013/08/DSC_0504-580x385.jpg" width="580" height="385" />](http://blog.vickiboykis.com/wp-content/uploads/2013/08/DSC_0504.jpg)
+[<img class="aligncenter size-medium wp-image-8972" alt="DSC_0504" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/08/DSC_0504-580x385.jpg" width="580" height="385" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/08/DSC_0504.jpg)
 
 It doesn&#8217;t look like that in real life. It looks like money in the form of Positano sandals, Positano blankets, and Positano vases.  There is no God in the church.
 
 You go everywhere, all over the coast, almost driving into the sea every five minutes. You go to Capri and take the funiculare to the top, and you look like a Guess Jeans ad:
 
-[<img class="aligncenter size-medium wp-image-8973" alt="DSC_0591" src="http://blog.vickiboykis.com/wp-content/uploads/2013/08/DSC_0591-580x872.jpg" width="580" height="872" />](http://blog.vickiboykis.com/wp-content/uploads/2013/08/DSC_0591.jpg)
+[<img class="aligncenter size-medium wp-image-8973" alt="DSC_0591" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/08/DSC_0591-580x872.jpg" width="580" height="872" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/08/DSC_0591.jpg)
 
 You go to Ravello, to Sorrento, to tiny shacks by the side of the road where they sell limoncello. You drive past Amalfi. You go everywhere, you drive everywhere, but there is no soul anywhere on the Positano Coast. You feel like an entitled hipster, but there is no place you can go that feels like real people live there, not like it&#8217;s been taken out, dusted off, stripped of all its soul and spirit, and stamped on a postcard, shipped en masse to Italian restaurants in New Jersey.
 
@@ -81,7 +81,7 @@ You go to Ravello, to Sorrento, to tiny shacks by the side of the road where the
 
 At night, the sea tries to  murder you.
 
-[<img class="aligncenter" alt="DSC_0618" src="http://blog.vickiboykis.com/wp-content/uploads/2013/08/DSC_0618-580x385.jpg" width="580" height="385" />](http://blog.vickiboykis.com/wp-content/uploads/2013/08/DSC_0618.jpg)
+[<img class="aligncenter" alt="DSC_0618" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/08/DSC_0618-580x385.jpg" width="580" height="385" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/08/DSC_0618.jpg)
 
 There are two places that are real.
 
@@ -99,7 +99,7 @@ You are shy, desperately shy around people in person. You will never introduce y
 
 The sea, on the other hand, and the hills of trees, scare you; you are an only child, you live with another only child,and you are still scared of solitude. Life should be a busy coffee shop where things happen around you while you&#8217;re observing from your table. The Amalfi coast is just you and yourself. The sea reflects only you, and you don&#8217;t think you like what you see.   Right, and the possible murder.
 
-[<img class="aligncenter size-medium wp-image-8982" alt="DSC_0585" src="http://blog.vickiboykis.com/wp-content/uploads/2013/08/DSC_0585-580x385.jpg" width="580" height="385" />](http://blog.vickiboykis.com/wp-content/uploads/2013/08/DSC_0585.jpg)
+[<img class="aligncenter size-medium wp-image-8982" alt="DSC_0585" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/08/DSC_0585-580x385.jpg" width="580" height="385" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/08/DSC_0585.jpg)
 
 And there is still the sea, shining, glistening, glimmering out of your window here, too. It looks more Mediterranean here, for some reason.
 

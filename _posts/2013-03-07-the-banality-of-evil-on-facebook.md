@@ -16,7 +16,7 @@ tags:
   - novel
   - Stalin
 ---
-[<img class="aligncenter size-full wp-image-8450" alt="Screen shot 2013-03-06 at 8.06.43 AM" src="http://blog.vickiboykis.com/wp-content/uploads/2013/03/Screen-shot-2013-03-06-at-8.06.43-AM.png" width="337" height="451" />](http://blog.vickiboykis.com/wp-content/uploads/2013/03/Screen-shot-2013-03-06-at-8.06.43-AM.png)
+[<img class="aligncenter size-full wp-image-8450" alt="Screen shot 2013-03-06 at 8.06.43 AM" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/03/Screen-shot-2013-03-06-at-8.06.43-AM.png" width="337" height="451" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/03/Screen-shot-2013-03-06-at-8.06.43-AM.png)
 
 Human nature bothers me.
 
@@ -33,7 +33,7 @@ For example, have you ever thought about why there are 15-or-less items aisles a
 Yesterday I saw a Tanqueray ad on the train:
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2013/03/Screen-shot-2013-03-07-at-7.17.12-AM.png"><img class="aligncenter  wp-image-8453" alt="Screen shot 2013-03-07 at 7.17.12 AM" src="http://blog.vickiboykis.com/wp-content/uploads/2013/03/Screen-shot-2013-03-07-at-7.17.12-AM-580x510.png" width="348" height="306" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/03/Screen-shot-2013-03-07-at-7.17.12-AM.png"><img class="aligncenter  wp-image-8453" alt="Screen shot 2013-03-07 at 7.17.12 AM" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/03/Screen-shot-2013-03-07-at-7.17.12-AM-580x510.png" width="348" height="306" /></a>
 </p>
 
 <p style="text-align: left;">
@@ -59,7 +59,7 @@ He used Stalin&#8217;s first name and patronymic instead of his last name, signi
 Anyway, so some of these same people popped up on my Facebook feed yesterday, reposting this picture, with basically a message like, &#8220;Oh, look, this is what Russians think of Stalin today.&#8221;
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2013/03/stalincray.jpg"><img class="aligncenter  wp-image-8451" alt="stalincray" src="http://blog.vickiboykis.com/wp-content/uploads/2013/03/stalincray-580x297.jpg" width="464" height="238" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/03/stalincray.jpg"><img class="aligncenter  wp-image-8451" alt="stalincray" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/03/stalincray-580x297.jpg" width="464" height="238" /></a>
 </p>
 
 The text says, &#8220;Not long ago, this picture and similar ones like it were seen on many cars. And yet no one forced people to do this. Do you remember?&#8221;
@@ -78,11 +78,11 @@ I think Niemoller meant his quote in a way like, &#8220;Hey, you stupid Germans,
 
 I took it to mean that I should do something stupid.
 
-[<img class="aligncenter size-full wp-image-8455" alt="Screen shot 2013-03-07 at 7.37.20 AM" src="http://blog.vickiboykis.com/wp-content/uploads/2013/03/Screen-shot-2013-03-07-at-7.37.20-AM.png" width="305" height="234" />](http://blog.vickiboykis.com/wp-content/uploads/2013/03/Screen-shot-2013-03-07-at-7.37.20-AM.png)
+[<img class="aligncenter size-full wp-image-8455" alt="Screen shot 2013-03-07 at 7.37.20 AM" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/03/Screen-shot-2013-03-07-at-7.37.20-AM.png" width="305" height="234" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/03/Screen-shot-2013-03-07-at-7.37.20-AM.png)
 
 So I stepped up to the plate.
 
-[<img class="aligncenter size-full wp-image-8454" alt="Screen shot 2013-03-07 at 7.30.26 AM" src="http://blog.vickiboykis.com/wp-content/uploads/2013/03/Screen-shot-2013-03-07-at-7.30.26-AM.png" width="499" height="71" />](http://blog.vickiboykis.com/wp-content/uploads/2013/03/Screen-shot-2013-03-07-at-7.30.26-AM.png)
+[<img class="aligncenter size-full wp-image-8454" alt="Screen shot 2013-03-07 at 7.30.26 AM" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/03/Screen-shot-2013-03-07-at-7.30.26-AM.png" width="499" height="71" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/03/Screen-shot-2013-03-07-at-7.30.26-AM.png)
 
 And that&#8217;s when the fun began.
 

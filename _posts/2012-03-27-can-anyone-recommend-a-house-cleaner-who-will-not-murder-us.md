@@ -19,7 +19,7 @@ tags:
 I am looking for someone to give our house a good spring cleaning.  Here&#8217;s a before shot:
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2012/03/abandoned_soviet_library.jpg"><img class="aligncenter  wp-image-6603" title="abandoned_soviet_library" src="http://blog.vickiboykis.com/wp-content/uploads/2012/03/abandoned_soviet_library.jpg" alt="" width="518" height="382" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/03/abandoned_soviet_library.jpg"><img class="aligncenter  wp-image-6603" title="abandoned_soviet_library" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/03/abandoned_soviet_library.jpg" alt="" width="518" height="382" /></a>
 </p>
 
 Don&#8217;t get me wrong, Mr. B and I spend around hours every week cleaning our house.  But as soon as it&#8217;s clean on Sundays, it magically starts to become dirty again, and thus the cycle restarts.  We also haven&#8217;t deep-cleaned for months, meaning there are some corners where it&#8217;s possible the fifth dimension exists amongs the lush vegetation and spider webs. Our <a href="http://blog.vickiboykis.com/2011/08/our-domovoi-americans-hes-just-a-short-invisibile-bearded-dude-that-lives-in-your-home-no-biggie/" target="_blank">domovoi </a>is probably angry.

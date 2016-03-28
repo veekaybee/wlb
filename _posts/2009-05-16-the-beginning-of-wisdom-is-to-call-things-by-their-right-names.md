@@ -24,7 +24,7 @@ Anyway, so after I was born there were Intense Party meetings, mostly between my
 The conflict went on for two weeks and I was just referred to as &#8220;she,&#8221; kind of like Cousin It, but only fatter.
 
 <div id="attachment_358" style="width: 299px" class="wp-caption aligncenter">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2009/05/scan0002.jpg"><img class="size-full wp-image-358" title="scan0002" src="http://blog.vickiboykis.com/wp-content/uploads/2009/05/scan0002.jpg" alt="scan0002" width="289" height="382" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/05/scan0002.jpg"><img class="size-full wp-image-358" title="scan0002" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/05/scan0002.jpg" alt="scan0002" width="289" height="382" /></a>
   
   <p class="wp-caption-text">
     I look like I just ate the Pillsbury Doughboy.

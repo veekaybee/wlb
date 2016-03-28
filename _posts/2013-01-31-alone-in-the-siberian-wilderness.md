@@ -17,7 +17,7 @@ tags:
   - Siberia
 ---
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/2013/01/alone-in-the-siberian-wilderness/new1/" rel="attachment wp-att-8317"><img class="aligncenter  wp-image-8317" alt="new1" src="http://blog.vickiboykis.com/wp-content/uploads/2013/01/new1.jpg" width="336" height="484" /></a>
+  <a href="http://blog.vickiboykis.com/2013/01/alone-in-the-siberian-wilderness/new1/" rel="attachment wp-att-8317"><img class="aligncenter  wp-image-8317" alt="new1" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/01/new1.jpg" width="336" height="484" /></a>
 </p>
 
 &nbsp;
@@ -62,7 +62,7 @@ As a result, he knew more about the American legal system, politics, and the Con
 
 Together, we taught each other how to be Russians our own age. We became friends with <a href="http://blog.vickiboykis.com/2010/04/we-the-russians/" target="_blank">Russian-speaking couples our age</a>, and we discovered <a href="http://blog.vickiboykis.com/2011/09/what-russian-men-talk-about-surprise-its-cheating-on-their-wives/" target="_blank">Russian culture on our own terms</a>. One of the recent phenomenon of Russian culture that we love is the show Svetofor, Traffic Light, which is <a href="http://molodejj.tv/serial/svetofor/" target="_blank">amazingly available online </a>(without subtitles, unfortunately), for free.
 
-<a href="http://blog.vickiboykis.com/2013/01/alone-in-the-siberian-wilderness/attachment/27155/" rel="attachment wp-att-8319"><img alt="27155" src="http://blog.vickiboykis.com/wp-content/uploads/2013/01/27155.jpg" width="565" height="322" /></a>
+<a href="http://blog.vickiboykis.com/2013/01/alone-in-the-siberian-wilderness/attachment/27155/" rel="attachment wp-att-8319"><img alt="27155" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/01/27155.jpg" width="565" height="322" /></a>
 
 It&#8217;s an adaptation of the original Israeli show, <a href="http://en.wikipedia.org/wiki/Ramzor" target="_blank">Ramzor</a>, of the same name. The basic concept is that there are three guys, a single bachelor, for whom the light is &#8220;green,&#8221; , Edik, one who&#8217;s in a committed relationship, for whom the light is yellow,Pasha,  and a married guy with a kid, whose light is red, Seva. They&#8217;re all best friends and the sitcom revolves into the scenarios they get into together, many of which involve deceiving their significant others.
 

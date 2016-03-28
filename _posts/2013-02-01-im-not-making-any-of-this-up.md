@@ -17,7 +17,7 @@ tags:
   - talks
   - writing
 ---
-[<img class="aligncenter size-medium wp-image-8333" alt="IMG_20130131_193648" src="http://blog.vickiboykis.com/wp-content/uploads/2013/02/IMG_20130131_193648-580x773.jpg" width="580" height="773" />](http://blog.vickiboykis.com/wp-content/uploads/2013/02/IMG_20130131_193648.jpg)
+[<img class="aligncenter size-medium wp-image-8333" alt="IMG_20130131_193648" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/02/IMG_20130131_193648-580x773.jpg" width="580" height="773" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/02/IMG_20130131_193648.jpg)
 
 &nbsp;
 

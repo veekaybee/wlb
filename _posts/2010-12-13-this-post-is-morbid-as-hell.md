@@ -18,7 +18,7 @@ During the first couple hours that Mr. B and I part ways on Sundays, I am extrem
 It was a pretty refreshing weekend (if so extremely busy that we didn&#8217;t have time to see anyone) that gave me an enormous break from Philadelphia, because there are very few places in the world where you will see things like this this:
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2010/12/wpid-IMAG0507.jpg"><img class="aligncenter size-full wp-image-4037" title="wpid-IMAG0507.jpg" src="http://blog.vickiboykis.com/wp-content/uploads/2010/12/wpid-IMAG0507.jpg" alt="" width="500" height="300" /></a><em>Oh, don&#8217;t mind us. Just Tour de France in the middle of Tuckerman Lane. </em>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/12/wpid-IMAG0507.jpg"><img class="aligncenter size-full wp-image-4037" title="wpid-IMAG0507.jpg" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/12/wpid-IMAG0507.jpg" alt="" width="500" height="300" /></a><em>Oh, don&#8217;t mind us. Just Tour de France in the middle of Tuckerman Lane. </em>
 </p>
 
 Even so, leaving the glittering lights of Georgetown and the Kennedy Center behind me on the George Washington Parkway at 4:30 PM when it&#8217;s already starting to get dark was the bleakest part of my week. So,  I turned on the radio, hoping some interesting news story on NPR (maybe about cats on welfare or organic weaponry in Afghanistan) would divert my attention.
@@ -26,7 +26,7 @@ Even so, leaving the glittering lights of Georgetown and the Kennedy Center behi
 Instead, I get [this](http://interfaithradio.org/node/1557).
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2010/12/Screen-shot-2010-12-13-at-8.12.30-AM.png"><img class="aligncenter size-full wp-image-4039" title="Screen shot 2010-12-13 at 8.12.30 AM" src="http://blog.vickiboykis.com/wp-content/uploads/2010/12/Screen-shot-2010-12-13-at-8.12.30-AM.png" alt="" width="842" height="122" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/12/Screen-shot-2010-12-13-at-8.12.30-AM.png"><img class="aligncenter size-full wp-image-4039" title="Screen shot 2010-12-13 at 8.12.30 AM" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/12/Screen-shot-2010-12-13-at-8.12.30-AM.png" alt="" width="842" height="122" /></a>
 </p>
 
 <p style="text-align: left;">

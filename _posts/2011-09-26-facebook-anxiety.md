@@ -14,7 +14,7 @@ tags:
   - social media
   - the gootch
 ---
-[<img class="aligncenter size-full wp-image-5762" title="facebook-redesign-sympathy-ecards-someecards" src="http://blog.vickiboykis.com/wp-content/uploads/2011/09/facebook-redesign-sympathy-ecards-someecards.png" alt="" width="425" height="237" />](http://blog.vickiboykis.com/wp-content/uploads/2011/09/facebook-redesign-sympathy-ecards-someecards.png)
+[<img class="aligncenter size-full wp-image-5762" title="facebook-redesign-sympathy-ecards-someecards" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/09/facebook-redesign-sympathy-ecards-someecards.png" alt="" width="425" height="237" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/09/facebook-redesign-sympathy-ecards-someecards.png)
 
 I&#8217;ve written before about how much <a href="http://blog.vickiboykis.com/2011/06/20/i-hate-everyone-on-facebook/" target="_blank">I hate Facebook</a>.
 

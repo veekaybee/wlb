@@ -23,11 +23,11 @@ As you last recall, we were by the <a href="http://blog.vickiboykis.com/2012/01/
 When we got back to Edinburgh in the evening, we were cold, rainy,and exhausted. But,tough luck, because that night was the first night of Hanukah, and, as you guys know by now, the first Rule of Russian Tourism is : &#8220;if you&#8217;re here you might as well see OMGEVERYTHING POSSIBLE.&#8221; The day before while walking around <a href="http://en.wikipedia.org/wiki/St_Andrew_Square,_Edinburgh" target="_blank">St. Andrew Square,</a> I spotted the tell-tale <a href="http://www.chabad.org/holidays/chanukah/public_lights_cdo/aid/104654/jewish/Public-Menorahs-Around-the-Globe.htm" target="_blank">Chabad menorah</a>, and decided that we were going to take a break from pretending to be WASPS and Japanese tourists:
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2012/01/IMAG1049.jpg"><img class="aligncenter  wp-image-6203" title="IMAG1049" src="http://blog.vickiboykis.com/wp-content/uploads/2012/01/IMAG1049-614x1024.jpg" alt="" width="301" height="502" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/01/IMAG1049.jpg"><img class="aligncenter  wp-image-6203" title="IMAG1049" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/01/IMAG1049-614x1024.jpg" alt="" width="301" height="502" /></a>
 </p>
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2012/01/DSC_0437.jpg"><img class="aligncenter  wp-image-6204" title="DSC_0437" src="http://blog.vickiboykis.com/wp-content/uploads/2012/01/DSC_0437-1024x680.jpg" alt="" width="717" height="476" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/01/DSC_0437.jpg"><img class="aligncenter  wp-image-6204" title="DSC_0437" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/01/DSC_0437-1024x680.jpg" alt="" width="717" height="476" /></a>
 </p>
 
 and go to the Menorah lighting.
@@ -41,7 +41,7 @@ and go to the Menorah lighting.
 </p>
 
 <p style="text-align: left;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2012/01/DSC_0651.jpg"><img class="aligncenter  wp-image-6205" title="DSC_0651" src="http://blog.vickiboykis.com/wp-content/uploads/2012/01/DSC_0651-1024x680.jpg" alt="" width="717" height="476" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/01/DSC_0651.jpg"><img class="aligncenter  wp-image-6205" title="DSC_0651" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/01/DSC_0651-1024x680.jpg" alt="" width="717" height="476" /></a>
 </p>
 
 I know.  The irony of the Occupy Edinburgh 99% combined with all of us rich Jewish bankers was almost too much to handle.  By the time we came, there was a group of maybe 40 or 50 people and it was well after sunset.
@@ -51,7 +51,7 @@ I know.  The irony of the Occupy Edinburgh 99% combined with all of us rich Jew
 Which is why I took all of my pictures surreptitiously without flash, which, I guess, kind of makes the whole event look like a cult gathering instead of a joyous celebration of light. Speaking of light and dark and weather, guess what?  Yup.  It was gently misting upon Goy and Jew alike at this point.
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2012/01/IMAG1080.jpg"><img class="aligncenter  wp-image-6206" title="IMAG1080" src="http://blog.vickiboykis.com/wp-content/uploads/2012/01/IMAG1080-1024x614.jpg" alt="" width="717" height="430" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/01/IMAG1080.jpg"><img class="aligncenter  wp-image-6206" title="IMAG1080" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/01/IMAG1080-1024x614.jpg" alt="" width="717" height="430" /></a>
 </p>
 
 It was pretty surreal.  There were some older ladies, some younger guys (most with American accents), and a couple of  families with small kids who were wearing English/Scottish football team jerseys and also kippahs.  One guy, I kid you not, came in an actual kilt.  It was the first and last time I saw someone wearing a kilt in Scotland. I hope to God that he was wearing the <a href="http://www.jewishtartan.com/" target="_blank">Jewish tartan. </a>
@@ -69,7 +69,7 @@ Finally, an American rabbi, who I believe is the head of Chabad in Edinburgh, sp
 I have to say, it took a while to light that menorah, not only because candles will, by the laws of physics, not light in a country whose Constant Dampness factor is 100%, but because it was also a bit windy and they had the wrong candle and oh my God everything was going terrible and thousands of years of Jewish tradition down the drain.
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2012/01/IMAG1083.jpg"><img class="aligncenter  wp-image-6207" title="IMAG1083" src="http://blog.vickiboykis.com/wp-content/uploads/2012/01/IMAG1083-614x1024.jpg" alt="" width="368" height="614" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/01/IMAG1083.jpg"><img class="aligncenter  wp-image-6207" title="IMAG1083" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/01/IMAG1083-614x1024.jpg" alt="" width="368" height="614" /></a>
 </p>
 
 The full-fledged curiosity of onlookers continued and, juxtaposed with the fact that we were almost standing among the Occupy Edinburgh tents, which were silent for the night, embarrassed me and made me realize how absurd the whole situation was. Finally, after about 20 more minutes of groping in the dark,  they got the first candle and the shamash lit.  Then we sang all the right songs.   The Hanukkah spirit grabbed me, and I started to feel buoyant, like, yeah! We Jews can make it anywhere! &#8220;Now we can leave,&#8221; Mr. B and I said with relief.

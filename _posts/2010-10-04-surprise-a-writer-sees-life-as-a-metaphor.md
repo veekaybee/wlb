@@ -13,7 +13,7 @@ tags:
   - professional
   - work
 ---
-[<img class="aligncenter size-full wp-image-3684" title="wpid-IMAG0380.jpg" src="http://blog.vickiboykis.com/wp-content/uploads/2010/10/wpid-IMAG0380.jpg" alt="" width="500" height="300" />](http://blog.vickiboykis.com/wp-content/uploads/2010/10/wpid-IMAG0380.jpg)
+[<img class="aligncenter size-full wp-image-3684" title="wpid-IMAG0380.jpg" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/10/wpid-IMAG0380.jpg" alt="" width="500" height="300" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/10/wpid-IMAG0380.jpg)
 
 On Friday, I gathered up my stuff and said goodbye to the office.  As my last act, I took a box filled with everything I&#8217;ve been using for the past three years-econometrics textbooks, notes from my statistics classes, [SAS training manuals](http://blog.vickiboykis.com/2009/05/27/learning-sas-by-example-first-impressions/), pictures, and shoes-and lugged it out of the door.  I left my pass on our office manager&#8217;s desk and prepared for the hardest part: taking out the box.
 

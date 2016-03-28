@@ -14,7 +14,7 @@ tags:
   - tumblr
   - writing
 ---
-[<img class="aligncenter size-full wp-image-7265" title="Screen shot 2012-07-26 at 7.59.59 AM" src="http://blog.vickiboykis.com/wp-content/uploads/2012/07/Screen-shot-2012-07-26-at-7.59.59-AM.png" alt="" width="497" height="478" />](http://blog.vickiboykis.com/wp-content/uploads/2012/07/Screen-shot-2012-07-26-at-7.59.59-AM.png)
+[<img class="aligncenter size-full wp-image-7265" title="Screen shot 2012-07-26 at 7.59.59 AM" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/07/Screen-shot-2012-07-26-at-7.59.59-AM.png" alt="" width="497" height="478" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/07/Screen-shot-2012-07-26-at-7.59.59-AM.png)
 
 &nbsp;
 

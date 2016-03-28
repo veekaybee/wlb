@@ -30,7 +30,7 @@ tags:
 </div>
 
 <div>
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2011/10/30520493317f2b0b07395814d0ddf3f694656924_wmeg.jpg"><img class="aligncenter size-full wp-image-5866" title="30520493317f2b0b07395814d0ddf3f694656924_wmeg" src="http://blog.vickiboykis.com/wp-content/uploads/2011/10/30520493317f2b0b07395814d0ddf3f694656924_wmeg.jpg" alt="" width="640" height="384" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/10/30520493317f2b0b07395814d0ddf3f694656924_wmeg.jpg"><img class="aligncenter size-full wp-image-5866" title="30520493317f2b0b07395814d0ddf3f694656924_wmeg" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/10/30520493317f2b0b07395814d0ddf3f694656924_wmeg.jpg" alt="" width="640" height="384" /></a>
 </div>
 
 <div>
@@ -46,5 +46,5 @@ tags:
 </div>
 
 <div>
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2011/10/Screen-shot-2011-10-23-at-7.30.48-PM.png"><img class="aligncenter size-full wp-image-5867" title="Screen shot 2011-10-23 at 7.30.48 PM" src="http://blog.vickiboykis.com/wp-content/uploads/2011/10/Screen-shot-2011-10-23-at-7.30.48-PM.png" alt="" width="447" height="309" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/10/Screen-shot-2011-10-23-at-7.30.48-PM.png"><img class="aligncenter size-full wp-image-5867" title="Screen shot 2011-10-23 at 7.30.48 PM" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/10/Screen-shot-2011-10-23-at-7.30.48-PM.png" alt="" width="447" height="309" /></a>
 </div>

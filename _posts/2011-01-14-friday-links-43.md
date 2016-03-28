@@ -14,7 +14,7 @@ tags:
 My plans this weekend:  Sleeping. Begging Mr. B to schlep to the city to [take me to any of these places](http://www.phillymag.com/restaurants/the_philly_mag_50/index.html).  [Finishing this book](http://www.amazon.com/Possessed-Adventures-Russian-Books-People/dp/0374532184).    And you?
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2011/01/bento.jpg"><img class="aligncenter size-full wp-image-4240" title="bento" src="http://blog.vickiboykis.com/wp-content/uploads/2011/01/bento.jpg" alt="" width="500" height="434" /></a>I&#8217;ve become interested in <a href="http://www.flickr.com/photos/pikkopots/3247114267/lightbox/">bento lately</a>. Not the actual making of it, but how I can hire someone to make me bento for lunch every day.
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/01/bento.jpg"><img class="aligncenter size-full wp-image-4240" title="bento" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/01/bento.jpg" alt="" width="500" height="434" /></a>I&#8217;ve become interested in <a href="http://www.flickr.com/photos/pikkopots/3247114267/lightbox/">bento lately</a>. Not the actual making of it, but how I can hire someone to make me bento for lunch every day.
 </p>
 
 Firstly, If you haven&#8217;t yet, go over to Marinka&#8217;s blog, where [I wrote a guest post](http://www.motherhoodinnyc.com/i-got-your-blood-libel-right-here) and her dad has some great Jewish recipe tips!
@@ -27,7 +27,7 @@ Secondly, here are the links:
   4. [My plans this weekend:  Sleeping. Begging Mr. B to schlep to the city to [take me to any of these places](http://www.phillymag.com/restaurants/the_philly_mag_50/index.html).  [Finishing this book](http://www.amazon.com/Possessed-Adventures-Russian-Books-People/dp/0374532184).    And you?
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2011/01/bento.jpg"><img class="aligncenter size-full wp-image-4240" title="bento" src="http://blog.vickiboykis.com/wp-content/uploads/2011/01/bento.jpg" alt="" width="500" height="434" /></a>I&#8217;ve become interested in <a href="http://www.flickr.com/photos/pikkopots/3247114267/lightbox/">bento lately</a>. Not the actual making of it, but how I can hire someone to make me bento for lunch every day.
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/01/bento.jpg"><img class="aligncenter size-full wp-image-4240" title="bento" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/01/bento.jpg" alt="" width="500" height="434" /></a>I&#8217;ve become interested in <a href="http://www.flickr.com/photos/pikkopots/3247114267/lightbox/">bento lately</a>. Not the actual making of it, but how I can hire someone to make me bento for lunch every day.
 </p>
 
 Firstly, If you haven&#8217;t yet, go over to Marinka&#8217;s blog, where [I wrote a guest post](http://www.motherhoodinnyc.com/i-got-your-blood-libel-right-here) and her dad has some great Jewish recipe tips!

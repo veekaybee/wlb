@@ -15,7 +15,7 @@ tags:
 P.S. Lea is asking for <a href="http://leazeltserman.com/2011/06/your-stories-wanted/" target="_blank">Soviet decor stories</a>.  Do you have any?  I&#8217;m working on mine, I swear to God.
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2011/07/wpid-IMAG0879.jpg"><img class="aligncenter size-full wp-image-5221" title="wpid-IMAG0879.jpg" src="http://blog.vickiboykis.com/wp-content/uploads/2011/07/wpid-IMAG0879.jpg" alt="" width="350" height="583" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/07/wpid-IMAG0879.jpg"><img class="aligncenter size-full wp-image-5221" title="wpid-IMAG0879.jpg" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/07/wpid-IMAG0879.jpg" alt="" width="350" height="583" /></a>
 </p>
 
 Not my house, but people REALLY get into July 4th in our &#8216;hood.

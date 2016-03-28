@@ -9,7 +9,7 @@ permalink: /2011/07/how-to-make-the-perfect-hot-weather-cocktail/
 categories:
   - Uncategorized
 ---
-[<img class="aligncenter size-full wp-image-5281" title="IMAG0771" src="http://blog.vickiboykis.com/wp-content/uploads/2011/07/IMAG0771.jpg" alt="" width="307" height="512" />](http://blog.vickiboykis.com/wp-content/uploads/2011/07/IMAG0771.jpg)
+[<img class="aligncenter size-full wp-image-5281" title="IMAG0771" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/07/IMAG0771.jpg" alt="" width="307" height="512" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/07/IMAG0771.jpg)
 
 Here&#8217;s a recipe I found yesterday:
 

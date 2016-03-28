@@ -15,13 +15,13 @@ tags:
 ---
 It&#8217;s [baby fever time in the family](http://www.mouthyhousewives.com/kelcey/the-baby-pressure-is-on/)!
 
-[<img class="aligncenter size-full wp-image-1594" title="Page_1" src="http://blog.vickiboykis.com/wp-content/uploads/2009/10/Page_112.jpg" alt="Page_1" width="612" height="792" />](http://blog.vickiboykis.com/wp-content/uploads/2009/10/Page_112.jpg)
+[<img class="aligncenter size-full wp-image-1594" title="Page_1" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/10/Page_112.jpg" alt="Page_1" width="612" height="792" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/10/Page_112.jpg)
 
 Links:
 
   1. Pictures of the [It&#8217;s [baby fever time in the family](http://www.mouthyhousewives.com/kelcey/the-baby-pressure-is-on/)!
 
-[<img class="aligncenter size-full wp-image-1594" title="Page_1" src="http://blog.vickiboykis.com/wp-content/uploads/2009/10/Page_112.jpg" alt="Page_1" width="612" height="792" />](http://blog.vickiboykis.com/wp-content/uploads/2009/10/Page_112.jpg)
+[<img class="aligncenter size-full wp-image-1594" title="Page_1" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/10/Page_112.jpg" alt="Page_1" width="612" height="792" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/10/Page_112.jpg)
 
 Links:
 

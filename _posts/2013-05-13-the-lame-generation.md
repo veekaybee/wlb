@@ -18,7 +18,7 @@ tags:
   - Time
 ---
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2013/05/PAYWALL.png"><img class="aligncenter  wp-image-8708" alt="PAYWALL" src="http://blog.vickiboykis.com/wp-content/uploads/2013/05/PAYWALL-580x770.png" width="464" height="616" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/05/PAYWALL.png"><img class="aligncenter  wp-image-8708" alt="PAYWALL" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/05/PAYWALL-580x770.png" width="464" height="616" /></a>
 </p>
 
 <p style="text-align: center;">

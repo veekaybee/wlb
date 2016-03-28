@@ -13,7 +13,7 @@ categories:
 I love flowers, so here are some flowers in my new kitchen. They are tulips from [the white](http://stuffwhitepeoplelike.com/2008/02/03/48-whole-foods-and-grocery-co-ops/) [people store](http://stuffwhitepeoplelike.com/2008/02/03/48-whole-foods-and-grocery-co-ops/).  I love the late afternoon light in my kitchen. One day, Simba, I will show you all of our realm. Probably when we are unpacked more.
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2011/05/wpid-IMAG0782.jpg"><img class="aligncenter size-full wp-image-4927" title="wpid-IMAG0782.jpg" src="http://blog.vickiboykis.com/wp-content/uploads/2011/05/wpid-IMAG0782.jpg" alt="" width="350" height="583" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/05/wpid-IMAG0782.jpg"><img class="aligncenter size-full wp-image-4927" title="wpid-IMAG0782.jpg" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/05/wpid-IMAG0782.jpg" alt="" width="350" height="583" /></a>
 </p>
 
 <p style="text-align: center;">

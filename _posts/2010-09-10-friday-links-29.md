@@ -15,7 +15,7 @@ tags:
 Here&#8217;s a picture of the sunrise as seen from my balcony this morning. Which reminds me, mmm. Bacon.
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2010/09/DSC_0770.jpg"><img class="aligncenter size-full wp-image-3582" title="DSC_0770" src="http://blog.vickiboykis.com/wp-content/uploads/2010/09/DSC_0770.jpg" alt="" width="420" height="632" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/09/DSC_0770.jpg"><img class="aligncenter size-full wp-image-3582" title="DSC_0770" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/09/DSC_0770.jpg" alt="" width="420" height="632" /></a>
 </p>
 
 <p style="text-align: left;">
@@ -40,7 +40,7 @@ Here&#8217;s a picture of the sunrise as seen from my balcony this morning. Whic
   6. [Here&#8217;s a picture of the sunrise as seen from my balcony this morning. Which reminds me, mmm. Bacon.
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2010/09/DSC_0770.jpg"><img class="aligncenter size-full wp-image-3582" title="DSC_0770" src="http://blog.vickiboykis.com/wp-content/uploads/2010/09/DSC_0770.jpg" alt="" width="420" height="632" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/09/DSC_0770.jpg"><img class="aligncenter size-full wp-image-3582" title="DSC_0770" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/09/DSC_0770.jpg" alt="" width="420" height="632" /></a>
 </p>
 
 <p style="text-align: left;">

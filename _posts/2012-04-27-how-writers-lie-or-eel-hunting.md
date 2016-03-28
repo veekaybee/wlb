@@ -21,7 +21,7 @@ tags:
   - truth
   - writing
 ---
-[<img class="aligncenter size-full wp-image-6788" title="carnivalduet2" src="http://blog.vickiboykis.com/wp-content/uploads/2012/04/carnivalduet2.jpg" alt="" width="600" height="480" />](http://blog.vickiboykis.com/wp-content/uploads/2012/04/carnivalduet2.jpg)
+[<img class="aligncenter size-full wp-image-6788" title="carnivalduet2" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/04/carnivalduet2.jpg" alt="" width="600" height="480" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/04/carnivalduet2.jpg)
 
 <p style="text-align: center;">
   <em>Carnival Duet 2, Andrei Shwidiky</em>
@@ -55,7 +55,7 @@ Elif Batuman, one of my favorite writers (who else has the Twitter handle <a hre
 </div>
 
 <div>
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2012/04/Millais_Boyhood_of_Raleigh1.jpg"><img class="aligncenter size-full wp-image-6793" title="Millais_Boyhood_of_Raleigh" src="http://blog.vickiboykis.com/wp-content/uploads/2012/04/Millais_Boyhood_of_Raleigh1.jpg" alt="" width="512" height="432" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/04/Millais_Boyhood_of_Raleigh1.jpg"><img class="aligncenter size-full wp-image-6793" title="Millais_Boyhood_of_Raleigh" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/04/Millais_Boyhood_of_Raleigh1.jpg" alt="" width="512" height="432" /></a>
 </div>
 
 <div style="text-align: center;">
@@ -104,7 +104,7 @@ Elif Batuman, one of my favorite writers (who else has the Twitter handle <a hre
     </p>
     
     <p style="text-align: center;">
-      <a href="http://blog.vickiboykis.com/wp-content/uploads/2012/04/DSC_0647.jpg"><img class="aligncenter  wp-image-6796" title="DSC_0647" src="http://blog.vickiboykis.com/wp-content/uploads/2012/04/DSC_0647.jpg" alt="" width="501" height="333" /></a>
+      <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/04/DSC_0647.jpg"><img class="aligncenter  wp-image-6796" title="DSC_0647" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/04/DSC_0647.jpg" alt="" width="501" height="333" /></a>
     </p>
     
     <p style="text-align: center;">
@@ -119,7 +119,7 @@ Elif Batuman, one of my favorite writers (who else has the Twitter handle <a hre
   </p>
   
   <p>
-    <a href="http://blog.vickiboykis.com/wp-content/uploads/2012/04/Screen-shot-2012-04-27-at-7.07.50-AM.png"><img class="aligncenter size-full wp-image-6797" title="Screen shot 2012-04-27 at 7.07.50 AM" src="http://blog.vickiboykis.com/wp-content/uploads/2012/04/Screen-shot-2012-04-27-at-7.07.50-AM.png" alt="" width="452" height="325" /></a>
+    <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/04/Screen-shot-2012-04-27-at-7.07.50-AM.png"><img class="aligncenter size-full wp-image-6797" title="Screen shot 2012-04-27 at 7.07.50 AM" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/04/Screen-shot-2012-04-27-at-7.07.50-AM.png" alt="" width="452" height="325" /></a>
   </p>
   
   <p>
@@ -161,7 +161,7 @@ Elif Batuman, one of my favorite writers (who else has the Twitter handle <a hre
   </p>
   
   <p>
-    <a href="http://blog.vickiboykis.com/wp-content/uploads/2012/04/Screen-shot-2012-04-27-at-7.12.38-AM.png"><img class="aligncenter size-full wp-image-6798" title="Screen shot 2012-04-27 at 7.12.38 AM" src="http://blog.vickiboykis.com/wp-content/uploads/2012/04/Screen-shot-2012-04-27-at-7.12.38-AM.png" alt="" width="449" height="178" /></a>
+    <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/04/Screen-shot-2012-04-27-at-7.12.38-AM.png"><img class="aligncenter size-full wp-image-6798" title="Screen shot 2012-04-27 at 7.12.38 AM" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/04/Screen-shot-2012-04-27-at-7.12.38-AM.png" alt="" width="449" height="178" /></a>
   </p>
   
   <p>

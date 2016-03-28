@@ -21,7 +21,7 @@ Ah, I see [Hayden Panettiere has been](http://www.popsugar.com/Photos-Hayden-Pan
 
 > Wearing a neon pink string bikini, the &#8220;Heroes&#8221; star was spotted getting cozy poolside in Miami with boxing heavyweight champ Wladimir Klitschko, <a href="http://www.popsugar.com/6900547" target="_blank">Popsugar.com</a> reports.
 > 
-> [<img class="aligncenter size-full wp-image-2175" title="klitschko" src="http://blog.vickiboykis.com/wp-content/uploads/2010/01/klitschko.jpg" alt="" width="240" height="280" />](http://blog.vickiboykis.com/wp-content/uploads/2010/01/klitschko.jpg)
+> [<img class="aligncenter size-full wp-image-2175" title="klitschko" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/01/klitschko.jpg" alt="" width="240" height="280" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/01/klitschko.jpg)
 
 [A bit about Mr. K:](http://en.wikipedia.org/wiki/Wladimir_Klitschko)
 

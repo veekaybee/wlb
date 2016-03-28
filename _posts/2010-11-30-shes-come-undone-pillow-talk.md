@@ -19,7 +19,7 @@ I&#8217;ve been falling apart over the last couple of weeks.
 
 I&#8217;m not sure whether it&#8217;s the refugee lifestyle, the lack of husband, t[he commute](http://blog.vickiboykis.com/2010/11/22/in-philadelphi…es-an-engineer/), the [SKRUG](http://blog.vickiboykis.com/2010/11/18/skrug/), the lack of embassy networking events in Philadelphia, the GRE test looming on my calendar when I don&#8217;t even remember what the formula for a circle arc is, or the fact that this is what I see when I leave work (yes, antlers and the nose. _the nose_.):
 
-[<img class="aligncenter size-full wp-image-3947" title="wpid-IMAG0482.jpg" src="http://blog.vickiboykis.com/wp-content/uploads/2010/11/wpid-IMAG0482.jpg" alt="" width="500" height="300" />](http://blog.vickiboykis.com/wp-content/uploads/2010/11/wpid-IMAG0482.jpg)
+[<img class="aligncenter size-full wp-image-3947" title="wpid-IMAG0482.jpg" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/11/wpid-IMAG0482.jpg" alt="" width="500" height="300" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/11/wpid-IMAG0482.jpg)
 
 Mainly, I think it&#8217;s the pillows.
 
@@ -63,7 +63,7 @@ _P.S. Ok, I just googled it.  [I&#8217;ve been falling apart over the last coup
 
 I&#8217;m not sure whether it&#8217;s the refugee lifestyle, the lack of husband, t[he commute](http://blog.vickiboykis.com/2010/11/22/in-philadelphi…es-an-engineer/), the [SKRUG](http://blog.vickiboykis.com/2010/11/18/skrug/), the lack of embassy networking events in Philadelphia, the GRE test looming on my calendar when I don&#8217;t even remember what the formula for a circle arc is, or the fact that this is what I see when I leave work (yes, antlers and the nose. _the nose_.):
 
-[<img class="aligncenter size-full wp-image-3947" title="wpid-IMAG0482.jpg" src="http://blog.vickiboykis.com/wp-content/uploads/2010/11/wpid-IMAG0482.jpg" alt="" width="500" height="300" />](http://blog.vickiboykis.com/wp-content/uploads/2010/11/wpid-IMAG0482.jpg)
+[<img class="aligncenter size-full wp-image-3947" title="wpid-IMAG0482.jpg" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/11/wpid-IMAG0482.jpg" alt="" width="500" height="300" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/11/wpid-IMAG0482.jpg)
 
 Mainly, I think it&#8217;s the pillows.
 

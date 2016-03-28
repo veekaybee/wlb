@@ -14,7 +14,7 @@ tags:
   - philly
 ---
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2010/09/DSC01795.jpg"><img class="aligncenter size-full wp-image-3610" title="DSC01795" src="http://blog.vickiboykis.com/wp-content/uploads/2010/09/DSC01795.jpg" alt="" width="482" height="819" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/09/DSC01795.jpg"><img class="aligncenter size-full wp-image-3610" title="DSC01795" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/09/DSC01795.jpg" alt="" width="482" height="819" /></a>
 </p>
 
 Dear Blog Readers,
@@ -35,7 +35,7 @@ However, we have come to several realizations.
 
   * The [cost of living](http://www.bankrate.com/calculators/savings/moving-cost-of-living-calculator.aspx) is way too high for us to buy a house we&#8217;d like here, especially big enough for expanding our family with [Keeshonds](http://www.youtube.com/watch?v=JrcE4Kp3nTU) or having anyone stay over to visit beyond the one-bedroom condo we rent now. The key here is the mean home price difference.
 
-[<img class="aligncenter size-full wp-image-3609" title="Screen shot 2010-09-20 at 9.12.23 PM" src="http://blog.vickiboykis.com/wp-content/uploads/2010/09/Screen-shot-2010-09-20-at-9.12.23-PM.png" alt="" width="468" height="387" />](http://blog.vickiboykis.com/wp-content/uploads/2010/09/Screen-shot-2010-09-20-at-9.12.23-PM.png)
+[<img class="aligncenter size-full wp-image-3609" title="Screen shot 2010-09-20 at 9.12.23 PM" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/09/Screen-shot-2010-09-20-at-9.12.23-PM.png" alt="" width="468" height="387" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/09/Screen-shot-2010-09-20-at-9.12.23-PM.png)
 
   * <span style="color: #000000; -webkit-text-decorations-in-effect: none;">The guilt of living far away from family (especially aging grandparents who need to be helped) isn&#8217;t worth balancing out the pleasure we get from living here.</span>
   * If we continue to live the way we do, we will never grow up. It is too convenient and too comfortable to continue to live with minimal responsibilities, sans house, sans Keeshonds, and sans family.
@@ -47,7 +47,7 @@ The last one is most critical.
 I&#8217;m starting a new technical writing/project management job in Philadelphia in October, which I&#8217;m looking forward to very much because it will be a huge move forward in my career and I get to do more writing (God help us all.)  I am  sad to be leaving the immediate world of economics but, depending on what I decide, I may re-enter it again as a master&#8217;s student.
 
 So, like [<p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2010/09/DSC01795.jpg"><img class="aligncenter size-full wp-image-3610" title="DSC01795" src="http://blog.vickiboykis.com/wp-content/uploads/2010/09/DSC01795.jpg" alt="" width="482" height="819" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/09/DSC01795.jpg"><img class="aligncenter size-full wp-image-3610" title="DSC01795" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/09/DSC01795.jpg" alt="" width="482" height="819" /></a>
 </p>
 
 Dear Blog Readers,
@@ -68,7 +68,7 @@ However, we have come to several realizations.
 
   * The [cost of living](http://www.bankrate.com/calculators/savings/moving-cost-of-living-calculator.aspx) is way too high for us to buy a house we&#8217;d like here, especially big enough for expanding our family with [Keeshonds](http://www.youtube.com/watch?v=JrcE4Kp3nTU) or having anyone stay over to visit beyond the one-bedroom condo we rent now. The key here is the mean home price difference.
 
-[<img class="aligncenter size-full wp-image-3609" title="Screen shot 2010-09-20 at 9.12.23 PM" src="http://blog.vickiboykis.com/wp-content/uploads/2010/09/Screen-shot-2010-09-20-at-9.12.23-PM.png" alt="" width="468" height="387" />](http://blog.vickiboykis.com/wp-content/uploads/2010/09/Screen-shot-2010-09-20-at-9.12.23-PM.png)
+[<img class="aligncenter size-full wp-image-3609" title="Screen shot 2010-09-20 at 9.12.23 PM" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/09/Screen-shot-2010-09-20-at-9.12.23-PM.png" alt="" width="468" height="387" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/09/Screen-shot-2010-09-20-at-9.12.23-PM.png)
 
   * <span style="color: #000000; -webkit-text-decorations-in-effect: none;">The guilt of living far away from family (especially aging grandparents who need to be helped) isn&#8217;t worth balancing out the pleasure we get from living here.</span>
   * If we continue to live the way we do, we will never grow up. It is too convenient and too comfortable to continue to live with minimal responsibilities, sans house, sans Keeshonds, and sans family.
@@ -84,7 +84,7 @@ So, like ](http://modite.com/blog/2010/09/20/moving-to-a-new-city/) girls my a
 Luckily, economists believe that everything evens out in the long-run, which is what I&#8217;m gunning for as we move up and out.
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2010/09/DSC01839.jpg"><img class="aligncenter size-full wp-image-3611" title="DSC01839" src="http://blog.vickiboykis.com/wp-content/uploads/2010/09/DSC01839.jpg" alt="" width="753" height="1004" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/09/DSC01839.jpg"><img class="aligncenter size-full wp-image-3611" title="DSC01839" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/09/DSC01839.jpg" alt="" width="753" height="1004" /></a>
 </p>
 
 P.S. If you live in Philly and read this blog, holla.

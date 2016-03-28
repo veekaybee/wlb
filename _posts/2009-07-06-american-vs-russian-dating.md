@@ -17,7 +17,7 @@ tags:
   - Russia
 ---
 <div id="attachment_689" style="width: 467px" class="wp-caption aligncenter">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2009/07/soviet.jpg"><img class="size-full wp-image-689" title="soviet" src="http://blog.vickiboykis.com/wp-content/uploads/2009/07/soviet.jpg" alt="soviet" width="457" height="377" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/07/soviet.jpg"><img class="size-full wp-image-689" title="soviet" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/07/soviet.jpg" alt="soviet" width="457" height="377" /></a>
   
   <p class="wp-caption-text">
     Actual picture of my and Mr. B's wedding. From the 1920s. Also, Mr. B is a Bolshevik.

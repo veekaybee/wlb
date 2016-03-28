@@ -15,7 +15,7 @@ tags:
   - the goldfinch
 ---
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2014/03/o-THE-GOLDFINCH-900.jpg"><img class="aligncenter  wp-image-9604" alt="o-THE-GOLDFINCH-900" src="http://blog.vickiboykis.com/wp-content/uploads/2014/03/o-THE-GOLDFINCH-900-580x850.jpg" width="348" height="510" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2014/03/o-THE-GOLDFINCH-900.jpg"><img class="aligncenter  wp-image-9604" alt="o-THE-GOLDFINCH-900" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2014/03/o-THE-GOLDFINCH-900-580x850.jpg" width="348" height="510" /></a>
 </p>
 
 **Interviewer:**So. Vicki. You hated <a href="http://www.nytimes.com/2013/10/08/books/the-goldfinch-a-dickensian-novel-by-donna-tartt.html?pagewanted=all&_r=0" target="_blank">The Goldfinch</a>.

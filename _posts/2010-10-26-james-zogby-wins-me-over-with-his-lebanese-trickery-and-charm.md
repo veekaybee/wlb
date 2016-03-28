@@ -20,7 +20,7 @@ I was happy to learn that end of the universe -I mean Philly -has a little bit o
 
 Last night, I went to see [James Zogby](http://en.wikipedia.org/wiki/James_Zogby) speak about Arab-American and Middle Eastern perceptions of America at the [World Affairs Council of Philadelphia](http://www.wacphila.org/), located in a very snazzy building with a view of City Hall.
 
-<img style="display: block; margin-right: auto; margin-left: auto;" src="http://blog.vickiboykis.com/wp-content/uploads/2010/10/wpid-IMAG0452.jpg" alt="image" />
+<img style="display: block; margin-right: auto; margin-left: auto;" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/10/wpid-IMAG0452.jpg" alt="image" />
 
 He spoke about how bad our American media and our education system is at informing us about the world around us, which is what his new book is about. He started the lecture by asking people to [buy his book](http://www.aaiusa.org/pages/arab-voices) and maybe stick around for the lecture, because, after all, he was descended from Lebanese merchants, and he had a book to sell.  This immediately appealed to my Jewish entrepreneurial instincts.
 

@@ -17,7 +17,7 @@ tags:
 ---
 As you may recall, I was [super-hyped to receive my SAS book](http://support.sas.com/community/authors/authorline/2009/3_09/3_09b.html) to review from SAS Press.
 
-[<img class="aligncenter size-full wp-image-425" title="60864" src="http://blog.vickiboykis.com/wp-content/uploads/2009/05/60864.gif" alt="60864" width="108" height="130" />](http://blog.vickiboykis.com/wp-content/uploads/2009/05/60864.gif)
+[<img class="aligncenter size-full wp-image-425" title="60864" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/05/60864.gif" alt="60864" width="108" height="130" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/05/60864.gif)
 
 The book is _Learning SAS by Example: A Programmer&#8217;s Guide by Ron Cody_, and you can pick it up [here](http://www.sas.com/apps/pubscat/bookdetails.jsp?catid=1&pc=60864) or [here](http://www.amazon.com/Learning-SAS-Example-Programmers-Guide/dp/1599941651).
 
@@ -55,7 +55,7 @@ Some of the things I like about Learning by Example from the standpoint of a beg
     
     <p>
       <div id="attachment_427" style="width: 445px" class="wp-caption alignnone">
-        <a href="http://blog.vickiboykis.com/wp-content/uploads/2009/05/dsc01513.jpg"><img class="size-full wp-image-427" title="dsc01513" src="http://blog.vickiboykis.com/wp-content/uploads/2009/05/dsc01513.jpg" alt="dsc01513" width="435" height="171" /></a>
+        <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/05/dsc01513.jpg"><img class="size-full wp-image-427" title="dsc01513" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/05/dsc01513.jpg" alt="dsc01513" width="435" height="171" /></a>
         
         <p class="wp-caption-text">
           Yup, already all marked up.

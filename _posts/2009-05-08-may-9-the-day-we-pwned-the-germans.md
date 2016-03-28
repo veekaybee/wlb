@@ -22,7 +22,7 @@ World War II is kind of a Big Deal for Russians. As much as the Americans helped
 
 We celebrate it on May 9, which is [Victory Day](http://en.wikipedia.org/wiki/Victory_Day_(Eastern_Europe)) and a HUGE deal in Russia.   The way we remember it best is with the [lentochka Svetova Georgiya (St. George ribbon)](http://en.wikipedia.org/wiki/Ribbon_of_Saint_George), which commemorates the enormous sacrifices that ordinary Russians made to win against the Nazis.
 
-[<img class="aligncenter size-full wp-image-324" title="85px-ribbon_of_saint_george_tiedsvg" src="http://blog.vickiboykis.com/wp-content/uploads/2009/05/85px-ribbon_of_saint_george_tiedsvg.png" alt="85px-ribbon_of_saint_george_tiedsvg" width="85" height="120" />](http://blog.vickiboykis.com/wp-content/uploads/2009/05/85px-ribbon_of_saint_george_tiedsvg.png)
+[<img class="aligncenter size-full wp-image-324" title="85px-ribbon_of_saint_george_tiedsvg" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/05/85px-ribbon_of_saint_george_tiedsvg.png" alt="85px-ribbon_of_saint_george_tiedsvg" width="85" height="120" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/05/85px-ribbon_of_saint_george_tiedsvg.png)
 
 Within my own family, these stories aren&#8217;t too hard to find.  Many, many Russians on my dad&#8217;s side were conscripted to serve.  Many never came back.  One did.  My great-aunt Masha (Maria.)  When I last saw her, she was about 85 years old.  She still walks and she walks with a chest full of medals given to her by the Soviet government for bravery.  She served on the front, in the Baltic countries, as a radio transmitter, and as a woman.  I can&#8217;t say how proud this makes me of my family.
 

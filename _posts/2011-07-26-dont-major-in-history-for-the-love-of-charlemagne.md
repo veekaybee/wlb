@@ -19,7 +19,7 @@ Everyone got their outrage hats on?
 Here&#8217;s mine:
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2011/07/Turq-fascinator.jpg"><img class="aligncenter size-full wp-image-5359" title="Turq-fascinator" src="http://blog.vickiboykis.com/wp-content/uploads/2011/07/Turq-fascinator.jpg" alt="" width="301" height="420" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/07/Turq-fascinator.jpg"><img class="aligncenter size-full wp-image-5359" title="Turq-fascinator" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/07/Turq-fascinator.jpg" alt="" width="301" height="420" /></a>
 </p>
 
 Let&#8217;s go.

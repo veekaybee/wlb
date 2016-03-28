@@ -14,17 +14,17 @@ tags:
   - vegas
 ---
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2011/02/wpid-IMAG0629.jpg"><img class="aligncenter size-full wp-image-4427" title="wpid-IMAG0629.jpg" src="http://blog.vickiboykis.com/wp-content/uploads/2011/02/wpid-IMAG0629.jpg" alt="" width="300" height="500" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/02/wpid-IMAG0629.jpg"><img class="aligncenter size-full wp-image-4427" title="wpid-IMAG0629.jpg" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/02/wpid-IMAG0629.jpg" alt="" width="300" height="500" /></a>
 </p>
 
 There is a Russian joke that has a man going back and forth from Odessa to Moscow, Moscow to Odessa. As soon as he gets to one place, he turns right around and goes to the other.  A man caught up to him and asked, &#8220;What are you doing?&#8221;  The man replied, &#8220;The destinations are crap, but oh, the journey is wonderful.&#8221;
 
-[<img class="aligncenter size-full wp-image-4432" title="wpid-IMAG0627.jpg" src="http://blog.vickiboykis.com/wp-content/uploads/2011/02/wpid-IMAG0627.jpg" alt="" width="500" height="300" />](http://blog.vickiboykis.com/wp-content/uploads/2011/02/wpid-IMAG0627.jpg)
+[<img class="aligncenter size-full wp-image-4432" title="wpid-IMAG0627.jpg" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/02/wpid-IMAG0627.jpg" alt="" width="500" height="300" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/02/wpid-IMAG0627.jpg)
 
 I love travel, and I don&#8217;t know what it is about planes and cars and trains (not so much buses) that I love so much. But I do.  I think it&#8217;s because I&#8217;m reminded of how small and insignificant our problems really are as I see cars the size of ants, somber mountains, and endless clouds.
 
 <p style="text-align: left;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2011/02/wpid-IMAG0630.jpg"><img class="aligncenter size-full wp-image-4428" title="wpid-IMAG0630.jpg" src="http://blog.vickiboykis.com/wp-content/uploads/2011/02/wpid-IMAG0630.jpg" alt="" width="350" height="583" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/02/wpid-IMAG0630.jpg"><img class="aligncenter size-full wp-image-4428" title="wpid-IMAG0630.jpg" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/02/wpid-IMAG0630.jpg" alt="" width="350" height="583" /></a>
 </p>
 
 <p style="text-align: left;">

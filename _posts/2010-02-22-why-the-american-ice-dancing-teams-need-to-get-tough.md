@@ -38,5 +38,5 @@ tags:
 </p>
 
 <p style="text-align: left;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2010/02/scan0007.jpg"><img class="aligncenter size-full wp-image-2390" title="scan0007" src="http://blog.vickiboykis.com/wp-content/uploads/2010/02/scan0007.jpg" alt="" width="435" height="517" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/02/scan0007.jpg"><img class="aligncenter size-full wp-image-2390" title="scan0007" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/02/scan0007.jpg" alt="" width="435" height="517" /></a>
 </p>

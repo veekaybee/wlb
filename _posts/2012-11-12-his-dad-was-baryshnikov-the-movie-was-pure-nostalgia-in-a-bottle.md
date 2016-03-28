@@ -27,7 +27,7 @@ Play this as you read:
 
 &nbsp;
 
-[<img class="aligncenter size-full wp-image-7831" title="Screen shot 2012-11-12 at 7.36.43 AM" src="http://blog.vickiboykis.com/wp-content/uploads/2012/11/Screen-shot-2012-11-12-at-7.36.43-AM.png" alt="" width="680" height="400" />](http://blog.vickiboykis.com/wp-content/uploads/2012/11/Screen-shot-2012-11-12-at-7.36.43-AM.png)
+[<img class="aligncenter size-full wp-image-7831" title="Screen shot 2012-11-12 at 7.36.43 AM" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/11/Screen-shot-2012-11-12-at-7.36.43-AM.png" alt="" width="680" height="400" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/11/Screen-shot-2012-11-12-at-7.36.43-AM.png)
 
 &nbsp;
 
@@ -37,19 +37,19 @@ Play this as you read:
 
 The story is about Boris Fishkin who is Jewish and is in a special ballet technical school in Moscow.  He is the smallest kid in his class. He can&#8217;t lift any of the girls. And, he lives with his mom, who is constantly sleeping around with foreign men in order to fill something inside of her that is unfillable since Borya&#8217;s father disappeared. No one knows where he is.  He divides his time between dreaming of performing at the Bolshoi, even though he&#8217;s an awful ballet dancer, and fencing stolen goods and trading illegal currency (dollars.)
 
-[<img class="aligncenter size-full wp-image-7832" title="Screen shot 2012-11-12 at 7.37.42 AM" src="http://blog.vickiboykis.com/wp-content/uploads/2012/11/Screen-shot-2012-11-12-at-7.37.42-AM.png" alt="" width="671" height="367" />](http://blog.vickiboykis.com/wp-content/uploads/2012/11/Screen-shot-2012-11-12-at-7.37.42-AM.png)
+[<img class="aligncenter size-full wp-image-7832" title="Screen shot 2012-11-12 at 7.37.42 AM" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/11/Screen-shot-2012-11-12-at-7.37.42-AM.png" alt="" width="671" height="367" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/11/Screen-shot-2012-11-12-at-7.37.42-AM.png)
 
 Oh, by the way, did I mention this is a comedy?  This is how Russian comedies are.
 
 The movie is all about the struggle against conformity, both in ballet and within the Soviet system, a system that is literally about to split apart at the seams in chaos, and family dynamics. Also about being the weirdest kid in your class.
 
-[<img class="aligncenter size-full wp-image-7833" title="Screen shot 2012-11-12 at 7.46.29 AM" src="http://blog.vickiboykis.com/wp-content/uploads/2012/11/Screen-shot-2012-11-12-at-7.46.29-AM.png" alt="" width="646" height="361" />](http://blog.vickiboykis.com/wp-content/uploads/2012/11/Screen-shot-2012-11-12-at-7.46.29-AM.png)
+[<img class="aligncenter size-full wp-image-7833" title="Screen shot 2012-11-12 at 7.46.29 AM" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/11/Screen-shot-2012-11-12-at-7.46.29-AM.png" alt="" width="646" height="361" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/11/Screen-shot-2012-11-12-at-7.46.29-AM.png)
 
 &nbsp;
 
 The movie is rich with that nostalgic detail that permeates every ex-Soviet, and which I&#8217;ve written about of the 1974-era movie <a href="http://blog.vickiboykis.com/2011/01/movies-the-vanished-empire/" target="_blank">The Vanished Empire</a>.  The dingy apartments. Boney-M blasting while 20 people dance in a single room.
 
-[<img class="aligncenter size-full wp-image-7836" title="Screen shot 2012-11-12 at 7.55.04 AM" src="http://blog.vickiboykis.com/wp-content/uploads/2012/11/Screen-shot-2012-11-12-at-7.55.04-AM.png" alt="" width="642" height="358" />](http://blog.vickiboykis.com/wp-content/uploads/2012/11/Screen-shot-2012-11-12-at-7.55.04-AM.png)
+[<img class="aligncenter size-full wp-image-7836" title="Screen shot 2012-11-12 at 7.55.04 AM" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/11/Screen-shot-2012-11-12-at-7.55.04-AM.png" alt="" width="642" height="358" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/11/Screen-shot-2012-11-12-at-7.55.04-AM.png)
 
 &nbsp;
 
@@ -59,7 +59,7 @@ Pirated VHS tapes playing on Soviet-made equipment.  80s-era video games of 70s
 
 I think when we are little, we always think the time that came before us was somehow weird and different, and the day we are born, everything changes and moves into the modern age. I sat, drinking in the details of that year like a parched man in a desert. Everything was the same as the world always was, the same as it will be. The only thing that changes is nuances.
 
-[<img class="aligncenter size-full wp-image-7834" title="Screen shot 2012-11-12 at 7.46.34 AM" src="http://blog.vickiboykis.com/wp-content/uploads/2012/11/Screen-shot-2012-11-12-at-7.46.34-AM.png" alt="" width="589" height="351" />](http://blog.vickiboykis.com/wp-content/uploads/2012/11/Screen-shot-2012-11-12-at-7.46.34-AM.png)
+[<img class="aligncenter size-full wp-image-7834" title="Screen shot 2012-11-12 at 7.46.34 AM" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/11/Screen-shot-2012-11-12-at-7.46.34-AM.png" alt="" width="589" height="351" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/11/Screen-shot-2012-11-12-at-7.46.34-AM.png)
 
 &nbsp;
 
@@ -69,9 +69,9 @@ Boris&#8217;s mom somehow manages to smuggle in a pirated copy of <a href="http:
 
 Ironically, I used to watch this movie on overwritten VHS when I was small, too, hoping to understand Russia and where I came from, in the pre-internet days.
 
-[<img class="aligncenter size-full wp-image-7837" title="Screen shot 2012-11-12 at 7.55.19 AM" src="http://blog.vickiboykis.com/wp-content/uploads/2012/11/Screen-shot-2012-11-12-at-7.55.19-AM.png" alt="" width="575" height="340" />](http://blog.vickiboykis.com/wp-content/uploads/2012/11/Screen-shot-2012-11-12-at-7.55.19-AM.png)
+[<img class="aligncenter size-full wp-image-7837" title="Screen shot 2012-11-12 at 7.55.19 AM" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/11/Screen-shot-2012-11-12-at-7.55.19-AM.png" alt="" width="575" height="340" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/11/Screen-shot-2012-11-12-at-7.55.19-AM.png)
 
-[<img class="aligncenter size-full wp-image-7838" title="Screen shot 2012-11-12 at 7.55.31 AM" src="http://blog.vickiboykis.com/wp-content/uploads/2012/11/Screen-shot-2012-11-12-at-7.55.31-AM.png" alt="" width="660" height="393" />](http://blog.vickiboykis.com/wp-content/uploads/2012/11/Screen-shot-2012-11-12-at-7.55.31-AM.png)
+[<img class="aligncenter size-full wp-image-7838" title="Screen shot 2012-11-12 at 7.55.31 AM" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/11/Screen-shot-2012-11-12-at-7.55.31-AM.png" alt="" width="660" height="393" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/11/Screen-shot-2012-11-12-at-7.55.31-AM.png)
 
 The main actor is great. The nostalgia is great. The ending is cute.
 

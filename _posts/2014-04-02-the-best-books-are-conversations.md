@@ -9,7 +9,7 @@ permalink: /2014/04/the-best-books-are-conversations/
 categories:
   - Uncategorized
 ---
-[<img class="aligncenter size-medium wp-image-9595" alt="tea-party-1960.jpg!Large" src="http://blog.vickiboykis.com/wp-content/uploads/2014/03/tea-party-1960.jpgLarge-580x424.jpg" width="580" height="424" />](http://blog.vickiboykis.com/wp-content/uploads/2014/03/tea-party-1960.jpgLarge.jpg)
+[<img class="aligncenter size-medium wp-image-9595" alt="tea-party-1960.jpg!Large" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2014/03/tea-party-1960.jpgLarge-580x424.jpg" width="580" height="424" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2014/03/tea-party-1960.jpgLarge.jpg)
 
 I like to read so much because I&#8217;m an introvert.
 
@@ -23,7 +23,7 @@ In addition to looking for generally-interesting books to read, I also specifica
 
 <span style="line-height: 1.7;">The American press thought so, too, because  As soon as she came out, she was first covered by the <a href="http://www.tabletmag.com/jewish-life-and-religion/143070/soviet-cooking-memoir" target="_blank">Jewish-oriented sites</a>, then the <a href="http://www.golos-ameriki.ru/content/anya-von-bremzen-soviet-cooking/1792065.html" target="_blank">Russian-oriented sites</a>, then, of course, <a href="http://www.mprnews.org/story/npr/223053778" target="_blank">NPR</a> and<a href="http://www.bookslut.com/nonfiction/2013_10_020350.php" target="_blank"> literary sites</a> glommed on.</span>
 
-[<img class="aligncenter size-full wp-image-9597" alt="9780307886811.1.zoom" src="http://blog.vickiboykis.com/wp-content/uploads/2014/03/9780307886811.1.zoom_.jpg" width="300" height="458" />](http://blog.vickiboykis.com/wp-content/uploads/2014/03/9780307886811.1.zoom_.jpg)
+[<img class="aligncenter size-full wp-image-9597" alt="9780307886811.1.zoom" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2014/03/9780307886811.1.zoom_.jpg" width="300" height="458" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2014/03/9780307886811.1.zoom_.jpg)
 
 I went into this book with huge expectations, both to validate my experiences with Soviet and Russian food. I was also looking for a friend who I could relate to, to share immigrant horror stories with me.
 
@@ -47,7 +47,7 @@ But check out that first paragraph! I already had to struggle to care about thi
 
 On the other hand, there&#8217;s <a href="http://jennifereremeeva.com/books/lenin-lives-next-door/" target="_blank">Lenin Lives Next Door</a>. It was sent to me gratis by Jennifer, <a href="http://www.russialite.com/" target="_blank">whose blog</a> I&#8217;ve been reading for a couple years now,  but I would have definitely paid for it.  Although I know Jennifer a bit through her blog and Twitter, from the moment I opened the cover, I was sitting next to her on a couch, gossiping. I was involved in her adventure.
 
-[<img class="aligncenter" alt="512dfP11DbL" src="http://blog.vickiboykis.com/wp-content/uploads/2014/03/512dfP11DbL.jpg" width="333" height="500" />](http://blog.vickiboykis.com/wp-content/uploads/2014/03/512dfP11DbL.jpg)
+[<img class="aligncenter" alt="512dfP11DbL" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2014/03/512dfP11DbL.jpg" width="333" height="500" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2014/03/512dfP11DbL.jpg)
 
 Her style is light, conversational, and easily-accessible. &#8220;Hey, here&#8217;s a crazy thing that happened to me,&#8221; she says, &#8220;and I&#8217;m sharing it with you.&#8221;
 

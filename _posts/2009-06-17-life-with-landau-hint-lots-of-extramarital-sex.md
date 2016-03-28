@@ -20,7 +20,7 @@ tags:
 Before I knew much about [Lev Landau](http://en.wikipedia.org/wiki/Lev_Davidovich_Landau), the renowned Russian Jewish Nobel Prize-winning physicist, I would always compare my life to Mr. B with him, because the main facts I knew about Landau were that 1) he was a genius in theoretical physics and math and 2) constantly misplaced his socks.
 
 <div id="attachment_542" style="width: 229px" class="wp-caption aligncenter">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2009/06/landau.gif"><img class="size-full wp-image-542" title="landau" src="http://blog.vickiboykis.com/wp-content/uploads/2009/06/landau.gif" alt="landau" width="219" height="292" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/06/landau.gif"><img class="size-full wp-image-542" title="landau" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/06/landau.gif" alt="landau" width="219" height="292" /></a>
   
   <p class="wp-caption-text">
     What were the theoretical odds of him picking up ladies with that hair? Turns out, INFINITY TO ONE.

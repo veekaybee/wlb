@@ -14,7 +14,7 @@ tags:
 ---
 The best thing about this week?  It&#8217;s Octopus Friday.  Which means nothing more than the fact that I drew a very anatomically incorrect and possibly hideous octopus for Friday.
 
-[<img class="aligncenter size-full wp-image-2584" title="Friday Octopus" src="http://blog.vickiboykis.com/wp-content/uploads/2010/03/Friday-Octopus.png" alt="" width="430" height="574" />](http://blog.vickiboykis.com/wp-content/uploads/2010/03/Friday-Octopus.png)
+[<img class="aligncenter size-full wp-image-2584" title="Friday Octopus" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/03/Friday-Octopus.png" alt="" width="430" height="574" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/03/Friday-Octopus.png)
 
 And the insane abundance of great links I&#8217;ve come across.
 
@@ -30,7 +30,7 @@ And the insane abundance of great links I&#8217;ve come across.
 
   1. [The best thing about this week?  It&#8217;s Octopus Friday.  Which means nothing more than the fact that I drew a very anatomically incorrect and possibly hideous octopus for Friday.
 
-[<img class="aligncenter size-full wp-image-2584" title="Friday Octopus" src="http://blog.vickiboykis.com/wp-content/uploads/2010/03/Friday-Octopus.png" alt="" width="430" height="574" />](http://blog.vickiboykis.com/wp-content/uploads/2010/03/Friday-Octopus.png)
+[<img class="aligncenter size-full wp-image-2584" title="Friday Octopus" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/03/Friday-Octopus.png" alt="" width="430" height="574" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/03/Friday-Octopus.png)
 
 And the insane abundance of great links I&#8217;ve come across.
 
@@ -52,7 +52,7 @@ And the insane abundance of great links I&#8217;ve come across.
   6. [Russians are rude](http://www.rferl.org/content/Take_Zat/1986189.html)
   7. The [The best thing about this week?  It&#8217;s Octopus Friday.  Which means nothing more than the fact that I drew a very anatomically incorrect and possibly hideous octopus for Friday.
 
-[<img class="aligncenter size-full wp-image-2584" title="Friday Octopus" src="http://blog.vickiboykis.com/wp-content/uploads/2010/03/Friday-Octopus.png" alt="" width="430" height="574" />](http://blog.vickiboykis.com/wp-content/uploads/2010/03/Friday-Octopus.png)
+[<img class="aligncenter size-full wp-image-2584" title="Friday Octopus" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/03/Friday-Octopus.png" alt="" width="430" height="574" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/03/Friday-Octopus.png)
 
 And the insane abundance of great links I&#8217;ve come across.
 
@@ -68,7 +68,7 @@ And the insane abundance of great links I&#8217;ve come across.
 
   1. [The best thing about this week?  It&#8217;s Octopus Friday.  Which means nothing more than the fact that I drew a very anatomically incorrect and possibly hideous octopus for Friday.
 
-[<img class="aligncenter size-full wp-image-2584" title="Friday Octopus" src="http://blog.vickiboykis.com/wp-content/uploads/2010/03/Friday-Octopus.png" alt="" width="430" height="574" />](http://blog.vickiboykis.com/wp-content/uploads/2010/03/Friday-Octopus.png)
+[<img class="aligncenter size-full wp-image-2584" title="Friday Octopus" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/03/Friday-Octopus.png" alt="" width="430" height="574" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/03/Friday-Octopus.png)
 
 And the insane abundance of great links I&#8217;ve come across.
 

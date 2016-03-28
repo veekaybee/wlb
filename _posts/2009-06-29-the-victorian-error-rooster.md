@@ -21,7 +21,7 @@ tags:
 
 <p style="text-align: left;">
   <div id="attachment_616" style="width: 493px" class="wp-caption aligncenter">
-    <a href="http://blog.vickiboykis.com/wp-content/uploads/2009/06/rooster.jpg"><img class="size-full wp-image-616" title="rooster" src="http://blog.vickiboykis.com/wp-content/uploads/2009/06/rooster.jpg" alt="The exact rooster in question." width="483" height="363" /></a>
+    <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/06/rooster.jpg"><img class="size-full wp-image-616" title="rooster" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/06/rooster.jpg" alt="The exact rooster in question." width="483" height="363" /></a>
     
     <p class="wp-caption-text">
       Cock-a-doodle-torture-a-Jew

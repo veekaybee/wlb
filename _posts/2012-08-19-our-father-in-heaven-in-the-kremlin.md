@@ -54,12 +54,12 @@ Their &#8220;trial&#8221; just wrapped up on Friday. In it, they were declared g
 But because it coincided with Putin&#8217;s &#8220;re-election&#8221; &#8220;campaign,&#8221; the government decided to target Pussy Riot and turn to the one thing the Russian government has always known how to do: rob people of their humanity, in this case, by putting the accused in a container known as &#8220;the aquarium&#8221;:
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2012/08/012.jpeg"><img class="aligncenter  wp-image-7365" title="012" src="http://blog.vickiboykis.com/wp-content/uploads/2012/08/012.jpeg" alt="" width="447" height="293" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/08/012.jpeg"><img class="aligncenter  wp-image-7365" title="012" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/08/012.jpeg" alt="" width="447" height="293" /></a>
 </p>
 
 and conduct show trials that scare me in the way that, in order to conduct research for my novel  I&#8217;ve only had to read the news from Moscow this weekend.   Here is a screenshot from <a href="http://academos.ro/sites/default/files/fitzpatrick_-_everyday_stalinism.pdf" target="_blank">a book I&#8217;m reading right now</a> about the 1930s:
 
-[<img title="Screen shot 2012-08-19 at 9.41.03 PM" src="http://blog.vickiboykis.com/wp-content/uploads/2012/08/Screen-shot-2012-08-19-at-9.41.03-PM.png" alt="" width="531" height="193" />](http://blog.vickiboykis.com/wp-content/uploads/2012/08/Screen-shot-2012-08-19-at-9.41.03-PM.png)
+[<img title="Screen shot 2012-08-19 at 9.41.03 PM" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/08/Screen-shot-2012-08-19-at-9.41.03-PM.png" alt="" width="531" height="193" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/08/Screen-shot-2012-08-19-at-9.41.03-PM.png)
 
 These women <a href="http://eng-pussy-riot.livejournal.com/4602.html" target="_blank">have kept their humanity</a> and read composed and thought-out statements given what they&#8217;ve been through over the past several weeks.
 
@@ -73,7 +73,7 @@ Is it  also right to arrest national chess hero Garry Kasparov [for the mere fa
 
 At least he has still maintained his sense of humor so far:
 
-[<img class="aligncenter size-full wp-image-7369" title="Screen shot 2012-08-19 at 9.25.48 PM" src="http://blog.vickiboykis.com/wp-content/uploads/2012/08/Screen-shot-2012-08-19-at-9.25.48-PM.png" alt="" width="496" height="178" />](http://blog.vickiboykis.com/wp-content/uploads/2012/08/Screen-shot-2012-08-19-at-9.25.48-PM.png)
+[<img class="aligncenter size-full wp-image-7369" title="Screen shot 2012-08-19 at 9.25.48 PM" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/08/Screen-shot-2012-08-19-at-9.25.48-PM.png" alt="" width="496" height="178" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/08/Screen-shot-2012-08-19-at-9.25.48-PM.png)
 
 > _&#8220;I&#8217;m sorry, if the policeman hurt his hand when he was beating me on the head.&#8221;_
 

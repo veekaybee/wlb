@@ -23,7 +23,7 @@ tags:
 Last weekend, I decided I needed a manicure, mostly because I was terrified of my hands:
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2011/04/Werewolf_Claw.jpg"><img class="size-full wp-image-4726  aligncenter" title="Werewolf_Claw" src="http://blog.vickiboykis.com/wp-content/uploads/2011/04/Werewolf_Claw.jpg" alt="" width="120" height="123" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/04/Werewolf_Claw.jpg"><img class="size-full wp-image-4726  aligncenter" title="Werewolf_Claw" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/04/Werewolf_Claw.jpg" alt="" width="120" height="123" /></a>
 </p>
 
 I can&#8217;t do my own manicures because I am TERRIBLE with beauty products. I have no idea what the difference between an emory board and blush is, I don&#8217;t wear makeup on a day-to-day basis, and I&#8217;m scared of the makeup counter at department stores because they always look at me like I&#8217;m a charity case. However, I&#8217;ve learned all about [Sephora](http://en.wikipedia.org/wiki/Sephora) so that I can discuss makeup with other girls without seeming like a leper (&#8220;Did you know they have THE BEST foundation???&#8221;)
@@ -31,7 +31,7 @@ I can&#8217;t do my own manicures because I am TERRIBLE with beauty products. I 
 The fact that I can&#8217;t do manicures and the fact that I needed one was a terrible Sophie&#8217;s Choice for me because getting a manicure means spending money, which goes against [everything](http://blog.vickiboykis.com/2011/03/28/how-much-does-it-take-to-plan-a-vacation-two-jewish-moms-and-three-months/) [Last weekend, I decided I needed a manicure, mostly because I was terrified of my hands:
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2011/04/Werewolf_Claw.jpg"><img class="size-full wp-image-4726  aligncenter" title="Werewolf_Claw" src="http://blog.vickiboykis.com/wp-content/uploads/2011/04/Werewolf_Claw.jpg" alt="" width="120" height="123" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/04/Werewolf_Claw.jpg"><img class="size-full wp-image-4726  aligncenter" title="Werewolf_Claw" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/04/Werewolf_Claw.jpg" alt="" width="120" height="123" /></a>
 </p>
 
 I can&#8217;t do my own manicures because I am TERRIBLE with beauty products. I have no idea what the difference between an emory board and blush is, I don&#8217;t wear makeup on a day-to-day basis, and I&#8217;m scared of the makeup counter at department stores because they always look at me like I&#8217;m a charity case. However, I&#8217;ve learned all about [Sephora](http://en.wikipedia.org/wiki/Sephora) so that I can discuss makeup with other girls without seeming like a leper (&#8220;Did you know they have THE BEST foundation???&#8221;)
@@ -44,7 +44,7 @@ Anyway, I felt so good about supporting a small immigrant business that I didn&#
 
 So, this Saturday, I decided to try and adhere to the &#8220;quality over quantity&#8221; mantra that Mr. B has been teaching me over these past two years. I sucked it up, put on my big-girl panties, and went to an [actual very nice fancy salon](http://www.davidjwitchell.com/).  If you saw a girl holding flipflops, walking down [Newtown&#8217;s](http://boro.newtown.pa.us/history.html) Main Street at 7:50 a.m. this Saturday, that was me.
 
-[<img class="aligncenter size-full wp-image-4728" title="wpid-IMAG0721.jpg" src="http://blog.vickiboykis.com/wp-content/uploads/2011/04/wpid-IMAG0721.jpg" alt="" width="500" height="300" />](http://blog.vickiboykis.com/wp-content/uploads/2011/04/wpid-IMAG0721.jpg)
+[<img class="aligncenter size-full wp-image-4728" title="wpid-IMAG0721.jpg" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/04/wpid-IMAG0721.jpg" alt="" width="500" height="300" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/04/wpid-IMAG0721.jpg)
 
 As soon as I walked in, I could tell everyone was hotter than me, which is always a good sign. Also, I could tell everyone was American, which was also an excellent sign, because my Korean is rusty.  However, as soon as I sat down at my manicure, I could tell the manicurist (and my pedicurist) were Russian.   OBVIOUSLY.  So I was forced to pull [a Mary H.K. Choi](http://opinionator.blogs.nytimes.com/2010/11/10/going-korean/).
 
@@ -59,7 +59,7 @@ However, unlike Mary, I have the lucky  trump card:
 Which is why I married Mr. B in the first place. So I can pull the card out with random Russian women.
 
 <div id="attachment_4732" style="width: 514px" class="wp-caption aligncenter">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2011/04/DSC_0355.jpg"><img class="size-full wp-image-4732" title="DSC_0355" src="http://blog.vickiboykis.com/wp-content/uploads/2011/04/DSC_0355.jpg" alt="" width="504" height="335" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/04/DSC_0355.jpg"><img class="size-full wp-image-4732" title="DSC_0355" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/04/DSC_0355.jpg" alt="" width="504" height="335" /></a>
   
   <p class="wp-caption-text">
     Ladies, I've hit the jackpot. But it's a Jewish jackpot, so it's only like four dollars and thirty-five cents.
@@ -87,5 +87,5 @@ However, I have to say that all the services were extremely professional and I h
 Long story short, I finally have a beautiful manicure that is bullet-proof, stain-proof, chip-proof, and Russian-auntie-judgment-proof.  It&#8217;s the Mr. B of manicures.
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2011/04/wpid-IMAG0724.jpg"><img class="aligncenter size-full wp-image-4733" title="wpid-IMAG0724.jpg" src="http://blog.vickiboykis.com/wp-content/uploads/2011/04/wpid-IMAG0724.jpg" alt="" width="350" height="583" /></a>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/04/wpid-IMAG0724.jpg"><img class="aligncenter size-full wp-image-4733" title="wpid-IMAG0724.jpg" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/04/wpid-IMAG0724.jpg" alt="" width="350" height="583" /></a>
 </p>
