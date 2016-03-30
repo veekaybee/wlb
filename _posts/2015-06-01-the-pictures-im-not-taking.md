@@ -24,17 +24,17 @@ I wish I had pictures of our living room. We started out with just a Pack n Play
 
 This is how it started:
 
-[<img class="aligncenter  wp-image-9959" src="http://blog.vickiboykis.com/wp-content/uploads/2015/05/IMG_20150323_102052-580x435.jpg" alt="IMG_20150323_102052" width="393" height="295" />](http://blog.vickiboykis.com/wp-content/uploads/2015/05/IMG_20150323_102052.jpg)
+[<img class="aligncenter  wp-image-9959" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2015/05/IMG_20150323_102052-580x435.jpg" alt="IMG_20150323_102052" width="393" height="295" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2015/05/IMG_20150323_102052.jpg)
 
 This is how it was a month ago:
 
-[<img class="aligncenter  wp-image-9960" src="http://blog.vickiboykis.com/wp-content/uploads/2015/05/IMG_20150428_062430-580x773.jpg" alt="IMG_20150428_062430" width="401" height="534" />](http://blog.vickiboykis.com/wp-content/uploads/2015/05/IMG_20150428_062430.jpg)
+[<img class="aligncenter  wp-image-9960" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2015/05/IMG_20150428_062430-580x773.jpg" alt="IMG_20150428_062430" width="401" height="534" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2015/05/IMG_20150428_062430.jpg)
 
 &nbsp;
 
 And this is how it is now, completely 100% overtaken by all of her things.
 
-[<img class="aligncenter  wp-image-9961" src="http://blog.vickiboykis.com/wp-content/uploads/2015/05/IMG_20150531_201845314-580x1031.jpg" alt="IMG_20150531_201845314" width="394" height="700" />](http://blog.vickiboykis.com/wp-content/uploads/2015/05/IMG_20150531_201845314.jpg)
+[<img class="aligncenter  wp-image-9961" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2015/05/IMG_20150531_201845314-580x1031.jpg" alt="IMG_20150531_201845314" width="394" height="700" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2015/05/IMG_20150531_201845314.jpg)
 
 &nbsp;
 

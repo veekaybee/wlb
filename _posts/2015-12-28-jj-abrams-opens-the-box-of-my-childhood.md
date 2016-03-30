@@ -48,7 +48,7 @@ One day, I discovered the plastic packaging of the Star Wars trilogy on VHS, six
 
 I liked the heroic portrayal of the faces on the jacket, surrounded by the vastness of open space.
 
-[<img class="aligncenter size-medium wp-image-10100" src="http://blog.vickiboykis.com/wp-content/uploads/2015/12/6155076887_36059d7953_z-580x435.jpg" alt="6155076887_36059d7953_z" width="580" height="435" />](http://blog.vickiboykis.com/wp-content/uploads/2015/12/6155076887_36059d7953_z.jpg)
+[<img class="aligncenter size-medium wp-image-10100" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2015/12/6155076887_36059d7953_z-580x435.jpg" alt="6155076887_36059d7953_z" width="580" height="435" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2015/12/6155076887_36059d7953_z.jpg)
 
 The heft of the three VHS tapes was what impressed me the most, though. The movies just seemed so substantial, definitive. They looked like it might be a good, long story.
 
@@ -98,7 +98,7 @@ I recruited my old friends to reshoot Star Wars on our home video camcorder, wit
 
 I wrote this thing, which I still have, unfortunately:
 
-[<img class="aligncenter size-medium wp-image-10101" src="http://blog.vickiboykis.com/wp-content/uploads/2015/12/IMG_20151228_194926405-580x1031.jpg" alt="IMG_20151228_194926405" width="580" height="1031" />](http://blog.vickiboykis.com/wp-content/uploads/2015/12/IMG_20151228_194926405.jpg)
+[<img class="aligncenter size-medium wp-image-10101" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2015/12/IMG_20151228_194926405-580x1031.jpg" alt="IMG_20151228_194926405" width="580" height="1031" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2015/12/IMG_20151228_194926405.jpg)
 
 At some point, I probably was single-handedly supporting George Lucas through merchandising and creating massive amounts of copyright infringement.
 
@@ -108,7 +108,7 @@ The idea of the Force out there  existing anchored me. Whenever I was having a 
 
 At night, if I felt like I was close to crying, I closed my eyes and visualized the second before a ship goes into light speed, the quiet anticipation, the pregnant pause before the adventure.
 
-[<img class="aligncenter size-medium wp-image-10102" src="http://blog.vickiboykis.com/wp-content/uploads/2015/12/hyperdrive-star-wars-science-fact-friday-580x363.jpg" alt="hyperdrive-star-wars-science-fact-friday" width="580" height="363" />](http://blog.vickiboykis.com/wp-content/uploads/2015/12/hyperdrive-star-wars-science-fact-friday.jpg)
+[<img class="aligncenter size-medium wp-image-10102" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2015/12/hyperdrive-star-wars-science-fact-friday-580x363.jpg" alt="hyperdrive-star-wars-science-fact-friday" width="580" height="363" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2015/12/hyperdrive-star-wars-science-fact-friday.jpg)
 
 The thought of the moment before a starship takes off somehow was so serious to me that I calmed down and became serious myself, and fell asleep. I still use this technique today.
 
@@ -118,7 +118,7 @@ But, like all childhood obsessions, it smoldered for a while before quietly begi
 
 The recent Disney movie _Inside Out_, about a girl, Riley, whose family moves to San Francisco, features a similar concept. Riley has an imaginary friend, Bing Bong, who she used to play with all the time when she was little. He&#8217;s part elephant and all fun.
 
-[<img class="aligncenter size-medium wp-image-10103" src="http://blog.vickiboykis.com/wp-content/uploads/2015/12/Snapshot-2015-05-07-at-10_59_16-PM-183855433-1024x576-580x326.jpg" alt="Snapshot-2015-05-07-at-10_59_16-PM-183855433-1024x576" width="580" height="326" />](http://blog.vickiboykis.com/wp-content/uploads/2015/12/Snapshot-2015-05-07-at-10_59_16-PM-183855433-1024x576.jpg)
+[<img class="aligncenter size-medium wp-image-10103" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2015/12/Snapshot-2015-05-07-at-10_59_16-PM-183855433-1024x576-580x326.jpg" alt="Snapshot-2015-05-07-at-10_59_16-PM-183855433-1024x576" width="580" height="326" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2015/12/Snapshot-2015-05-07-at-10_59_16-PM-183855433-1024x576.jpg)
 
 Bing Bong used to be Riley&#8217;s favorite. They went to the moon every day on a rocket ship that was really Riley&#8217;s Radio Flyer.   When we meet him, Bing Bong  is still living inside Riley&#8217;s mind, but is no longer a part of her everyday thoughts.  Eventually, Riley forgets him entirely, and he fades into they gray soft oblivion where all dying memories live, evaporating in a colored cloud of imagination.
 
@@ -128,7 +128,7 @@ But, like the banked memories in _Inside Out_, Star Wars didn&#8217;t leave enti
 
 When Star Wars comes up these days in the media, which is pretty often,  it&#8217;s in the context of these memories, of what it meant to me as I looked at my ceiling in the dark when I was twelve and wished with all my might that I was a solitary, graceful hero in an X-wing flying far, far, far away from my awkward life.
 
-[<img class="aligncenter size-medium wp-image-10104" src="http://blog.vickiboykis.com/wp-content/uploads/2015/12/1916folt3dwgnjpg-580x231.jpg" alt="1916folt3dwgnjpg" width="580" height="231" />](http://blog.vickiboykis.com/wp-content/uploads/2015/12/1916folt3dwgnjpg.jpg)
+[<img class="aligncenter size-medium wp-image-10104" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2015/12/1916folt3dwgnjpg-580x231.jpg" alt="1916folt3dwgnjpg" width="580" height="231" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2015/12/1916folt3dwgnjpg.jpg)
 
 All of this is to say, I was terrified to see _The Force Awakens._ I purposely didn&#8217;t read anything about the development of the movie, and I watched the trailer with a ginger hesitation, because J.J. Abrams was deliberately taking out every single piece of glass from that box in my mind, unwrapping it, touching it, squinting at it in the sunlight.
 
@@ -139,7 +139,7 @@ But the minute the scroll came up on the screen in those first opening minutes, 
 The big ideas are the same. A rebel pilot is captured and tortured. The new Empire is after him. The pilot is delivering a droid that has plans in its system (doesn&#8217;t anyone text or send encrypted emails in the Star Wars of the future?). The droid lands on a desert planet. There it all was, again, only now, it was in CG: Jakku as Tattooine, Maz Kanata as Yoda,  Rey as Luke Skywalker, BB-8 as R2D2, Finn as, possibly the new Han. The villain in the mask, once again. The heroes in the orange jumpsuits, with the rebel insignia. Is there anything fresh, gasp-worthy?
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/wp-content/uploads/2015/12/Star-Wars-7-Poe-Dameron-Oscar-Isaac-X-Wing.jpg"><img class="aligncenter size-medium wp-image-10105" src="http://blog.vickiboykis.com/wp-content/uploads/2015/12/Star-Wars-7-Poe-Dameron-Oscar-Isaac-X-Wing-580x290.jpg" alt="Star-Wars-7-Poe-Dameron-Oscar-Isaac-X-Wing" width="580" height="290" /></a><em>Luke familiar? (HAAAAAA.)</em>
+  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2015/12/Star-Wars-7-Poe-Dameron-Oscar-Isaac-X-Wing.jpg"><img class="aligncenter size-medium wp-image-10105" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2015/12/Star-Wars-7-Poe-Dameron-Oscar-Isaac-X-Wing-580x290.jpg" alt="Star-Wars-7-Poe-Dameron-Oscar-Isaac-X-Wing" width="580" height="290" /></a><em>Luke familiar? (HAAAAAA.)</em>
 </p>
 
 It&#8217;s true that, with all great stories, nothing is new. After all, Lucas didn&#8217;t take the ideas from a vacuum, but from the <a href="http://users.clas.ufl.edu/agordon/starwars.htm" target="_blank">monomyth</a>, and from Kurosawa, and Flash Gordon, and <a href="https://en.wikipedia.org/wiki/Barsoom" target="_blank">Edgar Rice Burroughs</a> before that.  But Star Wars took all of these key ideas about how human life plays out,  and combined them into something completely fresh. Great artists steal.
@@ -162,24 +162,4 @@ Granted, most of his creative choices are questionable. He rewrote the script to
 
 But it&#8217;s obvious that the original movies, are made, at their core, of passion, ingenuity, and love. That there is a dedication to the characters (especially from Harrison Ford, <a href="http://www.huffingtonpost.com/2012/11/08/harrison-ford-han-solo_n_2097347.html" target="_blank">who rewrote most of his own lines</a>,) and a respect for the rules of the universe, and especially the Force.
 
-This current Star Wars is undoubtedly about mining that genuine trail of goodwill and <a href="https://medium.com/@hassanisms/if-i-was-in-charge-of-marketing-star-wars-a9a9c0276158#.bvtsabnk5" target="_blank">simply turning it into money</a>. There are <a href="http://imgur.com/gallery/R2zYkAj" target="_blank">Star Wars oranges</a>, for God&#8217;s sake.
-
-I walked out of the movie theater feeling like Abrams had failed.  And, like the prequels before him, he had left smudge prints all over my beautiful silverware, my vases, my Waterford crystal. <a href="http://www.ftrain.com/wwic.html" target="_blank">Why wasn&#8217;t I consulted</a>?
-
-The more I think about the changing nature of the entertainment industry and the constant need for monetization and profits in the face of an industry that is leaking money as consumer choices open up, the more amazed I am that anything good gets made at all anymore.
-
-Why can&#8217;t it be like in the good old days of 1977, I thought as I researched this article and people&#8217;s original reactions to the movies. But, as I read more and more, I became confused, and scared.
-
-I&#8217;m scared that, if I had  seen the original movies at age 30, if I would not have liked them. The original, archival NPR review pegs the movie as fluff and wonderful entertainment that &#8220;<a href="http://comicbook.com/2015/12/16/original-star-wars-review-from-npr/" target="_blank">kids can take their parents to</a>.&#8221;  Multiple reviews allude to it as &#8220;<a href="http://shadowpublications.com/essay-a-haters-perspective-on-star-wars/" target="_blank">corny</a>.&#8221; I mean, just look at this original poster. Jesus.
-
-[<img class="aligncenter size-medium wp-image-10109" src="http://blog.vickiboykis.com/wp-content/uploads/2015/12/19fk32sw3nt1wjpg-580x816.jpg" alt="19fk32sw3nt1wjpg" width="580" height="816" />](http://blog.vickiboykis.com/wp-content/uploads/2015/12/19fk32sw3nt1wjpg.jpg)
-
-I&#8217;m scared that maybe what had changed was not Star Wars, but me.  Maybe the problem was that, since I was 12, I&#8217;ve gotten cynical. I&#8217;ve been rejected from multiple jobs, kicked around in the real world, and found out <a href="http://blog.vickiboykis.com/2014/07/dont-pageclick-on-this/" target="_blank">how online advertising works</a> and that the <a href="http://blog.vickiboykis.com/2013/06/being-american/" target="_blank">NSA exists</a>. I understand motivations.  I understand money, and I understand that no one is doing this movie out of the goodness of their hearts. Almost nothing in this world is pure for me anymore.
-
-So maybe, the terrifying part is that I am too old for unadulterated, unbridled joy and belief of the kind I felt when I watched Luke draw his lightsaber for the first time, and maybe it&#8217;s that this movie isn&#8217;t for me. Maybe,  behind all the machinations and Bob Iger and Kathleen Kennedy sitting anxiously on their piles of money, there is some idea that the old magic is back.
-
-But, I did one last test for whether this movie is the real deal. I listened to the kids at the movie theater, for the same kind of reactions as the girl gasping with disbelief at Darth Vader being Annakin Skywalker, to shrieks of delight of the kind when Leia and Luke escaped the stormtroopers by swinging across that chasm, of kids making lightsaber noises.
-
-And sadly, I heard nothing for Finn or Poe or Rey or any of the rest of the actors now tasked with carrying forward this enormous legacy into an endless, exhausting loop of theme park rides, voiceovers, magazine covers, and talk show appearances.
-
-The loudest clapping I heard was when Chewie and Han Solo appeared, old and gray, tired of blasters and escapades, and the loudest shriek when Kylo Ren pierced Han through, destroying the last of the memories of our collective hero, Harrison Ford falling into the chasm of oblivion, checking out with his money, leaving the rest of the heroes screaming into the darkness, trying to fill the void of the greatness that was my first love.
+This current Star War

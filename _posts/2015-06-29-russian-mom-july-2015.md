@@ -16,4 +16,4 @@ tags:
 ---
 Idea from <a href="http://the-toast.net/tag/dad-magazine/" target="_blank">here</a>.
 
-[<img class="aligncenter size-full wp-image-10029" src="http://blog.vickiboykis.com/wp-content/uploads/2015/06/russianparents1.png" alt="russianparents" width="400" height="600" />](http://blog.vickiboykis.com/wp-content/uploads/2015/06/russianparents1.png)Idea from here.  Photo from very cute <a href="https://www.flickr.com/photos/oksidor/" target="_blank">Creative Commons collection</a>.
+[<img class="aligncenter size-full wp-image-10029" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2015/06/russianparents1.png" alt="russianparents" width="400" height="600" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2015/06/russianparents1.png)Idea from here.  Photo from very cute <a href="https://www.flickr.com/photos/oksidor/" target="_blank">Creative Commons collection</a>.

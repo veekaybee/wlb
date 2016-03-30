@@ -41,7 +41,7 @@ So I struggle on for a couple pages, but I eventually just give up. So far, I&#8
 
 Unfortunately, The Russian Federal Agency of Publishing and Mass Communication&#8217;s recent ad campaign did nothing to assuage my guilt (<a href="http://adsoftheworld.com/taxonomy/brand/federal_agency_of_publishing_and_mass_communication" target="_blank">in English</a> and <a href="http://pro-books.ru/news/3/9460" target="_blank">in Russian</a>).
 
-[<img class="aligncenter size-medium wp-image-10055" src="http://blog.vickiboykis.com/wp-content/uploads/2015/08/pushkin-eng1-580x829.jpg" alt="pushkin-eng" width="580" height="829" />](http://blog.vickiboykis.com/wp-content/uploads/2015/08/pushkin-eng1.jpg)
+[<img class="aligncenter size-medium wp-image-10055" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2015/08/pushkin-eng1-580x829.jpg" alt="pushkin-eng" width="580" height="829" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2015/08/pushkin-eng1.jpg)
 
 I&#8217;ve been wallowing in my secret Russian classic shame for years, but once I realized that I wasn&#8217;t gaining words and therefore wouldn&#8217;t be able to communicate my feelings about, say the state of feudal serfdom in Russia in 1861 to my child, I decided it was time to get cracking.
 
@@ -59,11 +59,11 @@ The Russian sentence is more playful and poetic than the English, which is very 
 
 Here&#8217;s how the valley looks is in real life:
 
-[<img class="aligncenter  wp-image-10060" src="http://blog.vickiboykis.com/wp-content/uploads/2015/08/valley-580x387.jpg" alt="valley" width="504" height="336" />](http://blog.vickiboykis.com/wp-content/uploads/2015/08/valley.jpg)
+[<img class="aligncenter  wp-image-10060" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2015/08/valley-580x387.jpg" alt="valley" width="504" height="336" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2015/08/valley.jpg)
 
 And here&#8217;s how I picture it based on the English description:
 
-[<img class="aligncenter  wp-image-10059" src="http://blog.vickiboykis.com/wp-content/uploads/2015/08/2141707-580x385.jpg" alt="2141707" width="420" height="279" />](http://blog.vickiboykis.com/wp-content/uploads/2015/08/2141707.jpg)
+[<img class="aligncenter  wp-image-10059" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2015/08/2141707-580x385.jpg" alt="2141707" width="420" height="279" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2015/08/2141707.jpg)
 
 This  concept of passive duality got to be so annoying that I felt like I was splitting in half: the English half, going full-speed, reading as quickly as I wanted to, finally getting through the classics, and the Russian half, whining about how every word was being translated incorrectly, begging the English half to slow down.
 

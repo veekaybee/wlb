@@ -15,7 +15,7 @@ categories:
   </p>
   
   <p>
-    <a href="http://blog.vickiboykis.com/wp-content/uploads/2015/06/angry-whistler.jpg"><img class="aligncenter  wp-image-9994" src="http://blog.vickiboykis.com/wp-content/uploads/2015/06/angry-whistler-580x667.jpg" alt="angry-whistler" width="483" height="555" /></a>
+    <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2015/06/angry-whistler.jpg"><img class="aligncenter  wp-image-9994" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2015/06/angry-whistler-580x667.jpg" alt="angry-whistler" width="483" height="555" /></a>
   </p>
   
   <p style="text-align: center;">
@@ -23,7 +23,7 @@ categories:
   </p>
   
   <p>
-    <a href="http://blog.vickiboykis.com/wp-content/uploads/2015/06/zimmer-biergarten.jpg"><img class="aligncenter size-medium wp-image-10010" src="http://blog.vickiboykis.com/wp-content/uploads/2015/06/zimmer-biergarten-580x377.jpg" alt="zimmer-biergarten" width="580" height="377" /></a>
+    <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2015/06/zimmer-biergarten.jpg"><img class="aligncenter size-medium wp-image-10010" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2015/06/zimmer-biergarten-580x377.jpg" alt="zimmer-biergarten" width="580" height="377" /></a>
   </p>
   
   <p style="text-align: center;">
@@ -31,7 +31,7 @@ categories:
   </p>
   
   <p>
-    <a href="http://blog.vickiboykis.com/wp-content/uploads/2015/06/mary-baby-jesus-angles.jpg"><img class="aligncenter size-medium wp-image-10007" src="http://blog.vickiboykis.com/wp-content/uploads/2015/06/mary-baby-jesus-angles-580x435.jpg" alt="mary-baby-jesus-angles" width="580" height="435" /></a>
+    <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2015/06/mary-baby-jesus-angles.jpg"><img class="aligncenter size-medium wp-image-10007" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2015/06/mary-baby-jesus-angles-580x435.jpg" alt="mary-baby-jesus-angles" width="580" height="435" /></a>
   </p>
   
   <p style="text-align: center;">
@@ -39,7 +39,7 @@ categories:
   </p>
   
   <p style="text-align: center;">
-    <a href="http://blog.vickiboykis.com/wp-content/uploads/2015/06/crying-woman-ipalbus-art.jpg"><img class="aligncenter size-medium wp-image-10013" src="http://blog.vickiboykis.com/wp-content/uploads/2015/06/crying-woman-ipalbus-art-580x580.jpg" alt="crying-woman-ipalbus-art" width="580" height="580" /></a>
+    <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2015/06/crying-woman-ipalbus-art.jpg"><img class="aligncenter size-medium wp-image-10013" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2015/06/crying-woman-ipalbus-art-580x580.jpg" alt="crying-woman-ipalbus-art" width="580" height="580" /></a>
   </p>
   
   <p style="text-align: center;">
@@ -47,7 +47,7 @@ categories:
   </p>
   
   <p>
-    <a href="http://blog.vickiboykis.com/wp-content/uploads/2015/06/J_S_Copley_-_Watson_and_the_Shark_2.png"><img class="aligncenter size-medium wp-image-10002" src="http://blog.vickiboykis.com/wp-content/uploads/2015/06/J_S_Copley_-_Watson_and_the_Shark_2-580x452.png" alt="J_S_Copley_-_Watson_and_the_Shark_2" width="580" height="452" /></a>
+    <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2015/06/J_S_Copley_-_Watson_and_the_Shark_2.png"><img class="aligncenter size-medium wp-image-10002" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2015/06/J_S_Copley_-_Watson_and_the_Shark_2-580x452.png" alt="J_S_Copley_-_Watson_and_the_Shark_2" width="580" height="452" /></a>
   </p>
   
   <p style="text-align: center;">
@@ -55,7 +55,7 @@ categories:
   </p>
   
   <p>
-    <a href="http://blog.vickiboykis.com/wp-content/uploads/2015/06/Domenico_Fetti_-_Portrait_of_a_Scholar_-_WGA07862.jpg"><img class="aligncenter  wp-image-9999" src="http://blog.vickiboykis.com/wp-content/uploads/2015/06/Domenico_Fetti_-_Portrait_of_a_Scholar_-_WGA07862-580x779.jpg" alt="Domenico_Fetti_-_Portrait_of_a_Scholar_-_WGA07862" width="411" height="552" /></a>
+    <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2015/06/Domenico_Fetti_-_Portrait_of_a_Scholar_-_WGA07862.jpg"><img class="aligncenter  wp-image-9999" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2015/06/Domenico_Fetti_-_Portrait_of_a_Scholar_-_WGA07862-580x779.jpg" alt="Domenico_Fetti_-_Portrait_of_a_Scholar_-_WGA07862" width="411" height="552" /></a>
   </p>
   
   <p style="text-align: center;">
@@ -63,7 +63,7 @@ categories:
   </p>
   
   <p style="text-align: center;">
-    <a href="http://blog.vickiboykis.com/wp-content/uploads/2015/06/Honthorst_Gerard_van_-_The_Dentist_-_1622.jpg"><img class="aligncenter size-medium wp-image-10012" src="http://blog.vickiboykis.com/wp-content/uploads/2015/06/Honthorst_Gerard_van_-_The_Dentist_-_1622-580x390.jpg" alt="Honthorst,_Gerard_van_-_The_Dentist_-_1622" width="580" height="390" /></a>
+    <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2015/06/Honthorst_Gerard_van_-_The_Dentist_-_1622.jpg"><img class="aligncenter size-medium wp-image-10012" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2015/06/Honthorst_Gerard_van_-_The_Dentist_-_1622-580x390.jpg" alt="Honthorst,_Gerard_van_-_The_Dentist_-_1622" width="580" height="390" /></a>
   </p>
   
   <p style="text-align: center;">
@@ -71,7 +71,7 @@ categories:
   </p>
   
   <p>
-    <a href="http://blog.vickiboykis.com/wp-content/uploads/2015/06/the-desperate-man-self-portrait-1845.jpgBlog-1.jpg"><img class="aligncenter size-full wp-image-10008" src="http://blog.vickiboykis.com/wp-content/uploads/2015/06/the-desperate-man-self-portrait-1845.jpgBlog-1.jpg" alt="the-desperate-man-self-portrait-1845.jpg!Blog (1)" width="500" height="409" /></a>
+    <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2015/06/the-desperate-man-self-portrait-1845.jpgBlog-1.jpg"><img class="aligncenter size-full wp-image-10008" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2015/06/the-desperate-man-self-portrait-1845.jpgBlog-1.jpg" alt="the-desperate-man-self-portrait-1845.jpg!Blog (1)" width="500" height="409" /></a>
   </p>
   
   <p style="text-align: center;">
@@ -79,7 +79,7 @@ categories:
   </p>
   
   <p>
-    <a href="http://blog.vickiboykis.com/wp-content/uploads/2015/06/repin_barge_haulers_on_the_volga.jpg"><img class="aligncenter size-medium wp-image-10003" src="http://blog.vickiboykis.com/wp-content/uploads/2015/06/repin_barge_haulers_on_the_volga-580x270.jpg" alt="repin_barge_haulers_on_the_volga" width="580" height="270" /></a>
+    <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2015/06/repin_barge_haulers_on_the_volga.jpg"><img class="aligncenter size-medium wp-image-10003" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2015/06/repin_barge_haulers_on_the_volga-580x270.jpg" alt="repin_barge_haulers_on_the_volga" width="580" height="270" /></a>
   </p>
   
   <p style="text-align: center;">
@@ -87,7 +87,7 @@ categories:
   </p>
   
   <p>
-    <a href="http://blog.vickiboykis.com/wp-content/uploads/2015/06/jupiter-thetis.jpg"><img class="aligncenter size-full wp-image-10001" src="http://blog.vickiboykis.com/wp-content/uploads/2015/06/jupiter-thetis.jpg" alt="jupiter-thetis" width="329" height="485" /></a>
+    <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2015/06/jupiter-thetis.jpg"><img class="aligncenter size-full wp-image-10001" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2015/06/jupiter-thetis.jpg" alt="jupiter-thetis" width="329" height="485" /></a>
   </p>
   
   <p style="text-align: center;">
@@ -95,7 +95,7 @@ categories:
   </p>
   
   <p>
-    <a href="http://blog.vickiboykis.com/wp-content/uploads/2015/06/luncheon_of_the_boating_party.jpg"><img class="aligncenter size-medium wp-image-9998" src="http://blog.vickiboykis.com/wp-content/uploads/2015/06/luncheon_of_the_boating_party-580x430.jpg" alt="luncheon_of_the_boating_party" width="580" height="430" /></a>
+    <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2015/06/luncheon_of_the_boating_party.jpg"><img class="aligncenter size-medium wp-image-9998" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2015/06/luncheon_of_the_boating_party-580x430.jpg" alt="luncheon_of_the_boating_party" width="580" height="430" /></a>
   </p>
   
   <p style="text-align: center;">
@@ -103,7 +103,7 @@ categories:
   </p>
   
   <p>
-    <a href="http://blog.vickiboykis.com/wp-content/uploads/2015/06/ginevra.jpg"><img class="aligncenter size-full wp-image-10005" src="http://blog.vickiboykis.com/wp-content/uploads/2015/06/ginevra.jpg" alt="ginevra" width="415" height="495" /></a>
+    <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2015/06/ginevra.jpg"><img class="aligncenter size-full wp-image-10005" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2015/06/ginevra.jpg" alt="ginevra" width="415" height="495" /></a>
   </p>
   
   <p style="text-align: center;">
@@ -111,7 +111,7 @@ categories:
   </p>
   
   <p>
-    <a href="http://blog.vickiboykis.com/wp-content/uploads/2015/06/Vereshagin.Napoleon_near_Borodino.jpg"><img class="aligncenter  wp-image-9997" src="http://blog.vickiboykis.com/wp-content/uploads/2015/06/Vereshagin.Napoleon_near_Borodino-580x380.jpg" alt="Vereshagin.Napoleon_near_Borodino" width="662" height="434" /></a>
+    <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2015/06/Vereshagin.Napoleon_near_Borodino.jpg"><img class="aligncenter  wp-image-9997" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2015/06/Vereshagin.Napoleon_near_Borodino-580x380.jpg" alt="Vereshagin.Napoleon_near_Borodino" width="662" height="434" /></a>
   </p>
   
   <p style="text-align: center;">
@@ -119,7 +119,7 @@ categories:
   </p>
   
   <p>
-    <a href="http://blog.vickiboykis.com/wp-content/uploads/2015/06/52.jpg"><img class="aligncenter  wp-image-9995" src="http://blog.vickiboykis.com/wp-content/uploads/2015/06/52-580x450.jpg" alt="52" width="477" height="370" /></a>
+    <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2015/06/52.jpg"><img class="aligncenter  wp-image-9995" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2015/06/52-580x450.jpg" alt="52" width="477" height="370" /></a>
   </p>
   
   <p style="text-align: center;">
@@ -127,7 +127,7 @@ categories:
   </p>
   
   <p style="text-align: center;">
-    <a href="http://blog.vickiboykis.com/wp-content/uploads/2015/06/ae5448d8eb393c5cdb0b0ff86d668e9d.jpg"><img class="aligncenter size-medium wp-image-10011" src="http://blog.vickiboykis.com/wp-content/uploads/2015/06/ae5448d8eb393c5cdb0b0ff86d668e9d-580x490.jpg" alt="ae5448d8eb393c5cdb0b0ff86d668e9d" width="580" height="490" /></a>
+    <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2015/06/ae5448d8eb393c5cdb0b0ff86d668e9d.jpg"><img class="aligncenter size-medium wp-image-10011" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2015/06/ae5448d8eb393c5cdb0b0ff86d668e9d-580x490.jpg" alt="ae5448d8eb393c5cdb0b0ff86d668e9d" width="580" height="490" /></a>
   </p>
   
   <p style="text-align: center;">
@@ -135,7 +135,7 @@ categories:
   </p>
   
   <p style="text-align: center;">
-    <a href="http://blog.vickiboykis.com/wp-content/uploads/2015/06/the-great-wave-of-kanagawa-1831.jpgLarge.jpg"><img class="aligncenter size-medium wp-image-10009" src="http://blog.vickiboykis.com/wp-content/uploads/2015/06/the-great-wave-of-kanagawa-1831.jpgLarge-580x388.jpg" alt="the-great-wave-of-kanagawa-1831.jpg!Large" width="580" height="388" /></a>
+    <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2015/06/the-great-wave-of-kanagawa-1831.jpgLarge.jpg"><img class="aligncenter size-medium wp-image-10009" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2015/06/the-great-wave-of-kanagawa-1831.jpgLarge-580x388.jpg" alt="the-great-wave-of-kanagawa-1831.jpg!Large" width="580" height="388" /></a>
   </p>
   
   <p style="text-align: center;">
@@ -143,7 +143,7 @@ categories:
   </p>
   
   <p>
-    <a href="http://blog.vickiboykis.com/wp-content/uploads/2015/06/IM001377.jpg"><img class="size-medium wp-image-10015" src="http://blog.vickiboykis.com/wp-content/uploads/2015/06/IM001377-580x581.jpg" alt="Hewlett-Packard" width="580" height="581" /></a>
+    <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2015/06/IM001377.jpg"><img class="size-medium wp-image-10015" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2015/06/IM001377-580x581.jpg" alt="Hewlett-Packard" width="580" height="581" /></a>
   </p>
   
   <p style="text-align: center;">
@@ -151,7 +151,7 @@ categories:
   </p>
   
   <p>
-    <a href="http://blog.vickiboykis.com/wp-content/uploads/2015/06/the-triumph-of-death.jpg"><img class="aligncenter  wp-image-10000" src="http://blog.vickiboykis.com/wp-content/uploads/2015/06/the-triumph-of-death-580x406.jpg" alt="the-triumph-of-death" width="639" height="447" /></a>
+    <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2015/06/the-triumph-of-death.jpg"><img class="aligncenter  wp-image-10000" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2015/06/the-triumph-of-death-580x406.jpg" alt="the-triumph-of-death" width="639" height="447" /></a>
   </p>
   
   <p style="text-align: center;">
@@ -159,7 +159,7 @@ categories:
   </p>
   
   <p>
-    <a href="http://blog.vickiboykis.com/wp-content/uploads/2015/06/SovietPictures034.jpg"><img class="aligncenter  wp-image-9993" src="http://blog.vickiboykis.com/wp-content/uploads/2015/06/SovietPictures034-580x370.jpg" alt="SovietPictures034" width="652" height="416" /></a>
+    <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2015/06/SovietPictures034.jpg"><img class="aligncenter  wp-image-9993" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2015/06/SovietPictures034-580x370.jpg" alt="SovietPictures034" width="652" height="416" /></a>
   </p>
   
   <p style="text-align: center;">
@@ -167,5 +167,5 @@ categories:
   </p>
   
   <p>
-    <a href="http://blog.vickiboykis.com/wp-content/uploads/2015/06/the_persistence_of_memory_1931_salvador_dali.jpg"><img class="aligncenter size-medium wp-image-10004" src="http://blog.vickiboykis.com/wp-content/uploads/2015/06/the_persistence_of_memory_1931_salvador_dali-580x435.jpg" alt="the_persistence_of_memory_1931_salvador_dali" width="580" height="435" /></a>
+    <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2015/06/the_persistence_of_memory_1931_salvador_dali.jpg"><img class="aligncenter size-medium wp-image-10004" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2015/06/the_persistence_of_memory_1931_salvador_dali-580x435.jpg" alt="the_persistence_of_memory_1931_salvador_dali" width="580" height="435" /></a>
   </p>
