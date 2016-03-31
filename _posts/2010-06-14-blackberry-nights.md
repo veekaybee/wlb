@@ -4,7 +4,7 @@ title: Blackberry Nights
 date: 2010-06-14T21:43:37+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=3136
+guid: http://blog.vickiboykis.com/wlb/?p=3136
 permalink: /2010/06/blackberry-nights/
 categories:
   - Uncategorized

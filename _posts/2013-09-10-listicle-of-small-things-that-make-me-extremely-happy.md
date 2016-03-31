@@ -4,7 +4,7 @@ title: Listicle of small things that make me extremely happy
 date: 2013-09-10T21:10:29+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=9108
+guid: http://blog.vickiboykis.com/wlb/?p=9108
 permalink: /2013/09/listicle-of-small-things-that-make-me-extremely-happy/
 categories:
   - Uncategorized

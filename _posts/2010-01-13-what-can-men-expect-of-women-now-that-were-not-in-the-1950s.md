@@ -4,7 +4,7 @@ title: 'What Can Men Expect of Women Now that We&#8217;re Not in the 1950s?'
 date: 2010-01-13T07:31:18+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=2085
+guid: http://blog.vickiboykis.com/wlb/?p=2085
 permalink: /2010/01/what-can-men-expect-of-women-now-that-were-not-in-the-1950s/
 categories:
   - Uncategorized
@@ -112,8 +112,8 @@ I don&#8217;t have a problem with some form of gender roles. They make a marriag
 
 Related on the blog:
   
-](http://blog.vickiboykis.com/2010/01/04/is-it-feminism-to-pose-naked-with-a-challah/) 
+](http://blog.vickiboykis.com/wlb/2010/01/04/is-it-feminism-to-pose-naked-with-a-challah/) 
   
-[The first Nobel Prize in economics awarded to a woman](http://blog.vickiboykis.com/2009/10/12/the-first-nobel-prize-in-economics-awarded-to-a-woman/)
+[The first Nobel Prize in economics awarded to a woman](http://blog.vickiboykis.com/wlb/2009/10/12/the-first-nobel-prize-in-economics-awarded-to-a-woman/)
   
-[On being Batman as a girl](http://blog.vickiboykis.com/2009/09/20/on-being-batman-as-a-girl/)
+[On being Batman as a girl](http://blog.vickiboykis.com/wlb/2009/09/20/on-being-batman-as-a-girl/)

@@ -4,7 +4,7 @@ title: 'Why it&#8217;s important to learn how to speak tech'
 date: 2014-04-10T07:40:32+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=9639
+guid: http://blog.vickiboykis.com/wlb/?p=9639
 permalink: /2014/04/why-its-important-to-learn-how-to-speak-tech/
 categories:
   - Uncategorized
@@ -77,7 +77,7 @@ And, they write code just like the rest of us!
 
 I couldn&#8217;t get a great screenshot of this, but it&#8217;s obvious that the show put up real code editors: SublimeText and Powershell. This seems really stupid and pedantic, but to geeks, it matters, because we&#8217;ve been subjected to decades of <a href="http://moviecode.tumblr.com/" target="_blank">bad code on TV</a>. Hollywood doesn&#8217;t care about portraying code correctly because code doesn&#8217;t make for good action shots. But it should, because if you get the little details right, you&#8217;ll be the larger ones right, as well.
 
-And, the <a href="http://blog.vickiboykis.com/2011/12/new-york-times-story-idea-bingo-2011/" target="_blank">culture</a>. It&#8217;s just so right, and it can be summed up by this one picture:
+And, the <a href="http://blog.vickiboykis.com/wlb/2011/12/new-york-times-story-idea-bingo-2011/" target="_blank">culture</a>. It&#8217;s just so right, and it can be summed up by this one picture:
 
 [<img class="aligncenter size-medium wp-image-9654" alt="Screen Shot 2014-04-10 at 6.39.33 AM" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2014/04/Screen-Shot-2014-04-10-at-6.39.33-AM-580x280.png" width="580" height="280" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2014/04/Screen-Shot-2014-04-10-at-6.39.33-AM.png)
 
@@ -85,7 +85,7 @@ I guess what I like most is that Judge made a smart show filled with accuracy to
 
 Compare this to supposed favorite nerd-festival Big Bang Theory, which is so popular not because it glorifies smart people, but because it&#8217;s coming from Penny&#8217;s point of view. &#8220;Look at these geeks,&#8221; Penny says to the audience, snickering, every time Sheldon or Leonard do something. The scientific facts they spout aren&#8217;t meant to educate or further the plot, but just serve to point to the fact that these nerds are talking way too much about stuff regular people couldn&#8217;t care less about.
 
-What&#8217;s really interesting to me on a personal level is that, a couple years ago, half of this show wouldn&#8217;t have made any sense. There are hundreds of billions of dollars of jobs in the tech industry. The tech industry is going to save America.  But for all its luster, it&#8217;s still incredibly hostile to newcomers, not because of any inherent bias, but because it&#8217;s still largely merit and knowledge.  There is a <a href="http://blog.vickiboykis.com/2013/07/cooking-100-stir-frys/" target="_blank">LOT OF STUFF</a> to know, and the more you know, the more regarded you are. Some people will be encouraging and teach you things, but sometimes, it seems intimidating to ask questions, especially of people who have been programming since they were fifteen. Some of these people programmed in assembly language. Some people were so hardcore that they didn&#8217;t even wait until computers came out. They were writing programs on notebook paper and running them by burning the pages.
+What&#8217;s really interesting to me on a personal level is that, a couple years ago, half of this show wouldn&#8217;t have made any sense. There are hundreds of billions of dollars of jobs in the tech industry. The tech industry is going to save America.  But for all its luster, it&#8217;s still incredibly hostile to newcomers, not because of any inherent bias, but because it&#8217;s still largely merit and knowledge.  There is a <a href="http://blog.vickiboykis.com/wlb/2013/07/cooking-100-stir-frys/" target="_blank">LOT OF STUFF</a> to know, and the more you know, the more regarded you are. Some people will be encouraging and teach you things, but sometimes, it seems intimidating to ask questions, especially of people who have been programming since they were fifteen. Some of these people programmed in assembly language. Some people were so hardcore that they didn&#8217;t even wait until computers came out. They were writing programs on notebook paper and running them by burning the pages.
 
 But, all of a sudden, tech an economic boom and everyone and their sister wants to get into it, which is great, because it means more people making more great stuff. But, how to get into it? A couple weeks ago, I had coffee with someone who&#8217;s looking to get into analytics and was looking for advice. &#8220;What should I do to understand the tech industry,&#8221; they asked.
 

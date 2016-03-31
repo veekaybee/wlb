@@ -4,7 +4,7 @@ title: Wearing engagement rings to interviews
 date: 2011-08-23T07:29:53+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=5633
+guid: http://blog.vickiboykis.com/wlb/?p=5633
 permalink: /2011/08/wearing-engagement-rings-to-interviews/
 categories:
   - Uncategorized

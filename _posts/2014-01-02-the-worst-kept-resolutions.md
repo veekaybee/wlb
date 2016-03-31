@@ -4,7 +4,7 @@ title: The worst-kept resolutions
 date: 2014-01-02T08:04:20+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=9402
+guid: http://blog.vickiboykis.com/wlb/?p=9402
 permalink: /2014/01/the-worst-kept-resolutions/
 categories:
   - Uncategorized

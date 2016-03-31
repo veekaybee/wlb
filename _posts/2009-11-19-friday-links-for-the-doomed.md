@@ -4,7 +4,7 @@ title: Friday Links for the Doomed
 date: 2009-11-19T22:51:38+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=1709
+guid: http://blog.vickiboykis.com/wlb/?p=1709
 permalink: /2009/11/friday-links-for-the-doomed/
 categories:
   - fridaylinks
@@ -24,7 +24,7 @@ Here are the links for today:
   
 [Dmitry Medvedev has a Facebook page](http://larussophobe.wordpress.com/2009/11/17/editorial-kim-dima-sittin-in-a-tree/). Of course I friended him.  from LaRussophobe
   
-[Why do we want unique souvenirs](http://blog.vickiboykis.com/2009/04/05/mobama-dont-fall-prey-to-the-jew-guilt-in-prague/) from Emily L. Hauser
+[Why do we want unique souvenirs](http://blog.vickiboykis.com/wlb/2009/04/05/mobama-dont-fall-prey-to-the-jew-guilt-in-prague/) from Emily L. Hauser
 
 **Really interesting stories:**
 
@@ -42,7 +42,7 @@ Here are the links for today:
   
 [Dmitry Medvedev has a Facebook page](http://larussophobe.wordpress.com/2009/11/17/editorial-kim-dima-sittin-in-a-tree/). Of course I friended him.  from LaRussophobe
   
-[Why do we want unique souvenirs](http://blog.vickiboykis.com/2009/04/05/mobama-dont-fall-prey-to-the-jew-guilt-in-prague/) from Emily L. Hauser
+[Why do we want unique souvenirs](http://blog.vickiboykis.com/wlb/2009/04/05/mobama-dont-fall-prey-to-the-jew-guilt-in-prague/) from Emily L. Hauser
 
 **Really interesting stories:**
 

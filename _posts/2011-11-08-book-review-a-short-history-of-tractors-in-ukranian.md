@@ -4,7 +4,7 @@ title: 'Book Review: A Short History of Tractors in Ukranian'
 date: 2011-11-08T22:04:15+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=5899
+guid: http://blog.vickiboykis.com/wlb/?p=5899
 permalink: /2011/11/book-review-a-short-history-of-tractors-in-ukranian/
 categories:
   - Uncategorized
@@ -25,7 +25,7 @@ tags:
 
 &nbsp;
 
-Nowadays, everything <a href="http://blog.vickiboykis.com/2010/03/11/environmentalism-has-its-roots-in-millions-of-violently-angry-soviet-women/" target="_blank">Soviet is cool again</a>.
+Nowadays, everything <a href="http://blog.vickiboykis.com/wlb/2010/03/11/environmentalism-has-its-roots-in-millions-of-violently-angry-soviet-women/" target="_blank">Soviet is cool again</a>.
 
 But, growing up, everything immigrant that my parents did was horrifyingly embarrassing.
 
@@ -43,9 +43,9 @@ We had hardwood floors in our house before it was the in thing to do in interior
 
 &#8220;When you have your own house, you can make your own rules,&#8221; my mom would yell at me when I told her we were weird and she should do American things like order pizza for delivery and buy air fresheners and turn up the temperature to a liveable 69 F.
 
-Now I have my own house.  Life is good. I do whatever the hell I want.  I have a special <a href="http://www.simplehuman.com/" target="_blank">yuppie trash can</a> and bags for the trash can that <a href="http://blog.vickiboykis.com/2011/07/12/this-post-about-how-i-guilt-buy-febreeze-on-amazon-is-going-to-be-a-goldmine-for-marketers/" target="_blank">I buy on Amazon</a>.  I have liquid soap. I have air fresheners (a waste of money),  special fancy American coffee (a waste of money),  and Apple products (an enormous waste of money.) I eat lunch out every day because I&#8217;m way too lazy to pack my own.  Sometimes Mr. B and I go out on Wednesdays, because, why not (WHAT.)  We are <a href="http://blog.vickiboykis.com/2011/10/17/a-short-story-about-lazy-jewish-consumer-behavior-and-hbo/" target="_blank">too lazy</a> to cancel HBO.
+Now I have my own house.  Life is good. I do whatever the hell I want.  I have a special <a href="http://www.simplehuman.com/" target="_blank">yuppie trash can</a> and bags for the trash can that <a href="http://blog.vickiboykis.com/wlb/2011/07/12/this-post-about-how-i-guilt-buy-febreeze-on-amazon-is-going-to-be-a-goldmine-for-marketers/" target="_blank">I buy on Amazon</a>.  I have liquid soap. I have air fresheners (a waste of money),  special fancy American coffee (a waste of money),  and Apple products (an enormous waste of money.) I eat lunch out every day because I&#8217;m way too lazy to pack my own.  Sometimes Mr. B and I go out on Wednesdays, because, why not (WHAT.)  We are <a href="http://blog.vickiboykis.com/wlb/2011/10/17/a-short-story-about-lazy-jewish-consumer-behavior-and-hbo/" target="_blank">too lazy</a> to cancel HBO.
 
-But I also buy the generic Bran Flakes, not Total.  I fight with Mr. B over the fact that he refuses to buy the cheap one-ply toilet paper. We have 10 different pairs of tapochki for guests. If  I ever feel like <a href="http://blog.vickiboykis.com/2011/03/28/how-much-does-it-take-to-plan-a-vacation-two-jewish-moms-and-three-months/" target="_blank">I miss my parents</a>, <a href="http://blog.vickiboykis.com/2009/05/18/%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B5-%D0%B3%D1%80%D0%B8%D0%B1%D1%8B-russian-mushrooms/" target="_blank">I make some mushroom soup</a>. And the heat in my house is set to 67 F.
+But I also buy the generic Bran Flakes, not Total.  I fight with Mr. B over the fact that he refuses to buy the cheap one-ply toilet paper. We have 10 different pairs of tapochki for guests. If  I ever feel like <a href="http://blog.vickiboykis.com/wlb/2011/03/28/how-much-does-it-take-to-plan-a-vacation-two-jewish-moms-and-three-months/" target="_blank">I miss my parents</a>, <a href="http://blog.vickiboykis.com/wlb/2009/05/18/%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B5-%D0%B3%D1%80%D0%B8%D0%B1%D1%8B-russian-mushrooms/" target="_blank">I make some mushroom soup</a>. And the heat in my house is set to 67 F.
 
 That&#8217;s what <a href="http://www.amazon.com/Short-History-Tractors-Ukrainian-Novel/dp/1594200440" target="_blank">this book</a> is about.  About immigration.  And generations. And how we first reject our parents, then we understand and respect them, then we become them.
 

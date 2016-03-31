@@ -4,7 +4,7 @@ title: 'Outsourcing-it&#8217;s not that bad: A comic'
 date: 2009-10-05T21:42:49+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=1372
+guid: http://blog.vickiboykis.com/wlb/?p=1372
 permalink: /2009/10/outsourcing-its-not-that-bad-a-comic/
 categories:
   - Uncategorized

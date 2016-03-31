@@ -4,7 +4,7 @@ title: Regional Vice Presidents of the Underworld
 date: 2012-11-07T08:09:03+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=7790
+guid: http://blog.vickiboykis.com/wlb/?p=7790
 permalink: /2012/11/regional-vice-presidents-of-the-underworld/
 categories:
   - Uncategorized
@@ -108,4 +108,4 @@ Tomato did the same.  For a minute they were both absorbed in the glow of their
 
 They clinked glasses and leaned back in satisfaction. Life in Scottsdale was good. But they had a feeling they were about to get promoted to Senior Vice Presidents, and life in suburban Washington, DC was much better.  They sold alcohol in local grocery stores there.
 
-Apologies to <a href="http://blog.vickiboykis.com/2012/01/the-best-books-i-read-in-2011/" target="_blank"><em>Neil Gaiman and Terry Pratchett</em></a>.
+Apologies to <a href="http://blog.vickiboykis.com/wlb/2012/01/the-best-books-i-read-in-2011/" target="_blank"><em>Neil Gaiman and Terry Pratchett</em></a>.

@@ -4,7 +4,7 @@ title: GRE Preparation
 date: 2009-03-17T16:20:54+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=197
+guid: http://blog.vickiboykis.com/wlb/?p=197
 permalink: /2009/03/gre-preparation/
 categories:
   - Uncategorized

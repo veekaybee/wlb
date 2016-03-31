@@ -4,7 +4,7 @@ title: Keep going
 date: 2013-09-06T17:22:00+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=9077
+guid: http://blog.vickiboykis.com/wlb/?p=9077
 permalink: /2013/09/keep-going/
 categories:
   - Uncategorized

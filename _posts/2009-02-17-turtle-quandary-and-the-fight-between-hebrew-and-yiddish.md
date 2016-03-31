@@ -4,7 +4,7 @@ title: Turtle quandary and the fight between Hebrew and Yiddish
 date: 2009-02-17T20:51:21+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=137
+guid: http://blog.vickiboykis.com/wlb/?p=137
 permalink: /2009/02/turtle-quandary-and-the-fight-between-hebrew-and-yiddish/
 categories:
   - Uncategorized

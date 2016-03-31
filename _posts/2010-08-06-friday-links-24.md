@@ -4,7 +4,7 @@ title: Friday Links
 date: 2010-08-06T06:42:45+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=3450
+guid: http://blog.vickiboykis.com/wlb/?p=3450
 permalink: /2010/08/friday-links-24/
 categories:
   - fridaylinks
@@ -32,7 +32,7 @@ I had such a great birthday yesterday, right up until the part when all of our p
 
   1. [Tiviet on a very cute wedding in Tel Aviv](http://tiviet.blogspot.com/2010/07/street-wedding-yeah.html)
   2. [On the perils of the name Quinn](http://www.shesuggests.com/2010/08/04/a-quinn-isnt-born/) by She Suggests
-  3.](http://sonya-lightshadowandlaughing.blogspot.com/2010/08/croatia.html) <img src="http://blog.vickiboykis.com/wp-includes/images/smilies/simple-smile.png" alt=":)" class="wp-smiley" style="height: 1em; max-height: 1em;" />
+  3.](http://sonya-lightshadowandlaughing.blogspot.com/2010/08/croatia.html) <img src="http://blog.vickiboykis.com/wlb/wp-includes/images/smilies/simple-smile.png" alt=":)" class="wp-smiley" style="height: 1em; max-height: 1em;" />
   4. Lindsay on [love postcards](http://www.lostincheeseland.com/2010/08/multi-cultural-love-postcards.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+lostincheeseland%2FDDYr+%28Lost+In+Cheeseland%29)
 
 (why are so many of my links either wedding or Tel Aviv-related this week?)

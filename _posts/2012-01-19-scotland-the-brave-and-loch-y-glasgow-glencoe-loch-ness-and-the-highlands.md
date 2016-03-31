@@ -4,7 +4,7 @@ title: 'Scotland the Brave (and loch-y): Glasgow, Glencoe, Loch Ness, and the Hi
 date: 2012-01-19T08:18:41+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=6182
+guid: http://blog.vickiboykis.com/wlb/?p=6182
 permalink: /2012/01/scotland-the-brave-and-loch-y-glasgow-glencoe-loch-ness-and-the-highlands/
 categories:
   - Uncategorized
@@ -20,7 +20,7 @@ tags:
   - travel
   - vacation
 ---
-**(for a refresher, <a href="http://blog.vickiboykis.com/2011/12/28/scotland-the-brave-and-also-rainy-edinburgh/" target="_blank">Scotland, Part 1</a>,<a href="http://blog.vickiboykis.com/2012/01/05/scotland-the-brave-but-still-incredibly-rainy-the-lochs-and-stirling-castle/" target="_blank">Scotland, Part 2,</a><a href="http://blog.vickiboykis.com/2012/01/10/scotland-the-brave-its-about-to-get-a-little-anti-semitic-up-in-edinburgh-also-rainy/" target="_blank">Scotland, Part 3 </a>)**
+**(for a refresher, <a href="http://blog.vickiboykis.com/wlb/2011/12/28/scotland-the-brave-and-also-rainy-edinburgh/" target="_blank">Scotland, Part 1</a>,<a href="http://blog.vickiboykis.com/wlb/2012/01/05/scotland-the-brave-but-still-incredibly-rainy-the-lochs-and-stirling-castle/" target="_blank">Scotland, Part 2,</a><a href="http://blog.vickiboykis.com/wlb/2012/01/10/scotland-the-brave-its-about-to-get-a-little-anti-semitic-up-in-edinburgh-also-rainy/" target="_blank">Scotland, Part 3 </a>)**
 
 We are finally in Glasgow!  Nothing says welcome to Glasgow like Failte gu Sraid na Banrighinn! (by the way, I have lots of thoughts on why more Scottish people should speak Gaelic, but I&#8217;ll leave my demands that the Scottish find their own personal Ben Yehuda to whip everyone into shape for another post and for now will only link to this <a href="http://www.youtube.com/watch?v=Lktt_DlpsJA" target="_blank">weather report in Gaelic</a>, which I&#8217;ve been watching at least once a day. )
 
@@ -66,7 +66,7 @@ This is:
 
 [<img class="aligncenter" title="DSC_0748" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/01/DSC_0748-1024x680.jpg" alt="" width="717" height="476" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/01/DSC_0748.jpg)
 
-[**(for a refresher, <a href="http://blog.vickiboykis.com/2011/12/28/scotland-the-brave-and-also-rainy-edinburgh/" target="_blank">Scotland, Part 1</a>,<a href="http://blog.vickiboykis.com/2012/01/05/scotland-the-brave-but-still-incredibly-rainy-the-lochs-and-stirling-castle/" target="_blank">Scotland, Part 2,</a><a href="http://blog.vickiboykis.com/2012/01/10/scotland-the-brave-its-about-to-get-a-little-anti-semitic-up-in-edinburgh-also-rainy/" target="_blank">Scotland, Part 3 </a>)**
+[**(for a refresher, <a href="http://blog.vickiboykis.com/wlb/2011/12/28/scotland-the-brave-and-also-rainy-edinburgh/" target="_blank">Scotland, Part 1</a>,<a href="http://blog.vickiboykis.com/wlb/2012/01/05/scotland-the-brave-but-still-incredibly-rainy-the-lochs-and-stirling-castle/" target="_blank">Scotland, Part 2,</a><a href="http://blog.vickiboykis.com/wlb/2012/01/10/scotland-the-brave-its-about-to-get-a-little-anti-semitic-up-in-edinburgh-also-rainy/" target="_blank">Scotland, Part 3 </a>)**
 
 We are finally in Glasgow!  Nothing says welcome to Glasgow like Failte gu Sraid na Banrighinn! (by the way, I have lots of thoughts on why more Scottish people should speak Gaelic, but I&#8217;ll leave my demands that the Scottish find their own personal Ben Yehuda to whip everyone into shape for another post and for now will only link to this <a href="http://www.youtube.com/watch?v=Lktt_DlpsJA" target="_blank">weather report in Gaelic</a>, which I&#8217;ve been watching at least once a day. )
 
@@ -130,7 +130,7 @@ Not to mention, stuffed animals and 60s-era chairs.  This is how to go Continen
 
 [<img class="aligncenter" title="IMAG1097" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/01/IMAG1097-180x300.jpg" alt="" width="180" height="300" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/01/IMAG1097.jpg)
 
-So anyway, we roused ourselves and walked to <a href="http://en.wikipedia.org/wiki/George_Square" target="_blank">George Square</a>, where there is a statue of <a href="http://en.wikipedia.org/wiki/File:VictoriaStatue.jpg" target="_blank">Queen V on horseback</a>. It&#8217;s like <a href="http://blog.vickiboykis.com/2010/01/18/riding-a-horse-is-like-blogging-except-you-cant-become-a-parapalegic-if-you-blog/" target="_blank">my parents named me correctly</a> or something.  It was cold, dark, and raining (Because, Scotland.):
+So anyway, we roused ourselves and walked to <a href="http://en.wikipedia.org/wiki/George_Square" target="_blank">George Square</a>, where there is a statue of <a href="http://en.wikipedia.org/wiki/File:VictoriaStatue.jpg" target="_blank">Queen V on horseback</a>. It&#8217;s like <a href="http://blog.vickiboykis.com/wlb/2010/01/18/riding-a-horse-is-like-blogging-except-you-cant-become-a-parapalegic-if-you-blog/" target="_blank">my parents named me correctly</a> or something.  It was cold, dark, and raining (Because, Scotland.):
 
 <p style="text-align: center;">
   <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/01/IMAG1121.jpg"><img class="aligncenter  wp-image-6280" title="IMAG1121" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/01/IMAG1121.jpg" alt="" width="377" height="627" /></a>
@@ -245,7 +245,7 @@ The only  thing monstrous about Loch Ness is how huge of a tourist trap it is. 
     </p>
     
     <p style="text-align: left;">
-      After the Loch, we did a quick drive-by through Inverness, and there was the day.  I kept listening to the Glencoe song as we drove back to Glasgow and ingesting all of the information I&#8217;d received over the past week, trying to synthesize everything I&#8217;d seen and learned.  From all the history I&#8217;d absorbed, all the people we&#8217;d talked to, and everywhere we&#8217;d been in Scotland, as well as stuff I&#8217;d read before we left, there was only one way forward for me.  Drawing on <a href="http://blog.vickiboykis.com/?s=zionism" target="_blank">my past history of self-nationalism</a>, it became clear that, the Scottish people having failed to secure their own independence, I&#8217;d have to be a nationalist for the Scottish people as well.
+      After the Loch, we did a quick drive-by through Inverness, and there was the day.  I kept listening to the Glencoe song as we drove back to Glasgow and ingesting all of the information I&#8217;d received over the past week, trying to synthesize everything I&#8217;d seen and learned.  From all the history I&#8217;d absorbed, all the people we&#8217;d talked to, and everywhere we&#8217;d been in Scotland, as well as stuff I&#8217;d read before we left, there was only one way forward for me.  Drawing on <a href="http://blog.vickiboykis.com/wlb/?s=zionism" target="_blank">my past history of self-nationalism</a>, it became clear that, the Scottish people having failed to secure their own independence, I&#8217;d have to be a nationalist for the Scottish people as well.
     </p>
     
     <p style="text-align: left;">

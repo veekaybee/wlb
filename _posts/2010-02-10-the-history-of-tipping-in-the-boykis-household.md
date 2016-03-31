@@ -4,7 +4,7 @@ title: 'The History of Tipping&#8230;in the Boykis Household'
 date: 2010-02-10T18:18:49+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=2301
+guid: http://blog.vickiboykis.com/wlb/?p=2301
 permalink: /2010/02/the-history-of-tipping-in-the-boykis-household/
 categories:
   - Uncategorized

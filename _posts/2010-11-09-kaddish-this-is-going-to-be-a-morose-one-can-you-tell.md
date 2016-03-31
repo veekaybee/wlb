@@ -4,7 +4,7 @@ title: Kaddish (This is going to be a morose one. Can you tell?)
 date: 2010-11-09T08:48:16+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=3832
+guid: http://blog.vickiboykis.com/wlb/?p=3832
 permalink: /2010/11/kaddish-this-is-going-to-be-a-morose-one-can-you-tell/
 categories:
   - Uncategorized
@@ -16,7 +16,7 @@ tags:
   - morose
   - philly
 ---
-Last week, the day after [Mr. B and I danced](http://blog.vickiboykis.com/2010/10/28/two-quick-pics-from-this-week/) to _[Tantsui Rossiya](http://www.youtube.com/watch?v=BopcfGsOoZM) i Plach&#8217; Evropa, a Umenya Samaya, Samaya, Samaya Krasivaya Popa_ (_Russia, Dance and Europe, Cry, but I have the most attractive butt_) and drank champagne to celebrate a birthday, we were in a cemetery to mark two years since Dan&#8217;s grandma had died, and I thought about something that often comes to mind-women and Judaism, and the [thin line between life and death](http://blog.vickiboykis.com/2010/03/15/whoever-said-life-is-about-adventure-and-risk-taking-never-had-typhoid-shots/).
+Last week, the day after [Mr. B and I danced](http://blog.vickiboykis.com/wlb/2010/10/28/two-quick-pics-from-this-week/) to _[Tantsui Rossiya](http://www.youtube.com/watch?v=BopcfGsOoZM) i Plach&#8217; Evropa, a Umenya Samaya, Samaya, Samaya Krasivaya Popa_ (_Russia, Dance and Europe, Cry, but I have the most attractive butt_) and drank champagne to celebrate a birthday, we were in a cemetery to mark two years since Dan&#8217;s grandma had died, and I thought about something that often comes to mind-women and Judaism, and the [thin line between life and death](http://blog.vickiboykis.com/wlb/2010/03/15/whoever-said-life-is-about-adventure-and-risk-taking-never-had-typhoid-shots/).
 
 <img class="alignnone" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/05/mothers-001.jpg" alt="" width="573" height="371" />
 

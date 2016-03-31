@@ -4,7 +4,7 @@ title: Rabbit, rabbit, rabbit
 date: 2010-02-01T22:06:50+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=2264
+guid: http://blog.vickiboykis.com/wlb/?p=2264
 permalink: /2010/02/rabbit-rabbit-rabbit/
 categories:
   - Uncategorized
@@ -29,4 +29,4 @@ Anyway, the point is that I obviously have treasured this book for a really long
 
 Today, I forgot to say, &#8220;Rabbit, rabbit, rabbit.&#8221;  Tonight while I was headed to the gym, I got into a car accident.
 
-It wasn&#8217;t a big accident and only my left-hand side bumper was damaged, and no one in either of the cars was hurt, thank God.  But, combined with the cold, cold darkness of the the past couple months and the not saying of Rabbit, Rabbit, Rabbit, I am convinced that winter is out to get me.  As an economist, I know for a fact that correlation does not equal causation.  As someone [who&#8217;s already been messed with](http://blog.vickiboykis.com/2009/09/16/gods-is-straight-up-messing-with-me/), I am ready for April.
+It wasn&#8217;t a big accident and only my left-hand side bumper was damaged, and no one in either of the cars was hurt, thank God.  But, combined with the cold, cold darkness of the the past couple months and the not saying of Rabbit, Rabbit, Rabbit, I am convinced that winter is out to get me.  As an economist, I know for a fact that correlation does not equal causation.  As someone [who&#8217;s already been messed with](http://blog.vickiboykis.com/wlb/2009/09/16/gods-is-straight-up-messing-with-me/), I am ready for April.

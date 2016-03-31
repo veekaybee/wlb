@@ -4,7 +4,7 @@ title: Expectations of immigrant women in the West
 date: 2010-07-07T12:58:52+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=3278
+guid: http://blog.vickiboykis.com/wlb/?p=3278
 permalink: /2010/07/expectations-of-immigrant-women-in-the-west/
 categories:
   - Uncategorized

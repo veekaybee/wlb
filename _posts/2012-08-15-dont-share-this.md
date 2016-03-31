@@ -4,7 +4,7 @@ title: 'Don&#8217;t Share This'
 date: 2012-08-15T08:09:28+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=7338
+guid: http://blog.vickiboykis.com/wlb/?p=7338
 permalink: /2012/08/dont-share-this/
 categories:
   - Uncategorized

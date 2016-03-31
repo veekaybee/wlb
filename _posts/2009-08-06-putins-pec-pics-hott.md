@@ -4,7 +4,7 @@ title: 'Putin&#8217;s Pec Pics: HOTT'
 date: 2009-08-06T09:47:03+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=978
+guid: http://blog.vickiboykis.com/wlb/?p=978
 permalink: /2009/08/putins-pec-pics-hott/
 categories:
   - Uncategorized

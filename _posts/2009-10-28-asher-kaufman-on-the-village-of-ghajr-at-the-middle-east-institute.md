@@ -4,7 +4,7 @@ title: Asher Kaufman on the Village of Ghajr at the Middle East Institute
 date: 2009-10-28T22:05:29+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=1585
+guid: http://blog.vickiboykis.com/wlb/?p=1585
 permalink: /2009/10/asher-kaufman-on-the-village-of-ghajr-at-the-middle-east-institute/
 categories:
   - Uncategorized

@@ -4,7 +4,7 @@ title: A conversation with my parents about India
 date: 2010-03-08T22:19:34+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=2457
+guid: http://blog.vickiboykis.com/wlb/?p=2457
 permalink: /2010/03/a-conversation-with-my-parents-about-india/
 categories:
   - Uncategorized
@@ -21,7 +21,7 @@ tags:
   <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/03/Moms.jpg"><img class="aligncenter size-full wp-image-2449" title="Moms" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/03/Moms.jpg" alt="" width="420" height="560" /></a>
 </p>
 
-As part of our continuing world travel plans, Mr. B and I are planning to go to India this spring because we&#8217;re bored of Europe ([see: Prague](http://blog.vickiboykis.com/2009/04/05/mobama-dont-fall-prey-to-the-jew-guilt-in-prague/)) and ready for a little bit of third-world excitement. Little did we know that the excitement would start before we even bought our tickets.
+As part of our continuing world travel plans, Mr. B and I are planning to go to India this spring because we&#8217;re bored of Europe ([see: Prague](http://blog.vickiboykis.com/wlb/2009/04/05/mobama-dont-fall-prey-to-the-jew-guilt-in-prague/)) and ready for a little bit of third-world excitement. Little did we know that the excitement would start before we even bought our tickets.
 
 This weekend, we were in Philadelphia with [my parents and my mother-in-law](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/07/dsc01880.jpg) and the conversation came around to our travel plans.
 
@@ -69,7 +69,7 @@ This medical analysis of Southeast Asia would be all well and good if my aunt we
   </p>
   
   <p>
-    &#8220;Do you want us to be like Grandpa?&#8221; I asked.   My <a href="http://blog.vickiboykis.com/2010/03/02/visiting-my-grandpa-the-yiddish-speaking-atheist/">Grandpa&#8217;s</a> been through some crazy stuff in his life, but currently he doesn&#8217;t go further than his local grocery store.  He complains every time he has to go to a restaurant for birthdays or other special occasions.  Last time he ordered butternut squash soup at a restaurant, he told my mom, for half an hour, that it felt like someone was plastering on wallpaper in his kidney.
+    &#8220;Do you want us to be like Grandpa?&#8221; I asked.   My <a href="http://blog.vickiboykis.com/wlb/2010/03/02/visiting-my-grandpa-the-yiddish-speaking-atheist/">Grandpa&#8217;s</a> been through some crazy stuff in his life, but currently he doesn&#8217;t go further than his local grocery store.  He complains every time he has to go to a restaurant for birthdays or other special occasions.  Last time he ordered butternut squash soup at a restaurant, he told my mom, for half an hour, that it felt like someone was plastering on wallpaper in his kidney.
   </p>
   
   <p>

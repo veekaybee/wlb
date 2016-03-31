@@ -4,7 +4,7 @@ title: How to have a classy bachelorette party in Philly
 date: 2012-07-12T07:53:29+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=7153
+guid: http://blog.vickiboykis.com/wlb/?p=7153
 permalink: /2012/07/how-to-have-a-classy-bachelorette-party-in-philly/
 categories:
   - Uncategorized
@@ -20,7 +20,7 @@ tags:
 ---
 One of my closest friends is getting married in a couple of weeks, so when it came to planning her bachelorette party with her maid of honor, we wanted it to be awesome.
 
-Unfortunately, one of the annoying things about planning bachelorette parties is that you are expected to go to strip clubs and really loud bars and wear things shaped like penises. The other annoying thing is that we are in Philly, which you know is <a href="http://blog.vickiboykis.com/2012/02/why-is-philadelphia-so-disgusting/" target="_blank">near and dear to my heart</a>.
+Unfortunately, one of the annoying things about planning bachelorette parties is that you are expected to go to strip clubs and really loud bars and wear things shaped like penises. The other annoying thing is that we are in Philly, which you know is <a href="http://blog.vickiboykis.com/wlb/2012/02/why-is-philadelphia-so-disgusting/" target="_blank">near and dear to my heart</a>.
 
 If I had to make a list of my least-favorite things, strip clubs, really loud bars, and <a href="http://www.bachelorettesuperstore.com/page/100/PROD/3000-BO/favor-box-slvrhrt" target="_blank">this</a> would make the top three. Fortunately, my friend was really admant that none of those things be at her party, as well.
 
@@ -90,7 +90,7 @@ My wine expectations versus my wine reality at Tria:
 
 We stayed at the Westin, which was <a href="http://www.starwoodhotels.com/westin/property/overview/index.html?propertyID=1231" target="_blank">conveniently close</a> to the tiny wine portions.
 
-The next morning, after watching Wimbledon in bed, we decided to continue the experience at <a href="http://thedandelionpub.com/" target="_blank">the Dandelion</a>, which is the most British I felt since <a href="http://blog.vickiboykis.com/2012/01/scotland-the-brave-its-about-to-get-a-little-anti-semitic-up-in-edinburgh-also-rainy/" target="_blank">not-England</a>.
+The next morning, after watching Wimbledon in bed, we decided to continue the experience at <a href="http://thedandelionpub.com/" target="_blank">the Dandelion</a>, which is the most British I felt since <a href="http://blog.vickiboykis.com/wlb/2012/01/scotland-the-brave-its-about-to-get-a-little-anti-semitic-up-in-edinburgh-also-rainy/" target="_blank">not-England</a>.
 
 The Dandelion <a href="http://www.citypaper.net/blogs/mealticket/the_dandelion_in_pictures.html" target="_blank">is new</a> and really, really cool. Every detail was very carefully considered to give it that British feel.
 

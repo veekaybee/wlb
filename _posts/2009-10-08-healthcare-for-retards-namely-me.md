@@ -4,7 +4,7 @@ title: Healthcare for the Stupid and Confused (namely, me)
 date: 2009-10-08T06:22:05+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=1400
+guid: http://blog.vickiboykis.com/wlb/?p=1400
 permalink: /2009/10/healthcare-for-retards-namely-me/
 categories:
   - Uncategorized

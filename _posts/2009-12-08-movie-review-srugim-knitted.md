@@ -4,7 +4,7 @@ title: 'Movie Review: Srugim  (Knitted)'
 date: 2009-12-08T22:03:14+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=1840
+guid: http://blog.vickiboykis.com/wlb/?p=1840
 permalink: /2009/12/movie-review-srugim-knitted/
 categories:
   - Uncategorized
@@ -18,7 +18,7 @@ tags:
   - religion
   - srugim
 ---
-Yesterday, Mr. B and I went to the [DCJCC 10th Annual Film Festival](http://blog.vickiboykis.com/2009/12/03/washington-dc-jewish-film-festival/) (which, by the way, you should go to if you get the chance..going on through Sunday!) to see [Yesterday, Mr. B and I went to the [DCJCC 10th Annual Film Festival](http://blog.vickiboykis.com/2009/12/03/washington-dc-jewish-film-festival/) (which, by the way, you should go to if you get the chance..going on through Sunday!) to see](http://washingtondcjcc.org/center-for-arts/film/WJFF/films2009/srugim.html) (Kintted, in English.) Off the bat, I have to say I am extremely impressed with the JCC, which is much bigger and more comprehensive than any JCC I&#8217;ve been to.  Any would include the one in Harrisburg, Pennsylvania and my Hillel office at Penn State, which isn&#8217;t counting for much.  I grew up in the Pale of Settlement, let&#8217;s just say.  The amount of Jews lined up to see this show was simply astounding, as was the fact that the DCJCC has its own movie theater.  I never wanted to leave.  The theater was packed for the showing and the crowd was very enthusiastic throughout, making me think that more shows should be screened in movie theaters.
+Yesterday, Mr. B and I went to the [DCJCC 10th Annual Film Festival](http://blog.vickiboykis.com/wlb/2009/12/03/washington-dc-jewish-film-festival/) (which, by the way, you should go to if you get the chance..going on through Sunday!) to see [Yesterday, Mr. B and I went to the [DCJCC 10th Annual Film Festival](http://blog.vickiboykis.com/wlb/2009/12/03/washington-dc-jewish-film-festival/) (which, by the way, you should go to if you get the chance..going on through Sunday!) to see](http://washingtondcjcc.org/center-for-arts/film/WJFF/films2009/srugim.html) (Kintted, in English.) Off the bat, I have to say I am extremely impressed with the JCC, which is much bigger and more comprehensive than any JCC I&#8217;ve been to.  Any would include the one in Harrisburg, Pennsylvania and my Hillel office at Penn State, which isn&#8217;t counting for much.  I grew up in the Pale of Settlement, let&#8217;s just say.  The amount of Jews lined up to see this show was simply astounding, as was the fact that the DCJCC has its own movie theater.  I never wanted to leave.  The theater was packed for the showing and the crowd was very enthusiastic throughout, making me think that more shows should be screened in movie theaters.
 
 Here&#8217;s a [brief synopsys of Srugim](http://muqata.blogspot.com/2008/06/srugim-rave-reviews.html).  I have to admit, I am a bit behind the eight-ball on this series since it started last summer and I just now found out about it.  We  both loved it!
 

@@ -4,7 +4,7 @@ title: Working Lion and Stay-At-Home Lion
 date: 2012-06-27T22:34:41+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=7023
+guid: http://blog.vickiboykis.com/wlb/?p=7023
 permalink: /2012/06/working-lion-and-stay-at-home-lion/
 categories:
   - Uncategorized

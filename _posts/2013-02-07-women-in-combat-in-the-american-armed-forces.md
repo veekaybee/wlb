@@ -4,7 +4,7 @@ title: Women in combat in the American armed forces
 date: 2013-02-07T08:06:23+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=8346
+guid: http://blog.vickiboykis.com/wlb/?p=8346
 permalink: /2013/02/women-in-combat-in-the-american-armed-forces/
 categories:
   - Uncategorized

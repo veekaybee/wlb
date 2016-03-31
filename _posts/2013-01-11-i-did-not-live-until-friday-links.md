@@ -4,7 +4,7 @@ title: I did not live until Friday Links
 date: 2013-01-11T07:44:51+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=8194
+guid: http://blog.vickiboykis.com/wlb/?p=8194
 permalink: /2013/01/i-did-not-live-until-friday-links/
 categories:
   - fridaylinks

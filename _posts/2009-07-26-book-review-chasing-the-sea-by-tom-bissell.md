@@ -4,7 +4,7 @@ title: 'Book Review: Chasing the Sea by Tom Bissell'
 date: 2009-07-26T19:43:04+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=871
+guid: http://blog.vickiboykis.com/wlb/?p=871
 permalink: /2009/07/book-review-chasing-the-sea-by-tom-bissell/
 categories:
   - economics

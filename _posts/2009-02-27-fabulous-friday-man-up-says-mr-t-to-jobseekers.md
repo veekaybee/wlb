@@ -4,7 +4,7 @@ title: 'Fabulous Friday: Man up, says Mr. T to jobseekers'
 date: 2009-02-27T14:29:37+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=167
+guid: http://blog.vickiboykis.com/wlb/?p=167
 permalink: /2009/02/fabulous-friday-man-up-says-mr-t-to-jobseekers/
 categories:
   - Uncategorized

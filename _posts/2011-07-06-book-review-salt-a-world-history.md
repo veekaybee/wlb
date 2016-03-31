@@ -4,7 +4,7 @@ title: 'Book Review: Salt: A World History'
 date: 2011-07-06T08:55:16+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=5231
+guid: http://blog.vickiboykis.com/wlb/?p=5231
 permalink: /2011/07/book-review-salt-a-world-history/
 categories:
   - Uncategorized
@@ -14,7 +14,7 @@ tags:
   - Jews
   - salt
 ---
-It&#8217;s been a while since a <a href="http://blog.vickiboykis.com/tag/books/" target="_blank">book review</a>, hasn&#8217;t it?
+It&#8217;s been a while since a <a href="http://blog.vickiboykis.com/wlb/tag/books/" target="_blank">book review</a>, hasn&#8217;t it?
 
 I picked this up at my local library because I like histories of things, I like food, and I LOVE salt. So does Mark.
 

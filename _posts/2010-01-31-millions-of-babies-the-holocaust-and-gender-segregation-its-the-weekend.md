@@ -4,7 +4,7 @@ title: 'Millions of babies, the Holocaust, and gender segregation. It&#8217;s th
 date: 2010-01-31T19:58:11+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=2238
+guid: http://blog.vickiboykis.com/wlb/?p=2238
 permalink: /2010/01/millions-of-babies-the-holocaust-and-gender-segregation-its-the-weekend/
 categories:
   - Uncategorized
@@ -56,7 +56,7 @@ Who am I to criticize this practice? Obviously it works for some people and the 
 
 I don&#8217;t have a problem with the separation, per se.  If it&#8217;s equal.  Separate, but equal.  Like, if the male rabbi preaches to the males and a female rabbi preaches to females.](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/09/Picture-7.png) Obviously, this did not happen, and I spent the whole service straining a bit to hear what the rabbi was saying during the [parsha](http://en.wikipedia.org/wiki/Weekly_Torah_portion) before the naming ceremony was underway because he wasn&#8217;t really intent on talking to us wymyn as he was on telling the men that there is a [second Holocaust going on](http://en.wikipedia.org/wiki/Silent_Holocaust#Referring_to_assimilation_of_Jews), and that that particular Holocaust is intermarriage.
 
-I&#8217;ve heard this kind of rhetoric in the Jewish community tons of times before and it wasn&#8217;t really new to me, but I could hear Mr. B raising his eyebrows all the way on the other side of the men&#8217;s section.    I just  couldn&#8217;t wait to text [my mom](http://blog.vickiboykis.com/2009/08/17/moms-birthday/) and [ __
+I&#8217;ve heard this kind of rhetoric in the Jewish community tons of times before and it wasn&#8217;t really new to me, but I could hear Mr. B raising his eyebrows all the way on the other side of the men&#8217;s section.    I just  couldn&#8217;t wait to text [my mom](http://blog.vickiboykis.com/wlb/2009/08/17/moms-birthday/) and [ __
 
 I spent this Saturday morning being told I was the byproduct of a silent Holocaust, so my weekend went really well.
 
@@ -90,7 +90,7 @@ Who am I to criticize this practice? Obviously it works for some people and the 
 
 I don&#8217;t have a problem with the separation, per se.  If it&#8217;s equal.  Separate, but equal.  Like, if the male rabbi preaches to the males and a female rabbi preaches to females.](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/09/Picture-7.png) Obviously, this did not happen, and I spent the whole service straining a bit to hear what the rabbi was saying during the [parsha](http://en.wikipedia.org/wiki/Weekly_Torah_portion) before the naming ceremony was underway because he wasn&#8217;t really intent on talking to us wymyn as he was on telling the men that there is a [second Holocaust going on](http://en.wikipedia.org/wiki/Silent_Holocaust#Referring_to_assimilation_of_Jews), and that that particular Holocaust is intermarriage.
 
-I&#8217;ve heard this kind of rhetoric in the Jewish community tons of times before and it wasn&#8217;t really new to me, but I could hear Mr. B raising his eyebrows all the way on the other side of the men&#8217;s section.    I just  couldn&#8217;t wait to text [my mom](http://blog.vickiboykis.com/2009/08/17/moms-birthday/) and](http://blog.vickiboykis.com/2009/06/21/happy-fathers-day/) and tell them they were the next Hitler and Goebbels.
+I&#8217;ve heard this kind of rhetoric in the Jewish community tons of times before and it wasn&#8217;t really new to me, but I could hear Mr. B raising his eyebrows all the way on the other side of the men&#8217;s section.    I just  couldn&#8217;t wait to text [my mom](http://blog.vickiboykis.com/wlb/2009/08/17/moms-birthday/) and](http://blog.vickiboykis.com/wlb/2009/06/21/happy-fathers-day/) and tell them they were the next Hitler and Goebbels.
 
 [<img class="aligncenter size-full wp-image-2243" title="Picture 3" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/01/Picture-31.png" alt="" width="645" height="477" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/01/Picture-31.png)
 
@@ -98,7 +98,7 @@ The service went on for maybe an hour, during which my friend came with her daug
 
 [<img class="aligncenter size-full wp-image-2245" title="panda" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/01/panda.jpg" alt="" width="350" height="444" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/01/panda.jpg)
 
-It&#8217;s one of the most bizarre things I&#8217;ve experienced in my life, aside from that time Mr. B and I were in Jerusalem and we thought an Arab was trying to shank us but all he really wanted were some cigarettes. That a mother and father are not allowed to be present together and the mother, the one that gave life to the baby was sidelined and portrayed simply as a vessel for more Jews to come through the chute as opposed to a human being, bummed me out worse than that time I wrote about [depressing Russian baby songs](http://blog.vickiboykis.com/2009/02/06/the-most-depressing-baby-songs-ever-russian-ones/).  At the end of the dancing, the rabbi asked the mom to hold the baby up to his ear to hear what she was telling him, and what it turned out that she was telling him was for her mom and dad to bring her to services every week from now on.  What an astute baby.
+It&#8217;s one of the most bizarre things I&#8217;ve experienced in my life, aside from that time Mr. B and I were in Jerusalem and we thought an Arab was trying to shank us but all he really wanted were some cigarettes. That a mother and father are not allowed to be present together and the mother, the one that gave life to the baby was sidelined and portrayed simply as a vessel for more Jews to come through the chute as opposed to a human being, bummed me out worse than that time I wrote about [depressing Russian baby songs](http://blog.vickiboykis.com/wlb/2009/02/06/the-most-depressing-baby-songs-ever-russian-ones/).  At the end of the dancing, the rabbi asked the mom to hold the baby up to his ear to hear what she was telling him, and what it turned out that she was telling him was for her mom and dad to bring her to services every week from now on.  What an astute baby.
 
 After the dancing subsided and we wimminz were settled down, the prayers continued.  And continued.  For another hour, with the rabbi breaking off to entice us areligious Russian Jews to come to services to &#8220;find out what being a Jew is&#8221; and to really, really stop mixing meat and milk or we would all go to a hell that would probably include, amongst other things, mechitzot for all.  I&#8217;m guessing he didn&#8217;t know that I already know what &#8220;being a Jew is&#8221; for me and- pro tip &#8211; it doesn&#8217;t include being treated like a baby machine (which actually would be a pretty cool idea to patent.)
 

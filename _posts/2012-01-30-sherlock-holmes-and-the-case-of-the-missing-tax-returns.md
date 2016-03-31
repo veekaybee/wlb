@@ -4,7 +4,7 @@ title: Sherlock Holmes and the Case of the Missing Tax Returns
 date: 2012-01-30T07:59:53+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=6386
+guid: http://blog.vickiboykis.com/wlb/?p=6386
 permalink: /2012/01/sherlock-holmes-and-the-case-of-the-missing-tax-returns/
 categories:
   - Uncategorized
@@ -35,7 +35,7 @@ Mr. B walks into the room with a slight limp.  For the sake of this story, we a
 
 Mr. B rolls his eyes. &#8220;No one hates us. We have no enemies.&#8221; He pours some milk into his Assam and sits down beside Vicki.
 
-&#8220;That&#8217;s what you think,&#8221; Vicki says, pushing a couple of folders full of mortgage information out of the way, onto the floor. &#8220;Moriarty&#8217;s spies are everywhere.  Especially when it comes to finding the two documents we need to be able to finish our returns. I bet,&#8221; she trails off and puffs on a <a href="http://blog.vickiboykis.com/2011/09/26/facebook-anxiety/" target="_blank">hookah pipe</a> lying on the floor.
+&#8220;That&#8217;s what you think,&#8221; Vicki says, pushing a couple of folders full of mortgage information out of the way, onto the floor. &#8220;Moriarty&#8217;s spies are everywhere.  Especially when it comes to finding the two documents we need to be able to finish our returns. I bet,&#8221; she trails off and puffs on a <a href="http://blog.vickiboykis.com/wlb/2011/09/26/facebook-anxiety/" target="_blank">hookah pipe</a> lying on the floor.
 
 <p style="text-align: center;">
   <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/01/IMAG1046.jpg"><img class="aligncenter  wp-image-6395" title="IMAG1046" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/01/IMAG1046.jpg" alt="" width="538" height="323" /></a>

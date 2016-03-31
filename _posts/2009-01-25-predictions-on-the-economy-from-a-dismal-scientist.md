@@ -4,7 +4,7 @@ title: Predictions on the Economy from a Dismal Scientist
 date: 2009-01-25T10:05:05+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=69
+guid: http://blog.vickiboykis.com/wlb/?p=69
 permalink: /2009/01/predictions-on-the-economy-from-a-dismal-scientist/
 categories:
   - Uncategorized

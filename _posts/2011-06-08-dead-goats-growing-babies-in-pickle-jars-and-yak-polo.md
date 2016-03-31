@@ -4,7 +4,7 @@ title: Dead Goats, Growing Babies in Pickle Jars, and Yak Polo.
 date: 2011-06-08T08:26:50+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=5062
+guid: http://blog.vickiboykis.com/wlb/?p=5062
 permalink: /2011/06/dead-goats-growing-babies-in-pickle-jars-and-yak-polo/
 categories:
   - Uncategorized

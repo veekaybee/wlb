@@ -4,7 +4,7 @@ title: We, the Russians
 date: 2010-04-13T06:47:13+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=2730
+guid: http://blog.vickiboykis.com/wlb/?p=2730
 permalink: /2010/04/we-the-russians/
 categories:
   - Uncategorized
@@ -18,7 +18,7 @@ tags:
 
 This weekend, I had two completely different experiences that made me think about what it means to be [Russian-speaking](http://www.newscientist.com/article/dn11759-russian-speakers-get-the-blues.html).
 
-I went to visit [New Baby Cousin](http://blog.vickiboykis.com/2010/03/30/life-goes-on/) on Saturday.  As we were leaving, Mr. B asked his exhausted new parents,&#8221;So, how are you guys planning to raise him with the whole Russian thing? I know it&#8217;s important to you. &#8221;  Like me, marrying a Russian speaker was very important to both of them.  But, also like me, they don&#8217;t speak Russian to each other, because honestly, it&#8217;s easier to speak English.  Mr. B and I speak English almost exclusively unless we&#8217;re talking about someone or something and we don&#8217;t want them to understand.
+I went to visit [New Baby Cousin](http://blog.vickiboykis.com/wlb/2010/03/30/life-goes-on/) on Saturday.  As we were leaving, Mr. B asked his exhausted new parents,&#8221;So, how are you guys planning to raise him with the whole Russian thing? I know it&#8217;s important to you. &#8221;  Like me, marrying a Russian speaker was very important to both of them.  But, also like me, they don&#8217;t speak Russian to each other, because honestly, it&#8217;s easier to speak English.  Mr. B and I speak English almost exclusively unless we&#8217;re talking about someone or something and we don&#8217;t want them to understand.
 
 Mr. B and I grew up being drilled Russian, Russian, Russian, don&#8217;t forget Russian, always speak Russian at home.   But I don&#8217;t speak Russian to my parents or to New Baby Cousin or to Baby Cousin&#8217;s parents.  Only, actually, to my mother-in-law, out of respect.  Why?  For me (and I suspect for Mr. B) speaking Russian feels like we&#8217;re our parents, because we essentially learned Russian from them, outside of the context of television shows, books, and movies that we could co-opt as our own slice of the language.  All the slang we know, we picked up from our parents and random young Russians, and it feels strange to use it, like we&#8217;re parroting what we learned in elementary school.
 
@@ -40,7 +40,7 @@ What does this tell me about being a Russian speaker?  That, despite having  R
 
 This weekend, I had two completely different experiences that made me think about what it means to be [Russian-speaking](http://www.newscientist.com/article/dn11759-russian-speakers-get-the-blues.html).
 
-I went to visit [New Baby Cousin](http://blog.vickiboykis.com/2010/03/30/life-goes-on/) on Saturday.  As we were leaving, Mr. B asked his exhausted new parents,&#8221;So, how are you guys planning to raise him with the whole Russian thing? I know it&#8217;s important to you. &#8221;  Like me, marrying a Russian speaker was very important to both of them.  But, also like me, they don&#8217;t speak Russian to each other, because honestly, it&#8217;s easier to speak English.  Mr. B and I speak English almost exclusively unless we&#8217;re talking about someone or something and we don&#8217;t want them to understand.
+I went to visit [New Baby Cousin](http://blog.vickiboykis.com/wlb/2010/03/30/life-goes-on/) on Saturday.  As we were leaving, Mr. B asked his exhausted new parents,&#8221;So, how are you guys planning to raise him with the whole Russian thing? I know it&#8217;s important to you. &#8221;  Like me, marrying a Russian speaker was very important to both of them.  But, also like me, they don&#8217;t speak Russian to each other, because honestly, it&#8217;s easier to speak English.  Mr. B and I speak English almost exclusively unless we&#8217;re talking about someone or something and we don&#8217;t want them to understand.
 
 Mr. B and I grew up being drilled Russian, Russian, Russian, don&#8217;t forget Russian, always speak Russian at home.   But I don&#8217;t speak Russian to my parents or to New Baby Cousin or to Baby Cousin&#8217;s parents.  Only, actually, to my mother-in-law, out of respect.  Why?  For me (and I suspect for Mr. B) speaking Russian feels like we&#8217;re our parents, because we essentially learned Russian from them, outside of the context of television shows, books, and movies that we could co-opt as our own slice of the language.  All the slang we know, we picked up from our parents and random young Russians, and it feels strange to use it, like we&#8217;re parroting what we learned in elementary school.
 

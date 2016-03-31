@@ -4,7 +4,7 @@ title: Things my husband will not let my buy on Etsy
 date: 2012-07-23T08:10:30+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=7230
+guid: http://blog.vickiboykis.com/wlb/?p=7230
 permalink: /2012/07/things-my-husband-will-not-let-my-buy-on-etsy/
 categories:
   - Uncategorized
@@ -16,7 +16,7 @@ tags:
   - Russia
   - soviet bears
 ---
-Our house is <a href="http://blog.vickiboykis.com/2011/10/house-update-the-walls/" target="_blank">slowly coming together</a>:<span style="text-align: center;"> </span>
+Our house is <a href="http://blog.vickiboykis.com/wlb/2011/10/house-update-the-walls/" target="_blank">slowly coming together</a>:<span style="text-align: center;"> </span>
 
 <p style="text-align: center;">
   <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/07/IMG_20120723_072444.jpeg"><img class="aligncenter  wp-image-7250" title="IMG_20120723_072444" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/07/IMG_20120723_072444.jpeg" alt="" width="343" height="457" /></a>
@@ -32,7 +32,7 @@ And by we, I mean me, since Mr. B has the gift for visual design that all men ha
 
 &nbsp;
 
-The only problem is, as <a href="http://blog.vickiboykis.com/2009/07/19/hortex/" target="_blank">you have probably surmised by now</a>, gentle reader, I am weird, and I like weird things, and Mr. B wants to keep it normal.
+The only problem is, as <a href="http://blog.vickiboykis.com/wlb/2009/07/19/hortex/" target="_blank">you have probably surmised by now</a>, gentle reader, I am weird, and I like weird things, and Mr. B wants to keep it normal.
 
 So he vetoes everything I want on Etsy.  Things he has vetoed in the recent past or will veto as soon as he sees them include:
 

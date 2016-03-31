@@ -5,7 +5,7 @@ date: 2015-08-20T07:54:56+00:00
 author: Vicki
 excerpt: "I've escaped the house!"
 layout: post
-guid: http://blog.vickiboykis.com/?p=10067
+guid: http://blog.vickiboykis.com/wlb/?p=10067
 permalink: /2015/08/a-review-of-the-recent-impressionist-exhibit-at-the-philadelphia-art-museum/
 categories:
   - culture

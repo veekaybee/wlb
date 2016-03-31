@@ -4,7 +4,7 @@ title: Welcome, Summer
 date: 2010-06-01T14:05:01+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=3048
+guid: http://blog.vickiboykis.com/wlb/?p=3048
 permalink: /2010/06/welcome-summer/
 categories:
   - Uncategorized
@@ -15,7 +15,7 @@ tags:
   - summer
   - Washington
 ---
-[Rabbit, rabbit, rabbit.](http://blog.vickiboykis.com/2010/02/01/rabbit-rabbit-rabbit/)
+[Rabbit, rabbit, rabbit.](http://blog.vickiboykis.com/wlb/2010/02/01/rabbit-rabbit-rabbit/)
 
 [<img class="aligncenter size-full wp-image-3058" title="DSC_0887" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/06/DSC_0887.jpg" alt="" width="640" height="426" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/06/DSC_0887.jpg)
 
@@ -58,5 +58,5 @@ To take my mind off of the gruesome discussion of the Israel incident this week,
     </p>
     
     <p>
-      Hoping this summer will be equally fun.  It&#8217;s already off to a<a href="http://blog.vickiboykis.com/2010/05/26/our-adventures-in-los-angeles-starting-with-mulholland-drive/"> great start</a>.
+      Hoping this summer will be equally fun.  It&#8217;s already off to a<a href="http://blog.vickiboykis.com/wlb/2010/05/26/our-adventures-in-los-angeles-starting-with-mulholland-drive/"> great start</a>.
     </p>

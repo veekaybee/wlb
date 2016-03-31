@@ -4,7 +4,7 @@ title: Small data
 date: 2013-04-22T13:21:45+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=8619
+guid: http://blog.vickiboykis.com/wlb/?p=8619
 permalink: /2013/04/small-data/
 categories:
   - international
@@ -75,7 +75,7 @@ With every additional neatly-packaged headline the media adds, it is fine-tuning
 
 But the problem is that trying to figure out what happened is as much a small data problem as it is one of large probabilities and geopolitics of the  <a href="http://www.irishtimes.com/news/world/us/violent-history-shaped-tsarnaev-brothers-chechen-homeland-1.1366423" target="_blank">Strong, Proud, Brave, Fiercely Independent Chechen People</a>. It&#8217;s as easy and hard as going to the parents and asking, &#8220;Why did you raise your children to be horrible human beings?&#8221; and going to the remaining brother and asking, &#8220;How much of the responsibility of the fact that you are a monster are you willing to take on for yourself, how much do you attribute to the fact that you were probably constantly told how much better the Chechens were than every other people, and how much of it is due to the fact that maybe someone didn&#8217;t talk to you during a semester in college?&#8221;
 
-But <a href="http://blog.vickiboykis.com/2012/11/the-tragedy-of-the-human-brain/" target="_blank">the human mind is so incredibly messy</a> and takes so much time that by the point we have an answer, we&#8217;ve all already hugged our children and relatives, have instituted new safety checks in airports and at marathons, written editorials in newspapers, and have purchased our Never Forget memorial t-shirts.
+But <a href="http://blog.vickiboykis.com/wlb/2012/11/the-tragedy-of-the-human-brain/" target="_blank">the human mind is so incredibly messy</a> and takes so much time that by the point we have an answer, we&#8217;ve all already hugged our children and relatives, have instituted new safety checks in airports and at marathons, written editorials in newspapers, and have purchased our Never Forget memorial t-shirts.
 
 But there are still hundreds of people whom are generating all the right signs in terms of small data, who remain unsolved, heading towards the end of their decision trees in a slow and frightening way.
 

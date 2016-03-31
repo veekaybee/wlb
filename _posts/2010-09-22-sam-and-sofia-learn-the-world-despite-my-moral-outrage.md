@@ -4,7 +4,7 @@ title: Sam and Sofia Learn the World Despite My Moral Outrage
 date: 2010-09-22T20:44:59+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=3613
+guid: http://blog.vickiboykis.com/wlb/?p=3613
 permalink: /2010/09/sam-and-sofia-learn-the-world-despite-my-moral-outrage/
 categories:
   - Uncategorized

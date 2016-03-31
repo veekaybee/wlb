@@ -4,7 +4,7 @@ title: Ottawa is for Real Russians
 date: 2013-01-02T08:12:38+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=8138
+guid: http://blog.vickiboykis.com/wlb/?p=8138
 permalink: /2013/01/ottawa-is-for-real-russians/
 categories:
   - Uncategorized
@@ -26,7 +26,7 @@ tags:
   - USSR
 ---
 <p style="text-align: center;">
-   <a href="http://blog.vickiboykis.com/2013/01/ottawa-is-for-real-russians/img_20121230_085042/" rel="attachment wp-att-8140"><img class="aligncenter  wp-image-8140" alt="IMG_20121230_085042" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/01/IMG_20121230_085042.jpg" width="490" height="653" /></a>
+   <a href="http://blog.vickiboykis.com/wlb/2013/01/ottawa-is-for-real-russians/img_20121230_085042/" rel="attachment wp-att-8140"><img class="aligncenter  wp-image-8140" alt="IMG_20121230_085042" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/01/IMG_20121230_085042.jpg" width="490" height="653" /></a>
 </p>
 
 &nbsp;
@@ -40,21 +40,21 @@ Just as Americans have a fascination with having a White Christmas, Russians hav
 When I served in the Soviet army in Siberia, it got to be around -55 degrees at night when we had guard duty. I had the beginning stages of frostbite once,&#8221; he said proudly. Where,&#8221; my mom asked, alarmed.  &#8220;In this finger. They had to cut it open and drain it of pus. It was mostly white. They drained, like, two thirds of it,&#8221; he explained as we ate  our dinner. &#8220;By the way, are you sure this is meat? Mine tastes like cat,&#8221; he added thoughtfully and continued to chew.
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/2013/01/ottawa-is-for-real-russians/img_20121230_114544/" rel="attachment wp-att-8141"><img class="aligncenter  wp-image-8141" alt="IMG_20121230_114544" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/01/IMG_20121230_114544.jpg" width="571" height="762" /></a>
+  <a href="http://blog.vickiboykis.com/wlb/2013/01/ottawa-is-for-real-russians/img_20121230_114544/" rel="attachment wp-att-8141"><img class="aligncenter  wp-image-8141" alt="IMG_20121230_114544" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/01/IMG_20121230_114544.jpg" width="571" height="762" /></a>
 </p>
 
-Because most of Russia (except Sochi, which is a seaside resort town and the place where the winter Olympics are going to be held,) is closer to the North Pole than civilization, Russia is <a href="http://en.wikipedia.org/wiki/Russian_Winter" target="_blank">prepared to deal with snow</a>, which happens anywhere from October to March. There are millions of songs about snow. Snow and New Year. Snow and flurries. Snow and strolling through birch trees. Snow and alcohol. Snow and everlasting existential sorrow. <a href="http://blog.vickiboykis.com/2012/12/our-religion-is-really-just-our-parents/" target="_blank">Morozko.</a>
+Because most of Russia (except Sochi, which is a seaside resort town and the place where the winter Olympics are going to be held,) is closer to the North Pole than civilization, Russia is <a href="http://en.wikipedia.org/wiki/Russian_Winter" target="_blank">prepared to deal with snow</a>, which happens anywhere from October to March. There are millions of songs about snow. Snow and New Year. Snow and flurries. Snow and strolling through birch trees. Snow and alcohol. Snow and everlasting existential sorrow. <a href="http://blog.vickiboykis.com/wlb/2012/12/our-religion-is-really-just-our-parents/" target="_blank">Morozko.</a>
 
 There are not as many songs about, say, everybody surfin&#8217; like Californ-i-a. Russians are uncomfortable with summer. They hate <a href="http://opinionator.blogs.nytimes.com/2011/08/03/ice-enough-already/" target="_blank">ice in beverage</a>s. They don&#8217;t have <a href="http://opinionator.blogs.nytimes.com/2011/08/03/ice-enough-already/" target="_blank">air conditioners </a>(&#8220;you can catch a cold from them.&#8221;) And they don&#8217;t sell water.  Mr. B&#8217;s uncle was in Moscow during the <a href="http://www.telegraph.co.uk/news/picturegalleries/worldnews/7926551/Russia-forest-fires-smoke-and-smog-blanket-Moscow-turning-the-sky-orange.html" target="_blank">summer of the forest fires </a>and went into a store to ask for cold bottles of water. &#8220;We&#8217;re don&#8217;t have any. Just the beer,&#8221; they shrugged.
 
 You get the idea. Real Russians like to masochistically be cold, and they will go anywhere to get it.
 
-Also, Russians l<a href="http://blog.vickiboykis.com/2012/11/why-do-eastern-european-women-love-leather-and-fur/" target="_blank">ike fur coats.</a>
+Also, Russians l<a href="http://blog.vickiboykis.com/wlb/2012/11/why-do-eastern-european-women-love-leather-and-fur/" target="_blank">ike fur coats.</a>
 
 Mr. B and I are fake Russians because we were brought up in the United States, so we like crazy American things like staying warm, being inside when snow happens, and Phoenix, Arizona.  As a result, Ottawa was PERFECT for my parents.  They got their snowy New Year, their windchill, their fur coats, their memories of their childhoods.
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/2013/01/ottawa-is-for-real-russians/img_20121230_102812/" rel="attachment wp-att-8142"><img class="aligncenter  wp-image-8142" alt="IMG_20121230_102812" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/01/IMG_20121230_102812.jpg" width="490" height="653" /></a>
+  <a href="http://blog.vickiboykis.com/wlb/2013/01/ottawa-is-for-real-russians/img_20121230_102812/" rel="attachment wp-att-8142"><img class="aligncenter  wp-image-8142" alt="IMG_20121230_102812" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/01/IMG_20121230_102812.jpg" width="490" height="653" /></a>
 </p>
 
 For us, Ottawa was at least four layers of clothing every day.
@@ -64,23 +64,23 @@ To be sure, it&#8217;s a really interesting place. Ottawa, as the capital of Can
 What&#8217;s that, you say? All the people in the pictures are wearing shorts? It would be smarter to visit Ottawa in the summer, you say?
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/2013/01/ottawa-is-for-real-russians/577959_489057814479097_253877420_n/" rel="attachment wp-att-8143"><img class="aligncenter  wp-image-8143" alt="577959_489057814479097_253877420_n" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/01/577959_489057814479097_253877420_n.jpg" width="346" height="259" /></a>
+  <a href="http://blog.vickiboykis.com/wlb/2013/01/ottawa-is-for-real-russians/577959_489057814479097_253877420_n/" rel="attachment wp-att-8143"><img class="aligncenter  wp-image-8143" alt="577959_489057814479097_253877420_n" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/01/577959_489057814479097_253877420_n.jpg" width="346" height="259" /></a>
 </p>
 
 Well, yes, but that&#8217;s not how real Russians do things.  This was our Ottawa:
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/2013/01/ottawa-is-for-real-russians/img_20121231_112638/" rel="attachment wp-att-8144"><img class="aligncenter  wp-image-8144" alt="IMG_20121231_112638" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/01/IMG_20121231_112638.jpg" width="490" height="653" /></a>
+  <a href="http://blog.vickiboykis.com/wlb/2013/01/ottawa-is-for-real-russians/img_20121231_112638/" rel="attachment wp-att-8144"><img class="aligncenter  wp-image-8144" alt="IMG_20121231_112638" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/01/IMG_20121231_112638.jpg" width="490" height="653" /></a>
 </p>
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/2013/01/ottawa-is-for-real-russians/img_20121230_084906/" rel="attachment wp-att-8145"><img class="aligncenter  wp-image-8145" alt="IMG_20121230_084906" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/01/IMG_20121230_084906.jpg" width="490" height="653" /></a>
+  <a href="http://blog.vickiboykis.com/wlb/2013/01/ottawa-is-for-real-russians/img_20121230_084906/" rel="attachment wp-att-8145"><img class="aligncenter  wp-image-8145" alt="IMG_20121230_084906" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/01/IMG_20121230_084906.jpg" width="490" height="653" /></a>
 </p>
 
 &nbsp;
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/2013/01/ottawa-is-for-real-russians/img_20121231_122142-2/" rel="attachment wp-att-8147"><img class="aligncenter  wp-image-8147" alt="IMG_20121231_122142" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/01/IMG_20121231_1221421.jpg" width="560" height="420" /></a>
+  <a href="http://blog.vickiboykis.com/wlb/2013/01/ottawa-is-for-real-russians/img_20121231_122142-2/" rel="attachment wp-att-8147"><img class="aligncenter  wp-image-8147" alt="IMG_20121231_122142" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/01/IMG_20121231_1221421.jpg" width="560" height="420" /></a>
 </p>
 
 <p style="text-align: left;">
@@ -92,7 +92,7 @@ Well, yes, but that&#8217;s not how real Russians do things.  This was our Otta
 </p>
 
 <p style="text-align: left;">
-  <a href="http://blog.vickiboykis.com/2013/01/ottawa-is-for-real-russians/screen-shot-2013-01-02-at-7-50-37-am/" rel="attachment wp-att-8149"><img class="aligncenter size-full wp-image-8149" alt="Screen shot 2013-01-02 at 7.50.37 AM" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/01/Screen-shot-2013-01-02-at-7.50.37-AM.png" width="614" height="356" /></a>
+  <a href="http://blog.vickiboykis.com/wlb/2013/01/ottawa-is-for-real-russians/screen-shot-2013-01-02-at-7-50-37-am/" rel="attachment wp-att-8149"><img class="aligncenter size-full wp-image-8149" alt="Screen shot 2013-01-02 at 7.50.37 AM" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/01/Screen-shot-2013-01-02-at-7.50.37-AM.png" width="614" height="356" /></a>
 </p>
 
 <p style="text-align: left;">
@@ -100,7 +100,7 @@ Well, yes, but that&#8217;s not how real Russians do things.  This was our Otta
 </p>
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/2013/01/ottawa-is-for-real-russians/img_20121231_201848/" rel="attachment wp-att-8148"><img class="aligncenter  wp-image-8148" alt="IMG_20121231_201848" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/01/IMG_20121231_201848.jpg" width="490" height="653" /></a>
+  <a href="http://blog.vickiboykis.com/wlb/2013/01/ottawa-is-for-real-russians/img_20121231_201848/" rel="attachment wp-att-8148"><img class="aligncenter  wp-image-8148" alt="IMG_20121231_201848" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/01/IMG_20121231_201848.jpg" width="490" height="653" /></a>
 </p>
 
 <p style="text-align: center;">
@@ -108,7 +108,7 @@ Well, yes, but that&#8217;s not how real Russians do things.  This was our Otta
 </p>
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/2013/01/ottawa-is-for-real-russians/img_20121231_203228-2/" rel="attachment wp-att-8151"><img class="aligncenter  wp-image-8151" alt="IMG_20121231_203228" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/01/IMG_20121231_2032281.jpg" width="490" height="653" /></a>
+  <a href="http://blog.vickiboykis.com/wlb/2013/01/ottawa-is-for-real-russians/img_20121231_203228-2/" rel="attachment wp-att-8151"><img class="aligncenter  wp-image-8151" alt="IMG_20121231_203228" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/01/IMG_20121231_2032281.jpg" width="490" height="653" /></a>
 </p>
 
 <p style="text-align: left;">
@@ -120,11 +120,11 @@ Well, yes, but that&#8217;s not how real Russians do things.  This was our Otta
 </p>
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/2013/01/ottawa-is-for-real-russians/img_20130101_000210/" rel="attachment wp-att-8152"><img class="aligncenter  wp-image-8152" alt="IMG_20130101_000210" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/01/IMG_20130101_000210.jpg" width="490" height="653" /></a>
+  <a href="http://blog.vickiboykis.com/wlb/2013/01/ottawa-is-for-real-russians/img_20130101_000210/" rel="attachment wp-att-8152"><img class="aligncenter  wp-image-8152" alt="IMG_20130101_000210" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/01/IMG_20130101_000210.jpg" width="490" height="653" /></a>
 </p>
 
 <p style="text-align: left;">
-  &#8220;<a href="http://blog.vickiboykis.com/2010/02/rabbit-rabbit-rabbit/" target="_blank">Rabbit, rabbit, rabbit</a>,&#8221; I whispered quietly to myself and let all my hopes, dreams, and fears float up into the atmosphere to brew for the New Year.
+  &#8220;<a href="http://blog.vickiboykis.com/wlb/2010/02/rabbit-rabbit-rabbit/" target="_blank">Rabbit, rabbit, rabbit</a>,&#8221; I whispered quietly to myself and let all my hopes, dreams, and fears float up into the atmosphere to brew for the New Year.
 </p>
 
 <p style="text-align: left;">

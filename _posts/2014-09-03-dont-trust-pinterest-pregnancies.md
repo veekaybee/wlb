@@ -4,7 +4,7 @@ title: Don’t trust Pinterest pregnancies
 date: 2014-09-03T08:21:58+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=9814
+guid: http://blog.vickiboykis.com/wlb/?p=9814
 permalink: /2014/09/dont-trust-pinterest-pregnancies/
 categories:
   - family

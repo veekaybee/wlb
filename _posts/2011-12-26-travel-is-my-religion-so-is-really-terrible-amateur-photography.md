@@ -4,7 +4,7 @@ title: Travel is my religion (so is really terrible amateur photography)
 date: 2011-12-26T21:37:04+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=6054
+guid: http://blog.vickiboykis.com/wlb/?p=6054
 permalink: /2011/12/travel-is-my-religion-so-is-really-terrible-amateur-photography/
 categories:
   - Uncategorized
@@ -29,11 +29,11 @@ I love to travel, and I live to travel.  Planning travel is a pain in the ass a
 </p>
 
 <p style="text-align: left;">
-  So far, Mr. B and I have been to Prague, <a href="http://blog.vickiboykis.com/2009/09/28/our-trip-to-israel-the-youtube/" target="_blank">Israel</a>, and a bunch of places in the US together.  Since we&#8217;ve been crazy with changing jobs and houses and everything, we haven&#8217;t been able to have a decent vacation aside from the few days we spent in <a href="http://blog.vickiboykis.com/2011/03/02/las-vegas-means-eating-drinking-and-discussing-the-nevada-real-estate-bubble/" target="_blank">Las Vegas</a> and <a href="http://blog.vickiboykis.com/2011/08/21/vickis-travel-guide-to-boston-for-the-temporarily-unemployed-and-anxious/" target="_blank">Boston</a> this year.  But a real vacation for me means leaving North America, and that&#8217;s exactly what we did when we went to England and Scotland last week.
+  So far, Mr. B and I have been to Prague, <a href="http://blog.vickiboykis.com/wlb/2009/09/28/our-trip-to-israel-the-youtube/" target="_blank">Israel</a>, and a bunch of places in the US together.  Since we&#8217;ve been crazy with changing jobs and houses and everything, we haven&#8217;t been able to have a decent vacation aside from the few days we spent in <a href="http://blog.vickiboykis.com/wlb/2011/03/02/las-vegas-means-eating-drinking-and-discussing-the-nevada-real-estate-bubble/" target="_blank">Las Vegas</a> and <a href="http://blog.vickiboykis.com/wlb/2011/08/21/vickis-travel-guide-to-boston-for-the-temporarily-unemployed-and-anxious/" target="_blank">Boston</a> this year.  But a real vacation for me means leaving North America, and that&#8217;s exactly what we did when we went to England and Scotland last week.
 </p>
 
 <p style="text-align: left;">
-  Initially, I wanted to go to Argentina, because it&#8217;s warm in the winter.  But Argentina was $$$$$$.  So then I thought maybe Iceland, because it&#8217;s close by and really cheap in the winter. No dice, because Iceland has only 4 hours of daylight when we wanted to go.  Add a Russian to that equation, and you go suicidal.  The next logical location was the UK, because it&#8217;s relatively close from North America (6 hour flight from Philadelphia), and this time around, since we&#8217;d only leave for 6 days, I didn&#8217;t feel like dealing with logistics of travel in non-English (or Russian or Hebrew or Italian)-speaking countries.  For our next trip, I&#8217;m hoping we have 2 weeks for Japan (<a href="http://blog.vickiboykis.com/2010/03/08/a-conversation-with-my-parents-about-india/" target="_blank">or maybe, India</a>).
+  Initially, I wanted to go to Argentina, because it&#8217;s warm in the winter.  But Argentina was $$$$$$.  So then I thought maybe Iceland, because it&#8217;s close by and really cheap in the winter. No dice, because Iceland has only 4 hours of daylight when we wanted to go.  Add a Russian to that equation, and you go suicidal.  The next logical location was the UK, because it&#8217;s relatively close from North America (6 hour flight from Philadelphia), and this time around, since we&#8217;d only leave for 6 days, I didn&#8217;t feel like dealing with logistics of travel in non-English (or Russian or Hebrew or Italian)-speaking countries.  For our next trip, I&#8217;m hoping we have 2 weeks for Japan (<a href="http://blog.vickiboykis.com/wlb/2010/03/08/a-conversation-with-my-parents-about-india/" target="_blank">or maybe, India</a>).
 </p>
 
 <p style="text-align: left;">

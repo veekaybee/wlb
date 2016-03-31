@@ -4,7 +4,7 @@ title: 'This Tu B&#8217;Shvat, I&#8217;m buying a donkey and a plane ticket to H
 date: 2010-01-28T21:11:29+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=2210
+guid: http://blog.vickiboykis.com/wlb/?p=2210
 permalink: /2010/01/this-tu-bshvat-im-buying-a-donkey-and-a-plane-ticket-to-haifa/
 categories:
   - Uncategorized
@@ -17,7 +17,7 @@ tags:
   - "Tu B'Shvat"
   - Zionism
 ---
-[Tu B&#8217;Shvat,](http://en.wikipedia.org/wiki/Tu_Bishvat) the Jewish festival for the birthday of the trees, is tonight.   Since it&#8217;s been a while that I&#8217;ve been part of something Jewish ([[Tu B&#8217;Shvat,](http://en.wikipedia.org/wiki/Tu_Bishvat) the Jewish festival for the birthday of the trees, is tonight.   Since it&#8217;s been a while that I&#8217;ve been part of something Jewish (](http://blog.vickiboykis.com/2009/10/20/russian-letziyon-halloween-costumes/) does not count as doing something Jewish, although sometimes [I try to pass it off as such](http://blog.vickiboykis.com/2009/02/18/shlom-bayit-%D7%A9%D7%9C%D7%95%D7%9D-%D7%91%D7%99%D7%AA-maintaining-sanity-and-comparative-advantage-in-the-household/),)  I wanted to celebrate, which involves planting trees and eating fruits of the Torah (pomegranates, dates, olives, and [Bamba](http://www.osem.co.il/Eng/_Articles/Article.asp?CategoryID=42&ArticleID=38).)
+[Tu B&#8217;Shvat,](http://en.wikipedia.org/wiki/Tu_Bishvat) the Jewish festival for the birthday of the trees, is tonight.   Since it&#8217;s been a while that I&#8217;ve been part of something Jewish ([[Tu B&#8217;Shvat,](http://en.wikipedia.org/wiki/Tu_Bishvat) the Jewish festival for the birthday of the trees, is tonight.   Since it&#8217;s been a while that I&#8217;ve been part of something Jewish (](http://blog.vickiboykis.com/wlb/2009/10/20/russian-letziyon-halloween-costumes/) does not count as doing something Jewish, although sometimes [I try to pass it off as such](http://blog.vickiboykis.com/wlb/2009/02/18/shlom-bayit-%D7%A9%D7%9C%D7%95%D7%9D-%D7%91%D7%99%D7%AA-maintaining-sanity-and-comparative-advantage-in-the-household/),)  I wanted to celebrate, which involves planting trees and eating fruits of the Torah (pomegranates, dates, olives, and [Bamba](http://www.osem.co.il/Eng/_Articles/Article.asp?CategoryID=42&ArticleID=38).)
 
 Unfortunately, we don&#8217;t have any Bamba and Mr. B hates olives in the same way that [Hamas and Fatah](http://walrus.vickiboykis.com/2010/01/27/hamas-revises-its-charter-in-2009-more-about-women-less-about-israel/) hate each other.   So, instead, I tried to get Mr. B and myself enthused about going to a Tu B&#8217;Shvat event, namely [this event](http://www.sixthandi.org/EventDetails.aspx?evntID=284) by the awesome awesome Sixth and I ([where we&#8217;ve gone for stuff before](http://www.jewlicious.com/2009/05/shavu-what/)).  Here is a description of the event:
 

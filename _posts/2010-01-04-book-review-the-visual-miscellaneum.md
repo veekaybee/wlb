@@ -4,7 +4,7 @@ title: 'Book Review: The Visual Miscellaneum'
 date: 2010-01-04T07:41:01+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=1969
+guid: http://blog.vickiboykis.com/wlb/?p=1969
 permalink: /2010/01/book-review-the-visual-miscellaneum/
 categories:
   - Uncategorized
@@ -54,7 +54,7 @@ David writes a blog called [Information is Beautiful](http://www.informationisbe
     
     <p style="text-align: left;">
       <p style="text-align: left;">
-        Related on the Blog:<br /> <a href="http://blog.vickiboykis.com/2009/07/23/jon-stweart-most-trusted-american-newscaster/">Jon Stewart, America&#8217;s Most-Trusted Newscaster</a><br /> <a href="http://blog.vickiboykis.com/2009/07/19/scenster-hipster-hippie/">Scenster, Hipster, Hippie<br /> </a><a href="http://blog.vickiboykis.com/2009/10/19/russia-tries-to-cut-down-on-alcohol/">My Own Attempts at Data Visualization (are awful)</a>
+        Related on the Blog:<br /> <a href="http://blog.vickiboykis.com/wlb/2009/07/23/jon-stweart-most-trusted-american-newscaster/">Jon Stewart, America&#8217;s Most-Trusted Newscaster</a><br /> <a href="http://blog.vickiboykis.com/wlb/2009/07/19/scenster-hipster-hippie/">Scenster, Hipster, Hippie<br /> </a><a href="http://blog.vickiboykis.com/wlb/2009/10/19/russia-tries-to-cut-down-on-alcohol/">My Own Attempts at Data Visualization (are awful)</a>
       </p>
       
       <p style="text-align: left;">

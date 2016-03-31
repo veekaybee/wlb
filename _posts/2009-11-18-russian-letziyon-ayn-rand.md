@@ -4,7 +4,7 @@ title: 'Russian LeTziyon: Ayn Rand'
 date: 2009-11-18T07:17:33+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=1701
+guid: http://blog.vickiboykis.com/wlb/?p=1701
 permalink: /2009/11/russian-letziyon-ayn-rand/
 categories:
   - Uncategorized

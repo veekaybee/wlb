@@ -4,7 +4,7 @@ title: Parents censor Anne Frank. Miep would be disappointed.
 date: 2010-02-02T13:37:31+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=2231
+guid: http://blog.vickiboykis.com/wlb/?p=2231
 permalink: /2010/02/parents-censor-anne-frank-miep-would-be-disappointed/
 categories:
   - Uncategorized
@@ -16,7 +16,7 @@ tags:
   - kids these days
   - reading
 ---
-You know what makes me angry?  Aside from [lite jazz](http://blog.vickiboykis.com/2009/07/12/the-victorian-error-lite-jazz/)?  When parents feel [the need to step in and censor childrens&#8217; libraries](http://www.harpyness.com/2010/01/29/parents-of-america-you-are-on-notice/).  This time, not only the thesaurus, but Anne Frank is under attack.
+You know what makes me angry?  Aside from [lite jazz](http://blog.vickiboykis.com/wlb/2009/07/12/the-victorian-error-lite-jazz/)?  When parents feel [the need to step in and censor childrens&#8217; libraries](http://www.harpyness.com/2010/01/29/parents-of-america-you-are-on-notice/).  This time, not only the thesaurus, but Anne Frank is under attack.
 
 > <p id="paragraph1">
 >   A more graphic version of <a title="Anne Frank" href="http://www.nbcwashington.com/topics?topic=Anne+Frank">Anne Frank</a>&#8216;s diary is no longer available for students to read in <a title="Culpeper County" href="http://www.nbcwashington.com/topics?topic=Culpeper+County">Culpeper County</a>, Va.
@@ -26,7 +26,7 @@ You know what makes me angry?  Aside from [lite jazz](http://blog.vickiboykis.c
 >   Unlike other editions, this version contains sexual references. Apparently Anne Frank&#8217;s father, who survived the Holocaust, also felt the need to censor his daughter&#8217;s most intimate thoughts. He eliminated about a third of the original diary published in 1947.
 > </p>
 
-Here&#8217;s what I really hate about this kind of censorship: it makes kids unprepared for the real world.  How do I know this?  I learned 90% of what I didn&#8217;t learn about physically (and mentally) growing up  in health class from books like  Are You There, God?  It&#8217;s Me, Margaret, The Cat Ate My Gymsuit, and anything by V.C. Andrews.  Once, when I was nine, I asked my parents how the whole baby thing goes down and my mom [You know what makes me angry?  Aside from [lite jazz](http://blog.vickiboykis.com/2009/07/12/the-victorian-error-lite-jazz/)?  When parents feel [the need to step in and censor childrens&#8217; libraries](http://www.harpyness.com/2010/01/29/parents-of-america-you-are-on-notice/).  This time, not only the thesaurus, but Anne Frank is under attack.
+Here&#8217;s what I really hate about this kind of censorship: it makes kids unprepared for the real world.  How do I know this?  I learned 90% of what I didn&#8217;t learn about physically (and mentally) growing up  in health class from books like  Are You There, God?  It&#8217;s Me, Margaret, The Cat Ate My Gymsuit, and anything by V.C. Andrews.  Once, when I was nine, I asked my parents how the whole baby thing goes down and my mom [You know what makes me angry?  Aside from [lite jazz](http://blog.vickiboykis.com/wlb/2009/07/12/the-victorian-error-lite-jazz/)?  When parents feel [the need to step in and censor childrens&#8217; libraries](http://www.harpyness.com/2010/01/29/parents-of-america-you-are-on-notice/).  This time, not only the thesaurus, but Anne Frank is under attack.
 
 > <p id="paragraph1">
 >   A more graphic version of <a title="Anne Frank" href="http://www.nbcwashington.com/topics?topic=Anne+Frank">Anne Frank</a>&#8216;s diary is no longer available for students to read in <a title="Culpeper County" href="http://www.nbcwashington.com/topics?topic=Culpeper+County">Culpeper County</a>, Va.

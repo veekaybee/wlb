@@ -4,7 +4,7 @@ title: A Story about Sam, Izzy, and the Sandbox
 date: 2011-03-24T08:00:17+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=4651
+guid: http://blog.vickiboykis.com/wlb/?p=4651
 permalink: /2011/03/a-story-about-sam-izzy-and-the-sandbox/
 categories:
   - Uncategorized

@@ -4,7 +4,7 @@ title: Gary Shteyngart kind of acknowledges me on Facebook
 date: 2010-07-28T10:04:16+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=3415
+guid: http://blog.vickiboykis.com/wlb/?p=3415
 permalink: /2010/07/gary-shteyngart-kind-of-acknowledges-me-on-facebook/
 categories:
   - Uncategorized
@@ -18,11 +18,11 @@ So, last week, [MODG wrote about how](http://www.modgblog.com/2010/07/23/and-whe
 
 Well.
 
-I don&#8217;t have anything nearly as epic to report, but [Gary Shteyngart](http://blog.vickiboykis.com/2010/03/17/on-notice/) ANSWERED ME ON FACEBOOK ON MONDAY.
+I don&#8217;t have anything nearly as epic to report, but [Gary Shteyngart](http://blog.vickiboykis.com/wlb/2010/03/17/on-notice/) ANSWERED ME ON FACEBOOK ON MONDAY.
 
 People, this is a huge deal.
 
-As you may know, as I continue to work on my wretched novel that attempts to satirize Russian Jewish immigrants in the United States, the country of Israel, and corporate culture [all at once](http://blog.vickiboykis.com/2010/02/18/im-going-to-fire-my-editor/),
+As you may know, as I continue to work on my wretched novel that attempts to satirize Russian Jewish immigrants in the United States, the country of Israel, and corporate culture [all at once](http://blog.vickiboykis.com/wlb/2010/02/18/im-going-to-fire-my-editor/),
 
 It started Monday morning, when Gary wrote:
 

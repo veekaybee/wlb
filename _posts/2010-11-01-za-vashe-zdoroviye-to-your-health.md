@@ -4,7 +4,7 @@ title: Za Vashe Zdoroviye-To Your Health
 date: 2010-11-01T07:31:49+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=3786
+guid: http://blog.vickiboykis.com/wlb/?p=3786
 permalink: /2010/11/za-vashe-zdoroviye-to-your-health/
 categories:
   - Uncategorized
@@ -24,7 +24,7 @@ So riddle me this, Russian culture.  Why is it that everything in you is inhere
 I.e.:
 
   * Russian food
-  * [Vodka](http://blog.vickiboykis.com/2009/10/19/russia-tries-to-cut-down-on-alcohol/)
+  * [Vodka](http://blog.vickiboykis.com/wlb/2009/10/19/russia-tries-to-cut-down-on-alcohol/)
   * The lack of a physical exercise culture in Russia
 
 And why the hell is this considered a &#8220;small&#8221; drink in America? If I had to estimate, this bad boy is probably 32 ounces.

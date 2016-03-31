@@ -5,7 +5,7 @@ date: 2015-03-25T07:24:12+00:00
 author: Vicki
 excerpt: '"Enjoy every moment!" Nope. I refuse. '
 layout: post
-guid: http://blog.vickiboykis.com/?p=9925
+guid: http://blog.vickiboykis.com/wlb/?p=9925
 permalink: /2015/03/no-i-will-not-enjoy-every-moment/
 categories:
   - Uncategorized

@@ -4,7 +4,7 @@ title: A book review that is also a plea for mercy
 date: 2012-05-02T13:17:43+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=6828
+guid: http://blog.vickiboykis.com/wlb/?p=6828
 permalink: /2012/05/a-book-review-that-is-also-a-plea-for-mercy/
 categories:
   - Uncategorized

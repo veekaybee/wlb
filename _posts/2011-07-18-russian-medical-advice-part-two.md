@@ -4,7 +4,7 @@ title: Russian Medical Advice, Part Two
 date: 2011-07-18T10:16:35+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=5312
+guid: http://blog.vickiboykis.com/wlb/?p=5312
 permalink: /2011/07/russian-medical-advice-part-two/
 categories:
   - Uncategorized
@@ -33,7 +33,7 @@ I told her the olive oil was stupid, and she washed off his hand.  &#8220;The G
 </p>
 
 <p style="text-align: left;">
-  &#8220;Out of the way everyone, I&#8217;m a medical expert,&#8221; jauntily boomed <a href="http://blog.vickiboykis.com/2010/03/08/a-conversation-with-my-parents-about-india/" target="_blank">my dad</a>, who at this point, it being his birthday and all, was about five shots deep into a bottle of Courvosier.  Mr. B, who was doing pretty well in not producing feral screams, developed a look of fear in his eyes I have only seen <a href="http://blog.vickiboykis.com/2010/01/31/millions-of-babies-the-holocaust-and-gender-segregation-its-the-weekend/" target="_blank">once</a> (but also when we thought that Arab dude in Jerusalem was going to shank us but really he was just asking for a cigarette.)
+  &#8220;Out of the way everyone, I&#8217;m a medical expert,&#8221; jauntily boomed <a href="http://blog.vickiboykis.com/wlb/2010/03/08/a-conversation-with-my-parents-about-india/" target="_blank">my dad</a>, who at this point, it being his birthday and all, was about five shots deep into a bottle of Courvosier.  Mr. B, who was doing pretty well in not producing feral screams, developed a look of fear in his eyes I have only seen <a href="http://blog.vickiboykis.com/wlb/2010/01/31/millions-of-babies-the-holocaust-and-gender-segregation-its-the-weekend/" target="_blank">once</a> (but also when we thought that Arab dude in Jerusalem was going to shank us but really he was just asking for a cigarette.)
 </p>
 
 <p style="text-align: left;">

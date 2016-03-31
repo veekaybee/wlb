@@ -4,7 +4,7 @@ title: Bards and a Vanishing Breed of Russian
 date: 2010-10-24T20:02:14+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=3776
+guid: http://blog.vickiboykis.com/wlb/?p=3776
 permalink: /2010/10/bards-and-a-vanishing-breed-of-russian/
 categories:
   - Uncategorized

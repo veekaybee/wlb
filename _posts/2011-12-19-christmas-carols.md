@@ -4,7 +4,7 @@ title: Jewish Carols
 date: 2011-12-19T08:00:48+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=1927
+guid: http://blog.vickiboykis.com/wlb/?p=1927
 permalink: /2011/12/christmas-carols/
 categories:
   - Uncategorized

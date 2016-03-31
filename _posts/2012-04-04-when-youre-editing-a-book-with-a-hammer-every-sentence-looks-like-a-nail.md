@@ -4,7 +4,7 @@ title: 'When you&#8217;re editing a book with a hammer, every sentence looks lik
 date: 2012-04-04T07:46:22+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=6620
+guid: http://blog.vickiboykis.com/wlb/?p=6620
 permalink: /2012/04/when-youre-editing-a-book-with-a-hammer-every-sentence-looks-like-a-nail/
 categories:
   - Uncategorized

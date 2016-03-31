@@ -4,7 +4,7 @@ title: My favorite Hipstergram pictures
 date: 2012-05-10T07:10:08+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=6882
+guid: http://blog.vickiboykis.com/wlb/?p=6882
 permalink: /2012/05/my-favorite-hipstergram-pictures/
 categories:
   - Uncategorized
@@ -15,7 +15,7 @@ tags:
   - Russia
   - travel
 ---
-Now that even <a href="http://www.buzzfeed.com/katienotopoulos/iphone-users-disgusted-by-android-instagram" target="_blank">us Hunchback of Notre Dame peons</a> can access Instagram (I&#8217;m @veekaybee), all I do is sit in my belfry hunched over <a href="http://blog.vickiboykis.com/2012/01/the-internet-is-making-us-stupid-or-im-better-than-you-because-i-broke-my-phone/" target="_blank">my phone</a> and look at the pretty pictures from around the world. Sometimes I take some, but mostly there&#8217;s something about seeing everyday life in far away places that is the billion-dollar appeal of Instagram for me.
+Now that even <a href="http://www.buzzfeed.com/katienotopoulos/iphone-users-disgusted-by-android-instagram" target="_blank">us Hunchback of Notre Dame peons</a> can access Instagram (I&#8217;m @veekaybee), all I do is sit in my belfry hunched over <a href="http://blog.vickiboykis.com/wlb/2012/01/the-internet-is-making-us-stupid-or-im-better-than-you-because-i-broke-my-phone/" target="_blank">my phone</a> and look at the pretty pictures from around the world. Sometimes I take some, but mostly there&#8217;s something about seeing everyday life in far away places that is the billion-dollar appeal of Instagram for me.
 
 Of course, <a href="http://techbubbleforeveryoneorjustme.com/" target="_blank">this is all a huge bubble</a> and we&#8217;re going to hell in a handbasket, because, really, who buys hipster Polaroid for a billion dollars? but in the meantime, here are some of my favorite recent pictures. (BTW, I use <a href="http://www.pinstagram.co/" target="_blank">Pinstagram</a> online for this ish)
 

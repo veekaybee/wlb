@@ -4,7 +4,7 @@ title: 'The Russian Jersey Shore: No one is ready.'
 date: 2011-07-27T12:11:01+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=5364
+guid: http://blog.vickiboykis.com/wlb/?p=5364
 permalink: /2011/07/the-russian-jersey-shore-no-one-is-ready/
 categories:
   - Uncategorized

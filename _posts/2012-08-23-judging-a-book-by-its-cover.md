@@ -4,7 +4,7 @@ title: Judging a book by its cover
 date: 2012-08-23T07:36:38+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=7386
+guid: http://blog.vickiboykis.com/wlb/?p=7386
 permalink: /2012/08/judging-a-book-by-its-cover/
 categories:
   - Uncategorized
@@ -27,7 +27,7 @@ I look at each cover and remind myself of the immense labor that stands behind i
 
 I just can&#8217;t do it any other way. There are too many books, and there is not enough time to read them, and I am looking for the best book, the one that will take me away somewhere quickly and teach me something. I can tell by the cover and the title if it&#8217;ll do it.  I weigh them both equally like a magnanimous judge.  I give it an extra second if the cover&#8217;s ugly, and then I pass it right by.  Fun people wouldn&#8217;t have boring covers.
 
-I obsess <a href="http://blog.vickiboykis.com/2012/04/how-a-book-cover-gets-made/" target="_blank">about titles and the covers</a>.  Why can&#8217;t I have a clever title like that, that encompasses everything I want to say in a neat JPEG file? That is displayed in stores, on Amazon&#8217;s Featured Page?  Why can&#8217;t I have
+I obsess <a href="http://blog.vickiboykis.com/wlb/2012/04/how-a-book-cover-gets-made/" target="_blank">about titles and the covers</a>.  Why can&#8217;t I have a clever title like that, that encompasses everything I want to say in a neat JPEG file? That is displayed in stores, on Amazon&#8217;s Featured Page?  Why can&#8217;t I have
 
 <a href="http://byliner.com/originals" target="_blank">Byliner</a> has the best consistently good-looking group of covers, with Serious Thoughts inside.
 

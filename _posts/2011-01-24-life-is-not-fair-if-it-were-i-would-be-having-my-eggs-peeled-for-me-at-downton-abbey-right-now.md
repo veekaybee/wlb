@@ -4,7 +4,7 @@ title: Life is not fair. If it were, I would be having my eggs peeled for me at 
 date: 2011-01-24T11:46:35+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=4270
+guid: http://blog.vickiboykis.com/wlb/?p=4270
 permalink: /2011/01/life-is-not-fair-if-it-were-i-would-be-having-my-eggs-peeled-for-me-at-downton-abbey-right-now/
 categories:
   - Uncategorized

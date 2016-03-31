@@ -4,7 +4,7 @@ title: 'Russian LeTziyon: Aladdin and Jasmine'
 date: 2009-10-13T21:31:58+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=1440
+guid: http://blog.vickiboykis.com/wlb/?p=1440
 permalink: /2009/10/russian-letziyon-aladdin-and-jasmine/
 categories:
   - Uncategorized

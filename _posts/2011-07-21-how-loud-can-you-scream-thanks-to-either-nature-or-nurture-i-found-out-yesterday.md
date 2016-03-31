@@ -4,7 +4,7 @@ title: How loud can you scream? Thanks to either nature or nurture, I found out 
 date: 2011-07-21T09:22:13+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=5332
+guid: http://blog.vickiboykis.com/wlb/?p=5332
 permalink: /2011/07/how-loud-can-you-scream-thanks-to-either-nature-or-nurture-i-found-out-yesterday/
 categories:
   - Uncategorized
@@ -40,7 +40,7 @@ Yesterday, I got home and put on a lil&#8217; <a href="http://www.funnyordie.com
   * Oh my God. I didn&#8217;t lock the front door. How stupid I am.  Now someone&#8217;s here and they&#8217;re going to rape me. Right now, they&#8217;re just watching me, though. I feel so helpless.
   * It&#8217;s only 5:45 (I looked at my computer clock). Mr. B usually gets home at 6.  That gives me about 15 minutes to fight off this person by myself. And I don&#8217;t have my cell phone anywhere nearby.
   * Do I have anything that can be used as a weapon?
-  * I looked around my desk and saw a duster next to me on the floor that was semi-sharp, but I didn&#8217;t want to move and get it. I saw some highlighters, but they&#8217;re not sharp and can&#8217;t cause damage.   I saw a pen.  Perfect and pointy. I grabbed it.  As you may recall, <a href="http://blog.vickiboykis.com/2010/11/19/friday-links-37/" target="_blank">I&#8217;m rather proficient </a>with make-do weapons.
+  * I looked around my desk and saw a duster next to me on the floor that was semi-sharp, but I didn&#8217;t want to move and get it. I saw some highlighters, but they&#8217;re not sharp and can&#8217;t cause damage.   I saw a pen.  Perfect and pointy. I grabbed it.  As you may recall, <a href="http://blog.vickiboykis.com/wlb/2010/11/19/friday-links-37/" target="_blank">I&#8217;m rather proficient </a>with make-do weapons.
 
 <div>
   Fifteen to twenty more second of silence that I just sat in the chair, gripping the pen in my right hand, ready to stab and probably have to overpower someone who was bigger and stronger than me. My heart is palpitating as fast as it can at this point, and all the color was drained out of my face. I felt for sure that someone was in the room beyond my line of vision, and my dread grew stronger and stronger.

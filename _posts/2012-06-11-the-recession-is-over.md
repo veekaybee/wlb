@@ -4,7 +4,7 @@ title: The recession is over
 date: 2012-06-11T07:40:46+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=6955
+guid: http://blog.vickiboykis.com/wlb/?p=6955
 permalink: /2012/06/the-recession-is-over/
 categories:
   - Uncategorized

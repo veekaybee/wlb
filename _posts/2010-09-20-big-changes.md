@@ -4,7 +4,7 @@ title: Big Changes
 date: 2010-09-20T20:38:38+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=3604
+guid: http://blog.vickiboykis.com/wlb/?p=3604
 permalink: /2010/09/big-changes/
 categories:
   - Uncategorized
@@ -19,11 +19,11 @@ tags:
 
 Dear Blog Readers,
 
-I love you.  You are the [rain to my desert.](http://www.youtube.com/watch?v=FEzb3yPoCm4) I love you so much that I want you to get as much enjoyment as possible out of my blog.  And since D.C. provides low concentrations of my primary satire material-that is, [Russian Jews](http://blog.vickiboykis.com/2010/01/31/millions-of-babies-the-holocaust-and-gender-segregation-its-the-weekend/) (and really, there&#8217;s only so much I can mock Mr. B since he still peels my oranges for me,) we are moving (back) to Philadelphia.
+I love you.  You are the [rain to my desert.](http://www.youtube.com/watch?v=FEzb3yPoCm4) I love you so much that I want you to get as much enjoyment as possible out of my blog.  And since D.C. provides low concentrations of my primary satire material-that is, [Russian Jews](http://blog.vickiboykis.com/wlb/2010/01/31/millions-of-babies-the-holocaust-and-gender-segregation-its-the-weekend/) (and really, there&#8217;s only so much I can mock Mr. B since he still peels my oranges for me,) we are moving (back) to Philadelphia.
 
 <!--more-->
 
-Remember [this](http://blog.vickiboykis.com/2010/03/23/a-russian-fairy-tale-tori-and-the-firebird/)?
+Remember [this](http://blog.vickiboykis.com/wlb/2010/03/23/a-russian-fairy-tale-tori-and-the-firebird/)?
 
 It&#8217;s been a tough six (seven?) months since then, most of which I have spent wrestling with myself, playing acrobatic mindgames of &#8220;what if this and what if that&#8221; with the Arlington moon  as I-395 outside my window passively hummed by.
 
@@ -52,11 +52,11 @@ So, like [<p style="text-align: center;">
 
 Dear Blog Readers,
 
-I love you.  You are the [rain to my desert.](http://www.youtube.com/watch?v=FEzb3yPoCm4) I love you so much that I want you to get as much enjoyment as possible out of my blog.  And since D.C. provides low concentrations of my primary satire material-that is, [Russian Jews](http://blog.vickiboykis.com/2010/01/31/millions-of-babies-the-holocaust-and-gender-segregation-its-the-weekend/) (and really, there&#8217;s only so much I can mock Mr. B since he still peels my oranges for me,) we are moving (back) to Philadelphia.
+I love you.  You are the [rain to my desert.](http://www.youtube.com/watch?v=FEzb3yPoCm4) I love you so much that I want you to get as much enjoyment as possible out of my blog.  And since D.C. provides low concentrations of my primary satire material-that is, [Russian Jews](http://blog.vickiboykis.com/wlb/2010/01/31/millions-of-babies-the-holocaust-and-gender-segregation-its-the-weekend/) (and really, there&#8217;s only so much I can mock Mr. B since he still peels my oranges for me,) we are moving (back) to Philadelphia.
 
 <!--more-->
 
-Remember [this](http://blog.vickiboykis.com/2010/03/23/a-russian-fairy-tale-tori-and-the-firebird/)?
+Remember [this](http://blog.vickiboykis.com/wlb/2010/03/23/a-russian-fairy-tale-tori-and-the-firebird/)?
 
 It&#8217;s been a tough six (seven?) months since then, most of which I have spent wrestling with myself, playing acrobatic mindgames of &#8220;what if this and what if that&#8221; with the Arlington moon  as I-395 outside my window passively hummed by.
 

@@ -4,7 +4,7 @@ title: Things I love and hate about America
 date: 2011-10-23T19:39:57+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=5865
+guid: http://blog.vickiboykis.com/wlb/?p=5865
 permalink: /2011/10/things-i-love-and-hate-about-america/
 categories:
   - Uncategorized

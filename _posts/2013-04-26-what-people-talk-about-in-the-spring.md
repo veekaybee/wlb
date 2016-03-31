@@ -4,7 +4,7 @@ title: What people talk about in the spring
 date: 2013-04-26T07:29:39+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=8649
+guid: http://blog.vickiboykis.com/wlb/?p=8649
 permalink: /2013/04/what-people-talk-about-in-the-spring/
 categories:
   - Russia

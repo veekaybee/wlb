@@ -4,7 +4,7 @@ title: 'Guest Post: Jew Tattoos and Piercings, Too'
 date: 2009-08-31T00:00:59+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=1120
+guid: http://blog.vickiboykis.com/wlb/?p=1120
 permalink: /2009/08/guest-post-jew-tattoos-and-piercings-too/
 categories:
   - Uncategorized
@@ -14,7 +14,7 @@ tags:
   - identity
   - Jewish
 ---
-_Note: While I remain in the Land of Falafel, this is a guest post from my fabulous friend [Average Jane](http://iamaveragejane.wordpress.com/), or [@awapy](http://twitter.com/awapy) on Twitter, who&#8217;s [bailed me out before](http://blog.vickiboykis.com/2009/08/17/guest-post-jewish-dating-and-christmas-brisket/)._
+_Note: While I remain in the Land of Falafel, this is a guest post from my fabulous friend [Average Jane](http://iamaveragejane.wordpress.com/), or [@awapy](http://twitter.com/awapy) on Twitter, who&#8217;s [bailed me out before](http://blog.vickiboykis.com/wlb/2009/08/17/guest-post-jewish-dating-and-christmas-brisket/)._
 
 <p style="text-align: center;">
   <em><a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/08/jewtattoo.jpg"><img class="aligncenter size-full wp-image-1123" title="jewtattoo" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/08/jewtattoo.jpg" alt="jewtattoo" width="433" height="307" /></a>Via Zeeveez on Flickr<br /> </em>

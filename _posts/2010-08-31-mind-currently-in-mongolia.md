@@ -4,7 +4,7 @@ title: 'Mind currently in: Mongolia'
 date: 2010-08-31T12:20:45+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=3551
+guid: http://blog.vickiboykis.com/wlb/?p=3551
 permalink: /2010/08/mind-currently-in-mongolia/
 categories:
   - Uncategorized

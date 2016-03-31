@@ -4,7 +4,7 @@ title: A Problem of Tudorian Proportions
 date: 2011-05-16T10:25:53+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=4961
+guid: http://blog.vickiboykis.com/wlb/?p=4961
 permalink: /2011/05/a-problem-of-tudorian-proportions/
 categories:
   - Uncategorized

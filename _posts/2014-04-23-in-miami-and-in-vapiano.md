@@ -4,7 +4,7 @@ title: In Miami and in Vapiano
 date: 2014-04-23T08:21:29+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=9632
+guid: http://blog.vickiboykis.com/wlb/?p=9632
 permalink: /2014/04/in-miami-and-in-vapiano/
 categories:
   - Uncategorized
@@ -36,13 +36,13 @@ Mr. B and I flew down to Florida for a weekend in March, the week of Spring Brea
 
 We weren&#8217;t going to shotgun beers, go to clubs where they played Pitbull, or stay out past 12. But damnit, did we need spring.
 
-Just a couple months ago, <a href="http://blog.vickiboykis.com/2014/01/the-two-types-of-cold/" target="_blank">I wrote</a>,
+Just a couple months ago, <a href="http://blog.vickiboykis.com/wlb/2014/01/the-two-types-of-cold/" target="_blank">I wrote</a>,
 
 <p style="padding-left: 30px;">
   It’s cold enough to heat up the car for fifteen minutes before you go anywhere. It’s cold enough for soup every week, almost every day, for scarves and for the wind to bite your lungs as you walk outside. It’s cold enough to be sick every week, which I am, and it’s cold enough for my thighs to tingle through three pairs of pants on the walk to the train.  It’s cold as hell. It’s cold and miserable,  and the world seems large, dark, and unforgiving outside of our small house.
 </p>
 
-Going back through my archives, I realize that I&#8217;ve bitched about winter <a href="http://blog.vickiboykis.com/2011/02/weather-update-winter-still-wintering-being-bleak/" target="_blank">almost</a> <a href="http://blog.vickiboykis.com/2010/12/the-winter-solstice-is-over/" target="_blank">every </a>year, which makes me believe I need to either move to Florida or stop blogging from September to March for the sake of humanity.
+Going back through my archives, I realize that I&#8217;ve bitched about winter <a href="http://blog.vickiboykis.com/wlb/2011/02/weather-update-winter-still-wintering-being-bleak/" target="_blank">almost</a> <a href="http://blog.vickiboykis.com/wlb/2010/12/the-winter-solstice-is-over/" target="_blank">every </a>year, which makes me believe I need to either move to Florida or stop blogging from September to March for the sake of humanity.
 
 But, the plane emerged from the clouds and into Florida air space into blobs of green, brilliant and sparkling, oceans and pools of water lapping in marshy, lazy bays, life, pulsing on its very vein! Here it was! Warm Valhalla!
 

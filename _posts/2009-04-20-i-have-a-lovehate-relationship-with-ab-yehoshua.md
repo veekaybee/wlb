@@ -4,7 +4,7 @@ title: I have a love/hate relationship with A.B. Yehoshua
 date: 2009-04-20T08:41:31+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=264
+guid: http://blog.vickiboykis.com/wlb/?p=264
 permalink: /2009/04/i-have-a-lovehate-relationship-with-ab-yehoshua/
 categories:
   - books

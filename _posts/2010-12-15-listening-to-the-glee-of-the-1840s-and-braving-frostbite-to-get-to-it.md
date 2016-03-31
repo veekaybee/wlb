@@ -4,7 +4,7 @@ title: Listening to the Glee of the 1840s and Braving Frostbite to Get to It
 date: 2010-12-15T08:43:44+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=4044
+guid: http://blog.vickiboykis.com/wlb/?p=4044
 permalink: /2010/12/listening-to-the-glee-of-the-1840s-and-braving-frostbite-to-get-to-it/
 categories:
   - Uncategorized
@@ -20,7 +20,7 @@ Last night was the coldest night in Philadelphia on record*, so me and my 12 ima
 
 I work pretty close to downtown Philly but not close enough to walk over for lunch, so I took the opportunity to walk to Spruce Street where the performance would be, taking time to stop for dinner and a little bit of shopping, and a little bit of [Last night was the coldest night in Philadelphia on record*, so me and my 12 imaginary diseases decided to head out into it to attend the [Academy of Vocal Arts](http://www.avaopera.org/)&#8216; [Russian Romance](http://www.avaopera.org/documents/NEWHEADERRussianRomances2010_000.pdf) performance with a group of Mr. B&#8217;s family.
 
-I work pretty close to downtown Philly but not close enough to walk over for lunch, so I took the opportunity to walk to Spruce Street where the performance would be, taking time to stop for dinner and a little bit of shopping, and a little bit of](http://blog.vickiboykis.com/2010/09/20/saturday-in-alexandria/) about working and living in DC.
+I work pretty close to downtown Philly but not close enough to walk over for lunch, so I took the opportunity to walk to Spruce Street where the performance would be, taking time to stop for dinner and a little bit of shopping, and a little bit of](http://blog.vickiboykis.com/wlb/2010/09/20/saturday-in-alexandria/) about working and living in DC.
 
 However, it was freezing outside, and you should know that no Russian woman will ever, ever, ever go outside when it&#8217;s cold without her head covered.  Since I didn&#8217;t have a winter hat, I had to improvise, instantly turning into my grandmother (yes, it&#8217;s fake.  If you have to ask, you don&#8217;t know my willingness to spend $200 on a scarf very well.)
 

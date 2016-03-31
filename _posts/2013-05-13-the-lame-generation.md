@@ -4,7 +4,7 @@ title: The laME generation
 date: 2013-05-13T07:49:15+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=8707
+guid: http://blog.vickiboykis.com/wlb/?p=8707
 permalink: /2013/05/the-lame-generation/
 categories:
   - geny

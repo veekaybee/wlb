@@ -4,7 +4,7 @@ title: 'House update: the walls'
 date: 2011-10-02T22:00:41+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=5778
+guid: http://blog.vickiboykis.com/wlb/?p=5778
 permalink: /2011/10/house-update-the-walls/
 categories:
   - Uncategorized
@@ -18,7 +18,7 @@ tags:
 ---
 We haven&#8217;t done much with the house over the past month, but I&#8217;m looking to get back into it before the winter strikes.
 
-So, we&#8217;ve finally started hanging pictures <a href="http://blog.vickiboykis.com/2011/06/13/house-tour/" target="_blank">in the house</a>. Before, we just could not agree on anything. Then,  a couple weeks ago, we went to <a href="http://doylestownartsfestival.com/" target="_blank">an arts festival</a> that had some very cool original photography.
+So, we&#8217;ve finally started hanging pictures <a href="http://blog.vickiboykis.com/wlb/2011/06/13/house-tour/" target="_blank">in the house</a>. Before, we just could not agree on anything. Then,  a couple weeks ago, we went to <a href="http://doylestownartsfestival.com/" target="_blank">an arts festival</a> that had some very cool original photography.
 
 It&#8217;s not all that exciting because the art is so small and the walls are so naked, but it&#8217;s a start.
 

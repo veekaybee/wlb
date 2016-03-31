@@ -4,7 +4,7 @@ title: 'Guest Post: On Being Twenty-Three (And Adopting a New Life Philosophy)'
 date: 2009-09-04T00:00:54+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=1167
+guid: http://blog.vickiboykis.com/wlb/?p=1167
 permalink: /2009/09/guest-post-on-being-twenty-three-and-adopting-a-new-life-philosophy/
 categories:
   - Uncategorized

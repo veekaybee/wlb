@@ -4,7 +4,7 @@ title: 'Guest Post from Mr. B&#8217;s Mom: Office Bathroom Etiquette'
 date: 2010-07-12T08:27:14+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=3289
+guid: http://blog.vickiboykis.com/wlb/?p=3289
 permalink: /2010/07/guest-post-from-mr-bs-mom-office-bathroom-etiquette/
 categories:
   - Uncategorized
@@ -20,7 +20,7 @@ tags:
 
 Mr. B&#8217;s mom was casually rolling meat into little balls for kebab on Saturday as she asked me, &#8220;You write a lot, right?&#8221;
 
-I told her that, sure, I wrote, if [writing delusioned novel drafts](http://blog.vickiboykis.com/2010/02/18/im-going-to-fire-my-editor/) and blog posts about Nutella counted.
+I told her that, sure, I wrote, if [writing delusioned novel drafts](http://blog.vickiboykis.com/wlb/2010/02/18/im-going-to-fire-my-editor/) and blog posts about Nutella counted.
 
 &#8220;Well, I&#8217;ve been thinking about a problem that needs some public awareness.&#8221;
 
@@ -38,7 +38,7 @@ Her question is:  why do people [[<p style="text-align: center;">
 
 Mr. B&#8217;s mom was casually rolling meat into little balls for kebab on Saturday as she asked me, &#8220;You write a lot, right?&#8221;
 
-I told her that, sure, I wrote, if [writing delusioned novel drafts](http://blog.vickiboykis.com/2010/02/18/im-going-to-fire-my-editor/) and blog posts about Nutella counted.
+I told her that, sure, I wrote, if [writing delusioned novel drafts](http://blog.vickiboykis.com/wlb/2010/02/18/im-going-to-fire-my-editor/) and blog posts about Nutella counted.
 
 &#8220;Well, I&#8217;ve been thinking about a problem that needs some public awareness.&#8221;
 

@@ -4,7 +4,7 @@ title: 'Book Review: Stalin&#8217;s Romeo Spy'
 date: 2010-07-13T08:06:16+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=3281
+guid: http://blog.vickiboykis.com/wlb/?p=3281
 permalink: /2010/07/book-review-stalins-romeo-spy/
 categories:
   - Uncategorized
@@ -83,7 +83,7 @@ That&#8217;s where Emil Draitser&#8217;s](http://www.stalinsromeospy.com/) comes
 
 [<img class="aligncenter size-full wp-image-3294" title="9780810126640" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/07/9780810126640.jpg" alt="" width="267" height="400" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/07/9780810126640.jpg)
 
-After I&#8217;d reviewed [Draitser&#8217;s last b](http://blog.vickiboykis.com/2009/07/21/author-interview-emil-draitser/)ook, his memoir, _Shush! Growing up Jewish under Stalin_, he let me know that he was about to publish another book, this time a biography, of a Russian spy.  This was months before the current scandal, and intrigued, I read the book.  It was not at all what I expected it to be; that is-a light-hearted look at the Soviet spy system.  Instead, it is a systematic examination of a single life, how life fits into the Soviet system, and the dangers of erasing history, which is where the Stalinist worship comes in.
+After I&#8217;d reviewed [Draitser&#8217;s last b](http://blog.vickiboykis.com/wlb/2009/07/21/author-interview-emil-draitser/)ook, his memoir, _Shush! Growing up Jewish under Stalin_, he let me know that he was about to publish another book, this time a biography, of a Russian spy.  This was months before the current scandal, and intrigued, I read the book.  It was not at all what I expected it to be; that is-a light-hearted look at the Soviet spy system.  Instead, it is a systematic examination of a single life, how life fits into the Soviet system, and the dangers of erasing history, which is where the Stalinist worship comes in.
 
 The book is about [Dmitri Bystrolyotov](http://en.wikipedia.org/wiki/Dmitri_Bystrolyotov), a KGB operative in Prague, London, and many other European cities, about his professional life, his personal life, and his struggles against the Soviet government he loved.  It plunges immediately into his excruciatingly hard childhood and the life that led to him becoming wholly devoted to the Soviet regime as he grows older and continued to serve the state.  His mother was a  very early feminist and decided to experiment with having a child without a husband. Subsequently, she abandoned Dmitrit, as did his &#8220;father&#8221;, and these abandonment issues plagued him his entire life.
 

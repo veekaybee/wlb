@@ -4,7 +4,7 @@ title: How to Manage Your Time More Efficiently
 date: 2011-09-14T08:03:07+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=5719
+guid: http://blog.vickiboykis.com/wlb/?p=5719
 permalink: /2011/09/how-to-manage-your-time-more-efficiently/
 categories:
   - Uncategorized

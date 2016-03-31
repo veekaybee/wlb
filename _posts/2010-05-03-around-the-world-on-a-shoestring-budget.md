@@ -4,7 +4,7 @@ title: Around the World on a Shoestring Budget
 date: 2010-05-03T06:26:17+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=2864
+guid: http://blog.vickiboykis.com/wlb/?p=2864
 permalink: /2010/05/around-the-world-on-a-shoestring-budget/
 categories:
   - Uncategorized

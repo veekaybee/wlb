@@ -4,7 +4,7 @@ title: Better late than never Friday links
 date: 2013-04-19T15:06:21+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=8610
+guid: http://blog.vickiboykis.com/wlb/?p=8610
 permalink: /2013/04/better-late-than-never-friday-links/
 categories:
   - fridaylinks

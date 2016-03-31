@@ -4,7 +4,7 @@ title: 'NaNoWriMo: Day 11'
 date: 2009-11-12T07:18:34+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=1676
+guid: http://blog.vickiboykis.com/wlb/?p=1676
 permalink: /2009/11/nanowrimo-day-11/
 categories:
   - Uncategorized

@@ -4,7 +4,7 @@ title: 'Who&#8217;s taking my advice?  That&#8217;s right. Hayden Panettiere.'
 date: 2010-01-24T21:38:17+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=2163
+guid: http://blog.vickiboykis.com/wlb/?p=2163
 permalink: /2010/01/whos-taking-my-advice-thats-right-hayden-panettiere/
 categories:
   - Uncategorized
@@ -17,7 +17,7 @@ tags:
   - smart Vicki
   - Ukraine
 ---
-Ah, I see [Hayden Panettiere has been](http://www.popsugar.com/Photos-Hayden-Panettiere-Wladimir-Klitschko-Miami-6900547) reading this blog and [taking my advice](http://blog.vickiboykis.com/2009/07/30/the-pros-of-russian-husbands/).
+Ah, I see [Hayden Panettiere has been](http://www.popsugar.com/Photos-Hayden-Panettiere-Wladimir-Klitschko-Miami-6900547) reading this blog and [taking my advice](http://blog.vickiboykis.com/wlb/2009/07/30/the-pros-of-russian-husbands/).
 
 > Wearing a neon pink string bikini, the &#8220;Heroes&#8221; star was spotted getting cozy poolside in Miami with boxing heavyweight champ Wladimir Klitschko, <a href="http://www.popsugar.com/6900547" target="_blank">Popsugar.com</a> reports.
 > 

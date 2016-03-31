@@ -4,7 +4,7 @@ title: My unborn novel is annoying me (NaNoWriMo)
 date: 2009-10-11T18:53:12+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=1417
+guid: http://blog.vickiboykis.com/wlb/?p=1417
 permalink: /2009/10/my-unborn-novel-is-annoying-me-nanowrimo/
 categories:
   - Uncategorized

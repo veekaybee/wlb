@@ -4,7 +4,7 @@ title: James Zogby Wins Me Over with his Lebanese Trickery and Charm
 date: 2010-10-26T05:38:19+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=3791
+guid: http://blog.vickiboykis.com/wlb/?p=3791
 permalink: /2010/10/james-zogby-wins-me-over-with-his-lebanese-trickery-and-charm/
 categories:
   - Uncategorized
@@ -14,7 +14,7 @@ tags:
   - philly
   - zogby
 ---
-Remember back when I lived in the capital and everything was happy and shiny and government-subsidized elves polished my shoes every morning? Back in those days (12 days ago), I used to go to all sorts of international enterprises, like the [Middle East Intitute](http://blog.vickiboykis.com/2009/10/28/asher-kaufman-on-the-village-of-ghajr-at-the-middle-east-institute/), the [Hillwood mansion](http://blog.vickiboykis.com/2010/01/19/mrs-bej-and-bellydancing-after-the-saudi-arabian-embassy/), and [all the embassies](http://blog.vickiboykis.com/2010/05/03/around-the-world-on-a-shoestring-budget/).  Also I used to live with Mr. B and had somebody to peel my oranges. Those were the days.
+Remember back when I lived in the capital and everything was happy and shiny and government-subsidized elves polished my shoes every morning? Back in those days (12 days ago), I used to go to all sorts of international enterprises, like the [Middle East Intitute](http://blog.vickiboykis.com/wlb/2009/10/28/asher-kaufman-on-the-village-of-ghajr-at-the-middle-east-institute/), the [Hillwood mansion](http://blog.vickiboykis.com/wlb/2010/01/19/mrs-bej-and-bellydancing-after-the-saudi-arabian-embassy/), and [all the embassies](http://blog.vickiboykis.com/wlb/2010/05/03/around-the-world-on-a-shoestring-budget/).  Also I used to live with Mr. B and had somebody to peel my oranges. Those were the days.
 
 I was happy to learn that end of the universe -I mean Philly -has a little bit of an international scene as well, although, obviously not good enough for me to stop white whining about it.
 
@@ -24,7 +24,7 @@ Last night, I went to see [James Zogby](http://en.wikipedia.org/wiki/James_Zogby
 
 He spoke about how bad our American media and our education system is at informing us about the world around us, which is what his new book is about. He started the lecture by asking people to [buy his book](http://www.aaiusa.org/pages/arab-voices) and maybe stick around for the lecture, because, after all, he was descended from Lebanese merchants, and he had a book to sell.  This immediately appealed to my Jewish entrepreneurial instincts.
 
-He then talked at length about how misunderstanding between the Middle East and the US occur, [a topic](http://blog.vickiboykis.com/2010/03/25/heavy-metal-in-baghdad/) I&#8217;ve been [exploring on my own](http://blog.vickiboykis.com/2010/08/03/a-book-about-why-the-middle-east-is-crazy/) for quite some time. Zogby&#8217;s points  were all ones I&#8217;d heard before, but he&#8217;s such a great and involved speaker that he wrapped everything up into a neat little package:
+He then talked at length about how misunderstanding between the Middle East and the US occur, [a topic](http://blog.vickiboykis.com/wlb/2010/03/25/heavy-metal-in-baghdad/) I&#8217;ve been [exploring on my own](http://blog.vickiboykis.com/wlb/2010/08/03/a-book-about-why-the-middle-east-is-crazy/) for quite some time. Zogby&#8217;s points  were all ones I&#8217;d heard before, but he&#8217;s such a great and involved speaker that he wrapped everything up into a neat little package:
 
   * Only 37% of Americans know where Iraq is on the map.
   * The American media is notoriously bad.  He gives two examples: Fox News had asked him before to come on and speak about Afghanistan. He doesn&#8217;t know much about Afghanistan, only about the Middle East, so declined. Fox News was surprised, because they don&#8217;t really ever have guests decline speaking engagements. No one will say &#8220;I don&#8217;t know.&#8221;

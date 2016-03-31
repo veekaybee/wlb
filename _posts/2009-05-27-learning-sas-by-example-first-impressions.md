@@ -4,7 +4,7 @@ title: 'Learning SAS by Example: First Impressions'
 date: 2009-05-27T20:35:01+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=423
+guid: http://blog.vickiboykis.com/wlb/?p=423
 permalink: /2009/05/learning-sas-by-example-first-impressions/
 categories:
   - Career

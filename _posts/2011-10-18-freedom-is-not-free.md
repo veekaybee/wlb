@@ -4,7 +4,7 @@ title: Freedom is not free
 date: 2011-10-18T08:15:53+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=5848
+guid: http://blog.vickiboykis.com/wlb/?p=5848
 permalink: /2011/10/freedom-is-not-free/
 categories:
   - Uncategorized

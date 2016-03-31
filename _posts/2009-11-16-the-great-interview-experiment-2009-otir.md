@@ -4,7 +4,7 @@ title: 'The Great Interview Experiment 2009: Otir!'
 date: 2009-11-16T07:11:32+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=1683
+guid: http://blog.vickiboykis.com/wlb/?p=1683
 permalink: /2009/11/the-great-interview-experiment-2009-otir/
 categories:
   - Uncategorized
@@ -69,7 +69,7 @@ tags:
         </p>
         
         <p>
-          I certainly could go on and on with the topic, but since I am writing it in English I am too aware of the possible attention span of my readers <img src="http://blog.vickiboykis.com/wp-includes/images/smilies/simple-smile.png" alt=":-)" class="wp-smiley" style="height: 1em; max-height: 1em;" /> and don&#8217;t want to lose them on the first question!</div> 
+          I certainly could go on and on with the topic, but since I am writing it in English I am too aware of the possible attention span of my readers <img src="http://blog.vickiboykis.com/wlb/wp-includes/images/smilies/simple-smile.png" alt=":-)" class="wp-smiley" style="height: 1em; max-height: 1em;" /> and don&#8217;t want to lose them on the first question!</div> 
           
           <div style="text-align: left;">
             <blockquote style="border-left: 1px solid #cccccc; margin: 0pt 0pt 0pt 0.8ex; padding-left: 1ex;">

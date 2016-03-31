@@ -4,7 +4,7 @@ title: Writing with others
 date: 2013-02-13T08:05:30+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=8367
+guid: http://blog.vickiboykis.com/wlb/?p=8367
 permalink: /2013/02/writing-with-others/
 categories:
   - Uncategorized
@@ -23,7 +23,7 @@ tags:
 
 &nbsp;
 
-I usually work on <a href="http://blog.vickiboykis.com/2012/09/the-art-of-the-slog/" target="_blank">my novel</a> in this position: sitting on the train on the way to work or from work, notebook on my lap.
+I usually work on <a href="http://blog.vickiboykis.com/wlb/2012/09/the-art-of-the-slog/" target="_blank">my novel</a> in this position: sitting on the train on the way to work or from work, notebook on my lap.
 
 Despite the fact that I&#8217;m surrounded by people, it&#8217;s a really lonely way to work, as writing usually is.  The ideas come hard and the words come harder. In half an hour, I can do around 600 words, which is nothing in the scope of 90,000.
 

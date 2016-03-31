@@ -4,7 +4,7 @@ title: 'How I&#8217;ve been avoiding writing: I got a typewriter'
 date: 2014-01-25T15:01:59+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=9431
+guid: http://blog.vickiboykis.com/wlb/?p=9431
 permalink: /2014/01/how-ive-been-avoiding-writing-i-got-a-typewriter/
 categories:
   - Uncategorized
@@ -34,9 +34,9 @@ I decided I needed a typewriter.
 
 So I started trolling Craigslist, and, on one fine evening late in December, I was headed to Fishtown to pick up my <a href="http://mytypewriter.com/royalquietdeluxeincolors-1.aspx" target="_blank">Royal</a> (mine is not pink, because typewriters are for Real Men.)
 
-&#8220;Will you come with me,&#8221; I pleaded with Mr. B. The owner of the typewriter was male, and he wanted me to come inside to check the machine, and, naturally, I was afraid of <a href="http://blog.vickiboykis.com/2011/06/i-almost-died-for-a-250-discount-on-an-ikea-chair/" target="_blank">shanking</a>. &#8220;You&#8217;re going to Fishtown?&#8221; Mr. B asked. &#8220;You&#8217;ll be fine.&#8221;
+&#8220;Will you come with me,&#8221; I pleaded with Mr. B. The owner of the typewriter was male, and he wanted me to come inside to check the machine, and, naturally, I was afraid of <a href="http://blog.vickiboykis.com/wlb/2011/06/i-almost-died-for-a-250-discount-on-an-ikea-chair/" target="_blank">shanking</a>. &#8220;You&#8217;re going to Fishtown?&#8221; Mr. B asked. &#8220;You&#8217;ll be fine.&#8221;
 
-Fishtown is Philadelphia&#8217;s Brooklyn, and the only thing you could get shanked for there anymore for is stealing someone&#8217;s <a href="http://blog.vickiboykis.com/2013/02/how-do-you-people-drink-coffee/" target="_blank">premium-roast coffee</a>.
+Fishtown is Philadelphia&#8217;s Brooklyn, and the only thing you could get shanked for there anymore for is stealing someone&#8217;s <a href="http://blog.vickiboykis.com/wlb/2013/02/how-do-you-people-drink-coffee/" target="_blank">premium-roast coffee</a>.
 
 I got to Fishtown, and, sure enough, a man in his early 30s wearing a sweater vest from the 1970s, tight jeans, and a handlebar mustache showed me into his apartment. &#8220;I&#8217;ll take it,&#8221; I said, pressing a couple keys, imagining my literary future unfolding in front of me. I could finally break free from the bonds of that cruel Muse that wouldn&#8217;t let me use any writing utensils manufactured later than 1962.
 
@@ -48,7 +48,7 @@ The other hipster shrugged and held open the door for me and The Muse of Future 
 
 It was a hipster-off, and I passed the test. Check and mate, hipster-bitches.
 
-If you&#8217;ve never carried a non-portable typewriter down the street and felt smug doing it, it&#8217;s definitely an experience. I put it in my trunk and dialed <a href="http://blog.vickiboykis.com/2010/09/comparative-dadvantage/" target="_blank">my dad</a>.
+If you&#8217;ve never carried a non-portable typewriter down the street and felt smug doing it, it&#8217;s definitely an experience. I put it in my trunk and dialed <a href="http://blog.vickiboykis.com/wlb/2010/09/comparative-dadvantage/" target="_blank">my dad</a>.
 
 &#8220;Dad, guess what,&#8221; I said.
 

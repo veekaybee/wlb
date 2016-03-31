@@ -4,7 +4,7 @@ title: 'Russian LeTziyon: Golda Gives advice'
 date: 2009-10-01T21:26:45+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=1367
+guid: http://blog.vickiboykis.com/wlb/?p=1367
 permalink: /2009/10/russian-letziyon-golda-gives-advice/
 categories:
   - Uncategorized

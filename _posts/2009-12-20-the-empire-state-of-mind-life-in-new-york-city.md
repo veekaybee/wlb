@@ -4,7 +4,7 @@ title: 'The Empire State of Mind: Life in New York City'
 date: 2009-12-20T22:20:05+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=1877
+guid: http://blog.vickiboykis.com/wlb/?p=1877
 permalink: /2009/12/the-empire-state-of-mind-life-in-new-york-city/
 categories:
   - Uncategorized

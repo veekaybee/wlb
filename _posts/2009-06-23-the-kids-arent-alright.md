@@ -4,7 +4,7 @@ title: 'The Kids Aren&#8217;t Alright'
 date: 2009-06-23T05:54:36+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=579
+guid: http://blog.vickiboykis.com/wlb/?p=579
 permalink: /2009/06/the-kids-arent-alright/
 categories:
   - identity

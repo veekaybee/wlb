@@ -4,7 +4,7 @@ title: 'Let&#8217;s Navel-Gaze about Our Names!'
 date: 2011-01-13T08:59:11+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=4232
+guid: http://blog.vickiboykis.com/wlb/?p=4232
 permalink: /2011/01/lets-navel-gaze-about-our-names/
 categories:
   - Uncategorized

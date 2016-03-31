@@ -4,7 +4,7 @@ title: Vicki goes to the World Bank
 date: 2009-05-30T21:44:51+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=437
+guid: http://blog.vickiboykis.com/wlb/?p=437
 permalink: /2009/05/vicki-goes-to-the-world-bank/
 categories:
   - Career
@@ -18,7 +18,7 @@ tags:
 ---
 This week, I had lunch at the World Bank. It was AWESOME.
 
-Since I love international politics, international economics, and pretty much international anything (international [Nutella](http://blog.vickiboykis.com/?p=432)), me going to lunch at the World Bank is like a hypochondriac being invited to tour the Centers for Disease Control.
+Since I love international politics, international economics, and pretty much international anything (international [Nutella](http://blog.vickiboykis.com/wlb/?p=432)), me going to lunch at the World Bank is like a hypochondriac being invited to tour the Centers for Disease Control.
 
 From the moment I set foot in the door, I instantly forgot about the concern and criticism surrounding the effectiveness of the Bank&#8217;s programs (found [here](http://www.dambisamoyo.com/), [here](http://www.forbes.com/global/2001/1126/024.html), and [here](http://en.wikipedia.org/wiki/Confessions_of_an_Economic_Hit_Man).)  I was in awe.  There was artwork from around the world.  You could go to different lectures, about Iraq or water security, or any other international development topic you could think of.  People walked around in both suits and kimonos.  (Well, ok, not kimonos, but they were dressed pretty awesome-ly.)
 

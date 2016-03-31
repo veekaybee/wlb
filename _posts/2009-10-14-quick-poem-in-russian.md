@@ -4,7 +4,7 @@ title: Quick Poem in Russian
 date: 2009-10-14T20:09:58+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=1446
+guid: http://blog.vickiboykis.com/wlb/?p=1446
 permalink: /2009/10/quick-poem-in-russian/
 categories:
   - Uncategorized

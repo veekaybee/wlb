@@ -4,7 +4,7 @@ title: The tragedy of the human brain
 date: 2012-11-20T08:03:40+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=7857
+guid: http://blog.vickiboykis.com/wlb/?p=7857
 permalink: /2012/11/the-tragedy-of-the-human-brain/
 categories:
   - Uncategorized
@@ -13,7 +13,7 @@ categories:
 
 [<img class="aligncenter size-full wp-image-7869" title="9921_994206679774_3494823_n" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/11/9921_994206679774_3494823_n.jpg" alt="" width="604" height="453" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/11/9921_994206679774_3494823_n.jpg)
 
-On Sunday morning, I turned on [Galei Tzahal,](http://tunein.com/radio/Galei-Zahal-1023-s24906/) as I&#8217;ve been doing <a href="http://blog.vickiboykis.com/2011/12/this-post-is-kind-of-hipster-because-i-talk-about-old-school-radios-and-miss-them-but-i-also-love-my-ipad/" target="_blank">every morning for the past week</a>, and lay in bed, listening to the news in Hebrew with my eyes closed and a hand over my face.  The news lately has been followed by <a href="http://www.balladtree.com/articles/010924a.htm" target="_blank">the kind of music</a> you usually hear in Israel during emergency situations. Every couple of minutes, the song faded out and a woman&#8217;s voice announced calmly, &#8220;Tzeva adom, b&#8217;Tel Aviv, b&#8217;Yad Mordechai, b&#8217; Ashdod,&#8221; meaning the red alert that gives you however many seconds to get to a bomb shelter was active, meaning that Hamas was firing rockets into Israel as I was listening to the radio.
+On Sunday morning, I turned on [Galei Tzahal,](http://tunein.com/radio/Galei-Zahal-1023-s24906/) as I&#8217;ve been doing <a href="http://blog.vickiboykis.com/wlb/2011/12/this-post-is-kind-of-hipster-because-i-talk-about-old-school-radios-and-miss-them-but-i-also-love-my-ipad/" target="_blank">every morning for the past week</a>, and lay in bed, listening to the news in Hebrew with my eyes closed and a hand over my face.  The news lately has been followed by <a href="http://www.balladtree.com/articles/010924a.htm" target="_blank">the kind of music</a> you usually hear in Israel during emergency situations. Every couple of minutes, the song faded out and a woman&#8217;s voice announced calmly, &#8220;Tzeva adom, b&#8217;Tel Aviv, b&#8217;Yad Mordechai, b&#8217; Ashdod,&#8221; meaning the red alert that gives you however many seconds to get to a bomb shelter was active, meaning that Hamas was firing rockets into Israel as I was listening to the radio.
 
 <!--more-->
 

@@ -4,7 +4,7 @@ title: Daylight Savings Time
 date: 2013-03-13T07:47:30+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=8470
+guid: http://blog.vickiboykis.com/wlb/?p=8470
 permalink: /2013/03/daylight-savings-time/
 categories:
   - Uncategorized

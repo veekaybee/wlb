@@ -4,7 +4,7 @@ title: 'Girl power!  Kind of? Women and sex trafficking'
 date: 2009-02-13T08:29:05+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=134
+guid: http://blog.vickiboykis.com/wlb/?p=134
 permalink: /2009/02/girl-power-kind-of-women-and-sex-trafficking/
 categories:
   - Uncategorized

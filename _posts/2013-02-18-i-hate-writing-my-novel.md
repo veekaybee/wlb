@@ -4,7 +4,7 @@ title: I hate writing my novel
 date: 2013-02-18T11:55:47+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=8379
+guid: http://blog.vickiboykis.com/wlb/?p=8379
 permalink: /2013/02/i-hate-writing-my-novel/
 categories:
   - Uncategorized
@@ -22,7 +22,7 @@ tags:
 
 Last time I wrote a book, I was able to blog as I wrote. This time, I&#8217;m finding it very hard to divide my attention between blogging, Facebook, Forever 21 clearence e-mails, and actually working on something important. Oh right, and work and school and occasionally feeding Mr. B.
 
-I want to finish the first draft of <a href="http://blog.vickiboykis.com/2013/02/writing-with-others/" target="_blank">my novel</a>. So bad.
+I want to finish the first draft of <a href="http://blog.vickiboykis.com/wlb/2013/02/writing-with-others/" target="_blank">my novel</a>. So bad.
 
 So I&#8217;m leaving this thing here that counts how many words I&#8217;ve written out of total to let you know how long until I write my next blog post. You can still find me <a href="http://twitter.com/vboykis" target="_blank">on Twitter</a> in the meantime, or check out the blog archives at the bottom of the page.
 

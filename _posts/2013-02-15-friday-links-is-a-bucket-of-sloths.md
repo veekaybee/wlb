@@ -4,7 +4,7 @@ title: Friday Links is a bucket of sloths!
 date: 2013-02-15T07:47:06+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=8377
+guid: http://blog.vickiboykis.com/wlb/?p=8377
 permalink: /2013/02/friday-links-is-a-bucket-of-sloths/
 categories:
   - fridaylinks

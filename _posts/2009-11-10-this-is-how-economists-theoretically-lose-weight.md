@@ -4,7 +4,7 @@ title: This is how economists (theoretically) lose weight
 date: 2009-11-10T16:39:24+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=1651
+guid: http://blog.vickiboykis.com/wlb/?p=1651
 permalink: /2009/11/this-is-how-economists-theoretically-lose-weight/
 categories:
   - Uncategorized
@@ -92,7 +92,7 @@ Obviously the best way to incentivize economists is with economic experiments an
     </p>
     
     <p>
-      So? Will this carrot-and-stick incentive program work on a microeconomic level, namely, for me?  I have no idea.  So far it&#8217;s been enormously hard to get back into the mentality of cutting back on food, which is the only thing keeping me sane as <a href="http://blog.vickiboykis.com/2009/10/11/my-unborn-novel-is-annoying-me-nanowrimo/">I&#8217;m writing my novel</a>.  It&#8217;s especially hard since I work in Washington, D.C., which has so much good ethnic food it makes me cry to think I&#8217;ll have to eat carrots for six weeks.
+      So? Will this carrot-and-stick incentive program work on a microeconomic level, namely, for me?  I have no idea.  So far it&#8217;s been enormously hard to get back into the mentality of cutting back on food, which is the only thing keeping me sane as <a href="http://blog.vickiboykis.com/wlb/2009/10/11/my-unborn-novel-is-annoying-me-nanowrimo/">I&#8217;m writing my novel</a>.  It&#8217;s especially hard since I work in Washington, D.C., which has so much good ethnic food it makes me cry to think I&#8217;ll have to eat carrots for six weeks.
     </p>
     
     <p>

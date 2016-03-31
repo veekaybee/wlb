@@ -4,7 +4,7 @@ title: How to Re-Establish a Vodka Empire, plus Afghanistan
 date: 2010-06-14T06:44:42+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=3120
+guid: http://blog.vickiboykis.com/wlb/?p=3120
 permalink: /2010/06/how-to-re-establish-a-vodka-empire-plus-afghanistan/
 categories:
   - Uncategorized

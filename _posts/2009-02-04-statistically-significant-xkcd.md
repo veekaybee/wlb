@@ -4,7 +4,7 @@ title: 'Statistically significant: XKCD'
 date: 2009-02-04T15:42:51+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=117
+guid: http://blog.vickiboykis.com/wlb/?p=117
 permalink: /2009/02/statistically-significant-xkcd/
 categories:
   - Uncategorized

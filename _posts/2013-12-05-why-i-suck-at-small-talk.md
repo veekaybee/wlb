@@ -4,7 +4,7 @@ title: Why I suck at small talk
 date: 2013-12-05T22:21:06+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=9296
+guid: http://blog.vickiboykis.com/wlb/?p=9296
 permalink: /2013/12/why-i-suck-at-small-talk/
 categories:
   - Uncategorized

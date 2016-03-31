@@ -4,16 +4,16 @@ title: Waiting to exhale
 date: 2014-12-31T13:53:02+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=9896
+guid: http://blog.vickiboykis.com/wlb/?p=9896
 permalink: /2014/12/waiting-to-exhale/
 categories:
   - Uncategorized
 ---
 [<img class="aligncenter size-full wp-image-9914" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2014/12/tumblr_ngflssUev61qb2sxmo1_1280.jpg" alt="tumblr_ngflssUev61qb2sxmo1_1280" width="576" height="827" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2014/12/tumblr_ngflssUev61qb2sxmo1_1280.jpg)
 
-I spent a lot of 2014 feeling blocked.  When I started this blog in 2008, the internet was wild and free, and I could write what I wanted without thinking of a specific audience, other than what I was interested in. After we found out last year that it was not as free as we thought, <a href="http://blog.vickiboykis.com/2013/06/being-american/" target="_blank">I couldn&#8217;t write anything </a>without thinking about how it would impact A) My family B) My career and, most importantly,  C) Whatever profile of me was already out there, knitted together out of hundreds of Facebook posts.  I&#8217;m a pretty private person in real life, but when I write, I want to write the truth. Instead, I was completely and utterly self-censored every time I opened a browser window, and it made me want to scream.
+I spent a lot of 2014 feeling blocked.  When I started this blog in 2008, the internet was wild and free, and I could write what I wanted without thinking of a specific audience, other than what I was interested in. After we found out last year that it was not as free as we thought, <a href="http://blog.vickiboykis.com/wlb/2013/06/being-american/" target="_blank">I couldn&#8217;t write anything </a>without thinking about how it would impact A) My family B) My career and, most importantly,  C) Whatever profile of me was already out there, knitted together out of hundreds of Facebook posts.  I&#8217;m a pretty private person in real life, but when I write, I want to write the truth. Instead, I was completely and utterly self-censored every time I opened a browser window, and it made me want to scream.
 
-Not only was I self-censored in my online writing life, I was also stumbling along in real life. Sometime in 2013, I was startled to find that the world  as I understood it stopped being interesting to me. Reading books became boring. Our <a href="http://blog.vickiboykis.com/2013/06/the-first-in-a-series-of-blog-posts-about-how-italy-lied-to-me/" target="_blank">trip to Italy</a> was boring.  We booked tickets to Hong Kong for the fall of 2014, and even that seemed bleak and uninviting, even though I have never been to Asia. Sitting in coffee shops for hours with Mr. B became a chore instead of a pleasure. All the colors and joy leached out of my life.
+Not only was I self-censored in my online writing life, I was also stumbling along in real life. Sometime in 2013, I was startled to find that the world  as I understood it stopped being interesting to me. Reading books became boring. Our <a href="http://blog.vickiboykis.com/wlb/2013/06/the-first-in-a-series-of-blog-posts-about-how-italy-lied-to-me/" target="_blank">trip to Italy</a> was boring.  We booked tickets to Hong Kong for the fall of 2014, and even that seemed bleak and uninviting, even though I have never been to Asia. Sitting in coffee shops for hours with Mr. B became a chore instead of a pleasure. All the colors and joy leached out of my life.
 
 Something was missing. I knew what it was.
 
@@ -31,11 +31,11 @@ And, I sublimated my yearning to write and my need to have a baby into other th
 
 I taught a <a href="http://www.meetup.com/Girl-Develop-It-Philadelphia/" target="_blank">SQL class to women who have never programmed</a>.
 
-We went to <a href="http://blog.vickiboykis.com/2014/04/in-miami-and-in-vapiano/" target="_blank">Miami</a> for Geriatric Spring Break.
+We went to <a href="http://blog.vickiboykis.com/wlb/2014/04/in-miami-and-in-vapiano/" target="_blank">Miami</a> for Geriatric Spring Break.
 
 I took hours and hours of useless MBA classes.
 
-I tried to get <a href="http://blog.vickiboykis.com/2014/01/how-ive-been-avoiding-writing-i-got-a-typewriter/" target="_blank">my typewriter</a> to work.
+I tried to get <a href="http://blog.vickiboykis.com/wlb/2014/01/how-ive-been-avoiding-writing-i-got-a-typewriter/" target="_blank">my typewriter</a> to work.
 
 [<img class="aligncenter size-medium wp-image-9907" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2014/12/IMG_20140125_142758905-580x582.jpg" alt="IMG_20140125_142758905" width="580" height="582" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2014/12/IMG_20140125_142758905.jpg)
 
@@ -57,11 +57,11 @@ I was trying to hard to live like I normally live. But during the time I was doi
 
 And then everything happened at once.
 
-I got a <a href="http://blog.vickiboykis.com/2014/07/why-does-american-radio-suck-so-much/" target="_blank">new job</a>. Several weeks later, <a href="http://blog.vickiboykis.com/2014/09/dont-trust-pinterest-pregnancies/" target="_blank">I found out I was pregnant</a>.   A week after that, I started summer classes, and a week after that I gave a talk at WordCamp Philly on the power of stories.
+I got a <a href="http://blog.vickiboykis.com/wlb/2014/07/why-does-american-radio-suck-so-much/" target="_blank">new job</a>. Several weeks later, <a href="http://blog.vickiboykis.com/wlb/2014/09/dont-trust-pinterest-pregnancies/" target="_blank">I found out I was pregnant</a>.   A week after that, I started summer classes, and a week after that I gave a talk at WordCamp Philly on the power of stories.
 
 The irony was that I could not talk about any of this to anyone, to friends, to family, because I was afraid for my career, I was afraid of the enormous change, and most importantly, I was afraid for the health of the baby.  I read the forums. I knew what could happen.
 
-So I waited, listlessly spending the summer in a bout of nausea, intense heat, and <a href="http://blog.vickiboykis.com/2014/07/i-can-never-go-back-to-real-life/" target="_blank">permanently stuck to the couch</a> in between the work dayshift and the class nightshift. I waited in silent misery until I was finally, blessedly, halfway done.
+So I waited, listlessly spending the summer in a bout of nausea, intense heat, and <a href="http://blog.vickiboykis.com/wlb/2014/07/i-can-never-go-back-to-real-life/" target="_blank">permanently stuck to the couch</a> in between the work dayshift and the class nightshift. I waited in silent misery until I was finally, blessedly, halfway done.
 
 [<img class="aligncenter size-medium wp-image-9911" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2014/12/ann2-580x785.png" alt="ann2" width="580" height="785" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2014/12/ann2.png)
 
@@ -69,7 +69,7 @@ So I waited, listlessly spending the summer in a bout of nausea, intense heat, a
 
 Then the real waiting began in earnest.  Each week of pregnancy is longer than the last, by the laws of physics, but I got up and put on my pants one leg at a time, still afraid, still hopeful. My mind trained itself to split in half. Half was always on my work and schoolwork, and half was always on what was going on inside of me, soft, squishy, nebulous, terrifying.
 
-In between all of that, <a href="http://blog.vickiboykis.com/2014/10/this-is-six-years/" target="_blank">Mr. B&#8217;s grandmother was in the hospital</a>, my grandfather had open heart surgery, and my parents moved to Philadelphia, a move they had been preparing for for several years. Remembering how <a href="http://blog.vickiboykis.com/2012/02/why-is-philadelphia-so-disgusting/" target="_blank">miserable and lost </a>I had been when I first moved, I threw all my remaining energy into helping them.
+In between all of that, <a href="http://blog.vickiboykis.com/wlb/2014/10/this-is-six-years/" target="_blank">Mr. B&#8217;s grandmother was in the hospital</a>, my grandfather had open heart surgery, and my parents moved to Philadelphia, a move they had been preparing for for several years. Remembering how <a href="http://blog.vickiboykis.com/wlb/2012/02/why-is-philadelphia-so-disgusting/" target="_blank">miserable and lost </a>I had been when I first moved, I threw all my remaining energy into helping them.
 
 So now my mind was split five ways, with no outlet, stewing silently. I couldn&#8217;t make myself write about any of this, because it was so personal. Because, was it really my story to tell?
 

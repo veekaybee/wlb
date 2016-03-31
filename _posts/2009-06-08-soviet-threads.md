@@ -4,7 +4,7 @@ title: Soviet Threads
 date: 2009-06-08T05:54:12+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=471
+guid: http://blog.vickiboykis.com/wlb/?p=471
 permalink: /2009/06/soviet-threads/
 categories:
   - Russia

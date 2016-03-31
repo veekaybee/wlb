@@ -4,7 +4,7 @@ title: Why do I do this to myself?
 date: 2012-06-13T07:45:00+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=6965
+guid: http://blog.vickiboykis.com/wlb/?p=6965
 permalink: /2012/06/why-do-i-do-this-to-myself/
 categories:
   - Uncategorized
@@ -13,7 +13,7 @@ tags:
   - book
   - writing
 ---
-Because I hate free time and love pain and misery, I&#8217;ve started working on my summer project, which is <a href="http://blog.vickiboykis.com/2012/05/i-basically-just-paid-myself-eight-cents-an-hour-to-learn-that-i-dont-need-an-mba/" target="_blank">my second book</a>.
+Because I hate free time and love pain and misery, I&#8217;ve started working on my summer project, which is <a href="http://blog.vickiboykis.com/wlb/2012/05/i-basically-just-paid-myself-eight-cents-an-hour-to-learn-that-i-dont-need-an-mba/" target="_blank">my second book</a>.
 
 <p style="text-align: center;">
   <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/06/aleksandr-deyneka-a-woman-reading-1934.jpg"><img class="aligncenter  wp-image-6973" title="aleksandr-deyneka-a-woman-reading-1934" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/06/aleksandr-deyneka-a-woman-reading-1934.jpg" alt="" width="420" height="399" /></a>

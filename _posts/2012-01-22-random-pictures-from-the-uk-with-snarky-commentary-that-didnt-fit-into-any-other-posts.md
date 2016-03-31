@@ -4,7 +4,7 @@ title: 'Random pictures  from the UK  with snarky commentary that didn&#8217;t f
 date: 2012-01-22T20:38:19+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=6334
+guid: http://blog.vickiboykis.com/wlb/?p=6334
 permalink: /2012/01/random-pictures-from-the-uk-with-snarky-commentary-that-didnt-fit-into-any-other-posts/
 categories:
   - Uncategorized

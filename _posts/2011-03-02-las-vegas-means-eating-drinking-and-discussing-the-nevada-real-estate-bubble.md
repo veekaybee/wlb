@@ -4,7 +4,7 @@ title: Las Vegas Means Eating, Drinking, and Discussing the Nevada Real Estate B
 date: 2011-03-02T11:15:48+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=4418
+guid: http://blog.vickiboykis.com/wlb/?p=4418
 permalink: /2011/03/las-vegas-means-eating-drinking-and-discussing-the-nevada-real-estate-bubble/
 categories:
   - Uncategorized

@@ -4,7 +4,7 @@ title: The Clarinet and Muscle Memory
 date: 2009-12-06T20:49:20+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=1836
+guid: http://blog.vickiboykis.com/wlb/?p=1836
 permalink: /2009/12/the-clarinet-and-muscle-memory/
 categories:
   - Uncategorized

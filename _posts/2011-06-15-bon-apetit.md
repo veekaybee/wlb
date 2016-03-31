@@ -4,7 +4,7 @@ title: Bon Apetit!
 date: 2011-06-15T13:15:26+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=5112
+guid: http://blog.vickiboykis.com/wlb/?p=5112
 permalink: /2011/06/bon-apetit/
 categories:
   - Uncategorized

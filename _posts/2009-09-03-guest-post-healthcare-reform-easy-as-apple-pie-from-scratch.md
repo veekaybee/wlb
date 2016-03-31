@@ -4,7 +4,7 @@ title: 'Guest Post: Healthcare Reform-Easy as Apple Pie from Scratch'
 date: 2009-09-03T00:00:47+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=1157
+guid: http://blog.vickiboykis.com/wlb/?p=1157
 permalink: /2009/09/guest-post-healthcare-reform-easy-as-apple-pie-from-scratch/
 categories:
   - Uncategorized

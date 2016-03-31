@@ -4,7 +4,7 @@ title: I hate everyone on Facebook
 date: 2011-06-20T09:24:30+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=5130
+guid: http://blog.vickiboykis.com/wlb/?p=5130
 permalink: /2011/06/i-hate-everyone-on-facebook/
 categories:
   - Uncategorized

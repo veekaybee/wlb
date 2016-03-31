@@ -4,7 +4,7 @@ title: Sergei Mikhalkov, poet, Soviet anthem writer, dies at 96
 date: 2009-09-22T21:44:29+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=1290
+guid: http://blog.vickiboykis.com/wlb/?p=1290
 permalink: /2009/09/sergei-mikhalkov-poet-soviet-anthem-writer-dies-at-96/
 categories:
   - Uncategorized

@@ -4,7 +4,7 @@ title: 'Blogging with integrity: I hate small talk'
 date: 2010-09-13T07:06:48+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=3585
+guid: http://blog.vickiboykis.com/wlb/?p=3585
 permalink: /2010/09/blogging-with-integrity-i-hate-small-talk/
 categories:
   - Uncategorized
@@ -13,7 +13,7 @@ tags:
   - complaining
   - life
 ---
-My mom told me this weekend that I [sound](http://blog.vickiboykis.com/2010/08/23/what-is-it-about-analyzing-20-somethings/) [too](http://blog.vickiboykis.com/2010/07/26/what-were-you-doing-instead-of-getting-heat-stroke/) [upbeat](http://blog.vickiboykis.com/2010/06/28/healthcare-and-the-best-of-the-summer/) in my blog, and that it doesn&#8217;t reflect how I am in real life.
+My mom told me this weekend that I [sound](http://blog.vickiboykis.com/wlb/2010/08/23/what-is-it-about-analyzing-20-somethings/) [too](http://blog.vickiboykis.com/wlb/2010/07/26/what-were-you-doing-instead-of-getting-heat-stroke/) [upbeat](http://blog.vickiboykis.com/wlb/2010/06/28/healthcare-and-the-best-of-the-summer/) in my blog, and that it doesn&#8217;t reflect how I am in real life.
 
 So, for the sake of [bloging with integrity](http://www.blogwithintegrity.com/), I am going to reveal that, as you may have surmised by my numerous social media profiles, my blog posts, and pictures of myself in various situations, I am antisocial and I hate small talk. This is a problem for me because the building I live in consists entirety of chipper  organic crunchy granola white people who love small talk like it&#8217;s their job, especially on Monday mornings when I hate the act of living.
 

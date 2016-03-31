@@ -4,7 +4,7 @@ title: New York on a whim
 date: 2012-04-30T12:58:55+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=6815
+guid: http://blog.vickiboykis.com/wlb/?p=6815
 permalink: /2012/04/new-york-on-a-whim/
 categories:
   - Uncategorized
@@ -30,7 +30,7 @@ The only problem was that I kind of wanted to see a couch I was going to spend m
 
 And the house was a mess. And I had homework to do. And I was lazy.
 
-But hey, it&#8217;s only spring once a year, right? And <a href="http://blog.vickiboykis.com/2010/07/the-city-that-doesnt-sleep-but-sure-as-hell-sweats-a-lot/" target="_blank">we love New York</a>. So we decided to go to Manhattan to see a couch.
+But hey, it&#8217;s only spring once a year, right? And <a href="http://blog.vickiboykis.com/wlb/2010/07/the-city-that-doesnt-sleep-but-sure-as-hell-sweats-a-lot/" target="_blank">we love New York</a>. So we decided to go to Manhattan to see a couch.
 
 <p style="text-align: center;">
   <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/04/IMG_20120428_131017.jpg"><img class="aligncenter  wp-image-6817" title="IMG_20120428_131017" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/04/IMG_20120428_131017-768x1024.jpg" alt="" width="538" height="717" /></a>
@@ -61,7 +61,7 @@ At <a href="http://www.pearlriver.com/v2/index.html" target="_blank">Pearl River
     </p>
     
     <p style="text-align: left;">
-      We tried to go to the 9-11 Memorial, <a href="http://blog.vickiboykis.com/2011/09/ten-years/" target="_blank">just like we&#8217;d done at the Pentagon before</a>, but there are annoying lines and you have to pay, which, WTF? By the way, if someone can tell me how this monument depicts or comforts survivors of terrorism, and does not instead commemorate maraschino cherries, I will pay you $100.
+      We tried to go to the 9-11 Memorial, <a href="http://blog.vickiboykis.com/wlb/2011/09/ten-years/" target="_blank">just like we&#8217;d done at the Pentagon before</a>, but there are annoying lines and you have to pay, which, WTF? By the way, if someone can tell me how this monument depicts or comforts survivors of terrorism, and does not instead commemorate maraschino cherries, I will pay you $100.
     </p>
     
     <p style="text-align: center;">

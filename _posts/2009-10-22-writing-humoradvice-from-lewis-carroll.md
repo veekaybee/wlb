@@ -4,7 +4,7 @@ title: Writing Humor:Advice from Lewis Carroll
 date: 2009-10-22T00:00:59+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=1489
+guid: http://blog.vickiboykis.com/wlb/?p=1489
 permalink: /2009/10/writing-humoradvice-from-lewis-carroll/
 categories:
   - Uncategorized
@@ -15,7 +15,7 @@ tags:
 ---
 [<img class="aligncenter size-full wp-image-1419" title="Page_1" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/10/Page_14.jpg" alt="Page_1" width="500" height="100" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/10/Page_14.jpg)
 
-So, I&#8217;m in the middle of sketching out my main character for the  [enormously satirical novel I&#8217;m going to write next month](http://blog.vickiboykis.com/2009/10/11/my-unborn-novel-is-annoying-me-nanowrimo/), when I realize I have no idea how to be funny.  So I looked up some advice on writing satire from the pros.
+So, I&#8217;m in the middle of sketching out my main character for the  [enormously satirical novel I&#8217;m going to write next month](http://blog.vickiboykis.com/wlb/2009/10/11/my-unborn-novel-is-annoying-me-nanowrimo/), when I realize I have no idea how to be funny.  So I looked up some advice on writing satire from the pros.
 
 <p style="text-align: center;">
   <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/10/alice_in_wonderland.jpg"><img class="aligncenter size-full wp-image-1516" title="alice_in_wonderland" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/10/alice_in_wonderland.jpg" alt="alice_in_wonderland" width="348" height="258" /></a>

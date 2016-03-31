@@ -4,7 +4,7 @@ title: '&#8220;What does popravilas mean?&#8221; Bad things, little girl.'
 date: 2011-11-21T09:37:10+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=5921
+guid: http://blog.vickiboykis.com/wlb/?p=5921
 permalink: /2011/11/what-does-popravilas-mean-bad-things-little-girl/
 categories:
   - Uncategorized

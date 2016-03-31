@@ -4,7 +4,7 @@ title: 'I&#8217;m in a book!'
 date: 2012-09-18T08:26:49+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=7431
+guid: http://blog.vickiboykis.com/wlb/?p=7431
 permalink: /2012/09/im-in-a-book/
 categories:
   - Uncategorized

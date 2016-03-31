@@ -4,7 +4,7 @@ title: '&#8220;The destinations are crap, but oh, the journey is wonderful.&#822
 date: 2011-02-22T13:21:21+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=4431
+guid: http://blog.vickiboykis.com/wlb/?p=4431
 permalink: /2011/02/the-destinations-are-crap-but-oh-the-journey-is-wonderful/
 categories:
   - Uncategorized

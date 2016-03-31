@@ -4,7 +4,7 @@ title: Things I hate about Europe
 date: 2011-12-21T13:47:07+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=6050
+guid: http://blog.vickiboykis.com/wlb/?p=6050
 permalink: /2011/12/things-i-hate-about-europe/
 categories:
   - Uncategorized

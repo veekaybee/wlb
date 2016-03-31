@@ -4,7 +4,7 @@ title: Scenster, Hipster, Hippie
 date: 2009-07-19T10:01:52+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=790
+guid: http://blog.vickiboykis.com/wlb/?p=790
 permalink: /2009/07/scenster-hipster-hippie/
 categories:
   - Uncategorized

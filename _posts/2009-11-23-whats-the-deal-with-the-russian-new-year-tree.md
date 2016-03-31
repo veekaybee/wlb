@@ -4,7 +4,7 @@ title: 'What&#8217;s the deal with the Russian New Year Tree?'
 date: 2009-11-23T23:26:21+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=1730
+guid: http://blog.vickiboykis.com/wlb/?p=1730
 permalink: /2009/11/whats-the-deal-with-the-russian-new-year-tree/
 categories:
   - Uncategorized
@@ -24,7 +24,7 @@ tags:
   </p>
 </div>
 
-Nonna and Tzipporah asked in the comments to [yesterday&#8217;s post](http://blog.vickiboykis.com/2009/11/23/monday-photo-blues/) what the significance of the Russian New Year tree was to me. I  explain the concept of Russian New Year every year, so maybe if I explain it well enough in this blog post, I can just get a tattoo of the permalink and flash it to people at New Year parties.  That should really get the blog traffic going.  Also, people will think I&#8217;m insane.
+Nonna and Tzipporah asked in the comments to [yesterday&#8217;s post](http://blog.vickiboykis.com/wlb/2009/11/23/monday-photo-blues/) what the significance of the Russian New Year tree was to me. I  explain the concept of Russian New Year every year, so maybe if I explain it well enough in this blog post, I can just get a tattoo of the permalink and flash it to people at New Year parties.  That should really get the blog traffic going.  Also, people will think I&#8217;m insane.
 
 The New Year tree, [the Ёлка (yolka)](http://www.mahalo.com/new-years-tree) is the Russian equivalent of the Christmas tree.  However, since Russians weren&#8217;t allowed to celebrate Christmas for 80+ years because atheism was the state-mandated religion, t[<div id="attachment_1732" style="width: 522px" class="wp-caption aligncenter">
   <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/11/Russian_Tree_Yelka1.jpg"><img class="size-full wp-image-1732 " title="Russian_Tree_Yelka" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/11/Russian_Tree_Yelka1.jpg" alt="Russian_Tree_Yelka" width="512" height="383" /></a>
@@ -34,7 +34,7 @@ The New Year tree, [the Ёлка (yolka)](http://www.mahalo.com/new-years-tree) 
   </p>
 </div>
 
-Nonna and Tzipporah asked in the comments to [yesterday&#8217;s post](http://blog.vickiboykis.com/2009/11/23/monday-photo-blues/) what the significance of the Russian New Year tree was to me. I  explain the concept of Russian New Year every year, so maybe if I explain it well enough in this blog post, I can just get a tattoo of the permalink and flash it to people at New Year parties.  That should really get the blog traffic going.  Also, people will think I&#8217;m insane.
+Nonna and Tzipporah asked in the comments to [yesterday&#8217;s post](http://blog.vickiboykis.com/wlb/2009/11/23/monday-photo-blues/) what the significance of the Russian New Year tree was to me. I  explain the concept of Russian New Year every year, so maybe if I explain it well enough in this blog post, I can just get a tattoo of the permalink and flash it to people at New Year parties.  That should really get the blog traffic going.  Also, people will think I&#8217;m insane.
 
 The New Year tree, [the Ёлка (yolka)](http://www.mahalo.com/new-years-tree) is the Russian equivalent of the Christmas tree.  However, since Russians weren&#8217;t allowed to celebrate Christmas for 80+ years because atheism was the state-mandated religion, t](http://en.wikipedia.org/wiki/New_Year_tree) as a proxy for the celebrations.  So New Year&#8217;s became the biggest holiday in Soviet culture and it continues to be in Russian culture until this day  even though Russian Orthodoxy continues to make a comeback.
 
@@ -56,7 +56,7 @@ New Year is also associated with parties, with special ornaments for the tree, a
 
 My dad especially loves New Year and the bright toys that go on the yolka, and every year he decorates ours with loving care.
   
-I suppose it is because of the warmth that New Year brings to me, that it always brought me before I even knew what a menorah was, that it will always be my favorite holiday, and that the yolka doesn&#8217;t signify Christmas to me, but something much more rooted in Russian tradition and the past. It&#8217;s something that I associate more with my [non-Jewish](http://blog.vickiboykis.com/2009/09/16/gods-is-straight-up-messing-with-me/) [dad](http://blog.vickiboykis.com/2009/06/21/happy-fathers-day/) than any other holiday, as well, which is why this year , my first with my own yolka I will take extra care to hang up all of the toys and colored balls and wrap my yolochka with tinsel.
+I suppose it is because of the warmth that New Year brings to me, that it always brought me before I even knew what a menorah was, that it will always be my favorite holiday, and that the yolka doesn&#8217;t signify Christmas to me, but something much more rooted in Russian tradition and the past. It&#8217;s something that I associate more with my [non-Jewish](http://blog.vickiboykis.com/wlb/2009/09/16/gods-is-straight-up-messing-with-me/) [dad](http://blog.vickiboykis.com/wlb/2009/06/21/happy-fathers-day/) than any other holiday, as well, which is why this year , my first with my own yolka I will take extra care to hang up all of the toys and colored balls and wrap my yolochka with tinsel.
 
 Our little yolkochka already has had an effect.  I was putting it up on Friday when I was off from work and Mr. B was not.  When he saw it sitting there with the ornaments that I&#8217;ve carefully collected nearby, his face lit up, also remembering the Soviet New Years of his childhood and he said, &#8220;Oh, the yolka is out already?&#8221; and our apartment felt more like a home than ever.
 

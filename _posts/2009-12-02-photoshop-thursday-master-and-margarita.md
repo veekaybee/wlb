@@ -4,7 +4,7 @@ title: Photoshop Thursday! Master and Margarita
 date: 2009-12-02T21:52:40+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=1804
+guid: http://blog.vickiboykis.com/wlb/?p=1804
 permalink: /2009/12/photoshop-thursday-master-and-margarita/
 categories:
   - Uncategorized

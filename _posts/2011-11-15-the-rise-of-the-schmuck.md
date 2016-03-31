@@ -4,7 +4,7 @@ title: The Rise of the Schmuck
 date: 2011-11-15T21:34:04+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=5916
+guid: http://blog.vickiboykis.com/wlb/?p=5916
 permalink: /2011/11/the-rise-of-the-schmuck/
 categories:
   - Uncategorized
@@ -19,7 +19,7 @@ I started reading <a href="http://www.goodreads.com/book/show/310612.A_Confedera
 
 [<img class="aligncenter size-full wp-image-5918" title="Screen shot 2011-11-15 at 8.18.24 PM" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/11/Screen-shot-2011-11-15-at-8.18.24-PM.png" alt="" width="421" height="348" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/11/Screen-shot-2011-11-15-at-8.18.24-PM.png)
 
-One of the things it reminds me of is <a href="http://blog.vickiboykis.com/2009/11/17/nanowrimo-day-15/" target="_blank">my own novel</a>, which starts thusly:
+One of the things it reminds me of is <a href="http://blog.vickiboykis.com/wlb/2009/11/17/nanowrimo-day-15/" target="_blank">my own novel</a>, which starts thusly:
 
 > From the moment he spilled his apple juice on his pants on 7:30 from JFK to Tel Aviv, cruisng over Munich, Michael Shtulman knew he would die airborne.  He always looked for omens to tell him where his day was headed.  If the waitress took too long to bring the check, it meant the day was ruined.  If he forgot to fill up the car on his way to work, he might be stuck in traffic, or more likely, die in a gruesome car accident that would get only a passing mention on the local Fox News affiliate.  If a black cat crossed his path it meant his unborn and unconcieved daughter would only get into a safety school instead of the Ivy League she was created for, and next thing you know she&#8217;s a stripper and his parents are rending their clothes yelling at him in his bedroom (in his head his parents always yelled at him in his bedroom) &#8220;What have you done to our granddaughter?.&#8221;  These were the kinds of things Michael Shtulman worried about on a regular basis.  So, the apple juice was a bad sign.
 

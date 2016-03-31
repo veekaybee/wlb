@@ -4,7 +4,7 @@ title: Refusenik
 date: 2012-07-05T07:37:49+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=7117
+guid: http://blog.vickiboykis.com/wlb/?p=7117
 permalink: /2012/07/refusenik/
 categories:
   - Uncategorized
@@ -23,7 +23,7 @@ tags:
   </p>
 </div>
 
-A couple weeks ago, Mr. B and I watched <a href="http://refusenikmovie.com/" target="_blank">Refusenik</a>, which is about Russian Jews who did not spend hours blogging about <a href="http://blog.vickiboykis.com/2012/01/why-do-russians-love-ferrero-rocher/" target="_blank">why Russians love Ferrero Rocher</a> and <a href="http://blog.vickiboykis.com/2012/01/how-i-misinterpret-russian-song-lyrics/" target="_blank">misunderstanding song lyrics</a>, but instead stood up to the full might of the Soviet government at the height of its power and tried to leave the country.
+A couple weeks ago, Mr. B and I watched <a href="http://refusenikmovie.com/" target="_blank">Refusenik</a>, which is about Russian Jews who did not spend hours blogging about <a href="http://blog.vickiboykis.com/wlb/2012/01/why-do-russians-love-ferrero-rocher/" target="_blank">why Russians love Ferrero Rocher</a> and <a href="http://blog.vickiboykis.com/wlb/2012/01/how-i-misinterpret-russian-song-lyrics/" target="_blank">misunderstanding song lyrics</a>, but instead stood up to the full might of the Soviet government at the height of its power and tried to leave the country.
 
 
 
@@ -35,9 +35,9 @@ Natan Sharansky, who I&#8217;ve been lucky enough to meet in person, was <a href
 
 It occurred to me just how cruel unjustified imprisonment is, not because of the starvation or the dysentery, but because they take away what you can never get back, those precious years of your only precious life.
 
-After the movie was over, Mr. B and I wondered, <a href="http://blog.vickiboykis.com/2012/05/mr-b-and-i-are-prepared-for-anything-anything-being-either-pogroms-or-the-siege-of-leningrad/" target="_blank">as we usually do</a>, if we could have done the same; spoken out against the government even if we held comfortable jobs or were prestigious national scientists.
+After the movie was over, Mr. B and I wondered, <a href="http://blog.vickiboykis.com/wlb/2012/05/mr-b-and-i-are-prepared-for-anything-anything-being-either-pogroms-or-the-siege-of-leningrad/" target="_blank">as we usually do</a>, if we could have done the same; spoken out against the government even if we held comfortable jobs or were prestigious national scientists.
 
-After all my <a href="http://blog.vickiboykis.com/2011/10/a-guide-to-trolling-jewish-organizations-featuring-my-grandfather/" target="_blank">grandpa</a> did it in 1980, when he applied to leave for Israel with his family. The Soviet government, of course, rejected his application, made him, my grandmother, my mom, and my aunt leave their jobs, and asked him to come to a Party meeting denouncing Israel as a disgusting and unproletarian place to live. While this was extremely beneficial to me because had my mom left for Israel when she was 18 I&#8217;d never have been born, it was not such a pleasant experience for them.
+After all my <a href="http://blog.vickiboykis.com/wlb/2011/10/a-guide-to-trolling-jewish-organizations-featuring-my-grandfather/" target="_blank">grandpa</a> did it in 1980, when he applied to leave for Israel with his family. The Soviet government, of course, rejected his application, made him, my grandmother, my mom, and my aunt leave their jobs, and asked him to come to a Party meeting denouncing Israel as a disgusting and unproletarian place to live. While this was extremely beneficial to me because had my mom left for Israel when she was 18 I&#8217;d never have been born, it was not such a pleasant experience for them.
 
 The answer we came to was, &#8220;No.&#8221; There&#8217;s no way I would have given up a cushy government job and a steady paycheck to speak out about something, even if I was absolutely sure that it was true. Even if it was my identity.
 

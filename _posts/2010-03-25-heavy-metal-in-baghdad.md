@@ -4,7 +4,7 @@ title: Heavy Metal in Baghdad
 date: 2010-03-25T06:15:44+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=2625
+guid: http://blog.vickiboykis.com/wlb/?p=2625
 permalink: /2010/03/heavy-metal-in-baghdad/
 categories:
   - Uncategorized

@@ -4,7 +4,7 @@ title: Breakfast at Boykis
 date: 2010-03-30T21:48:27+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=2689
+guid: http://blog.vickiboykis.com/wlb/?p=2689
 permalink: /2010/03/breakfast-at-boykis/
 categories:
   - Uncategorized

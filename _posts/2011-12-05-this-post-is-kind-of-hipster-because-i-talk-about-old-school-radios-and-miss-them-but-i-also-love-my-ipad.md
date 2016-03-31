@@ -4,7 +4,7 @@ title: This post is kind of hipster because I talk about old-school radios and m
 date: 2011-12-05T08:18:28+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=5968
+guid: http://blog.vickiboykis.com/wlb/?p=5968
 permalink: /2011/12/this-post-is-kind-of-hipster-because-i-talk-about-old-school-radios-and-miss-them-but-i-also-love-my-ipad/
 categories:
   - Uncategorized
@@ -23,7 +23,7 @@ After I&#8217;d finished all my homework and climbed into bed, I&#8217;d lie und
 
 There would be static, static, static, then fine-tuning, then, finally, a voice broadcasting from halfway across the world. Once I was able to catch Russian radio and I listened for half an hour, fascinated.  Sometimes it would be somewhere in Africa. Sometimes, Japan or China.  But never for very long, and never something with context that I could hang onto.   I&#8217;d get delicious shivers down my spine at imagining all of the far away places that the static on the radio was trying to reach, wanting to be there, but also very glad to be safe at home.
 
-Recently, I discovered the same thing for <a href="http://blog.vickiboykis.com/2011/08/02/the-great-news-im-getting-an-ipad-the-terrible-news-im-getting-an-ipad/" target="_blank">my iPad</a>, <a href="http://tunein.com/mobile/" target="_blank">TuneIn Radio</a>:
+Recently, I discovered the same thing for <a href="http://blog.vickiboykis.com/wlb/2011/08/02/the-great-news-im-getting-an-ipad-the-terrible-news-im-getting-an-ipad/" target="_blank">my iPad</a>, <a href="http://tunein.com/mobile/" target="_blank">TuneIn Radio</a>:
 
 <p style="text-align: left;">
   <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/12/Screen-shot-2011-12-04-at-7.22.19-PM.png"><img class="aligncenter size-full wp-image-5972" title="Screen shot 2011-12-04 at 7.22.19 PM" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/12/Screen-shot-2011-12-04-at-7.22.19-PM.png" alt="" width="569" height="428" /></a><a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/12/Screen-shot-2011-12-04-at-7.18.00-PM.png"><br /> </a>and it&#8217;s pretty much like the same thing.  I mean, sure, you could technically do the same thing on your computer with individual radio stations, but it&#8217;s not the same because the app aggregates by location and type.  I have to say the fact that I can tune to any station with the press of a finger does take some of the mystery and romance out of it, but I still get the same sort of chills from the fact that I&#8217;m able to listen to radio from Kenya.

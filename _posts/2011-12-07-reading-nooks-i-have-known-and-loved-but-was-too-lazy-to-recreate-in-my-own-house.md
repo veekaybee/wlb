@@ -4,7 +4,7 @@ title: Reading nooks I have known and loved (but was too lazy to recreate in my 
 date: 2011-12-07T21:20:36+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=5986
+guid: http://blog.vickiboykis.com/wlb/?p=5986
 permalink: /2011/12/reading-nooks-i-have-known-and-loved-but-was-too-lazy-to-recreate-in-my-own-house/
 categories:
   - Uncategorized
@@ -18,7 +18,7 @@ tags:
 ---
 It&#8217;s <a href="http://www.youtube.com/watch?v=SHVx9688sEw" target="_blank">raining right now</a>, but not a tropical rain.
 
-It&#8217;s the kind of fall rain that reminds me of, for some reason, mostly of literature.  Of the Hound of the Baskervilles, of the Neverending Story, of Bilbo setting out for his journey even though his hobbit hole is really very comfortable, reminds me of one of my favorite books, A Farewell to Arms.  I can&#8217;t find the exact quote, but I remember that we covered that book in the fall of 11th grade, when it rained, and that I kept imagining Frederick Henry in the rain in the miserable mud trenches in Italy and I wanted to be him (<a href="http://blog.vickiboykis.com/2009/09/20/on-being-batman-as-a-girl/" target="_blank">and not the nurse</a>) so bad, even though, let&#8217;s be honest, he was kind of a dick.
+It&#8217;s the kind of fall rain that reminds me of, for some reason, mostly of literature.  Of the Hound of the Baskervilles, of the Neverending Story, of Bilbo setting out for his journey even though his hobbit hole is really very comfortable, reminds me of one of my favorite books, A Farewell to Arms.  I can&#8217;t find the exact quote, but I remember that we covered that book in the fall of 11th grade, when it rained, and that I kept imagining Frederick Henry in the rain in the miserable mud trenches in Italy and I wanted to be him (<a href="http://blog.vickiboykis.com/wlb/2009/09/20/on-being-batman-as-a-girl/" target="_blank">and not the nurse</a>) so bad, even though, let&#8217;s be honest, he was kind of a dick.
 
 These kinds of rains make me want, more than anything, an awesome reading nook.  Here are some I like a lot, just in case you&#8217;re looking to pick up that perfect holiday gift:
 

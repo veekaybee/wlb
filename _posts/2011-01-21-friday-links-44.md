@@ -4,7 +4,7 @@ title: Friday Links
 date: 2011-01-21T09:01:46+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=4262
+guid: http://blog.vickiboykis.com/wlb/?p=4262
 permalink: /2011/01/friday-links-44/
 categories:
   - fridaylinks
@@ -12,7 +12,7 @@ categories:
 tags:
   - Friday
 ---
-I was debating on whether or not I should post this.  But, ok.  Here it is, the latest find from SKRUG: a car with a front European license plate (of course) that has a Russian flag and says &#8220;Yolka,&#8221; which means either fir tree (like the kind you have for your [New Year tree](http://blog.vickiboykis.com/2010/12/20/russian-new-year-crib-notes/)) or a nickname of some sort. I can imagine some tall, skinny guy in the Russian mafia being like, &#8220;Yeah. They call me Yolka cause I&#8217;ve done so many needles. &#8221;
+I was debating on whether or not I should post this.  But, ok.  Here it is, the latest find from SKRUG: a car with a front European license plate (of course) that has a Russian flag and says &#8220;Yolka,&#8221; which means either fir tree (like the kind you have for your [New Year tree](http://blog.vickiboykis.com/wlb/2010/12/20/russian-new-year-crib-notes/)) or a nickname of some sort. I can imagine some tall, skinny guy in the Russian mafia being like, &#8220;Yeah. They call me Yolka cause I&#8217;ve done so many needles. &#8221;
 
 Nothing says LOOKATMELOOKATME like this license plate+car combo.
 
@@ -35,7 +35,7 @@ P.S. If this is your car, I would like a ride.
   9. [Don&#8217;t you wish you could see this in person](http://design-milk.com/folly-by-beth-katleman/?utm_source=feedburner&utm_campaign=Feed%3A+design-milk+%28Design+Milk%29)?
  10. [The things you learn](http://www.askamanager.org/2011/01/coworkers-cant-see-past-my-russian-accent.html) when you start with accents and end with sugar sandwiches. (P.S. Ai did not wrait in wiz ze question.)
  11. [Holy crap people in Alaska](http://www.treppenwitz.com/2011/01/not-feeling-much-much-of-a-pioneer-anymore.html) are crazy.
- 12. [I was debating on whether or not I should post this.  But, ok.  Here it is, the latest find from SKRUG: a car with a front European license plate (of course) that has a Russian flag and says &#8220;Yolka,&#8221; which means either fir tree (like the kind you have for your [New Year tree](http://blog.vickiboykis.com/2010/12/20/russian-new-year-crib-notes/)) or a nickname of some sort. I can imagine some tall, skinny guy in the Russian mafia being like, &#8220;Yeah. They call me Yolka cause I&#8217;ve done so many needles. &#8221;
+ 12. [I was debating on whether or not I should post this.  But, ok.  Here it is, the latest find from SKRUG: a car with a front European license plate (of course) that has a Russian flag and says &#8220;Yolka,&#8221; which means either fir tree (like the kind you have for your [New Year tree](http://blog.vickiboykis.com/wlb/2010/12/20/russian-new-year-crib-notes/)) or a nickname of some sort. I can imagine some tall, skinny guy in the Russian mafia being like, &#8220;Yeah. They call me Yolka cause I&#8217;ve done so many needles. &#8221;
 
 Nothing says LOOKATMELOOKATME like this license plate+car combo.
 

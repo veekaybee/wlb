@@ -4,7 +4,7 @@ title: The art of the slog
 date: 2012-09-04T21:59:57+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=7459
+guid: http://blog.vickiboykis.com/wlb/?p=7459
 permalink: /2012/09/the-art-of-the-slog/
 categories:
   - Uncategorized
@@ -38,7 +38,7 @@ Finally, in the fall of 1805,  they saw the broadening of the Columbia River ou
 
 > Great joy in camp we are in viuew of the Ocian, this great Pacific Octean which we been so long anxious to See. and the roreing or noise made by the waves brakeing on the rockey Shores (as I suppose) may be heard disti[n]ctly
 
-This spring, Mr. B and I were bored, so we hopped a <a href="http://blog.vickiboykis.com/2012/06/seattle-and-portland/" target="_blank">five-hour flight from Philadelphia</a> to see the same thing.
+This spring, Mr. B and I were bored, so we hopped a <a href="http://blog.vickiboykis.com/wlb/2012/06/seattle-and-portland/" target="_blank">five-hour flight from Philadelphia</a> to see the same thing.
 
 [<img class="aligncenter size-full wp-image-7471" title="DSC_0926" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/09/DSC_0926.jpeg" alt="" width="640" height="426" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/09/DSC_0926.jpeg)
 
@@ -52,7 +52,7 @@ Our ability to do stuff has changed, but the time we have in which to do stuff a
 
 As a result, we&#8217;re all setting ourselves up for failure.
 
-For example, when I wrote posted about <a href="http://blog.vickiboykis.com/2012/08/two-goals-for-my-birthday-month/" target="_blank">my goals for August</a>, I was lying to myself.  They were:
+For example, when I wrote posted about <a href="http://blog.vickiboykis.com/wlb/2012/08/two-goals-for-my-birthday-month/" target="_blank">my goals for August</a>, I was lying to myself.  They were:
 
   * to finish the first draft my novel (80k words)
   * and to lose 10 lbs.

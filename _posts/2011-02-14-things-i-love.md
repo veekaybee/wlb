@@ -4,7 +4,7 @@ title: Things I Love
 date: 2011-02-14T09:19:43+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=4372
+guid: http://blog.vickiboykis.com/wlb/?p=4372
 permalink: /2011/02/things-i-love/
 categories:
   - Uncategorized
@@ -13,7 +13,7 @@ tags:
   - "valentine's day"
 ---
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/2010/09/20/saturday-in-alexandria/">Downtown Alexandria</a> at night.<br /> <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/02/wpid-IMAG0608.jpg"><img class="aligncenter size-full wp-image-4374" title="wpid-IMAG0608.jpg" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/02/wpid-IMAG0608.jpg" alt="" width="350" height="583" /></a>
+  <a href="http://blog.vickiboykis.com/wlb/2010/09/20/saturday-in-alexandria/">Downtown Alexandria</a> at night.<br /> <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/02/wpid-IMAG0608.jpg"><img class="aligncenter size-full wp-image-4374" title="wpid-IMAG0608.jpg" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/02/wpid-IMAG0608.jpg" alt="" width="350" height="583" /></a>
 </p>
 
 <p style="text-align: center;">

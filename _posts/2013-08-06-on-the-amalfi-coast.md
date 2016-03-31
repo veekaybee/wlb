@@ -4,7 +4,7 @@ title: On the Amalfi Coast
 date: 2013-08-06T11:52:57+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=8955
+guid: http://blog.vickiboykis.com/wlb/?p=8955
 permalink: /2013/08/on-the-amalfi-coast/
 categories:
   - Uncategorized

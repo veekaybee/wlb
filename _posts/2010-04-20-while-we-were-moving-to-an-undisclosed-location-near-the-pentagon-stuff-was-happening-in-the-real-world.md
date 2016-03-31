@@ -4,7 +4,7 @@ title: While we were moving to an undisclosed location near the Pentagon, stuff 
 date: 2010-04-20T07:34:17+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=2782
+guid: http://blog.vickiboykis.com/wlb/?p=2782
 permalink: /2010/04/while-we-were-moving-to-an-undisclosed-location-near-the-pentagon-stuff-was-happening-in-the-real-world/
 categories:
   - Uncategorized
@@ -24,4 +24,4 @@ The siren to remember Holocaust victims and those who have died in Israel&#8217;
 
 The first time I went through it, I was on a bus trip with March of the Living which I went on to get away from a bad breakup, and we were on our way to the Dead Sea.  Everyone got out of the tour bus and the siren overcame us as all of the feelings we felt the week before in Auschwitz and which we thought we wiped from our memories the minute our plane landed in Israel, came flooding out again.  The next day, [Israel&#8217;s Independence Day](http://en.wikipedia.org/wiki/Yom_Ha%27atzmaut), we ate tons of barbecue and got drunk on [Golani wine](http://www.golanwines.co.il/) near the Syrian border.  That&#8217;s how Israel rolls.
 
-Happy Independence Day, Israel.  You&#8217;re not perfect. You&#8217;re hot, messy, crowded, and really, really complicated.  But I still love you.   Grow big and strong and [(mentally](http://blog.vickiboykis.com/2009/09/16/gods-is-straight-up-messing-with-me/)) healthy and [eat your vegetables](http://blog.vickiboykis.com/2009/09/09/the-step-motherland/).  [I&#8217;ll be back soon](http://blog.vickiboykis.com/2009/09/28/our-trip-to-israel-the-youtube/).
+Happy Independence Day, Israel.  You&#8217;re not perfect. You&#8217;re hot, messy, crowded, and really, really complicated.  But I still love you.   Grow big and strong and [(mentally](http://blog.vickiboykis.com/wlb/2009/09/16/gods-is-straight-up-messing-with-me/)) healthy and [eat your vegetables](http://blog.vickiboykis.com/wlb/2009/09/09/the-step-motherland/).  [I&#8217;ll be back soon](http://blog.vickiboykis.com/wlb/2009/09/28/our-trip-to-israel-the-youtube/).

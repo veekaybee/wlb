@@ -4,7 +4,7 @@ title: Post-Rockets, Post-Thanksgiving
 date: 2012-11-23T07:52:07+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=7873
+guid: http://blog.vickiboykis.com/wlb/?p=7873
 permalink: /2012/11/post-rockets-post-thanksgiving/
 categories:
   - fridaylinks
@@ -34,7 +34,7 @@ Aaron Burr: Baller.
   6. Made this recipe to <a href="http://www.seriouseats.com/cgi-bin/mte/mt-cp.cgi?__mode=print_page&entry_id=145900&show_text=1&show_ingredients=1&show_procedure=1&show_photos=0&show_comments=0" target="_blank">rave reviews yesterday</a>
   7. The year 476: <a href="http://www.theparisreview.org/blog/2012/11/20/the-year-476-an-illustrated-panorama/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+TheParisReviewBlog+%28The+Paris+Review+Blog%29" target="_blank">An illustrated panorama</a>
   8. Emily Dickinson&#8217;s <a href="http://biblioklept.org/2012/11/19/emily-dickinsons-cocoanut-cake-recipe/" target="_blank">creepy cocoanut cake recipe</a>
-  9. <a href="http://www.languagehat.com/archives/004822.php" target="_blank">Boris Strugatsky <img src="http://blog.vickiboykis.com/wp-includes/images/smilies/frownie.png" alt=":(" class="wp-smiley" style="height: 1em; max-height: 1em;" /></a>
+  9. <a href="http://www.languagehat.com/archives/004822.php" target="_blank">Boris Strugatsky <img src="http://blog.vickiboykis.com/wlb/wp-includes/images/smilies/frownie.png" alt=":(" class="wp-smiley" style="height: 1em; max-height: 1em;" /></a>
  10. Personality cult in <a href="http://www.neweurasia.net/politics-and-society/the-arkadag-is-everywhere/" target="_blank">Turkmenistan</a>
  11. How to clean your house, <a href="http://www.apartmenttherapy.com/5-tips-to-make-your-house-appe-159806" target="_blank">you hoarder</a>
  12. I hate <a href="http://www.buzzfeed.com/scott/black-friday-in-photos" target="_blank">America.</a>

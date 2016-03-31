@@ -4,7 +4,7 @@ title: Our New Routine
 date: 2011-05-25T10:47:16+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=4996
+guid: http://blog.vickiboykis.com/wlb/?p=4996
 permalink: /2011/05/our-new-routine/
 categories:
   - Uncategorized

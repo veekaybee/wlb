@@ -4,7 +4,7 @@ title: 'Empty TEUS: Poetic, haunting empty boxes'
 date: 2009-02-26T09:09:18+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=161
+guid: http://blog.vickiboykis.com/wlb/?p=161
 permalink: /2009/02/empty-teus-poetic-haunting-empty-boxes/
 categories:
   - Uncategorized

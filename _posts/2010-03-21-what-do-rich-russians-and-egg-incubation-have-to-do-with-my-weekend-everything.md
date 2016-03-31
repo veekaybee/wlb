@@ -4,7 +4,7 @@ title: 'What do rich Russians and egg incubation have to do with my weekend?  Ev
 date: 2010-03-21T22:03:04+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=2586
+guid: http://blog.vickiboykis.com/wlb/?p=2586
 permalink: /2010/03/what-do-rich-russians-and-egg-incubation-have-to-do-with-my-weekend-everything/
 categories:
   - Uncategorized

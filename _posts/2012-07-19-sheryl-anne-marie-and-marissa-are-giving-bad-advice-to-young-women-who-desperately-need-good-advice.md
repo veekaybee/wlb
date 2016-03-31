@@ -4,7 +4,7 @@ title: Sheryl, Anne-Marie, and Marissa are giving bad advice to young women who 
 date: 2012-07-19T14:25:51+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=7195
+guid: http://blog.vickiboykis.com/wlb/?p=7195
 permalink: /2012/07/sheryl-anne-marie-and-marissa-are-giving-bad-advice-to-young-women-who-desperately-need-good-advice/
 categories:
   - Uncategorized
@@ -30,7 +30,7 @@ They have built great reputations and careers for themselves, and as a result, t
 
 Let&#8217;s start with the fact that all three women come from priviledged backgrounds and attended top-tier schools.  Mayer went to Standford, Slaughter went to Princeton, and Sandberg was at Harvard,which gave her access to Larry Summers, who mentored her as she launched her career.  This immediately signals to me that you need certain credentials to attain credibility within the media and your respective workforce in order to get anywhere.
 
-Why don&#8217;t we hear from women who went to state schools , as I did, in order to save money and not have to be saddled with student loans until they were 35? And why don&#8217;t we hear about how these women paid for their education? The problem with <a href="http://blog.vickiboykis.com/2011/07/dont-major-in-history-for-the-love-of-charlemagne/" target="_blank">the free market in education</a> is a big deal in America right now.  Are we still encouraging girls to dream by incurring student loans so they can have access to thought leaders?  How much would you pay for the possibility of an internship with Larry Summers?  $100,00k? $200,00k?
+Why don&#8217;t we hear from women who went to state schools , as I did, in order to save money and not have to be saddled with student loans until they were 35? And why don&#8217;t we hear about how these women paid for their education? The problem with <a href="http://blog.vickiboykis.com/wlb/2011/07/dont-major-in-history-for-the-love-of-charlemagne/" target="_blank">the free market in education</a> is a big deal in America right now.  Are we still encouraging girls to dream by incurring student loans so they can have access to thought leaders?  How much would you pay for the possibility of an internship with Larry Summers?  $100,00k? $200,00k?
 
 But, it&#8217;s possible to go to Harvard and Yale and MIT without family help; I know some who have done so.  Although, for some reason, no one on Facebook is talking about the student debt they&#8217;ve now amassaed as a result of attending their universities, which doesn&#8217;t give them the freedom to take underpaid government positions and move halfway across the country for opportunities, like these women have done.
 

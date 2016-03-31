@@ -4,7 +4,7 @@ title: 'Happy Mother&#8217;s Day!'
 date: 2009-05-10T07:25:57+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=329
+guid: http://blog.vickiboykis.com/wlb/?p=329
 permalink: /2009/05/happy-mothers-day/
 categories:
   - feminism

@@ -4,7 +4,7 @@ title: 'The Victorian Error: Lite Jazz'
 date: 2009-07-12T15:09:49+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=722
+guid: http://blog.vickiboykis.com/wlb/?p=722
 permalink: /2009/07/the-victorian-error-lite-jazz/
 categories:
   - Uncategorized

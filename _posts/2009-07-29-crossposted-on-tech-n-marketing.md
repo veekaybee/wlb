@@ -4,7 +4,7 @@ title: Crossposted on Tech N Marketing
 date: 2009-07-29T07:14:57+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=917
+guid: http://blog.vickiboykis.com/wlb/?p=917
 permalink: /2009/07/crossposted-on-tech-n-marketing/
 categories:
   - Uncategorized

@@ -4,7 +4,7 @@ title: 'It&#8217;s November!'
 date: 2012-11-02T07:32:04+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=7767
+guid: http://blog.vickiboykis.com/wlb/?p=7767
 permalink: /2012/11/its-november/
 categories:
   - fridaylinks

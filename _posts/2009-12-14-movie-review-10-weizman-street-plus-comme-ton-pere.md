@@ -4,7 +4,7 @@ title: 'Movie Review: 10 Weizman Street plus Comme ton Pere'
 date: 2009-12-14T21:34:45+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=1882
+guid: http://blog.vickiboykis.com/wlb/?p=1882
 permalink: /2009/12/movie-review-10-weizman-street-plus-comme-ton-pere/
 categories:
   - Uncategorized
@@ -19,7 +19,7 @@ tags:
   - movie
   - Russia
 ---
-I don&#8217;t think there&#8217;s anything more awesome about DC than being able to go to Le French Embassy for a Jewish Film Festival (you can read about the [last movie I saw here](http://blog.vickiboykis.com/2009/12/08/movie-review-srugim-knitted/), and please note that I [was compensated with free tickets](http://blog.vickiboykis.com/2009/12/03/washington-dc-jewish-film-festival/) for the festival, but as always, I don&#8217;t endorse anything that&#8217;s lame).  I did just that last week.  Can you tell I was excited by my tweets?
+I don&#8217;t think there&#8217;s anything more awesome about DC than being able to go to Le French Embassy for a Jewish Film Festival (you can read about the [last movie I saw here](http://blog.vickiboykis.com/wlb/2009/12/08/movie-review-srugim-knitted/), and please note that I [was compensated with free tickets](http://blog.vickiboykis.com/wlb/2009/12/03/washington-dc-jewish-film-festival/) for the festival, but as always, I don&#8217;t endorse anything that&#8217;s lame).  I did just that last week.  Can you tell I was excited by my tweets?
 
 [<img class="aligncenter size-full wp-image-1884" title="Picture 1" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/12/Picture-12.png" alt="Picture 1" width="621" height="236" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/12/Picture-12.png)There, we saw the short film [10 Weizman Street](http://washingtondcjcc.org/center-for-arts/film/WJFF/films2009/10-weitzman-street.html), which turned into the feature, [Comme ton Pere](http://washingtondcjcc.org/center-for-arts/film/WJFF/films2009/fathers-footsteps.html) (Father&#8217;s Footsteps in English.)
 
@@ -53,7 +53,7 @@ The next movie, Father&#8217;s Footsteps, or _Comme ton pere_ in French,  was a
 
 -em.  Elmaleh&#8217;s character falls in with a bad crowd and eventually resorts to crime with his partner, an older Jewish gangster from the same town in Algeria as he is, Gabes, leaving his family broken and his youngest son, Michel, devastated and without a solid base.
 
-This movie is about so many things, and all of the actors in it are skilled on so many levels.  Not only does Elmaleh carry the movie as a family man and a  g[ever gever](http://www.urbandictionary.com/define.php?term=gever+gever), but his wife, played by [I don&#8217;t think there&#8217;s anything more awesome about DC than being able to go to Le French Embassy for a Jewish Film Festival (you can read about the [last movie I saw here](http://blog.vickiboykis.com/2009/12/08/movie-review-srugim-knitted/), and please note that I [was compensated with free tickets](http://blog.vickiboykis.com/2009/12/03/washington-dc-jewish-film-festival/) for the festival, but as always, I don&#8217;t endorse anything that&#8217;s lame).  I did just that last week.  Can you tell I was excited by my tweets?
+This movie is about so many things, and all of the actors in it are skilled on so many levels.  Not only does Elmaleh carry the movie as a family man and a  g[ever gever](http://www.urbandictionary.com/define.php?term=gever+gever), but his wife, played by [I don&#8217;t think there&#8217;s anything more awesome about DC than being able to go to Le French Embassy for a Jewish Film Festival (you can read about the [last movie I saw here](http://blog.vickiboykis.com/wlb/2009/12/08/movie-review-srugim-knitted/), and please note that I [was compensated with free tickets](http://blog.vickiboykis.com/wlb/2009/12/03/washington-dc-jewish-film-festival/) for the festival, but as always, I don&#8217;t endorse anything that&#8217;s lame).  I did just that last week.  Can you tell I was excited by my tweets?
 
 [<img class="aligncenter size-full wp-image-1884" title="Picture 1" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/12/Picture-12.png" alt="Picture 1" width="621" height="236" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/12/Picture-12.png)There, we saw the short film [10 Weizman Street](http://washingtondcjcc.org/center-for-arts/film/WJFF/films2009/10-weitzman-street.html), which turned into the feature, [Comme ton Pere](http://washingtondcjcc.org/center-for-arts/film/WJFF/films2009/fathers-footsteps.html) (Father&#8217;s Footsteps in English.)
 

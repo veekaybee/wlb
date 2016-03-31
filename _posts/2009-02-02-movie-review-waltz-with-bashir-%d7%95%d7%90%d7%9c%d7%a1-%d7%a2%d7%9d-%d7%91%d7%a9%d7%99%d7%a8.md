@@ -4,7 +4,7 @@ title: 'Movie Review: Waltz with Bashir (ואלס עם בשיר)'
 date: 2009-02-02T09:57:03+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=96
+guid: http://blog.vickiboykis.com/wlb/?p=96
 permalink: /2009/02/movie-review-waltz-with-bashir-%d7%95%d7%90%d7%9c%d7%a1-%d7%a2%d7%9d-%d7%91%d7%a9%d7%99%d7%a8/
 categories:
   - Uncategorized

@@ -4,7 +4,7 @@ title: 'NaNoWriMo: Day 8'
 date: 2009-11-08T21:40:39+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=1649
+guid: http://blog.vickiboykis.com/wlb/?p=1649
 permalink: /2009/11/nanowrimo-day-8/
 categories:
   - Uncategorized

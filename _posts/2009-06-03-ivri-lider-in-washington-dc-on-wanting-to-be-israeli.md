@@ -4,7 +4,7 @@ title: 'Ivri Lider in Washington, DC: On Wanting to Be Israeli'
 date: 2009-06-03T21:39:57+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=452
+guid: http://blog.vickiboykis.com/wlb/?p=452
 permalink: /2009/06/ivri-lider-in-washington-dc-on-wanting-to-be-israeli/
 categories:
   - identity

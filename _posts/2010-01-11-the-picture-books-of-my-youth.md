@@ -4,7 +4,7 @@ title: The Picture Books of My Youth
 date: 2010-01-11T09:38:21+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=2078
+guid: http://blog.vickiboykis.com/wlb/?p=2078
 permalink: /2010/01/the-picture-books-of-my-youth/
 categories:
   - Uncategorized
@@ -56,5 +56,5 @@ From time to time, my mom reminds me that she still has all of my children&#8217
       </blockquote> 
       
       <p>
-        <strong>Related on the blog:</strong><br /> <a href="http://blog.vickiboykis.com/2009/09/30/my-unborn-children-are-annoying-me/">My Unborn Children are Annoying Me</a><br /> <a href="http://blog.vickiboykis.com/2009/10/11/my-unborn-novel-is-annoying-me-nanowrimo/">A picture of Mr. B as a bebeh</a><br /> <a href="http://blog.vickiboykis.com/2009/05/10/happy-mothers-day/">A picture of me as a bebeh</a><br /> <a href="http://blog.vickiboykis.com/2009/07/12/the-victorian-error-lite-jazz/">A picture of our moms, who are on standby</a>
+        <strong>Related on the blog:</strong><br /> <a href="http://blog.vickiboykis.com/wlb/2009/09/30/my-unborn-children-are-annoying-me/">My Unborn Children are Annoying Me</a><br /> <a href="http://blog.vickiboykis.com/wlb/2009/10/11/my-unborn-novel-is-annoying-me-nanowrimo/">A picture of Mr. B as a bebeh</a><br /> <a href="http://blog.vickiboykis.com/wlb/2009/05/10/happy-mothers-day/">A picture of me as a bebeh</a><br /> <a href="http://blog.vickiboykis.com/wlb/2009/07/12/the-victorian-error-lite-jazz/">A picture of our moms, who are on standby</a>
       </p>

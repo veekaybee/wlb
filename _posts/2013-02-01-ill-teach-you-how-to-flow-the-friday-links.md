@@ -4,7 +4,7 @@ title: 'I&#8217;ll teach you how to flow the Friday Links'
 date: 2013-02-01T07:44:27+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=8329
+guid: http://blog.vickiboykis.com/wlb/?p=8329
 permalink: /2013/02/ill-teach-you-how-to-flow-the-friday-links/
 categories:
   - fridaylinks

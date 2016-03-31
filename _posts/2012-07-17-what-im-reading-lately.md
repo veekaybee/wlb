@@ -4,7 +4,7 @@ title: 'What I&#8217;m reading lately'
 date: 2012-07-17T08:04:19+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=7180
+guid: http://blog.vickiboykis.com/wlb/?p=7180
 permalink: /2012/07/what-im-reading-lately/
 categories:
   - Uncategorized

@@ -4,7 +4,7 @@ title: Russian Mom July 2015
 date: 2015-06-29T07:38:43+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=10027
+guid: http://blog.vickiboykis.com/wlb/?p=10027
 permalink: /2015/06/russian-mom-july-2015/
 categories:
   - Uncategorized

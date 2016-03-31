@@ -4,7 +4,7 @@ title: Uzbek Guest Workers in Russia
 date: 2009-03-12T20:45:19+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=192
+guid: http://blog.vickiboykis.com/wlb/?p=192
 permalink: /2009/03/uzbek-guest-workers-in-russia/
 categories:
   - Uncategorized

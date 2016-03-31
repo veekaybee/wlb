@@ -4,7 +4,7 @@ title: How a real show about nothing would go
 date: 2012-06-12T08:01:52+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=6968
+guid: http://blog.vickiboykis.com/wlb/?p=6968
 permalink: /2012/06/how-a-real-show-about-nothing-would-go/
 categories:
   - Uncategorized

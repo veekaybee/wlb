@@ -4,7 +4,7 @@ title: A guide to trolling Jewish organizations featuring my grandfather
 date: 2011-10-26T07:33:18+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=5852
+guid: http://blog.vickiboykis.com/wlb/?p=5852
 permalink: /2011/10/a-guide-to-trolling-jewish-organizations-featuring-my-grandfather/
 categories:
   - Uncategorized
@@ -16,7 +16,7 @@ tags:
   - Russia
   - tradition
 ---
-Mr. B and I were visiting <a href="http://blog.vickiboykis.com/2010/06/02/if-my-grandpa-cant-come-to-the-pictures-they-come-to-him/" target="_blank">my grandpa</a>, last weekend.
+Mr. B and I were visiting <a href="http://blog.vickiboykis.com/wlb/2010/06/02/if-my-grandpa-cant-come-to-the-pictures-they-come-to-him/" target="_blank">my grandpa</a>, last weekend.
 
 After he was done telling us that one <a href="http://en.wikipedia.org/wiki/Russian_jokes#Rabinovich" target="_blank">Rabinovich joke</a> where Rabinovich is dying and his cheap family in Russia sends his family in America a telegram.  &#8220;Rabinovich is dead.&#8221;  &#8220;Oy,&#8221; comes the telegram reply, he turned to us and asked if we wanted any shmendrickeli. Shmendrickeli is not a real word, but one my grandpa made up to refer semi-scornfully to stuff he doesn&#8217;t like.  Shmendrikevich is the human counterpart.   My grandpa has so many half-made up portmanteau Yiddish and Russian words that I totally thought he was trolling me when he told me that <a href="http://en.wikipedia.org/wiki/Aldebaran" target="_blank">Aldebaran </a>was a real star up until I took astronomy in college. I believe at one point he also told me that Yasser Arafat was a constellation.
 

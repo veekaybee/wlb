@@ -4,7 +4,7 @@ title: Jews of the DC metro area, Unite!
 date: 2009-05-13T09:55:58+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=334
+guid: http://blog.vickiboykis.com/wlb/?p=334
 permalink: /2009/05/jews-of-the-dc-metro-area-unite/
 categories:
   - Uncategorized

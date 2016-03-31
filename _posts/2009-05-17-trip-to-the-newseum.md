@@ -4,7 +4,7 @@ title: Trip to the Newseum
 date: 2009-05-17T17:51:37+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=363
+guid: http://blog.vickiboykis.com/wlb/?p=363
 permalink: /2009/05/trip-to-the-newseum/
 categories:
   - identity

@@ -4,7 +4,7 @@ title: Friday Links
 date: 2010-10-29T05:32:00+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=3807
+guid: http://blog.vickiboykis.com/wlb/?p=3807
 permalink: /2010/10/friday-links-34/
 categories:
   - fridaylinks
@@ -24,7 +24,7 @@ Here&#8217;s a picture of one of the [Philadelphia murals](http://muralarts.org/
 **On le blogs:**
 
   1. [Pink Jaffa Gate!](http://www.jewlicious.com/2010/10/susan-g-komen-race-for-the-cure-turns-jerusalem-pink/)
-  2. [I like this dress <img src="http://blog.vickiboykis.com/wp-includes/images/smilies/simple-smile.png" alt=":)" class="wp-smiley" style="height: 1em; max-height: 1em;" />](http://whatiwore2day.blogspot.com/2010/10/junior-miss.html)
+  2. [I like this dress <img src="http://blog.vickiboykis.com/wlb/wp-includes/images/smilies/simple-smile.png" alt=":)" class="wp-smiley" style="height: 1em; max-height: 1em;" />](http://whatiwore2day.blogspot.com/2010/10/junior-miss.html)
   3. [Moishelicious](http://www.frumsatire.net/2010/10/27/uncle-moishy-cereal/)
   4. [Cleaning up Jeddah](http://susiesbigadventure.blogspot.com/2010/10/cleaning-up-jeddah.html)
   5. [The injustice of childhood](http://www.motherhoodinnyc.com/deprivation?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed:+blogspot/vSUd+(Motherhood+in+NYC))
@@ -43,7 +43,7 @@ Here&#8217;s a picture of one of the [Philadelphia murals](http://muralarts.org/
 **On le blogs:**
 
   1. [Pink Jaffa Gate!](http://www.jewlicious.com/2010/10/susan-g-komen-race-for-the-cure-turns-jerusalem-pink/)
-  2. [I like this dress <img src="http://blog.vickiboykis.com/wp-includes/images/smilies/simple-smile.png" alt=":)" class="wp-smiley" style="height: 1em; max-height: 1em;" />](http://whatiwore2day.blogspot.com/2010/10/junior-miss.html)
+  2. [I like this dress <img src="http://blog.vickiboykis.com/wlb/wp-includes/images/smilies/simple-smile.png" alt=":)" class="wp-smiley" style="height: 1em; max-height: 1em;" />](http://whatiwore2day.blogspot.com/2010/10/junior-miss.html)
   3. [Moishelicious](http://www.frumsatire.net/2010/10/27/uncle-moishy-cereal/)
   4. [Cleaning up Jeddah](http://susiesbigadventure.blogspot.com/2010/10/cleaning-up-jeddah.html)
   5. [The injustice of childhood](http://www.motherhoodinnyc.com/deprivation?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed:+blogspot/vSUd+(Motherhood+in+NYC))

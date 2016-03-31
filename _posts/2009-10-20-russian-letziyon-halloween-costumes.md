@@ -4,7 +4,7 @@ title: 'Russian LeTziyon: Halloween Costumes'
 date: 2009-10-20T20:22:54+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=1511
+guid: http://blog.vickiboykis.com/wlb/?p=1511
 permalink: /2009/10/russian-letziyon-halloween-costumes/
 categories:
   - Uncategorized

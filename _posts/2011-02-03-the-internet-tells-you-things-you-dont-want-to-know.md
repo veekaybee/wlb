@@ -4,7 +4,7 @@ title: 'The Internet Tells You Things You Don&#8217;t Want to Know'
 date: 2011-02-03T10:43:58+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=4330
+guid: http://blog.vickiboykis.com/wlb/?p=4330
 permalink: /2011/02/the-internet-tells-you-things-you-dont-want-to-know/
 categories:
   - Uncategorized

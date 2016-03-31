@@ -4,7 +4,7 @@ title: Still here. Physically. Just not mentally.
 date: 2012-02-22T10:54:15+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=6482
+guid: http://blog.vickiboykis.com/wlb/?p=6482
 permalink: /2012/02/still-here-physically-just-not-mentally/
 categories:
   - Uncategorized

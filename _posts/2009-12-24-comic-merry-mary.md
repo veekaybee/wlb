@@ -4,7 +4,7 @@ title: 'Comic: Merry Mary!'
 date: 2009-12-24T19:06:20+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=1948
+guid: http://blog.vickiboykis.com/wlb/?p=1948
 permalink: /2009/12/comic-merry-mary/
 categories:
   - Uncategorized

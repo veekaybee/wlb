@@ -4,7 +4,7 @@ title: American vs. Russian dating
 date: 2009-07-06T05:52:40+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=687
+guid: http://blog.vickiboykis.com/wlb/?p=687
 permalink: /2009/07/american-vs-russian-dating/
 categories:
   - Uncategorized
@@ -30,7 +30,7 @@ tags:
   </p>
   
   <p>
-    We decided that Americans are way too picky when they date, for all the wrong reasons, which is why some Americans tend to marry late.   The average age for American marriage is now <a href="http://www.washingtonpost.com/wp-dyn/content/article/2009/04/24/AR2009042402122.html">28 for men and about 27 for women</a>. That&#8217;s insane.  When my dad was 28, I was six years old.  As a result, my dad is now the youngest out of all the parents I know and he is chillin&#8217; and enjoying me being married and is able to help us in the full capacity.  For example, if we buy a house, he will help us move, paint, etc.  I&#8217;m not saying we want him to, but at this point of our lives we don&#8217;t have to worry about him being in a nursing home, etc. It&#8217;s a beautiful thing.    Whenever we get around to having kids (it&#8217;s on our to-do list, right under &#8220;buy milk&#8221; and &#8220;return library books&#8221;) we&#8217;re not going to be in our thirties (we hope).  It&#8217;s hard to have kids that late.  Other people have written about this, including <a href="http://blog.penelopetrunk.com/2006/12/28/the-difficult-convergence-work-and-family-by-age-30/">Penelope Trunk</a> (whom, <a href="http://blog.vickiboykis.com/?p=250">as you may recall</a>, I disapproved of earlier, but I completely agree with her on this one.) Also, even though I&#8217;m pretty big on feminism and choice, etc, it&#8217;s not good for female biology, no matter how you slice it.
+    We decided that Americans are way too picky when they date, for all the wrong reasons, which is why some Americans tend to marry late.   The average age for American marriage is now <a href="http://www.washingtonpost.com/wp-dyn/content/article/2009/04/24/AR2009042402122.html">28 for men and about 27 for women</a>. That&#8217;s insane.  When my dad was 28, I was six years old.  As a result, my dad is now the youngest out of all the parents I know and he is chillin&#8217; and enjoying me being married and is able to help us in the full capacity.  For example, if we buy a house, he will help us move, paint, etc.  I&#8217;m not saying we want him to, but at this point of our lives we don&#8217;t have to worry about him being in a nursing home, etc. It&#8217;s a beautiful thing.    Whenever we get around to having kids (it&#8217;s on our to-do list, right under &#8220;buy milk&#8221; and &#8220;return library books&#8221;) we&#8217;re not going to be in our thirties (we hope).  It&#8217;s hard to have kids that late.  Other people have written about this, including <a href="http://blog.penelopetrunk.com/2006/12/28/the-difficult-convergence-work-and-family-by-age-30/">Penelope Trunk</a> (whom, <a href="http://blog.vickiboykis.com/wlb/?p=250">as you may recall</a>, I disapproved of earlier, but I completely agree with her on this one.) Also, even though I&#8217;m pretty big on feminism and choice, etc, it&#8217;s not good for female biology, no matter how you slice it.
   </p>
   
   <p>

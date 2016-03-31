@@ -4,7 +4,7 @@ title: 'What I&#8217;m &#8220;reading&#8221;'
 date: 2012-03-15T08:15:09+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=6575
+guid: http://blog.vickiboykis.com/wlb/?p=6575
 permalink: /2012/03/what-im-reading/
 categories:
   - Uncategorized
@@ -23,7 +23,7 @@ I&#8217;ve been reading MFA in a Box, which is better than the other alternative
 
 Try to cross-market to me now, Amazon and Facebook!
 
-&#8220;Uh, let&#8217;s see.  This chick is really serious about writing, but also into pagan Northern Europe?  But also travel writing about Japan and Pakistan? But also really interested in how Single Moms Make it Work? AND she&#8217;s <a href="http://blog.vickiboykis.com/2011/08/book-review-the-magicians-by-lev-grossman/" target="_blank">reading about spells</a>?  Hey Norm, do you have that phone number for the CIA Homeland unit on hand?&#8221;
+&#8220;Uh, let&#8217;s see.  This chick is really serious about writing, but also into pagan Northern Europe?  But also travel writing about Japan and Pakistan? But also really interested in how Single Moms Make it Work? AND she&#8217;s <a href="http://blog.vickiboykis.com/wlb/2011/08/book-review-the-magicians-by-lev-grossman/" target="_blank">reading about spells</a>?  Hey Norm, do you have that phone number for the CIA Homeland unit on hand?&#8221;
 
 &nbsp;
 

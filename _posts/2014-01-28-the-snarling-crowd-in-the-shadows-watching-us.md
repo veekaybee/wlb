@@ -4,7 +4,7 @@ title: The snarling crowd in the shadows watching us
 date: 2014-01-28T20:53:05+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=9452
+guid: http://blog.vickiboykis.com/wlb/?p=9452
 permalink: /2014/01/the-snarling-crowd-in-the-shadows-watching-us/
 categories:
   - Uncategorized

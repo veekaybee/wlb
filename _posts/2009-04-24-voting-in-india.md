@@ -4,7 +4,7 @@ title: Voting in India
 date: 2009-04-24T11:11:14+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=287
+guid: http://blog.vickiboykis.com/wlb/?p=287
 permalink: /2009/04/voting-in-india/
 categories:
   - feminism

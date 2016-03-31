@@ -4,7 +4,7 @@ title: Mr. B and I are prepared for anything. Anything being either pogroms or t
 date: 2012-05-30T08:16:07+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=6916
+guid: http://blog.vickiboykis.com/wlb/?p=6916
 permalink: /2012/05/mr-b-and-i-are-prepared-for-anything-anything-being-either-pogroms-or-the-siege-of-leningrad/
 categories:
   - Uncategorized
@@ -143,7 +143,7 @@ Last weekend, it went to Seattle and Portland, where Mr. B and I spent a couple 
 </p>
 
 <p style="text-align: left;">
-  &#8220;Um, <a href="http://www.lettersfront.org/" target="_blank">yes</a>? Also, a lot of <a href="http://blog.vickiboykis.com/2011/10/a-guide-to-trolling-jewish-organizations-featuring-my-grandfather/" target="_blank">my grandfather&#8217;s</a> family served?&#8221;
+  &#8220;Um, <a href="http://www.lettersfront.org/" target="_blank">yes</a>? Also, a lot of <a href="http://blog.vickiboykis.com/wlb/2011/10/a-guide-to-trolling-jewish-organizations-featuring-my-grandfather/" target="_blank">my grandfather&#8217;s</a> family served?&#8221;
 </p>
 
 <p style="text-align: left;">

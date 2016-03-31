@@ -4,7 +4,7 @@ title: Short Conversations with Mr. B about Lermontov
 date: 2012-03-28T07:34:18+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=6606
+guid: http://blog.vickiboykis.com/wlb/?p=6606
 permalink: /2012/03/short-conversations-with-mr-b-about-lermontov/
 categories:
   - Uncategorized

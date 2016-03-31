@@ -4,7 +4,7 @@ title: Life Goes On.
 date: 2010-03-30T06:50:17+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=2666
+guid: http://blog.vickiboykis.com/wlb/?p=2666
 permalink: /2010/03/life-goes-on/
 categories:
   - Uncategorized

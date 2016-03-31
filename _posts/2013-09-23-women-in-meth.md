@@ -4,7 +4,7 @@ title: Women in meth
 date: 2013-09-23T07:48:55+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=9146
+guid: http://blog.vickiboykis.com/wlb/?p=9146
 permalink: /2013/09/women-in-meth/
 categories:
   - Uncategorized

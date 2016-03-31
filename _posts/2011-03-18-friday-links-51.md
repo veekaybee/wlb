@@ -4,7 +4,7 @@ title: Friday Links
 date: 2011-03-18T08:08:33+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=4585
+guid: http://blog.vickiboykis.com/wlb/?p=4585
 permalink: /2011/03/friday-links-51/
 categories:
   - fridaylinks

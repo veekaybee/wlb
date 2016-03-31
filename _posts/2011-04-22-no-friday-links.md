@@ -4,7 +4,7 @@ title: No Friday Links
 date: 2011-04-22T13:41:48+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=4877
+guid: http://blog.vickiboykis.com/wlb/?p=4877
 permalink: /2011/04/no-friday-links/
 categories:
   - fridaylinks

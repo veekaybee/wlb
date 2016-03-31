@@ -4,7 +4,7 @@ title: At Least Two Conversations about Pigs during Passover
 date: 2011-04-20T13:21:45+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=4854
+guid: http://blog.vickiboykis.com/wlb/?p=4854
 permalink: /2011/04/at-least-two-conversations-about-pigs-during-passover/
 categories:
   - Uncategorized

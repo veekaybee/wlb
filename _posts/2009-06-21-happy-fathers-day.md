@@ -4,7 +4,7 @@ title: 'Happy Father&#8217;s Day!'
 date: 2009-06-21T06:20:45+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=563
+guid: http://blog.vickiboykis.com/wlb/?p=563
 permalink: /2009/06/happy-fathers-day/
 categories:
   - identity

@@ -4,7 +4,7 @@ title: Being American
 date: 2013-06-13T18:56:22+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=8756
+guid: http://blog.vickiboykis.com/wlb/?p=8756
 permalink: /2013/06/being-american/
 categories:
   - government

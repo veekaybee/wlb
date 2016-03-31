@@ -4,7 +4,7 @@ title: 'Scotland the Brave (and also rainy): Edinburgh'
 date: 2011-12-28T21:11:19+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=6075
+guid: http://blog.vickiboykis.com/wlb/?p=6075
 permalink: /2011/12/scotland-the-brave-and-also-rainy-edinburgh/
 categories:
   - Uncategorized

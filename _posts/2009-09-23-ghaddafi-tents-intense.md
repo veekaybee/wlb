@@ -4,7 +4,7 @@ title: Ghaddafi, tents, intense
 date: 2009-09-23T20:33:31+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=1300
+guid: http://blog.vickiboykis.com/wlb/?p=1300
 permalink: /2009/09/ghaddafi-tents-intense/
 categories:
   - Uncategorized

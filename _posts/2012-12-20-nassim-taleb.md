@@ -4,7 +4,7 @@ title: Nassim Taleb
 date: 2012-12-20T08:04:12+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=8069
+guid: http://blog.vickiboykis.com/wlb/?p=8069
 permalink: /2012/12/nassim-taleb/
 categories:
   - Uncategorized
@@ -18,7 +18,7 @@ tags:
   - life
   - taleb
 ---
-<a href="http://blog.vickiboykis.com/2012/12/nassim-taleb/taleb-illustration_2415090b/" rel="attachment wp-att-8070"><img class="aligncenter size-full wp-image-8070" alt="taleb-illustration_2415090b" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/12/taleb-illustration_2415090b.jpg" width="620" height="387" /></a>
+<a href="http://blog.vickiboykis.com/wlb/2012/12/nassim-taleb/taleb-illustration_2415090b/" rel="attachment wp-att-8070"><img class="aligncenter size-full wp-image-8070" alt="taleb-illustration_2415090b" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/12/taleb-illustration_2415090b.jpg" width="620" height="387" /></a>
 
 &nbsp;
 

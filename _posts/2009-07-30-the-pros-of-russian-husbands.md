@@ -4,7 +4,7 @@ title: The pros of Russian husbands
 date: 2009-07-30T00:00:31+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=919
+guid: http://blog.vickiboykis.com/wlb/?p=919
 permalink: /2009/07/the-pros-of-russian-husbands/
 categories:
   - Uncategorized

@@ -4,7 +4,7 @@ title: 'We&#8217;re Getting Our Backsplash Installed By Russians. Pray for us.'
 date: 2011-07-11T09:07:27+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=5249
+guid: http://blog.vickiboykis.com/wlb/?p=5249
 permalink: /2011/07/were-getting-our-backsplash-installed-by-russians-pray-for-us/
 categories:
   - Uncategorized
@@ -15,7 +15,7 @@ tags:
   - philly
   - Russians
 ---
-Rule <a href="http://shininghappypeople.net/rwotd/blog4.php/2009/07/08/-176" target="_blank"><em>Nomer Odin</em></a> * of living in Russian Philadelphia is: Never get involved with <a href="http://blog.vickiboykis.com/2011/03/25/friday-links-52/" target="_blank">Russian businesses</a>.  Ever.
+Rule <a href="http://shininghappypeople.net/rwotd/blog4.php/2009/07/08/-176" target="_blank"><em>Nomer Odin</em></a> * of living in Russian Philadelphia is: Never get involved with <a href="http://blog.vickiboykis.com/wlb/2011/03/25/friday-links-52/" target="_blank">Russian businesses</a>.  Ever.
 
 So we&#8217;re hiring a Russian to do our kitchen backsplash.
 
@@ -27,11 +27,11 @@ Here are reasons you should never do business with Russians:
 
   * Our cantor  was able to perform our service in the middle of a Saturday, no questions asked.
   * A doctor Mr. B once went to was going to give him a shot that &#8220;might make you not feel your arm for a little bit, but then it&#8217;ll be better.&#8221;
-  * A <a href="http://blog.vickiboykis.com/2011/04/26/a-guide-to-questionable-russian-careers-or-seryozha-that-guy-with-the-ambulance/" target="_blank">Russian ambulance</a> that someone we know used in an emergency urged them to &#8220;crack open a window&#8221; in lieu of having an oxygen tank in the ambulance
+  * A <a href="http://blog.vickiboykis.com/wlb/2011/04/26/a-guide-to-questionable-russian-careers-or-seryozha-that-guy-with-the-ambulance/" target="_blank">Russian ambulance</a> that someone we know used in an emergency urged them to &#8220;crack open a window&#8221; in lieu of having an oxygen tank in the ambulance
   * My mom did her tax returns with a Russian one year.  She received more than $2000 back which she shouldn&#8217;t have.
   * My aunt did the same and had to pay more than $500 that she shouldn&#8217;t have.
   * There are <a href="http://philly.everyblock.com/food-inspections/oct21-net-cost-market-705771/" target="_blank">major health code violations</a> in our beloved Russian grocery stores.
-  * My manicurist asked me <a href="http://blog.vickiboykis.com/2011/04/04/manicures-for-cheap-jewish-werewolves-and-other-ethnic-minorities/" target="_blank">when I was having kids</a>.
+  * My manicurist asked me <a href="http://blog.vickiboykis.com/wlb/2011/04/04/manicures-for-cheap-jewish-werewolves-and-other-ethnic-minorities/" target="_blank">when I was having kids</a>.
   * <a href="http://www.russianphilly.com/board/topic.asp?TOPIC_ID=2043" target="_blank">Someone was shot</a> at a Russian business, more than once.
   * I&#8217;ve personally been overcharged for Nutella at <a href="http://www.yelp.com/biz/bells-market-philadelphia" target="_blank">Bell&#8217;s Market</a>. (note how none of the people reviewing it are actually Russian.)
 

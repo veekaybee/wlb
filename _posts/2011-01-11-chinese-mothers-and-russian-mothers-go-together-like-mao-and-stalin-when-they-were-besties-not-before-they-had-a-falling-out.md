@@ -4,7 +4,7 @@ title: Chinese Mothers and Russian Mothers Go Together Like Mao and Stalin (When
 date: 2011-01-11T11:43:20+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=4207
+guid: http://blog.vickiboykis.com/wlb/?p=4207
 permalink: /2011/01/chinese-mothers-and-russian-mothers-go-together-like-mao-and-stalin-when-they-were-besties-not-before-they-had-a-falling-out/
 categories:
   - Uncategorized

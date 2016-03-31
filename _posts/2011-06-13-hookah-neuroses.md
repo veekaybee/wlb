@@ -4,7 +4,7 @@ title: Hookah Neuroses
 date: 2011-06-13T10:11:07+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=5084
+guid: http://blog.vickiboykis.com/wlb/?p=5084
 permalink: /2011/06/hookah-neuroses/
 categories:
   - Uncategorized
@@ -12,7 +12,7 @@ tags:
   - hookah
   - house
 ---
-Last night, as Mr. B was busy engaging in a <a href="http://www.hbo.com/game-of-thrones/index.html" target="_blank">nerfest of epic proportions</a>, I took some time to unwind and prepare for the week ahead by lighting my hookah that [we bought in Israel](http://blog.vickiboykis.com/2009/09/28/our-trip-to-israel-the-youtube/) for the first time in our new house.
+Last night, as Mr. B was busy engaging in a <a href="http://www.hbo.com/game-of-thrones/index.html" target="_blank">nerfest of epic proportions</a>, I took some time to unwind and prepare for the week ahead by lighting my hookah that [we bought in Israel](http://blog.vickiboykis.com/wlb/2009/09/28/our-trip-to-israel-the-youtube/) for the first time in our new house.
 
 My rule was, no technology, no distractions, just relaxation.
 

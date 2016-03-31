@@ -4,7 +4,7 @@ title: Getting Married and Living Apart is Like Drinking Non-Alcoholic Wine
 date: 2011-01-26T08:16:03+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=4275
+guid: http://blog.vickiboykis.com/wlb/?p=4275
 permalink: /2011/01/getting-married-and-living-apart-is-like-drinking-non-alcoholic-wine/
 categories:
   - Uncategorized
@@ -20,11 +20,11 @@ For over a year now, I&#8217;ve been reading [trend pieces](http://www.nytimes.c
 
 For the people that live apart by choice as opposed to circumstance,  I have to ask: are these people out of their f\*$%^\*# minds?
 
-Living apart while married is one of the hardest things I have ever had to go through (and that&#8217;s including [Russian healthcare](http://blog.vickiboykis.com/2009/09/12/the-real-problem-with-healthcare-russian-cures/) and drinking [Hortex](http://blog.vickiboykis.com/2009/07/19/hortex/).)  I feel like not only I&#8217;ve lost the forward momentum of our marriage, but more like Mr. B is some (hot) dude I hang out with on weekends rather than someone that I am trying to build [For over a year now, I&#8217;ve been reading [trend pieces](http://www.nytimes.com/2009/01/04/fashion/04commuter.html?_r=2) about how [more and more](http://www.msnbc.msn.com/id/21369007/ns/health-behavior/) married [couples](http://women.timesonline.co.uk/tol/life_and_style/women/relationships/article6741877.ece) are [choosing to live apart](http://articles.cnn.com/2010-04-26/living/way.we.love.now_1_marisol-couples-living?_s=PM:LIVING) for a variety of reasons.  Some are because of the economy. But some are because of careers that could easily be compromised.
+Living apart while married is one of the hardest things I have ever had to go through (and that&#8217;s including [Russian healthcare](http://blog.vickiboykis.com/wlb/2009/09/12/the-real-problem-with-healthcare-russian-cures/) and drinking [Hortex](http://blog.vickiboykis.com/wlb/2009/07/19/hortex/).)  I feel like not only I&#8217;ve lost the forward momentum of our marriage, but more like Mr. B is some (hot) dude I hang out with on weekends rather than someone that I am trying to build [For over a year now, I&#8217;ve been reading [trend pieces](http://www.nytimes.com/2009/01/04/fashion/04commuter.html?_r=2) about how [more and more](http://www.msnbc.msn.com/id/21369007/ns/health-behavior/) married [couples](http://women.timesonline.co.uk/tol/life_and_style/women/relationships/article6741877.ece) are [choosing to live apart](http://articles.cnn.com/2010-04-26/living/way.we.love.now_1_marisol-couples-living?_s=PM:LIVING) for a variety of reasons.  Some are because of the economy. But some are because of careers that could easily be compromised.
 
 For the people that live apart by choice as opposed to circumstance,  I have to ask: are these people out of their f\*$%^\*# minds?
 
-Living apart while married is one of the hardest things I have ever had to go through (and that&#8217;s including [Russian healthcare](http://blog.vickiboykis.com/2009/09/12/the-real-problem-with-healthcare-russian-cures/) and drinking [Hortex](http://blog.vickiboykis.com/2009/07/19/hortex/).)  I feel like not only I&#8217;ve lost the forward momentum of our marriage, but more like Mr. B is some (hot) dude I hang out with on weekends rather than someone that I am trying to build](http://blog.vickiboykis.com/2009/02/18/shlom-bayit-%D7%A9%D7%9C%D7%95%D7%9D-%D7%91%D7%99%D7%AA-maintaining-sanity-and-comparative-advantage-in-the-household/) and Ikea furniture with.
+Living apart while married is one of the hardest things I have ever had to go through (and that&#8217;s including [Russian healthcare](http://blog.vickiboykis.com/wlb/2009/09/12/the-real-problem-with-healthcare-russian-cures/) and drinking [Hortex](http://blog.vickiboykis.com/wlb/2009/07/19/hortex/).)  I feel like not only I&#8217;ve lost the forward momentum of our marriage, but more like Mr. B is some (hot) dude I hang out with on weekends rather than someone that I am trying to build](http://blog.vickiboykis.com/wlb/2009/02/18/shlom-bayit-%D7%A9%D7%9C%D7%95%D7%9D-%D7%91%D7%99%D7%AA-maintaining-sanity-and-comparative-advantage-in-the-household/) and Ikea furniture with.
 
 Once we start living together again (and driving each other crazy) things will revert back to normal.  But for now, I feel like [Han Solo](http://www.youtube.com/watch?v=k0aeKwVe9wU) -frozen, waiting for the thaw to start action towards our future again.
 

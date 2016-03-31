@@ -4,7 +4,7 @@ title: This Post is Morbid as Hell
 date: 2010-12-13T08:23:11+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=4036
+guid: http://blog.vickiboykis.com/wlb/?p=4036
 permalink: /2010/12/this-post-is-morbid-as-hell/
 categories:
   - Uncategorized

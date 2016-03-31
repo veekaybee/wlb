@@ -4,7 +4,7 @@ title: Whoever said life is about adventure and risk-taking never had typhoid sh
 date: 2010-03-15T19:10:53+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=2508
+guid: http://blog.vickiboykis.com/wlb/?p=2508
 permalink: /2010/03/whoever-said-life-is-about-adventure-and-risk-taking-never-had-typhoid-shots/
 categories:
   - Uncategorized
@@ -19,7 +19,7 @@ tags:
 ---
 _UPDATED:  [Just found out our malaria pills](http://tenfoldindia.blogspot.com/2007/01/shots-vaccines-and-violent-nightmares.html) can give violent nightmares!  Wheee!_
 
-Following on the heels of [our previous India excitement](http://blog.vickiboykis.com/2010/03/08/a-conversation-with-my-parents-about-india/), Mr. B and I took a trip to the [doctor&#8217;s office](http://travelclinicmd.com/) on Friday to get prepped for our trip to India with [some shots](http://www.youtube.com/watch?v=XNtTEibFvlQ).  The visit started out fairly innocently; over the phone, they&#8217;d told me that we would need probably two shots and a malaria pill.  We waited in a very cool, adventure-themed room while the doctor came:
+Following on the heels of [our previous India excitement](http://blog.vickiboykis.com/wlb/2010/03/08/a-conversation-with-my-parents-about-india/), Mr. B and I took a trip to the [doctor&#8217;s office](http://travelclinicmd.com/) on Friday to get prepped for our trip to India with [some shots](http://www.youtube.com/watch?v=XNtTEibFvlQ).  The visit started out fairly innocently; over the phone, they&#8217;d told me that we would need probably two shots and a malaria pill.  We waited in a very cool, adventure-themed room while the doctor came:
 
 [<img class="aligncenter size-full wp-image-2513" title="504529610_1775222331_0.jpeg" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/03/504529610_1775222331_0.jpeg.jpg" alt="" width="351" height="265" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/03/504529610_1775222331_0.jpeg.jpg)
 

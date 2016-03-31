@@ -4,7 +4,7 @@ title: BMWs in song across cultures
 date: 2009-08-23T22:18:42+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=1027
+guid: http://blog.vickiboykis.com/wlb/?p=1027
 permalink: /2009/08/bmws-in-song-across-cultures/
 categories:
   - Uncategorized

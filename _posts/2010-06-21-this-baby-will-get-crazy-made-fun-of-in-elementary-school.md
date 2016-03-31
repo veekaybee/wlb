@@ -4,7 +4,7 @@ title: This baby will get crazy made fun of in elementary school
 date: 2010-06-21T06:07:01+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=3165
+guid: http://blog.vickiboykis.com/wlb/?p=3165
 permalink: /2010/06/this-baby-will-get-crazy-made-fun-of-in-elementary-school/
 categories:
   - Uncategorized

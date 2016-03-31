@@ -4,7 +4,7 @@ title: 'Movies that Don&#8217;t Suck: The King&#8217;s Speech'
 date: 2011-01-03T10:07:58+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=4141
+guid: http://blog.vickiboykis.com/wlb/?p=4141
 permalink: /2011/01/movies-that-dont-suck-the-kings-speech/
 categories:
   - Uncategorized
@@ -28,9 +28,9 @@ When we sat down, the previews were already playing.  Since the King&#8217;s Sp
 The movie was amazing, and it should win the Best Movie Oscar.  [Rotten Tomatoes](http://www.rottentomatoes.com/m/the_kings_speech/) agrees with me. You should go see it.   What I loved most about it was that it doesn&#8217;t have lasers or naked chicks or quick and easy jokes or any 3D blue people.  Just a movie about a man, in this case the guy next in line to the throne, trying to overcome a stutter while the whole British Empire watches.  The movie has no war action and no sex (not even so much as a bare arm), but you can feel the tension of war in Albert&#8217;s father&#8217;s speeches and the strength of love in his wife&#8217;s glances at him nevertheless.
 
 <p style="text-align: left;">
-  The real pleasure of the movie is in watching two master actors, Colin Firth as the king and Geoffrey Rush as his extremely unconventional speech therapist interact and navigate the thin line between friendship and duty to country.  Mr. B always makes fun of me when I say this, but watching good actors act is like looking at a painting by one of the Masters.  You know they know what they&#8217;re doing and they have control of the film.  You can relax in confidence that they won&#8217;t slip and have you believing to the last minute that the events of the movie really did take place.  There are very few actors I feel this way about and it is amazing to watch an all-star cast play against each other. It convinces me that you really do need talent to be an actor, not a feeling I always get when I&#8217;m watching, say, <a href="http://blog.vickiboykis.com/2009/12/22/movie-review-avatar/">Avatar</a>.
+  The real pleasure of the movie is in watching two master actors, Colin Firth as the king and Geoffrey Rush as his extremely unconventional speech therapist interact and navigate the thin line between friendship and duty to country.  Mr. B always makes fun of me when I say this, but watching good actors act is like looking at a painting by one of the Masters.  You know they know what they&#8217;re doing and they have control of the film.  You can relax in confidence that they won&#8217;t slip and have you believing to the last minute that the events of the movie really did take place.  There are very few actors I feel this way about and it is amazing to watch an all-star cast play against each other. It convinces me that you really do need talent to be an actor, not a feeling I always get when I&#8217;m watching, say, <a href="http://blog.vickiboykis.com/wlb/2009/12/22/movie-review-avatar/">Avatar</a>.
 </p>
 
 The sets and the costumes are equally as amazing and the story ends on a positive note, but it&#8217;s not saccharine sticky-sweet.  Just a movie that reaffirms my belief in humanity and the Western world to produce good films. And if you know me, that&#8217;s not an easy task.
 
-P.S. Here are some [other movies](http://blog.vickiboykis.com/2009/12/14/movie-review-10-weizman-street-plus-comme-ton-pere/) that didn&#8217;t suck.
+P.S. Here are some [other movies](http://blog.vickiboykis.com/wlb/2009/12/14/movie-review-10-weizman-street-plus-comme-ton-pere/) that didn&#8217;t suck.

@@ -4,7 +4,7 @@ title: A form of modern magic
 date: 2012-10-04T08:13:20+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=7611
+guid: http://blog.vickiboykis.com/wlb/?p=7611
 permalink: /2012/10/a-form-of-modern-magic/
 categories:
   - Uncategorized
@@ -27,7 +27,7 @@ Ok, not my deathbed, but I&#8217;m definitely sick and in sweatpants. I haven&#8
 
 It&#8217;s not very glamorous.
 
-Life in general isn&#8217;t very glamorous.  Marriage is the same. Marriage is not crazy romantic proposals that annoy the crap out of everyone on YouTube. or wedding dresses or roses and chocolate. It&#8217;s filled with the ordinary: the going to the grocery store, me sitting here in my sweats and Mr. B showering upstairs, day in and day out, for weeks on end.  It&#8217;s &#8220;what&#8217;s for dinner&#8221; and &#8220;mow the lawn&#8221; and &#8220;<a href="http://blog.vickiboykis.com/2012/09/god-tested-me-at-the-russian-store-and-i-failed/" target="_blank">sketchy Russian store ladies. </a> &#8221;  Also, sweatpants and the used tissues I leave around the house that I forget to throw out that annoy Mr. B so much. (I can&#8217;t imagine why).
+Life in general isn&#8217;t very glamorous.  Marriage is the same. Marriage is not crazy romantic proposals that annoy the crap out of everyone on YouTube. or wedding dresses or roses and chocolate. It&#8217;s filled with the ordinary: the going to the grocery store, me sitting here in my sweats and Mr. B showering upstairs, day in and day out, for weeks on end.  It&#8217;s &#8220;what&#8217;s for dinner&#8221; and &#8220;mow the lawn&#8221; and &#8220;<a href="http://blog.vickiboykis.com/wlb/2012/09/god-tested-me-at-the-russian-store-and-i-failed/" target="_blank">sketchy Russian store ladies. </a> &#8221;  Also, sweatpants and the used tissues I leave around the house that I forget to throw out that annoy Mr. B so much. (I can&#8217;t imagine why).
 
 A marriage is the classic definition of a slog.  But the crazy thing about marrying someone who you know you are meant for is that it never feels like one.  It never ceases to amaze me that,for four years, I haven&#8217;t for a minute been bored.  It&#8217;s hard to feel bored with someone who challenges you to think differently, who makes you laugh, and who stands behind you like a rock when you can&#8217;t go anymore. Someone who travels the world with you.  Someone who, not completes you, but complements you, someone who balances out your flaws with his strengths.
 
@@ -139,5 +139,5 @@ But when I look back at our pictures over the last four years, I see the magic o
   </p>
   
   <p style="text-align: left;">
-    <em>Previously: <a href="http://blog.vickiboykis.com/2011/10/three-years-of-boykis/" target="_blank">Three years of Boykis</a></em>
+    <em>Previously: <a href="http://blog.vickiboykis.com/wlb/2011/10/three-years-of-boykis/" target="_blank">Three years of Boykis</a></em>
   </p>

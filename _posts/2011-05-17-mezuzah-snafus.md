@@ -4,7 +4,7 @@ title: Mezuzah SNAFUs
 date: 2011-05-17T09:16:21+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=4940
+guid: http://blog.vickiboykis.com/wlb/?p=4940
 permalink: /2011/05/mezuzah-snafus/
 categories:
   - Uncategorized
@@ -33,7 +33,7 @@ Two weeks ago, on Friday night, we were doing various things around the house in
 
 &#8220;You think God has time to look at our house and decide, oh, they didn&#8217;t put up a 3-inch piece of plastic, time to rage?&#8221;
 
-&#8220;[God has time for everything](http://blog.vickiboykis.com/2009/09/16/gods-is-straight-up-messing-with-me/). Besides, I think it&#8217;s a very nice tradition and it makes me fee-&#8221;
+&#8220;[God has time for everything](http://blog.vickiboykis.com/wlb/2009/09/16/gods-is-straight-up-messing-with-me/). Besides, I think it&#8217;s a very nice tradition and it makes me fee-&#8221;
 
 &#8220;Feel connected to the Jewish people, yeah, yeah I get it&#8230;.where&#8217;s the toilet paper?&#8221;
 

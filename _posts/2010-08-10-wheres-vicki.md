@@ -4,7 +4,7 @@ title: 'Where&#8217;s Vicki?'
 date: 2010-08-10T20:54:39+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=3455
+guid: http://blog.vickiboykis.com/wlb/?p=3455
 permalink: /2010/08/wheres-vicki/
 categories:
   - Uncategorized

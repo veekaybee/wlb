@@ -4,7 +4,7 @@ title: Gender-neutral language is stupid
 date: 2013-02-05T08:11:36+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=8336
+guid: http://blog.vickiboykis.com/wlb/?p=8336
 permalink: /2013/02/gender-neutral-language-is-stupid/
 categories:
   - Uncategorized
@@ -61,7 +61,7 @@ tags:
     </p>
     
     <p>
-      As a womyn with interest in <a href="http://blog.vickiboykis.com/2010/02/accidental-chicken-tikka-masala-or-recipe-websites-are-awful/" target="_blank">womyn&#8217;s issues</a>, I am not at all interested in the &#8220;gendering of language.&#8221; Because I have a brain and have English reading context,  I assume that when you say &#8220;he,&#8221; you mean everyone. When you say mankind, you don&#8217;t just mean the half that has man parts.
+      As a womyn with interest in <a href="http://blog.vickiboykis.com/wlb/2010/02/accidental-chicken-tikka-masala-or-recipe-websites-are-awful/" target="_blank">womyn&#8217;s issues</a>, I am not at all interested in the &#8220;gendering of language.&#8221; Because I have a brain and have English reading context,  I assume that when you say &#8220;he,&#8221; you mean everyone. When you say mankind, you don&#8217;t just mean the half that has man parts.
     </p>
     
     <p>

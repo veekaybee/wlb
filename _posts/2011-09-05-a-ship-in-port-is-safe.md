@@ -4,7 +4,7 @@ title: A ship in port is safe
 date: 2011-09-05T16:59:21+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=5686
+guid: http://blog.vickiboykis.com/wlb/?p=5686
 permalink: /2011/09/a-ship-in-port-is-safe/
 categories:
   - Uncategorized

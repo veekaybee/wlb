@@ -4,7 +4,7 @@ title: 'The Iranian Threat: Isn&#8217;t'
 date: 2009-03-11T21:28:43+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=189
+guid: http://blog.vickiboykis.com/wlb/?p=189
 permalink: /2009/03/the-iranian-threat-isnt/
 categories:
   - Uncategorized

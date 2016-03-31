@@ -4,7 +4,7 @@ title: Weekends are for anxiety
 date: 2012-11-08T07:06:44+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=7796
+guid: http://blog.vickiboykis.com/wlb/?p=7796
 permalink: /2012/11/weekends-are-for-anxiety/
 categories:
   - Uncategorized

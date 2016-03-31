@@ -4,7 +4,7 @@ title: Good thing I did all this stuff all summer so I can do nothing in the fal
 date: 2013-08-25T21:14:11+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=9032
+guid: http://blog.vickiboykis.com/wlb/?p=9032
 permalink: /2013/08/good-thing-i-did-all-this-stuff-all-summer-so-i-can-do-nothing-in-the-fall/
 categories:
   - Uncategorized
@@ -14,7 +14,7 @@ tags:
   - python
   - summer
 ---
-<a href="http://blog.vickiboykis.com/2013/05/summer-is-looking-too-ambitious/" target="_blank">Early on in the summer</a>, I wrote that I had a bunch of goals I wanted to accomplish.  Now that summer&#8217;s done, how did I do?
+<a href="http://blog.vickiboykis.com/wlb/2013/05/summer-is-looking-too-ambitious/" target="_blank">Early on in the summer</a>, I wrote that I had a bunch of goals I wanted to accomplish.  Now that summer&#8217;s done, how did I do?
 
 <!--more-->
 
@@ -26,7 +26,7 @@ The way I focused on these goals was one main goal a month and the rest as side-
 
 &nbsp;
 
-**Lose 10 pounds and run 1 5k: ** Lost 7. Still working on the other 3. It&#8217;s really hard to keep losing weight when you&#8217;re surrounded by awesome Philly restaurants. This summer, we&#8217;ve been to <a href="http://www.morimotorestaurant.com/" target="_blank">Morimoto</a>, <a href="http://www.whitedog.com/" target="_blank">White Dog Cafe</a>, <a href="http://cubalibrerestaurant.com/i/philadelphia/" target="_blank">Cuba Libre</a>, <a href="http://vernickphilly.com/" target="_blank">Vernick</a>, <a href="http://hungrybearcafes.com/cafe/" target="_blank">Hungry Bear Cafe</a>, <a href="http://animojuice.com/" target="_blank">Animo</a>, <a href="http://www.barferdinand.com/" target="_blank">Bar Ferdinand</a>, <a href="http://www.audreyclaire.com/" target="_blank">Audrey Claire</a>, <a href="http://justhookedfi.com/" target="_blank">Just Hooked,</a> and <a href="http://blog.vickiboykis.com/2013/08/on-the-amalfi-coast/" target="_blank">Italy</a>. All come highly recommended.
+**Lose 10 pounds and run 1 5k: ** Lost 7. Still working on the other 3. It&#8217;s really hard to keep losing weight when you&#8217;re surrounded by awesome Philly restaurants. This summer, we&#8217;ve been to <a href="http://www.morimotorestaurant.com/" target="_blank">Morimoto</a>, <a href="http://www.whitedog.com/" target="_blank">White Dog Cafe</a>, <a href="http://cubalibrerestaurant.com/i/philadelphia/" target="_blank">Cuba Libre</a>, <a href="http://vernickphilly.com/" target="_blank">Vernick</a>, <a href="http://hungrybearcafes.com/cafe/" target="_blank">Hungry Bear Cafe</a>, <a href="http://animojuice.com/" target="_blank">Animo</a>, <a href="http://www.barferdinand.com/" target="_blank">Bar Ferdinand</a>, <a href="http://www.audreyclaire.com/" target="_blank">Audrey Claire</a>, <a href="http://justhookedfi.com/" target="_blank">Just Hooked,</a> and <a href="http://blog.vickiboykis.com/wlb/2013/08/on-the-amalfi-coast/" target="_blank">Italy</a>. All come highly recommended.
 
 [<img class="aligncenter size-medium wp-image-9036" alt="Screen Shot 2013-08-25 at 8.58.16 PM" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/08/Screen-Shot-2013-08-25-at-8.58.16-PM-580x497.png" width="580" height="497" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/08/Screen-Shot-2013-08-25-at-8.58.16-PM.png)
 

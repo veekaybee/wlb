@@ -4,7 +4,7 @@ title: Like kryptonite was for Superman, the metric system is my greatest weakne
 date: 2011-12-09T07:12:05+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=6004
+guid: http://blog.vickiboykis.com/wlb/?p=6004
 permalink: /2011/12/like-kryptonite-was-for-superman-the-metric-system-is-my-greatest-weakness/
 categories:
   - feminism
@@ -17,7 +17,7 @@ tags:
 ---
 So, Mr. B and I are going on a vacation.  Sometime soon. Maybe we&#8217;re even on vacation as we speak.  But maybe we&#8217;re at our house and if you try to rob it I&#8217;ll karate-kick you. <a href="http://www.youtube.com/watch?v=_mwOPCl_0sU" target="_blank">Surprise</a>!
 
-We are or will be, or were in Europe. You guys know by now that I am a connoisseur of culture and love everything international I&#8217;ve done everything from <a href="http://blog.vickiboykis.com/2009/09/14/indian-classical-dance-bharatan-what/" target="_blank">Indian Classical Dance</a> to the <a href="http://blog.vickiboykis.com/2010/01/19/mrs-bej-and-bellydancing-after-the-saudi-arabian-embassy/" target="_blank">Saudi Arabian embassy </a>to <a href="http://blog.vickiboykis.com/2009/11/30/dr-maia-singh-and-the-indian-jews-of-israel/" target="_blank">the Cochin Jews</a> to <a href="http://blog.vickiboykis.com/2011/06/29/i-almost-died-for-a-250-discount-on-an-ikea-chair/" target="_blank">West Philly</a>. I got like 5 shots in preparation to go to India, and I have eaten squid. I also admire <a href="http://xkcd.com/54/" target="_blank"> Science</a>.
+We are or will be, or were in Europe. You guys know by now that I am a connoisseur of culture and love everything international I&#8217;ve done everything from <a href="http://blog.vickiboykis.com/wlb/2009/09/14/indian-classical-dance-bharatan-what/" target="_blank">Indian Classical Dance</a> to the <a href="http://blog.vickiboykis.com/wlb/2010/01/19/mrs-bej-and-bellydancing-after-the-saudi-arabian-embassy/" target="_blank">Saudi Arabian embassy </a>to <a href="http://blog.vickiboykis.com/wlb/2009/11/30/dr-maia-singh-and-the-indian-jews-of-israel/" target="_blank">the Cochin Jews</a> to <a href="http://blog.vickiboykis.com/wlb/2011/06/29/i-almost-died-for-a-250-discount-on-an-ikea-chair/" target="_blank">West Philly</a>. I got like 5 shots in preparation to go to India, and I have eaten squid. I also admire <a href="http://xkcd.com/54/" target="_blank"> Science</a>.
 
 But.
 

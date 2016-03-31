@@ -4,7 +4,7 @@ title: Blog Redesign!
 date: 2011-07-31T21:15:09+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=5384
+guid: http://blog.vickiboykis.com/wlb/?p=5384
 permalink: /2011/07/blog-redesign/
 categories:
   - Uncategorized

@@ -4,7 +4,7 @@ title: Casablanca
 date: 2009-07-01T22:44:45+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=648
+guid: http://blog.vickiboykis.com/wlb/?p=648
 permalink: /2009/07/casablanca/
 categories:
   - Uncategorized

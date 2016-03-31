@@ -4,7 +4,7 @@ title: What are White People complaining about today?
 date: 2012-07-02T08:02:58+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=7077
+guid: http://blog.vickiboykis.com/wlb/?p=7077
 permalink: /2012/07/what-are-white-people-complaining-about-today/
 categories:
   - Uncategorized
@@ -19,7 +19,7 @@ tags:
   <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/07/Typing-Woman.jpg"><img class="aligncenter  wp-image-7078" title="Typing-Woman" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/07/Typing-Woman.jpg" alt="" width="409" height="613" /></a>
 </p>
 
-As I opened the tab to my favorite <a href="http://blog.vickiboykis.com/2011/12/new-york-times-story-idea-bingo-2011/" target="_blank">White People Newspaper</a> to see what&#8217;s going on for the NPR set and <a href="http://blog.vickiboykis.com/2012/03/white-people-experiencing-first-world-problems-while-reading/" target="_blank">people who have iPad anxiety</a>, I noticed an article that has some of these following quotes:
+As I opened the tab to my favorite <a href="http://blog.vickiboykis.com/wlb/2011/12/new-york-times-story-idea-bingo-2011/" target="_blank">White People Newspaper</a> to see what&#8217;s going on for the NPR set and <a href="http://blog.vickiboykis.com/wlb/2012/03/white-people-experiencing-first-world-problems-while-reading/" target="_blank">people who have iPad anxiety</a>, I noticed an article that has some of these following quotes:
 
 > My old colleague Ted Rall recently wrote a column proposing that we divorce income from work and give each citizen a guaranteed paycheck
 > 
@@ -27,7 +27,7 @@ As I opened the tab to my favorite <a href="http://blog.vickiboykis.com/2011/12/
 > 
 > “The goal of the future is full unemployment, so we can play. That’s why we have to destroy the present politico-economic system.”
 
-At first I was startled because I thought that somehow the author had found a time machine <a href="http://blog.vickiboykis.com/2010/03/environmentalism-has-its-roots-in-millions-of-violently-angry-soviet-women/" target="_blank">back to Soviet Russia</a> and then I got excited by the thought of <a href="http://blog.vickiboykis.com/2011/12/people-who-shop-at-whole-foods-youre-communists-technically-speaking/" target="_blank">being able to send everyone there</a>.
+At first I was startled because I thought that somehow the author had found a time machine <a href="http://blog.vickiboykis.com/wlb/2010/03/environmentalism-has-its-roots-in-millions-of-violently-angry-soviet-women/" target="_blank">back to Soviet Russia</a> and then I got excited by the thought of <a href="http://blog.vickiboykis.com/wlb/2011/12/people-who-shop-at-whole-foods-youre-communists-technically-speaking/" target="_blank">being able to send everyone there</a>.
 
 Then I read more of the article and realized it&#8217;s just a <a href="http://opinionator.blogs.nytimes.com/2012/06/30/the-busy-trap/" target="_blank">White Person complainin</a>g about how we&#8217;re all overscheduled.
 

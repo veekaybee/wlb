@@ -4,7 +4,7 @@ title: Why do Eastern European women love leather and fur?
 date: 2012-11-15T07:52:06+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=7824
+guid: http://blog.vickiboykis.com/wlb/?p=7824
 permalink: /2012/11/why-do-eastern-european-women-love-leather-and-fur/
 categories:
   - Uncategorized
@@ -17,7 +17,7 @@ tags:
   - Russian
   - women
 ---
-While Mr. B and I were in <a href="http://blog.vickiboykis.com/2012/10/marie-laveau-and-kirks-magic-voodoo-fingers-help-us-fight-sandy/" target="_blank">New Orleans</a>, it was cold. Super-cold. Cold enough that we hadn&#8217;t planned for it. Isn&#8217;t the South always supposed to be perma-warm like that spot on the floor that always gets the sun?
+While Mr. B and I were in <a href="http://blog.vickiboykis.com/wlb/2012/10/marie-laveau-and-kirks-magic-voodoo-fingers-help-us-fight-sandy/" target="_blank">New Orleans</a>, it was cold. Super-cold. Cold enough that we hadn&#8217;t planned for it. Isn&#8217;t the South always supposed to be perma-warm like that spot on the floor that always gets the sun?
 
 Long story short, we had to buy clothes on vacation.
 

@@ -4,7 +4,7 @@ title: You think this guy complained about Mondays?
 date: 2012-03-12T07:49:06+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=6542
+guid: http://blog.vickiboykis.com/wlb/?p=6542
 permalink: /2012/03/you-think-this-guy-complained-about-mondays/
 categories:
   - Uncategorized

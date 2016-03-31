@@ -5,7 +5,7 @@ date: 2015-06-11T11:56:37+00:00
 author: Vicki
 excerpt: 'The old internet,whatever it was, is gone. The revolution is over. '
 layout: post
-guid: http://blog.vickiboykis.com/?p=9977
+guid: http://blog.vickiboykis.com/wlb/?p=9977
 permalink: /2015/06/reddit-was-amazing/
 categories:
   - Uncategorized
@@ -48,7 +48,7 @@ The socialist realism movement squashed any real creativity until after Stalin&#
 
 In the beginning, all new movements are free and unfettered, allowing for the mind to wade in the shallows of possibilities and play. <span style="line-height: 1.5;">Adam and Eve started out naked. Malevich and the other Proletkult members painted what they wanted.  </span>And when the internet as we know it began in the early 1990s, there were no rules, only possibilities. That&#8217;s why <a href="http://kernelmag.dailydot.com/issue-titles/12283/history-of-the-internet/" target="_blank">the early internet</a> <a href="http://gizmodo.com/9-reasons-to-be-nostalgic-about-the-early-internet-1659312938" target="_blank">was so much fun</a>.
 
-You could upload anything to YouTube. There was no Vevo, no copyright restrictions. You could talk to anyone on AOL chatrooms and maybe even meet them in person without being worried about who they were. Napster. Limewire. The crazy ugliness that was <a href="http://kernelmag.dailydot.com/issue-sections/features-issue-sections/12216/death-life-great-american-geocities/" target="_blank">Geocities</a> (where I first learned to write HTML.) Early Twitter, where there were no discovery tools, where you had to fend for yourself, where I met dozens of people I have now met in real life. Blogger, <a href="http://blog.vickiboykis.com/2014/01/the-snarling-crowd-in-the-shadows-watching-us/" target="_blank">before blogging was monetized</a> and pictures of glossy, skinny women in jeans sponsored by advertisers.  <a href="http://www.techradar.com/us/news/internet/web/whatever-happened-to-digg-1093422" target="_blank">Digg.</a>
+You could upload anything to YouTube. There was no Vevo, no copyright restrictions. You could talk to anyone on AOL chatrooms and maybe even meet them in person without being worried about who they were. Napster. Limewire. The crazy ugliness that was <a href="http://kernelmag.dailydot.com/issue-sections/features-issue-sections/12216/death-life-great-american-geocities/" target="_blank">Geocities</a> (where I first learned to write HTML.) Early Twitter, where there were no discovery tools, where you had to fend for yourself, where I met dozens of people I have now met in real life. Blogger, <a href="http://blog.vickiboykis.com/wlb/2014/01/the-snarling-crowd-in-the-shadows-watching-us/" target="_blank">before blogging was monetized</a> and pictures of glossy, skinny women in jeans sponsored by advertisers.  <a href="http://www.techradar.com/us/news/internet/web/whatever-happened-to-digg-1093422" target="_blank">Digg.</a>
 
 And then reddit came onto the scene. I was a relative late-comer to reddit, starting to read seriously only in 2011 or so.  I found out about it through Mr. B,who probably found out about it through <a href="http://slashdot.org/" target="_blank">Slashdot</a>, another early pioneer in tech news, now also floundering.  But once I really got into it, I was hooked.
 
@@ -56,7 +56,7 @@ Its mostly text-only format, no-nonsense posts, puns and humor abounding in the 
 
 Because no real names are required, people are free to share all kinds of information. I&#8217;ve learned about everything from other women&#8217;s <a href="http://www.reddit.com/r/babybumps" target="_blank">experiences with pregnancy</a>, to the <a href="http://www.reddit.com/r/talesfromtechsupport/" target="_blank">worst IT environments</a> to work in, <a href="http://www.reddit.com/r/books/" target="_blank">to the best books,</a> to what <a href="http://www.reddit.com/r/ANormalDayInRussia/" target="_blank">a normal day in Russia </a>is like, to what <a href="http://www.reddit.com/r/OldSchoolCool/" target="_blank">people looked like in 1914</a>, to <a href="http://www.reddit.com/r/personalfinance" target="_blank">how to manage my finances</a>, to <a href="http://www.reddit.com/r/philadelphia/" target="_blank">what&#8217;s going on in my city</a>, to <a href="http://www.reddit.com/r/linguistics/" target="_blank">why certain languages work the way they do</a>, to <a href="http://www.reddit.com/r/history/" target="_blank">reading actual professors write about history</a>.
 
-There are no &#8220;<a href="http://blog.vickiboykis.com/2012/12/how-to-watch-internet-news/" target="_blank">You won&#8217;t believe what this guy did next</a>&#8221; ads, no slideshows, no SEO keywords, no &#8220;SHARE THIS ON FACEBOOK&#8221;, no b.s.
+There are no &#8220;<a href="http://blog.vickiboykis.com/wlb/2012/12/how-to-watch-internet-news/" target="_blank">You won&#8217;t believe what this guy did next</a>&#8221; ads, no slideshows, no SEO keywords, no &#8220;SHARE THIS ON FACEBOOK&#8221;, no b.s.
 
 Reddit is amazing and one of my favorite places to be on the internet.
 
@@ -68,7 +68,7 @@ Only, every time the Reddit leadership tries to clean reddit up, it messes up, e
 
 This is not the Soviet Union, and reddit is not Proletkult.
 
-But over the past 15 years, we have been progressively moving to a model of consolidation and of squashing <a href="http://blog.vickiboykis.com/2011/11/the-internets-has-changed-how-we-think-about-people/" target="_blank">of creativity on the internet </a>driven by an intense need to monetize and sanitize everything, to control what is essentially, in some cases, uncontrollable, or requires an extra level of finesse.
+But over the past 15 years, we have been progressively moving to a model of consolidation and of squashing <a href="http://blog.vickiboykis.com/wlb/2011/11/the-internets-has-changed-how-we-think-about-people/" target="_blank">of creativity on the internet </a>driven by an intense need to monetize and sanitize everything, to control what is essentially, in some cases, uncontrollable, or requires an extra level of finesse.
 
 And I am extremely concerned, especially with this latest at Reddit,  that we are moving to an internet version of socialist realism: the Buzzfeed model. Easy to implement, easy to get pageclicks, easy to get people to engage, friendly, sanitary, clean, safe.
 

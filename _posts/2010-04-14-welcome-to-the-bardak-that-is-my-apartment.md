@@ -4,7 +4,7 @@ title: Welcome to the bardak that is my apartment
 date: 2010-04-14T08:01:34+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=2750
+guid: http://blog.vickiboykis.com/wlb/?p=2750
 permalink: /2010/04/welcome-to-the-bardak-that-is-my-apartment/
 categories:
   - Uncategorized

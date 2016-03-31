@@ -4,7 +4,7 @@ title: 'It&#8217;s always Independence Day in Russia'
 date: 2012-07-04T11:19:25+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=7083
+guid: http://blog.vickiboykis.com/wlb/?p=7083
 permalink: /2012/07/its-always-independence-day-in-russia/
 categories:
   - Uncategorized
@@ -14,7 +14,7 @@ tags:
   - Russian movies
   - USSR
 ---
-Last night I was a little too happy about having the holiday off, spending time with friends, and enjoying life, so I decided to watch a Russian movie <a href="http://blog.vickiboykis.com/2011/11/a-very-russian-family-thanksgiving-complete-with-russian-movies/" target="_blank">to ground myself.</a>
+Last night I was a little too happy about having the holiday off, spending time with friends, and enjoying life, so I decided to watch a Russian movie <a href="http://blog.vickiboykis.com/wlb/2011/11/a-very-russian-family-thanksgiving-complete-with-russian-movies/" target="_blank">to ground myself.</a>
 
 What I learned is that 87% of the Russian movies released in the past year are about World War 2.
 
@@ -56,8 +56,8 @@ But to be fair, we did make <a href="http://www.imdb.com/title/tt1915581/" targe
 
 From years past:
 
-<a href="http://blog.vickiboykis.com/2011/07/i-love-america-air-conditioning-and-public-utilities-for-all/" target="_blank">Fourth of July of last year.</a>
+<a href="http://blog.vickiboykis.com/wlb/2011/07/i-love-america-air-conditioning-and-public-utilities-for-all/" target="_blank">Fourth of July of last year.</a>
   
-<a href="http://blog.vickiboykis.com/2009/07/heppy-fort-ov-dzhuly/" target="_blank">And the year before.  </a>
+<a href="http://blog.vickiboykis.com/wlb/2009/07/heppy-fort-ov-dzhuly/" target="_blank">And the year before.  </a>
 
 &nbsp;

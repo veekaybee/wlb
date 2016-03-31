@@ -4,7 +4,7 @@ title: Baseball the Vicki way
 date: 2012-07-25T08:07:47+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=7232
+guid: http://blog.vickiboykis.com/wlb/?p=7232
 permalink: /2012/07/baseball-the-vicki-way/
 categories:
   - Uncategorized
@@ -19,7 +19,7 @@ tags:
 ---
 [<img class="aligncenter size-full wp-image-7233" title="IMG_20120720_190821" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/07/IMG_20120720_190821.jpeg" alt="" width="322" height="429" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/07/IMG_20120720_190821.jpeg)
 
-Thanks to the fact that I&#8217;ve worked my ass off this past year, Mr. B and I were able to enjoy a Phillies game for free at the ninth row last week. Don&#8217;t ask me who they played, because I have no idea what any of the teams are, I just <a href="http://blog.vickiboykis.com/2010/08/friday-links-27/" target="_blank">understand how baseball</a> works.
+Thanks to the fact that I&#8217;ve worked my ass off this past year, Mr. B and I were able to enjoy a Phillies game for free at the ninth row last week. Don&#8217;t ask me who they played, because I have no idea what any of the teams are, I just <a href="http://blog.vickiboykis.com/wlb/2010/08/friday-links-27/" target="_blank">understand how baseball</a> works.
 
 [<img class="aligncenter size-full wp-image-7254" title="IMG_20120720_190331" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/07/IMG_20120720_190331.jpeg" alt="" width="298" height="398" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/07/IMG_20120720_190331.jpeg)
 
@@ -40,11 +40,11 @@ Thanks to the fact that I&#8217;ve worked my ass off this past year, Mr. B and I
 </p>
 
 <p style="text-align: left;">
-  Unfortunately, dear reader, as you probably realize by now, <a href="http://blog.vickiboykis.com/2011/06/hookah-neuroses/" target="_blank">I am not</a> an <a href="http://blog.vickiboykis.com/2011/09/facebook-anxiety/" target="_blank">individual</a> who can enjoy things as they are meant to be enjoyed.
+  Unfortunately, dear reader, as you probably realize by now, <a href="http://blog.vickiboykis.com/wlb/2011/06/hookah-neuroses/" target="_blank">I am not</a> an <a href="http://blog.vickiboykis.com/wlb/2011/09/facebook-anxiety/" target="_blank">individual</a> who can enjoy things as they are meant to be enjoyed.
 </p>
 
 <p style="text-align: left;">
-  First, there&#8217;s something about baseball that&#8217;s <a href="http://blog.vickiboykis.com/2011/11/stream-of-thoughts-on-heroes-and-the-art-of-fielding-at-penn-state/" target="_blank">highly philosophical</a>, as I&#8217;ve written before. Baseball is one of those sports that&#8217;s distinctly American with a capital A, that gives you a unique flavor of what America really means. <a href="http://www.thepointmag.com/2011/essays/steroids-baseball-america" target="_blank">Hundreds of</a> people <a href="http://www.motherjones.com/politics/2011/07/baseball-war-american-pastime-red-sox" target="_blank">have written</a> <a href="http://www.amazon.com/Summerland-Michael-Chabon/dp/0786808772" target="_blank">about it</a> <a href="http://www.miaminewtimes.com/content/printVersion/3268962/" target="_blank">more accurately</a> than me. The last article probably describes it the best: the feeling of being a hard-working American, of summer, of glamour and big money.
+  First, there&#8217;s something about baseball that&#8217;s <a href="http://blog.vickiboykis.com/wlb/2011/11/stream-of-thoughts-on-heroes-and-the-art-of-fielding-at-penn-state/" target="_blank">highly philosophical</a>, as I&#8217;ve written before. Baseball is one of those sports that&#8217;s distinctly American with a capital A, that gives you a unique flavor of what America really means. <a href="http://www.thepointmag.com/2011/essays/steroids-baseball-america" target="_blank">Hundreds of</a> people <a href="http://www.motherjones.com/politics/2011/07/baseball-war-american-pastime-red-sox" target="_blank">have written</a> <a href="http://www.amazon.com/Summerland-Michael-Chabon/dp/0786808772" target="_blank">about it</a> <a href="http://www.miaminewtimes.com/content/printVersion/3268962/" target="_blank">more accurately</a> than me. The last article probably describes it the best: the feeling of being a hard-working American, of summer, of glamour and big money.
 </p>
 
 > When Perez is about to sneeze, he pulls a tissue from a Marlins-branded box. When he has a drink, he&#8217;s careful to use a St. Louis Cardinals coaster. He scrawls something on a Yankees notepad, rips off the piece of paper, and tosses it at a reporter. It reads, &#8220;Leugim Barroso.&#8221; That&#8217;s the name of a recent Cuban defector now in the Chicago Cubs&#8217; minor-league system. &#8220;Another client,&#8221; he says with a shrug.
@@ -54,7 +54,7 @@ Thanks to the fact that I&#8217;ve worked my ass off this past year, Mr. B and I
 > As Miami&#8217;s most visible representative for Cuban ballplayers, he regularly appears in the sports pages with talented young defectors such as slugging third baseman and outfielder Adonis García and highly touted pitcher Onelki García. He lives with his wife Liseth in a three-bedroom house near Sweetwater that he bought for $465,000 in 2005. He&#8217;s a Bentley-driving, freedom-loving exile Arliss, making a living in the muddy confluence of sports, global politics, and American law.
 
 <p style="text-align: left;">
-  As I was thinking about baseball and the American dream, my thoughts also started to gravitate, as they tend to do <a href="http://blog.vickiboykis.com/2012/06/why-do-i-do-this-to-myself/" target="_blank">nowadays</a>, downward to Russia.
+  As I was thinking about baseball and the American dream, my thoughts also started to gravitate, as they tend to do <a href="http://blog.vickiboykis.com/wlb/2012/06/why-do-i-do-this-to-myself/" target="_blank">nowadays</a>, downward to Russia.
 </p>
 
 &#8220;Hey,&#8221; I said to Mr. B, who barely took his eyes off the pitcher (Mr. B&#8217;s dream career when he was growing up was to be a pitcher, but unfortunately that dream did not come true, and now he is resigned to <a href="http://www.youtube.com/watch?v=Qi_AAqi0RZM" target="_blank">brogramming</a>.)

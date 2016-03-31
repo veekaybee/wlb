@@ -4,7 +4,7 @@ title: 'Leavin&#8217; on a Jet Plane&#8230;'
 date: 2009-08-26T16:46:24+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=1180
+guid: http://blog.vickiboykis.com/wlb/?p=1180
 permalink: /2009/08/leavin-on-a-jet-plane/
 categories:
   - Uncategorized

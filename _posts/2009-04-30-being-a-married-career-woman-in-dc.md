@@ -4,7 +4,7 @@ title: Women, careers, big cities, and other thoughts
 date: 2009-04-30T20:49:09+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=300
+guid: http://blog.vickiboykis.com/wlb/?p=300
 permalink: /2009/04/being-a-married-career-woman-in-dc/
 categories:
   - Career
@@ -19,7 +19,7 @@ tags:
 ---
 [<img class="aligncenter size-full wp-image-301" title="maid" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/04/maid.jpg" alt="maid" width="240" height="320" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/04/maid.jpg)
 
-I&#8217;ve been thinking a lot about women lately.  I&#8217;ve seen a couple articles floating around online about the role of women in the workplace, with children, and so on.  Penelope Trunk talks a lot about it in her blog (which you can Google because [I&#8217;m still undecided whether I want to link to her](http://blog.vickiboykis.com/?p=250)).   While I&#8217;m convinced that she&#8217;s having a mental breakdown, in the meantime, she is running a company and taking care of two children, one of which is autistic.
+I&#8217;ve been thinking a lot about women lately.  I&#8217;ve seen a couple articles floating around online about the role of women in the workplace, with children, and so on.  Penelope Trunk talks a lot about it in her blog (which you can Google because [I&#8217;m still undecided whether I want to link to her](http://blog.vickiboykis.com/wlb/?p=250)).   While I&#8217;m convinced that she&#8217;s having a mental breakdown, in the meantime, she is running a company and taking care of two children, one of which is autistic.
 
 There are studies about [whether being married](http://www.koreatimes.co.kr/www/news/nation/2009/03/117_42179.html) makes a woman happier.  There are articles about whether women can balance [working, being a mother](http://www.brazencareerist.com/2009/04/28/truths-about-modern-motherhood-and-having-it-all), etc.  And there are whole books about [womens&#8217; psychology and how we react](http://www.amazon.com/exec/obidos/ASIN/097901736X/boingboing) to each other, why women are mean, and what we do to get ahead in our careers. What I&#8217;ve been thinking about most lately is work-life balance and how I see it reflected in my life, as well as the lives of the women I work with and interact with on a daily basis.
 

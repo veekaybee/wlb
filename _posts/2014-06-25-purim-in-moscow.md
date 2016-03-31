@@ -4,7 +4,7 @@ title: Purim in Moscow
 date: 2014-06-25T20:52:09+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=9591
+guid: http://blog.vickiboykis.com/wlb/?p=9591
 permalink: /2014/06/purim-in-moscow/
 categories:
   - Uncategorized

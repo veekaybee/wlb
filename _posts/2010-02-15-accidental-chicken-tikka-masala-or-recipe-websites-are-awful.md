@@ -4,7 +4,7 @@ title: 'Accidental Chicken Tikka Masala.  Or, recipe websites are awful.'
 date: 2010-02-15T00:09:44+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=2326
+guid: http://blog.vickiboykis.com/wlb/?p=2326
 permalink: /2010/02/accidental-chicken-tikka-masala-or-recipe-websites-are-awful/
 categories:
   - Uncategorized
@@ -22,7 +22,7 @@ As you read this post, keep in mind that A)I&#8217;m food-stupid and B) I&#8217;
 
 Here I am, trying to plan a weekly menu, because that&#8217;s what all the [homey-wifey websites](http://www.thenest.com/) recommend you do to keep the Arab-Israeli Menu Planning War of 1967 from breaking out in the household.   I witnessed this first-hand on numerous occasions when I&#8217;ve been too lazy/tired/homicidal after work to cook dinner (this happens at least twice a week.)
 
-On these occasions, when I was single and lived alone (ah, those good old days when I didn&#8217;t have to worry about doing laundry for two, but did worry about a burglar breaking in and shanking me on a daily basis), I would just eat cereal with milk and call it a night. Because, honestly, I am an average cook, and I don&#8217;t enjoy cooking 90% of the time ([although 10% I do](http://blog.vickiboykis.com/2009/05/18/%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B5-%D0%B3%D1%80%D0%B8%D0%B1%D1%8B-russian-mushrooms/).)  I look at it as something that has to be done, like taxes or [deflecting baby fever](http://blog.vickiboykis.com/2009/10/29/friday-comic-and-links/).    However, Mr. B is un-American and doesn&#8217;t eat cereal.  Also, for some reason, he likes hot meals. Also, woman cannot live on Total alone (although it does provide 100% of my recommended daily intake of calcium and iron.) So I was trying to plan ahead so I wouldn&#8217;t have to cook multiple times during the week.
+On these occasions, when I was single and lived alone (ah, those good old days when I didn&#8217;t have to worry about doing laundry for two, but did worry about a burglar breaking in and shanking me on a daily basis), I would just eat cereal with milk and call it a night. Because, honestly, I am an average cook, and I don&#8217;t enjoy cooking 90% of the time ([although 10% I do](http://blog.vickiboykis.com/wlb/2009/05/18/%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B5-%D0%B3%D1%80%D0%B8%D0%B1%D1%8B-russian-mushrooms/).)  I look at it as something that has to be done, like taxes or [deflecting baby fever](http://blog.vickiboykis.com/wlb/2009/10/29/friday-comic-and-links/).    However, Mr. B is un-American and doesn&#8217;t eat cereal.  Also, for some reason, he likes hot meals. Also, woman cannot live on Total alone (although it does provide 100% of my recommended daily intake of calcium and iron.) So I was trying to plan ahead so I wouldn&#8217;t have to cook multiple times during the week.
 
 Scouring the Intertubes, I came [across this recipe](http://allrecipes.com/Recipe/Indian-Chicken-Curry-Murgh-Kari/Detail.aspx), which includes requirements for, among other things,
 

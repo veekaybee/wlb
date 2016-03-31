@@ -4,7 +4,7 @@ title: The Climate Change Scandal and the Importance of Good Code
 date: 2009-12-10T07:00:33+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=1856
+guid: http://blog.vickiboykis.com/wlb/?p=1856
 permalink: /2009/12/the-climate-change-scandal-and-the-importance-of-good-code/
 categories:
   - Uncategorized

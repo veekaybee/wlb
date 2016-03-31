@@ -4,7 +4,7 @@ title: Friday Links and Friday Comic
 date: 2009-10-08T20:22:38+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=1409
+guid: http://blog.vickiboykis.com/wlb/?p=1409
 permalink: /2009/10/friday-links-and-friday-comic/
 categories:
   - fridaylinks

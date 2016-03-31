@@ -4,7 +4,7 @@ title: 'Organic Strawberry Fields Forever.  California, Part 2'
 date: 2010-05-18T05:59:19+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=2938
+guid: http://blog.vickiboykis.com/wlb/?p=2938
 permalink: /2010/05/organic-strawberry-fields-forever-california-part-2/
 categories:
   - Uncategorized

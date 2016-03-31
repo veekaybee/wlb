@@ -4,7 +4,7 @@ title: Our Trip to Israel-The YouTube
 date: 2009-09-28T20:47:47+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=1342
+guid: http://blog.vickiboykis.com/wlb/?p=1342
 permalink: /2009/09/our-trip-to-israel-the-youtube/
 categories:
   - Uncategorized

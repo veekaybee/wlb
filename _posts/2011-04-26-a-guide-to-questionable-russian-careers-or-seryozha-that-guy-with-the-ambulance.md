@@ -4,7 +4,7 @@ title: 'A Guide to Questionable Russian Careers, or &#8220;Seryozha, That Guy wi
 date: 2011-04-26T13:13:54+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=4845
+guid: http://blog.vickiboykis.com/wlb/?p=4845
 permalink: /2011/04/a-guide-to-questionable-russian-careers-or-seryozha-that-guy-with-the-ambulance/
 categories:
   - Uncategorized

@@ -4,7 +4,7 @@ title: 'Washington: The city is covered in petals'
 date: 2009-04-12T16:58:35+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=245
+guid: http://blog.vickiboykis.com/wlb/?p=245
 permalink: /2009/04/washington-the-city-is-covered-in-petals/
 categories:
   - Uncategorized

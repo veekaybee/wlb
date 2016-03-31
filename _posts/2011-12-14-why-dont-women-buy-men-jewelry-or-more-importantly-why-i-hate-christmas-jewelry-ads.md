@@ -4,7 +4,7 @@ title: 'Why don&#8217;t women buy men jewelry?  Or, more importantly, why I hate
 date: 2011-12-14T07:58:16+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=6024
+guid: http://blog.vickiboykis.com/wlb/?p=6024
 permalink: /2011/12/why-dont-women-buy-men-jewelry-or-more-importantly-why-i-hate-christmas-jewelry-ads/
 categories:
   - Uncategorized

@@ -4,7 +4,7 @@ title: Where is the R in BRICS?
 date: 2010-05-05T21:29:11+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=2876
+guid: http://blog.vickiboykis.com/wlb/?p=2876
 permalink: /2010/05/where-is-the-r-in-brics/
 categories:
   - Uncategorized

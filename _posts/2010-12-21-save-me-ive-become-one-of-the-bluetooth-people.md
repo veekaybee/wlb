@@ -4,7 +4,7 @@ title: 'Save Me, I&#8217;ve become One of the Bluetooth People'
 date: 2010-12-21T08:03:43+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=4066
+guid: http://blog.vickiboykis.com/wlb/?p=4066
 permalink: /2010/12/save-me-ive-become-one-of-the-bluetooth-people/
 categories:
   - Uncategorized
@@ -29,4 +29,4 @@ Sometimes when I&#8217;m done with one conversation but haven&#8217;t called any
 
 Since I&#8217;ve been wearing the headset so much, I don&#8217;t even notice it anymore, and I accidentally left it in when I was going to the gym yesterday (after 25 minutes of phone calls with my dad about my latest car issue), resulting in [this syndrome](http://www.youtube.com/watch?v=XNLZggUgsFc) (warning: extremely NSFW language. But nothing you wouldn&#8217;t have heard at SKRUG.)
 
-I&#8217;m pretty sure everyone in the gym looked at me and that&#8217;s when I realized it. I&#8217;ve finally become a bigger jerk than 90% of the people in [SKRUG](http://blog.vickiboykis.com/tag/skrug/).
+I&#8217;m pretty sure everyone in the gym looked at me and that&#8217;s when I realized it. I&#8217;ve finally become a bigger jerk than 90% of the people in [SKRUG](http://blog.vickiboykis.com/wlb/tag/skrug/).

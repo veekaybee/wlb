@@ -4,7 +4,7 @@ title: 'Marie Laveau and Kirk&#8217;s magic voodoo fingers help us fight Sandy'
 date: 2012-10-31T08:23:22+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=7752
+guid: http://blog.vickiboykis.com/wlb/?p=7752
 permalink: /2012/10/marie-laveau-and-kirks-magic-voodoo-fingers-help-us-fight-sandy/
 categories:
   - Uncategorized
@@ -40,7 +40,7 @@ New Orleans is amazingly beautiful for an American city and has an very distinct
 </p>
 
 <p style="text-align: left;">
-  There was just no way to tell whether Philly would be hit hard or experience rain storms. So Mr. B made the decision, because I am a terrible decision-maker. &#8220;We go,&#8221; he said, &#8220;and the worst case scenario is that we have a romantic drive through Mississippi, Alabama, and up the East Coast in a leisurely 20 hours.&#8221; But the rest of the weekend I didn&#8217;t think about Sandy too much because I was trying to do something <a href="http://blog.vickiboykis.com/2012/10/how-the-other-half-eats/" target="_blank">super-hard</a> for me: <a href="http://blog.vickiboykis.com/2012/08/my-first-and-last-massage/" target="_blank">relax</a>.
+  There was just no way to tell whether Philly would be hit hard or experience rain storms. So Mr. B made the decision, because I am a terrible decision-maker. &#8220;We go,&#8221; he said, &#8220;and the worst case scenario is that we have a romantic drive through Mississippi, Alabama, and up the East Coast in a leisurely 20 hours.&#8221; But the rest of the weekend I didn&#8217;t think about Sandy too much because I was trying to do something <a href="http://blog.vickiboykis.com/wlb/2012/10/how-the-other-half-eats/" target="_blank">super-hard</a> for me: <a href="http://blog.vickiboykis.com/wlb/2012/08/my-first-and-last-massage/" target="_blank">relax</a>.
 </p>
 
 <p style="text-align: left;">

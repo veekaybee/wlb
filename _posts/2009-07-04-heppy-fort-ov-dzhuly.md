@@ -4,7 +4,7 @@ title: Heppy Fort ov Dzhuly
 date: 2009-07-04T07:00:29+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=673
+guid: http://blog.vickiboykis.com/wlb/?p=673
 permalink: /2009/07/heppy-fort-ov-dzhuly/
 categories:
   - Uncategorized

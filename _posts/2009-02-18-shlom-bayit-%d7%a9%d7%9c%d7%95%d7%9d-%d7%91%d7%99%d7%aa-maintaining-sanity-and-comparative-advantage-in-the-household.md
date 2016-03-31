@@ -4,7 +4,7 @@ title: 'Shlom bayit (שלום בית)- Maintaining sanity and comparative advant
 date: 2009-02-18T21:09:09+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=113
+guid: http://blog.vickiboykis.com/wlb/?p=113
 permalink: /2009/02/shlom-bayit-%d7%a9%d7%9c%d7%95%d7%9d-%d7%91%d7%99%d7%aa-maintaining-sanity-and-comparative-advantage-in-the-household/
 categories:
   - Uncategorized

@@ -4,7 +4,7 @@ title: La dolce Vika
 date: 2013-05-15T07:11:18+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=8710
+guid: http://blog.vickiboykis.com/wlb/?p=8710
 permalink: /2013/05/la-dolce-vika/
 categories:
   - home
@@ -53,7 +53,7 @@ I also did a bit of song translation:
   <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/05/Screen-Shot-2013-05-15-at-7.06.39-AM.png"><img class="aligncenter  wp-image-8714" alt="Screen Shot 2013-05-15 at 7.06.39 AM" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/05/Screen-Shot-2013-05-15-at-7.06.39-AM-580x745.png" width="464" height="596" /></a>
 </p>
 
-How disappointing that YouTube didn&#8217;t exist back then. I just watched <a href="http://blog.vickiboykis.com/2010/02/why-do-you-have-to-discover-adriano-celentano-cruel-internet/" target="_blank">this song</a> that I translated for the first time ten minutes ago and it all came back to me.
+How disappointing that YouTube didn&#8217;t exist back then. I just watched <a href="http://blog.vickiboykis.com/wlb/2010/02/why-do-you-have-to-discover-adriano-celentano-cruel-internet/" target="_blank">this song</a> that I translated for the first time ten minutes ago and it all came back to me.
 
 
 

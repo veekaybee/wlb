@@ -4,7 +4,7 @@ title: 'What Russian Men Talk About? Surprise! It&#8217;s Cheating on Their Wive
 date: 2011-09-14T21:47:53+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=5724
+guid: http://blog.vickiboykis.com/wlb/?p=5724
 permalink: /2011/09/what-russian-men-talk-about-surprise-its-cheating-on-their-wives/
 categories:
   - Uncategorized
@@ -16,7 +16,7 @@ tags:
   - Russian Jews
   - what men talk about
 ---
-A couple weeks ago, Mr. B and I watched some movies that <a href="http://blog.vickiboykis.com/2010/05/25/update-from-the-home-front-my-aunt-comes-from-russia-and-my-mom-flies-free-from-logic/" target="_blank">my aunt</a> brought when she came to visit from Russia in August.  One of them was a movie that&#8217;s Russia&#8217;s favorite current bromance comedy and <a href="http://www.slate.com/id/2276071/" target="_blank">has stirred up</a> a lot of press, even in English, &#8220;<a href="http://www.kinokultura.com/2010/29r-ochemgovoriat.shtml" target="_blank">What Men Talk About</a>.&#8221;
+A couple weeks ago, Mr. B and I watched some movies that <a href="http://blog.vickiboykis.com/wlb/2010/05/25/update-from-the-home-front-my-aunt-comes-from-russia-and-my-mom-flies-free-from-logic/" target="_blank">my aunt</a> brought when she came to visit from Russia in August.  One of them was a movie that&#8217;s Russia&#8217;s favorite current bromance comedy and <a href="http://www.slate.com/id/2276071/" target="_blank">has stirred up</a> a lot of press, even in English, &#8220;<a href="http://www.kinokultura.com/2010/29r-ochemgovoriat.shtml" target="_blank">What Men Talk About</a>.&#8221;
 
 The story is basically four guys in their late-30s early-4os escaping everyday life and going together on a road trip from Moscow to Odessa, where one of their friends owns a nightclub on the beach.  During the trip, they talk about what life means to them, in sometimes lighthearted, sometimes bittersweet ways.  The team is made by a group of guys that&#8217;s made movies together, making them kind of equivalent to the actors that always appear in Judd Apatow movies, in different rotations but similar comedic scenarios.
 

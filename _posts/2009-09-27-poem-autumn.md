@@ -4,7 +4,7 @@ title: 'Poem: Autumn'
 date: 2009-09-27T07:45:57+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=1321
+guid: http://blog.vickiboykis.com/wlb/?p=1321
 permalink: /2009/09/poem-autumn/
 categories:
   - Uncategorized

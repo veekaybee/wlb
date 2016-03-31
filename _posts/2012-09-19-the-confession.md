@@ -4,7 +4,7 @@ title: The Confession
 date: 2012-09-19T08:08:06+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=7555
+guid: http://blog.vickiboykis.com/wlb/?p=7555
 permalink: /2012/09/the-confession/
 categories:
   - Uncategorized
@@ -44,7 +44,7 @@ tags:
 
 &#8220;It&#8217;s not one of the commandments&#8230;&#8221;
 
-&#8220;I&#8217;m trying <a href="http://blog.vickiboykis.com/?s=the+art+of+the+slog" target="_blank">to lose weight</a>.&#8221;
+&#8220;I&#8217;m trying <a href="http://blog.vickiboykis.com/wlb/?s=the+art+of+the+slog" target="_blank">to lose weight</a>.&#8221;
 
 &#8220;Ah! Gluttony.  You were guilty of gluttony.&#8221;
 

@@ -4,7 +4,7 @@ title: Love in the time of Cholera (and other diseases)
 date: 2012-02-14T07:44:53+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=6450
+guid: http://blog.vickiboykis.com/wlb/?p=6450
 permalink: /2012/02/love-in-the-time-of-cholera-and-other-diseases/
 categories:
   - Uncategorized

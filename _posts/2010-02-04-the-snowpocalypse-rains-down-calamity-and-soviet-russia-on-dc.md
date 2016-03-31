@@ -4,7 +4,7 @@ title: The Snowpocalypse Rains Down Calamity and Soviet Russia on DC
 date: 2010-02-04T21:27:33+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=2271
+guid: http://blog.vickiboykis.com/wlb/?p=2271
 permalink: /2010/02/the-snowpocalypse-rains-down-calamity-and-soviet-russia-on-dc/
 categories:
   - Uncategorized
@@ -18,7 +18,7 @@ You probably won&#8217;t hear from me next week, because I&#8217;ll be snowed un
 
 [<img class="aligncenter size-full wp-image-2272" title="Picture 4" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/02/Picture-41.png" alt="" width="504" height="321" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/02/Picture-41.png)
 
-As a result, all Hell has broken loose in the DC region and [my local Giant supermarket](http://blog.vickiboykis.com/2009/07/12/the-victorian-error-lite-jazz/) has turned into a stunning example of Soviet breadlines that my parents lived through.  I can only say, Lord have mercy on yuppies like me that have had to experience alarming shortages of Danon Extra Bacteria Yogurt. There was no milk in our store.
+As a result, all Hell has broken loose in the DC region and [my local Giant supermarket](http://blog.vickiboykis.com/wlb/2009/07/12/the-victorian-error-lite-jazz/) has turned into a stunning example of Soviet breadlines that my parents lived through.  I can only say, Lord have mercy on yuppies like me that have had to experience alarming shortages of Danon Extra Bacteria Yogurt. There was no milk in our store.
 
 [<img class="aligncenter size-full wp-image-2273" title="breadline" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/02/breadline.jpg" alt="" width="500" height="336" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/02/breadline.jpg)
 

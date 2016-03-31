@@ -4,7 +4,7 @@ title: 'Facebook&#8217;s algorithm is still off'
 date: 2010-01-22T15:02:55+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=2170
+guid: http://blog.vickiboykis.com/wlb/?p=2170
 permalink: /2010/01/facebooks-algorithm-is-still-off/
 categories:
   - Uncategorized

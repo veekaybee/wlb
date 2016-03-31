@@ -4,7 +4,7 @@ title: 'Passover the Kleenex, I&#8217;m Watching Prince of Egypt'
 date: 2011-04-18T09:17:13+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=4819
+guid: http://blog.vickiboykis.com/wlb/?p=4819
 permalink: /2011/04/passover-the-kleenex-im-watching-prince-of-egypt/
 categories:
   - Uncategorized
@@ -22,7 +22,7 @@ _Pre- P.S. If you want to read about how Mr. B played with dead people when he w
   <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/04/poe.jpg"><img class="aligncenter size-full wp-image-4826" title="poe" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/04/poe.jpg" alt="" width="453" height="280" /></a>
 </p>
 
-Everyone has their own Passover traditions.  Some people have those seder-thingies.  [Some people](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/03/PassoverLogo101.png) [eat matzah](http://blog.vickiboykis.com/2011/03/15/you-know-its-spring-when-a-5-lb-box-of-matzah-from-amazon-arrives-on-your-doorstep/). Every year since college, I&#8217;ve watched Prince of Egypt and cried quietly in my room because I am really 10 years old and the only way for me to understand Passover is through a cartoon featuring the voices of Michelle Pfiefer and Ofra Haza.
+Everyone has their own Passover traditions.  Some people have those seder-thingies.  [Some people](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/03/PassoverLogo101.png) [eat matzah](http://blog.vickiboykis.com/wlb/2011/03/15/you-know-its-spring-when-a-5-lb-box-of-matzah-from-amazon-arrives-on-your-doorstep/). Every year since college, I&#8217;ve watched Prince of Egypt and cried quietly in my room because I am really 10 years old and the only way for me to understand Passover is through a cartoon featuring the voices of Michelle Pfiefer and Ofra Haza.
 
 [<img class="aligncenter size-full wp-image-4820" title="the_prince_of_egypt" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/04/the_prince_of_egypt.jpg" alt="" width="475" height="352" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/04/the_prince_of_egypt.jpg)
 

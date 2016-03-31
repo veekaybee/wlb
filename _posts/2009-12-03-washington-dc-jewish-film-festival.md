@@ -4,7 +4,7 @@ title: Washington DC Jewish Film Festival
 date: 2009-12-03T20:37:17+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=1798
+guid: http://blog.vickiboykis.com/wlb/?p=1798
 permalink: /2009/12/washington-dc-jewish-film-festival/
 categories:
   - Uncategorized

@@ -4,7 +4,7 @@ title: 'You Can Never Go Home Again: Reverse Immigration'
 date: 2009-06-02T14:35:13+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=422
+guid: http://blog.vickiboykis.com/wlb/?p=422
 permalink: /2009/06/you-can-never-go-home-again-reverse-immigration/
 categories:
   - economics
@@ -25,7 +25,7 @@ The article states,
 > 
 > &#8220;Right now I&#8217;m no stress, no anxiety,&#8221; said Odhiambo, 34, relaxing in his family home in this western Kenyan city along the shores of Lake Victoria. &#8220;Think of it this way: When I was in the U.S., I was close to 300 pounds. Now, I&#8217;m like 200. The biggest thing for me was quality of life.&#8221;
 
-It&#8217;s not certain whether Odhiambo weighs less because the quality of food in Africa is better than in the United States (a topic I lightly grazed in my recent [post on Nutella](http://blog.vickiboykis.com/?p=432),) or  because there is no food in Africa.   Either way, it seems like reverse immigration was a positive experience for this family.
+It&#8217;s not certain whether Odhiambo weighs less because the quality of food in Africa is better than in the United States (a topic I lightly grazed in my recent [post on Nutella](http://blog.vickiboykis.com/wlb/?p=432),) or  because there is no food in Africa.   Either way, it seems like reverse immigration was a positive experience for this family.
 
 Keeping up with experts in reverse immigration (and by experts, I just mean, [Neo Indian](http://neoindian.org/), who writes about living again in India and eating mangoes at the rate of 5 per day,) I surmise that this process is close to impossible for most.
 

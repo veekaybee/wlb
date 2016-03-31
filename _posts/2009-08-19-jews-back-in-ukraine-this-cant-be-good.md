@@ -4,7 +4,7 @@ title: 'Jews Back in Ukraine: This Can&#8217;t be Good'
 date: 2009-08-19T20:56:25+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=1091
+guid: http://blog.vickiboykis.com/wlb/?p=1091
 permalink: /2009/08/jews-back-in-ukraine-this-cant-be-good/
 categories:
   - Uncategorized
@@ -36,7 +36,7 @@ She wrote,
 
 She added,
 
-> Oh, and PS how much do I love Ukrainian boys? They help you off the bus, they tell you you&#8217;re pretty, they pour your drinks and carry your suitcase.  I&#8217;m guessing she didn&#8217;t read my post [about marrying Russian men](http://blog.vickiboykis.com/2009/07/30/the-pros-of-russian-husbands/).
+> Oh, and PS how much do I love Ukrainian boys? They help you off the bus, they tell you you&#8217;re pretty, they pour your drinks and carry your suitcase.  I&#8217;m guessing she didn&#8217;t read my post [about marrying Russian men](http://blog.vickiboykis.com/wlb/2009/07/30/the-pros-of-russian-husbands/).
 > 
 > <p style="text-align: center;">
 >   <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/08/ukraine3.jpg"><img class="aligncenter size-full wp-image-1099" title="ukraine3" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/08/ukraine3.jpg" alt="ukraine3" width="458" height="343" /></a>Orly on the left.

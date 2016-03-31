@@ -4,7 +4,7 @@ title: I Apologize in Advance for this Video
 date: 2011-06-22T07:06:48+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=5145
+guid: http://blog.vickiboykis.com/wlb/?p=5145
 permalink: /2011/06/i-apologize-in-advance-for-this-video/
 categories:
   - Uncategorized

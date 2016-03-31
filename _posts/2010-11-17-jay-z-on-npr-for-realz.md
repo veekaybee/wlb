@@ -4,7 +4,7 @@ title: Jay-Z on NPR. For realz.
 date: 2010-11-17T09:09:42+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=3886
+guid: http://blog.vickiboykis.com/wlb/?p=3886
 permalink: /2010/11/jay-z-on-npr-for-realz/
 categories:
   - Uncategorized

@@ -4,7 +4,7 @@ title: 'Writing a Novel in a Month and Daniel Silva&#8217;s Gabriel Allon'
 date: 2009-10-06T21:06:13+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=1392
+guid: http://blog.vickiboykis.com/wlb/?p=1392
 permalink: /2009/10/writing-a-novel-in-a-month-and-daniel-silvas-gabriel-allon/
 categories:
   - Uncategorized

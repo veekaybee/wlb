@@ -4,7 +4,7 @@ title: 'I should be blogging&#8230;'
 date: 2010-06-08T06:32:36+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=3097
+guid: http://blog.vickiboykis.com/wlb/?p=3097
 permalink: /2010/06/i-should-be-blogging/
 categories:
   - Uncategorized

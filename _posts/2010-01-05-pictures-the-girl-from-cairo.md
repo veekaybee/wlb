@@ -4,7 +4,7 @@ title: 'Pictures: The Girl from Cairo'
 date: 2010-01-05T22:51:20+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=2048
+guid: http://blog.vickiboykis.com/wlb/?p=2048
 permalink: /2010/01/pictures-the-girl-from-cairo/
 categories:
   - Uncategorized
@@ -50,4 +50,4 @@ This is my favorite photo:
 
 Related Blog Posts:
   
-](http://blog.vickiboykis.com/2009/11/04/pictures-from-yaroslavl/)
+](http://blog.vickiboykis.com/wlb/2009/11/04/pictures-from-yaroslavl/)

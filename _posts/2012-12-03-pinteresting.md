@@ -4,7 +4,7 @@ title: Pinteresting
 date: 2012-12-03T07:36:34+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=7903
+guid: http://blog.vickiboykis.com/wlb/?p=7903
 permalink: /2012/12/pinteresting/
 thesis_description:
   - How to be Pinteresting

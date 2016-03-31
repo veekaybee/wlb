@@ -5,7 +5,7 @@ date: 2015-06-01T07:12:48+00:00
 author: Vicki
 excerpt: 'I wish I was taking more pictures not only of our baby, but of all of her stuff. '
 layout: post
-guid: http://blog.vickiboykis.com/?p=9956
+guid: http://blog.vickiboykis.com/wlb/?p=9956
 permalink: /2015/06/the-pictures-im-not-taking/
 categories:
   - Uncategorized
@@ -46,4 +46,4 @@ I wish I had a picture of our house at every stage of the baby process. But I do
 
 When I read all of this in print, it seems like such tiny changes, such minuscule alterations in our household,  but for me, they are an entire world that mean my baby is growing, growing, growing, and changing, and that soon this four and a half month phase will turn into five months and then we&#8217;ll be planning her 1-year-old party and then our house will change again, and then maybe the bottles will all go away and all we&#8217;ll have is the high chair and jars and jars of food, and maybe the jumper will go away and all we&#8217;ll have is a little baby play area, and then her car seat will go in the basement and she&#8217;ll have a forward-facing one, and hundreds of mundane objects will change, just as we&#8217;re getting used to the way things are in the house now.
 
-<a href="http://blog.vickiboykis.com/2015/03/no-i-will-not-enjoy-every-moment/" target="_blank">I&#8217;m still not enjoying every moment</a>, no way, but I am keenly aware that even the ones that I don&#8217;t enjoy slip past me at lighting speed, like a roaring river,  and I can only hope to catch a couple of drops of foamy mist with my camera.
+<a href="http://blog.vickiboykis.com/wlb/2015/03/no-i-will-not-enjoy-every-moment/" target="_blank">I&#8217;m still not enjoying every moment</a>, no way, but I am keenly aware that even the ones that I don&#8217;t enjoy slip past me at lighting speed, like a roaring river,  and I can only hope to catch a couple of drops of foamy mist with my camera.

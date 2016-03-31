@@ -4,7 +4,7 @@ title: Chat with Mr. B
 date: 2010-08-17T21:04:17+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=3480
+guid: http://blog.vickiboykis.com/wlb/?p=3480
 permalink: /2010/08/chat-with-mr-b/
 categories:
   - Uncategorized

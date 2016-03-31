@@ -4,7 +4,7 @@ title: Two Stupid Roads Diverged in A Yellow Wood
 date: 2011-02-28T06:29:12+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=4446
+guid: http://blog.vickiboykis.com/wlb/?p=4446
 permalink: /2011/02/two-stupid-roads-diverged-in-a-yellow-wood/
 categories:
   - Uncategorized

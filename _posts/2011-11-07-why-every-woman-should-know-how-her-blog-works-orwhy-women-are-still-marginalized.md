@@ -4,7 +4,7 @@ title: Why Every Woman Should Know How Her Blog Works or,Why Women are still mar
 date: 2011-11-07T08:17:29+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=5889
+guid: http://blog.vickiboykis.com/wlb/?p=5889
 permalink: /2011/11/why-every-woman-should-know-how-her-blog-works-orwhy-women-are-still-marginalized/
 categories:
   - Uncategorized

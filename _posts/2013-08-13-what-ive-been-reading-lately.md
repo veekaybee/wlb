@@ -4,7 +4,7 @@ title: 'What I&#8217;ve been reading lately'
 date: 2013-08-13T07:44:53+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=9010
+guid: http://blog.vickiboykis.com/wlb/?p=9010
 permalink: /2013/08/what-ive-been-reading-lately/
 categories:
   - Uncategorized
@@ -75,6 +75,6 @@ If you ask me whether I read this in person, I will deny it the same way I will 
 
 &nbsp;
 
-<a href="http://blog.vickiboykis.com/tag/books/" target="_blank">Previous books I&#8217;ve read. </a>
+<a href="http://blog.vickiboykis.com/wlb/tag/books/" target="_blank">Previous books I&#8217;ve read. </a>
 
 &nbsp;

@@ -4,7 +4,7 @@ title: 'Scotland the Brave: It&#8217;s about to get a little anti-Semitic up in 
 date: 2012-01-10T07:32:03+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=6159
+guid: http://blog.vickiboykis.com/wlb/?p=6159
 permalink: /2012/01/scotland-the-brave-its-about-to-get-a-little-anti-semitic-up-in-edinburgh-also-rainy/
 categories:
   - Uncategorized
@@ -18,7 +18,7 @@ tags:
   - Russian Jews
   - scotland
 ---
-As you last recall, we were by the <a href="http://blog.vickiboykis.com/2012/01/05/scotland-the-brave-but-still-incredibly-rainy-the-lochs-and-stirling-castle/" target="_blank">bonnie, bonnie banks of Loch Lomond.</a>
+As you last recall, we were by the <a href="http://blog.vickiboykis.com/wlb/2012/01/05/scotland-the-brave-but-still-incredibly-rainy-the-lochs-and-stirling-castle/" target="_blank">bonnie, bonnie banks of Loch Lomond.</a>
 
 When we got back to Edinburgh in the evening, we were cold, rainy,and exhausted. But,tough luck, because that night was the first night of Hanukah, and, as you guys know by now, the first Rule of Russian Tourism is : &#8220;if you&#8217;re here you might as well see OMGEVERYTHING POSSIBLE.&#8221; The day before while walking around <a href="http://en.wikipedia.org/wiki/St_Andrew_Square,_Edinburgh" target="_blank">St. Andrew Square,</a> I spotted the tell-tale <a href="http://www.chabad.org/holidays/chanukah/public_lights_cdo/aid/104654/jewish/Public-Menorahs-Around-the-Globe.htm" target="_blank">Chabad menorah</a>, and decided that we were going to take a break from pretending to be WASPS and Japanese tourists:
 

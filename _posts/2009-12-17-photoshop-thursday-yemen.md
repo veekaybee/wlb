@@ -4,7 +4,7 @@ title: 'Photoshop Thursday: Yemen!'
 date: 2009-12-17T07:13:27+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=1899
+guid: http://blog.vickiboykis.com/wlb/?p=1899
 permalink: /2009/12/photoshop-thursday-yemen/
 categories:
   - Uncategorized

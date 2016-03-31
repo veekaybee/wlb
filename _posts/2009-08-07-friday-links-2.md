@@ -4,7 +4,7 @@ title: Friday Links
 date: 2009-08-07T06:03:56+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=1019
+guid: http://blog.vickiboykis.com/wlb/?p=1019
 permalink: /2009/08/friday-links-2/
 categories:
   - fridaylinks
@@ -12,7 +12,7 @@ categories:
 tags:
   - Friday
 ---
-This week, I [interviewed a satirist](http://blog.vickiboykis.com/2009/08/02/author-interview-karan-mahajan-family-planning/), [questioned the state of legality in marriages](http://blog.vickiboykis.com/2009/08/03/marriage-regulations-in-israel-and-the-world/) across the world, [had a birthday](http://blog.vickiboykis.com/2009/08/05/the-victorian-error-birthday), and [made fun of Putin&#8217;s pretty ponie](http://blog.vickiboykis.com/2009/08/06/putins-pec-pics-hott/)s. I also played a [guessing game with pictures](http://www.jewlicious.com/author/vicki/) over on Jewlicious.
+This week, I [interviewed a satirist](http://blog.vickiboykis.com/wlb/2009/08/02/author-interview-karan-mahajan-family-planning/), [questioned the state of legality in marriages](http://blog.vickiboykis.com/wlb/2009/08/03/marriage-regulations-in-israel-and-the-world/) across the world, [had a birthday](http://blog.vickiboykis.com/wlb/2009/08/05/the-victorian-error-birthday), and [made fun of Putin&#8217;s pretty ponie](http://blog.vickiboykis.com/wlb/2009/08/06/putins-pec-pics-hott/)s. I also played a [guessing game with pictures](http://www.jewlicious.com/author/vicki/) over on Jewlicious.
 
 In the world this week:
 

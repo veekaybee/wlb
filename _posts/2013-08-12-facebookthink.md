@@ -4,7 +4,7 @@ title: Facebookthink
 date: 2013-08-12T07:42:49+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=8994
+guid: http://blog.vickiboykis.com/wlb/?p=8994
 permalink: /2013/08/facebookthink/
 categories:
   - Uncategorized
@@ -14,7 +14,7 @@ tags:
   - NSA
   - vacation
 ---
-With the recent revelations  that <a href="http://blog.vickiboykis.com/2013/06/being-american/" target="_blank">Facebook has essentially become an easily-searchable extension</a> of Laverntiy Beria&#8217;s hopes and dreams, <a href="http://mashable.com/2013/01/15/facebook-graph-search-privacy/" target="_blank">plus graph search</a>, combined with <a href="http://blog.vickiboykis.com/2011/09/facebook-anxiety/" target="_blank">my compulsive narcissism and need for approval</a>, I&#8217;ve been desperate to continue to share information without actually sharing anything that might attract attention or give any additional information about me to government agencies.
+With the recent revelations  that <a href="http://blog.vickiboykis.com/wlb/2013/06/being-american/" target="_blank">Facebook has essentially become an easily-searchable extension</a> of Laverntiy Beria&#8217;s hopes and dreams, <a href="http://mashable.com/2013/01/15/facebook-graph-search-privacy/" target="_blank">plus graph search</a>, combined with <a href="http://blog.vickiboykis.com/wlb/2011/09/facebook-anxiety/" target="_blank">my compulsive narcissism and need for approval</a>, I&#8217;ve been desperate to continue to share information without actually sharing anything that might attract attention or give any additional information about me to government agencies.
 
 [<img class="aligncenter size-medium wp-image-9002" alt="Screen Shot 2013-08-12 at 7.11.09 AM" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/08/Screen-Shot-2013-08-12-at-7.11.09-AM-580x155.png" width="580" height="155" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/08/Screen-Shot-2013-08-12-at-7.11.09-AM.png)
 

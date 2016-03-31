@@ -4,7 +4,7 @@ title: The Internets has changed how we think about people.
 date: 2011-11-30T08:29:00+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=5941
+guid: http://blog.vickiboykis.com/wlb/?p=5941
 permalink: /2011/11/the-internets-has-changed-how-we-think-about-people/
 categories:
   - Uncategorized
@@ -21,7 +21,7 @@ I&#8217;ve always been under the assumption that I&#8217;m very leery of trustin
   <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/11/5074115602_890ed71fc7_z.jpg"><img class="aligncenter size-full wp-image-5954" title="5074115602_890ed71fc7_z" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/11/5074115602_890ed71fc7_z.jpg" alt="" width="384" height="288" /></a>
 </p>
 
-The first thing that happened is that a couple of weeks ago, <a href="http://blog.vickiboykis.com/2011/10/26/a-guide-to-trolling-jewish-organizations-featuring-my-grandfather/" target="_blank">my grandpa</a> discovered a long-lost relative merely from the fact that he goes to a pharmacy, she&#8217;s a pharmacist there, and they have the same last name, and my grandpa&#8217;s last name is not very common. Once they got to talking, they realized that they are definitely related, and he wanted her to meet the rest of the family.  Sounds like a crazy sitcom coincidence, too good to be true, right?  That&#8217;s what I thought.
+The first thing that happened is that a couple of weeks ago, <a href="http://blog.vickiboykis.com/wlb/2011/10/26/a-guide-to-trolling-jewish-organizations-featuring-my-grandfather/" target="_blank">my grandpa</a> discovered a long-lost relative merely from the fact that he goes to a pharmacy, she&#8217;s a pharmacist there, and they have the same last name, and my grandpa&#8217;s last name is not very common. Once they got to talking, they realized that they are definitely related, and he wanted her to meet the rest of the family.  Sounds like a crazy sitcom coincidence, too good to be true, right?  That&#8217;s what I thought.
 
 At first I was really excited.  We have a very small family as it is, and any new relatives, especially ones closer to my age, are welcome additions.  So we met, talked, the whole deal.  Afterwards, I tried to Google her.  Nothing came up. I immediately became unsure.  Because <a href="http://www.nytimes.com/2011/11/27/fashion/google-searches-help-parents-narrow-down-baby-names.html" target="_blank">who&#8217;s ungooglable</a> in this age?  (by the way, that link is the whitest thing I&#8217;ve EVER read.) Then I realized I was spelling her name wrong, and came upon her Facebook page and a couple other of details, which meant she was legit.  To me, unlike the rest of my family who believe in meeting someone a number of times, having an active and not sketchy online presence means you are who you say you are.  I&#8217;m not saying it&#8217;s wrong, I&#8217;m just saying that the internet has completely changed how my generation understands social cues.
 

@@ -4,7 +4,7 @@ title: Why do you have to discover Adriano Celentano, cruel Internet?
 date: 2010-02-16T21:43:04+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=2358
+guid: http://blog.vickiboykis.com/wlb/?p=2358
 permalink: /2010/02/why-do-you-have-to-discover-adriano-celentano-cruel-internet/
 categories:
   - Uncategorized
@@ -24,7 +24,7 @@ I am writing this post because I have been Wronged by the Internet.
 
 You know how there are sometimes memes that dig up &#8220;a really cool video from 1963?&#8221;  and then everyone starts passing it around and acting like it&#8217;s the greatest thing since LOLcats?  Well,](http://boingboing.net/2009/12/17/gibberish-rock-song.html) Prisencolinensinainciusol by Adriano Celentano and it&#8217;s been making its way around Teh Webz and all these people are like, &#8220;Oh my gosh, what a cool concept!  This guy is crazy!  How could anyone come up with that!&#8221;  And, &#8220;Oh!  Some Italian guy did it.  Wonder who he is&#8221;
 
-[Only the sexiest man alive.](http://www.fullsong.it/uploads/Recensioni/AdrianoCelentano.jpg) [And in my top five list of musicians](http://en.wikipedia.org/wiki/Adriano_Celentano). ([Vladimir Vystosky](http://en.wikipedia.org/wiki/Vladimir_Vysotsky) is number one).   Also,  [I totally knew about Adriano Celentano first](http://blog.vickiboykis.com/2010/01/19/mrs-bej-and-bellydancing-after-the-saudi-arabian-embassy/).  Why?  It&#8217;s required by Russian law that every child born between 1960 and present day know about the awesomeness that is Adriano Celentano, along with any and every singer that appeared in Italy on stage during the 1970s.
+[Only the sexiest man alive.](http://www.fullsong.it/uploads/Recensioni/AdrianoCelentano.jpg) [And in my top five list of musicians](http://en.wikipedia.org/wiki/Adriano_Celentano). ([Vladimir Vystosky](http://en.wikipedia.org/wiki/Vladimir_Vysotsky) is number one).   Also,  [I totally knew about Adriano Celentano first](http://blog.vickiboykis.com/wlb/2010/01/19/mrs-bej-and-bellydancing-after-the-saudi-arabian-embassy/).  Why?  It&#8217;s required by Russian law that every child born between 1960 and present day know about the awesomeness that is Adriano Celentano, along with any and every singer that appeared in Italy on stage during the 1970s.
 
 This mandate proved to be an unfortunate course of action for me because I was constantly made fun of by my friends.  One day as I was waiting for the bus after school, my friend asked me what I was listening to on my CD player.  &#8220;Felicita,&#8221;  I told her brightly. &#8220;What, &#8221; she asked with the same expression as if I had told her I was listening to Stephen Hawking&#8217;s A Brief History of the Universe on audiobook.
 
@@ -34,7 +34,7 @@ This mandate proved to be an unfortunate course of action for me because I was c
 
 &#8220;Oh,&#8221; she said, and, after two minutes of squinting into my headphones, shyed away from me as if I were leprous.
 
-From then on, I kept my Italians to myself. When I was 14 or 15, I started listening to our Celentano &#8220;Best of CD&#8221; with an intensity that can only be matched by my love for [Nutella](http://blog.vickiboykis.com/2009/10/27/midnight-nutella-a-halloween-post/).  I memorized a majority of the CD, including my favorite songs, &#8220;Il Tuo Bacio Come Un Rock&#8221;
+From then on, I kept my Italians to myself. When I was 14 or 15, I started listening to our Celentano &#8220;Best of CD&#8221; with an intensity that can only be matched by my love for [Nutella](http://blog.vickiboykis.com/wlb/2009/10/27/midnight-nutella-a-halloween-post/).  I memorized a majority of the CD, including my favorite songs, &#8220;Il Tuo Bacio Come Un Rock&#8221;
 
 
 
@@ -56,7 +56,7 @@ I am writing this post because I have been Wronged by the Internet.
 
 You know how there are sometimes memes that dig up &#8220;a really cool video from 1963?&#8221;  and then everyone starts passing it around and acting like it&#8217;s the greatest thing since LOLcats?  Well,](http://boingboing.net/2009/12/17/gibberish-rock-song.html) Prisencolinensinainciusol by Adriano Celentano and it&#8217;s been making its way around Teh Webz and all these people are like, &#8220;Oh my gosh, what a cool concept!  This guy is crazy!  How could anyone come up with that!&#8221;  And, &#8220;Oh!  Some Italian guy did it.  Wonder who he is&#8221;
 
-[Only the sexiest man alive.](http://www.fullsong.it/uploads/Recensioni/AdrianoCelentano.jpg) [And in my top five list of musicians](http://en.wikipedia.org/wiki/Adriano_Celentano). ([Vladimir Vystosky](http://en.wikipedia.org/wiki/Vladimir_Vysotsky) is number one).   Also,  [I totally knew about Adriano Celentano first](http://blog.vickiboykis.com/2010/01/19/mrs-bej-and-bellydancing-after-the-saudi-arabian-embassy/).  Why?  It&#8217;s required by Russian law that every child born between 1960 and present day know about the awesomeness that is Adriano Celentano, along with any and every singer that appeared in Italy on stage during the 1970s.
+[Only the sexiest man alive.](http://www.fullsong.it/uploads/Recensioni/AdrianoCelentano.jpg) [And in my top five list of musicians](http://en.wikipedia.org/wiki/Adriano_Celentano). ([Vladimir Vystosky](http://en.wikipedia.org/wiki/Vladimir_Vysotsky) is number one).   Also,  [I totally knew about Adriano Celentano first](http://blog.vickiboykis.com/wlb/2010/01/19/mrs-bej-and-bellydancing-after-the-saudi-arabian-embassy/).  Why?  It&#8217;s required by Russian law that every child born between 1960 and present day know about the awesomeness that is Adriano Celentano, along with any and every singer that appeared in Italy on stage during the 1970s.
 
 This mandate proved to be an unfortunate course of action for me because I was constantly made fun of by my friends.  One day as I was waiting for the bus after school, my friend asked me what I was listening to on my CD player.  &#8220;Felicita,&#8221;  I told her brightly. &#8220;What, &#8221; she asked with the same expression as if I had told her I was listening to Stephen Hawking&#8217;s A Brief History of the Universe on audiobook.
 
@@ -66,7 +66,7 @@ This mandate proved to be an unfortunate course of action for me because I was c
 
 &#8220;Oh,&#8221; she said, and, after two minutes of squinting into my headphones, shyed away from me as if I were leprous.
 
-From then on, I kept my Italians to myself. When I was 14 or 15, I started listening to our Celentano &#8220;Best of CD&#8221; with an intensity that can only be matched by my love for [Nutella](http://blog.vickiboykis.com/2009/10/27/midnight-nutella-a-halloween-post/).  I memorized a majority of the CD, including my favorite songs, &#8220;Il Tuo Bacio Come Un Rock&#8221;
+From then on, I kept my Italians to myself. When I was 14 or 15, I started listening to our Celentano &#8220;Best of CD&#8221; with an intensity that can only be matched by my love for [Nutella](http://blog.vickiboykis.com/wlb/2009/10/27/midnight-nutella-a-halloween-post/).  I memorized a majority of the CD, including my favorite songs, &#8220;Il Tuo Bacio Come Un Rock&#8221;
 
 
 

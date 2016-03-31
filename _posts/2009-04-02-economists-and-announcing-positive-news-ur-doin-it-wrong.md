@@ -4,7 +4,7 @@ title: 'Economists and announcing positive news: ur doin&#8217; it wrong'
 date: 2009-04-02T21:09:43+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=227
+guid: http://blog.vickiboykis.com/wlb/?p=227
 permalink: /2009/04/economists-and-announcing-positive-news-ur-doin-it-wrong/
 categories:
   - Uncategorized

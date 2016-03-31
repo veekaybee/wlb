@@ -4,7 +4,7 @@ title: 'The real problem with healthcare: Russian cures.'
 date: 2009-09-12T21:46:49+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=1225
+guid: http://blog.vickiboykis.com/wlb/?p=1225
 permalink: /2009/09/the-real-problem-with-healthcare-russian-cures/
 categories:
   - Uncategorized

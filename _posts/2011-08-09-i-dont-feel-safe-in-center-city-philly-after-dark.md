@@ -4,7 +4,7 @@ title: 'I don&#8217;t feel safe in Center City Philly after dark'
 date: 2011-08-09T09:06:15+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=5520
+guid: http://blog.vickiboykis.com/wlb/?p=5520
 permalink: /2011/08/i-dont-feel-safe-in-center-city-philly-after-dark/
 categories:
   - Uncategorized

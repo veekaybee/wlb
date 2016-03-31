@@ -4,7 +4,7 @@ title: Dambisa Moyo, My Girlcrush, in Philly
 date: 2011-03-07T09:35:22+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=4399
+guid: http://blog.vickiboykis.com/wlb/?p=4399
 permalink: /2011/03/dambisa-moyo-my-girlcrush-in-philly/
 categories:
   - Uncategorized
@@ -42,6 +42,6 @@ I suck at being confident at work (as do many women, according to tons of studie
 
 Is confidence something that comes with having a PhD and working at really classy financial institutions? Is it something that comes from writing a book? From giving a lecture over and over again in front of hundreds of people every time?  Where is the line between confidence and hubris?  How much work did she have to put into getting to where she was? What did she have to sacrifice? Does she enjoy her success or is she exhausted by it?
 
-If I were confident, I would march up to the microphone at the end of the lecture and ask her at least two of these questions. And then give her my businesscard afterwards.   But I am not and I almost had a heart attack even [talking to my favorite author](http://blog.vickiboykis.com/2010/09/14/meeting-the-writer-you-look-up-to-most-is-better-than-mother-theresa-riding-a-unicorn/), much less an econ PhD because I am so afraid that I&#8217;ll look stupid.  Whereas Mr. B, with no economics background whatsoever, didn&#8217;t hesitate to come up to the mic in front of hundreds of people at [Sixth and I](http://www.sixthandi.org/) last year and ask [Nouriel Roubini](http://en.wikipedia.org/wiki/Nouriel_Roubini), one of my other faves, a question.
+If I were confident, I would march up to the microphone at the end of the lecture and ask her at least two of these questions. And then give her my businesscard afterwards.   But I am not and I almost had a heart attack even [talking to my favorite author](http://blog.vickiboykis.com/wlb/2010/09/14/meeting-the-writer-you-look-up-to-most-is-better-than-mother-theresa-riding-a-unicorn/), much less an econ PhD because I am so afraid that I&#8217;ll look stupid.  Whereas Mr. B, with no economics background whatsoever, didn&#8217;t hesitate to come up to the mic in front of hundreds of people at [Sixth and I](http://www.sixthandi.org/) last year and ask [Nouriel Roubini](http://en.wikipedia.org/wiki/Nouriel_Roubini), one of my other faves, a question.
 
 Confidence.  I think I&#8217;ll have to steal Mr. B&#8217;s while he&#8217;s sleeping.

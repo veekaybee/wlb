@@ -5,7 +5,7 @@ date: 2014-02-24T08:00:29+00:00
 author: Vicki
 excerpt: 'What happens when you go viral: You need to up your game. '
 layout: post
-guid: http://blog.vickiboykis.com/?p=9553
+guid: http://blog.vickiboykis.com/wlb/?p=9553
 permalink: /2014/02/minor-diva/
 categories:
   - Uncategorized

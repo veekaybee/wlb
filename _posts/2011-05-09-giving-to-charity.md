@@ -4,7 +4,7 @@ title: Giving to Charity
 date: 2011-05-09T14:31:57+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=4932
+guid: http://blog.vickiboykis.com/wlb/?p=4932
 permalink: /2011/05/giving-to-charity/
 categories:
   - Uncategorized
@@ -44,7 +44,7 @@ I wondered about the effectiveness of giving to charity, and about the second ar
 </p>
 
 <p style="text-align: left;">
-  I don&#8217;t have a correct answer to account for all of human nature, but I think our disagreement stems from two different viewpoints: I don&#8217;t trust people.  I think we&#8217;re inherently lazy, self-motivated, and stupid, so much so that we&#8217;ll donate to anything as long as it looks cool; i.e. <a href="http://blog.vickiboykis.com/2010/01/18/helping-haiti-and-msf/">Red Cross, </a>and not examine where the money is going.  It takes forever to research charities, even with organizations like Charity Navigator and <a href="http://www.givewell.org/">GiveWell</a> , so how do you know whether the money you&#8217;re sending to send little girls to school in Pakistan <a href="http://www.nytimes.com/2011/04/21/opinion/21kristof.html">is really going to some asshole</a>, or <a href="http://blogs.reuters.com/felix-salmon/2010/01/15/dont-give-money-to-haiti/">is sitting, doing nothing</a>?  How do I even know my Kiva donations are going to the right place?
+  I don&#8217;t have a correct answer to account for all of human nature, but I think our disagreement stems from two different viewpoints: I don&#8217;t trust people.  I think we&#8217;re inherently lazy, self-motivated, and stupid, so much so that we&#8217;ll donate to anything as long as it looks cool; i.e. <a href="http://blog.vickiboykis.com/wlb/2010/01/18/helping-haiti-and-msf/">Red Cross, </a>and not examine where the money is going.  It takes forever to research charities, even with organizations like Charity Navigator and <a href="http://www.givewell.org/">GiveWell</a> , so how do you know whether the money you&#8217;re sending to send little girls to school in Pakistan <a href="http://www.nytimes.com/2011/04/21/opinion/21kristof.html">is really going to some asshole</a>, or <a href="http://blogs.reuters.com/felix-salmon/2010/01/15/dont-give-money-to-haiti/">is sitting, doing nothing</a>?  How do I even know my Kiva donations are going to the right place?
 </p>
 
 <p style="text-align: left;">

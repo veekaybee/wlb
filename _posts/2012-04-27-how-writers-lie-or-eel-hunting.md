@@ -4,7 +4,7 @@ title: How writers lie (or, eel-hunting)
 date: 2012-04-27T07:23:16+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=6783
+guid: http://blog.vickiboykis.com/wlb/?p=6783
 permalink: /2012/04/how-writers-lie-or-eel-hunting/
 categories:
   - Uncategorized
@@ -48,7 +48,7 @@ Elif Batuman, one of my favorite writers (who else has the Twitter handle <a hre
 </div>
 
 <div>
-  As a reader, I&#8217;ve always wanted to know if everything I&#8217;ve read in nonfiction is true, especially in travel writing.  &#8220;Did Tom Bissell <a href="http://blog.vickiboykis.com/2009/07/book-review-chasing-the-sea-by-tom-bissell/" target="_blank">really eat sheep&#8217;s head in Uzbekistan</a> with a whole clan watching him? Did <a href="http://blog.vickiboykis.com/2009/07/book-review-chasing-the-sea-by-tom-bissell/" target="_blank">Rory Stewart REALLY walk through ALL of Afghanistan</a>? Did he really pick up a dog there? Did Lisa Napoli <a href="http://www.worldhum.com/features/travel-stories/into-sacred-air-taktsang-bhutan-20120409/" target="_blank">REALLY feel like she was going to fall</a> off the edge of the earth?&#8221;  These details, too outrageously beautiful to be false, are what make me excited about how random life is, and how the writer was lucky enough to capture the moment.
+  As a reader, I&#8217;ve always wanted to know if everything I&#8217;ve read in nonfiction is true, especially in travel writing.  &#8220;Did Tom Bissell <a href="http://blog.vickiboykis.com/wlb/2009/07/book-review-chasing-the-sea-by-tom-bissell/" target="_blank">really eat sheep&#8217;s head in Uzbekistan</a> with a whole clan watching him? Did <a href="http://blog.vickiboykis.com/wlb/2009/07/book-review-chasing-the-sea-by-tom-bissell/" target="_blank">Rory Stewart REALLY walk through ALL of Afghanistan</a>? Did he really pick up a dog there? Did Lisa Napoli <a href="http://www.worldhum.com/features/travel-stories/into-sacred-air-taktsang-bhutan-20120409/" target="_blank">REALLY feel like she was going to fall</a> off the edge of the earth?&#8221;  These details, too outrageously beautiful to be false, are what make me excited about how random life is, and how the writer was lucky enough to capture the moment.
 </div>
 
 <div>

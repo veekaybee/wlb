@@ -4,7 +4,7 @@ title: Our Father in Heaven, in the Kremlin
 date: 2012-08-19T22:29:21+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=7356
+guid: http://blog.vickiboykis.com/wlb/?p=7356
 permalink: /2012/08/our-father-in-heaven-in-the-kremlin/
 categories:
   - Uncategorized

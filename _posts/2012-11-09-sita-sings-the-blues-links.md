@@ -4,7 +4,7 @@ title: Sita Sings the Blues Links
 date: 2012-11-09T08:10:30+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=7811
+guid: http://blog.vickiboykis.com/wlb/?p=7811
 permalink: /2012/11/sita-sings-the-blues-links/
 categories:
   - fridaylinks

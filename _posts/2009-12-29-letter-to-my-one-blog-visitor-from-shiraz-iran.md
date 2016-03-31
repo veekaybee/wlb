@@ -4,7 +4,7 @@ title: Letter to my one blog visitor from Shiraz, Iran
 date: 2009-12-29T13:28:47+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=2000
+guid: http://blog.vickiboykis.com/wlb/?p=2000
 permalink: /2009/12/letter-to-my-one-blog-visitor-from-shiraz-iran/
 categories:
   - Uncategorized
@@ -62,5 +62,5 @@ tags:
   </p>
   
   <p style="text-align: left;">
-    On the Blog: <a href="http://blog.vickiboykis.com/2009/03/26/the-women-of-kabul-a-lost-time/">The Women of Kabul</a>;  <a href="http://blog.vickiboykis.com/2009/03/11/the-iranian-threat-isnt/">The Iranian Threat-Isn&#8217;t</a><br /> On the Web: <a href="http://www.iranchamber.com/culture/articles/iranian_women_contemporary_memoirs.php">Iranian Women and Contemporary Memoirs</a>
+    On the Blog: <a href="http://blog.vickiboykis.com/wlb/2009/03/26/the-women-of-kabul-a-lost-time/">The Women of Kabul</a>;  <a href="http://blog.vickiboykis.com/wlb/2009/03/11/the-iranian-threat-isnt/">The Iranian Threat-Isn&#8217;t</a><br /> On the Web: <a href="http://www.iranchamber.com/culture/articles/iranian_women_contemporary_memoirs.php">Iranian Women and Contemporary Memoirs</a>
   </p>

@@ -4,7 +4,7 @@ title: 'Riding a horse is like blogging, except you can&#8217;t become a parapal
 date: 2010-01-18T21:59:37+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=2122
+guid: http://blog.vickiboykis.com/wlb/?p=2122
 permalink: /2010/01/riding-a-horse-is-like-blogging-except-you-cant-become-a-parapalegic-if-you-blog/
 categories:
   - Uncategorized
@@ -59,8 +59,8 @@ Trotting is insanely hard if you&#8217;ve never done it before because you can&#
 
 And as I was holding on for dear life and bracing myself for a fall on my spinal cord, I started to get the hang of it.  If  I just made sure to feel Hoover&#8217;s movements and adjust to them, I could get into a kind of steady rhythm.  He trusted me, and I trusted him.
 
-And, in a way, that&#8217;s how I think blogging is, too.  You don&#8217;t always have the rhythm.  Sometimes you&#8217;re on, sometimes you&#8217;re off.  Sometimes I write posts that are too politically and [economically heavy](http://blog.vickiboykis.com/2009/01/25/predictions-on-the-economy-from-a-dismal-scientist/) but that are important for me to write, sometimes I write [really silly posts](http://blog.vickiboykis.com/2009/02/06/the-most-depressing-baby-songs-ever-russian-ones/) that are equally part of the fun for blogging for me.  It&#8217;s always difficult for me to keep a balance between personal and professional on the blog, but I keep trying.   You keep writing and soon enough, you&#8217;ll find your balance and rhythm.  Hopefully, after a year of blogging,  I&#8217;m on my way to finding mine.
+And, in a way, that&#8217;s how I think blogging is, too.  You don&#8217;t always have the rhythm.  Sometimes you&#8217;re on, sometimes you&#8217;re off.  Sometimes I write posts that are too politically and [economically heavy](http://blog.vickiboykis.com/wlb/2009/01/25/predictions-on-the-economy-from-a-dismal-scientist/) but that are important for me to write, sometimes I write [really silly posts](http://blog.vickiboykis.com/wlb/2009/02/06/the-most-depressing-baby-songs-ever-russian-ones/) that are equally part of the fun for blogging for me.  It&#8217;s always difficult for me to keep a balance between personal and professional on the blog, but I keep trying.   You keep writing and soon enough, you&#8217;ll find your balance and rhythm.  Hopefully, after a year of blogging,  I&#8217;m on my way to finding mine.
 
 **Related on the blog:**
 
-[My first-ever post on the blog](http://blog.vickiboykis.com/2009/01/07/hello-world/)
+[My first-ever post on the blog](http://blog.vickiboykis.com/wlb/2009/01/07/hello-world/)

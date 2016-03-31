@@ -4,7 +4,7 @@ title: NaNoWriMo Update!
 date: 2009-11-01T09:30:41+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=1599
+guid: http://blog.vickiboykis.com/wlb/?p=1599
 permalink: /2009/11/nanowrimo-update/
 categories:
   - Uncategorized

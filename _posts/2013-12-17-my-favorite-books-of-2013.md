@@ -4,7 +4,7 @@ title: My favorite books of 2013
 date: 2013-12-17T19:15:52+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=9317
+guid: http://blog.vickiboykis.com/wlb/?p=9317
 permalink: /2013/12/my-favorite-books-of-2013/
 categories:
   - Uncategorized
@@ -21,7 +21,7 @@ __and I really loved the thick, juicy historical richness of the book . The plot
    <img class="wp-image-9319 aligncenter" alt="longbourn" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/12/longbourn-580x846.jpg" width="278" height="406" />
 </p>
 
-<a href="http://www.amazon.com/Tell-Wolves-Im-Home-Novel/dp/0812982851" target="_blank"><b>Tell the Wolves I&#8217;m Home</b></a> I&#8217;ve been resisting reading this one for a while because for some reason I thought it was about the Holocaust. Was it the bears on the cover? Was it the fact that the author&#8217;s middle name was Rifka? Not sure. In any case, initially I didn&#8217;t want to read it at all.But I kept being <a href="http://blog.vickiboykis.com/2012/08/judging-a-book-by-its-cover/" target="_blank">drawn in by the cover </a>art and the fact that it kept making its way to best lists.
+<a href="http://www.amazon.com/Tell-Wolves-Im-Home-Novel/dp/0812982851" target="_blank"><b>Tell the Wolves I&#8217;m Home</b></a> I&#8217;ve been resisting reading this one for a while because for some reason I thought it was about the Holocaust. Was it the bears on the cover? Was it the fact that the author&#8217;s middle name was Rifka? Not sure. In any case, initially I didn&#8217;t want to read it at all.But I kept being <a href="http://blog.vickiboykis.com/wlb/2012/08/judging-a-book-by-its-cover/" target="_blank">drawn in by the cover </a>art and the fact that it kept making its way to best lists.
 
 I&#8217;m so glad I read this book. Is it sad? Yes, but not in a way that will make you cry, which is why I loved reading it.  It&#8217;s sad because you come face-to-face with the realization that everyone has to grow up when you read it. It&#8217;s a quiet kind of sadness, an introspection.
 
@@ -174,7 +174,7 @@ June spends the rest of the novel  learning to forgive his partner, Toby, who b
         </p>
         
         <p>
-          Here are some more of my faves <a href="http://blog.vickiboykis.com/2012/01/the-best-books-i-read-in-2011/" target="_blank">from 2011</a>, and <a href="http://blog.vickiboykis.com/2012/10/books-paris-i-love-you-but-youre-bringing-me-down/" target="_blank">2012</a>.
+          Here are some more of my faves <a href="http://blog.vickiboykis.com/wlb/2012/01/the-best-books-i-read-in-2011/" target="_blank">from 2011</a>, and <a href="http://blog.vickiboykis.com/wlb/2012/10/books-paris-i-love-you-but-youre-bringing-me-down/" target="_blank">2012</a>.
         </p>
         
         <p>

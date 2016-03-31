@@ -4,7 +4,7 @@ title: Hallmark holidays are not my forte
 date: 2014-06-09T07:46:50+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=9728
+guid: http://blog.vickiboykis.com/wlb/?p=9728
 permalink: /2014/06/hallmark-holidays-are-not-my-forte/
 categories:
   - Uncategorized
@@ -18,7 +18,7 @@ tags:
 ---
 [<img class="aligncenter size-full wp-image-9730" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2014/06/bathing-of-a-baby.jpgLarge.jpg" alt="bathing-of-a-baby.jpg!Large" width="418" height="600" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2014/06/bathing-of-a-baby.jpgLarge.jpg)
 
-As you may know if you&#8217;ve been reading my blog for any amount of time by now, I&#8217;m not normal. I mean, not normal in the regular sense, but also in the sense that I don&#8217;t enjoy the things that most women enjoy: <a href="http://blog.vickiboykis.com/2011/04/manicures-for-cheap-jewish-werewolves-and-other-ethnic-minorities/" target="_blank">manicures</a>, <a href="http://blog.vickiboykis.com/2012/08/my-first-and-last-massage/" target="_blank">massages</a>, and understanding how to wear <a href="http://blog.vickiboykis.com/2010/09/please-help-me-look-less-like-gaga-and-more-like-coco/" target="_blank">clothes</a>.  I also suck at <a href="http://blog.vickiboykis.com/2010/02/accidental-chicken-tikka-masala-or-recipe-websites-are-awful/" target="_blank">cooking</a>.
+As you may know if you&#8217;ve been reading my blog for any amount of time by now, I&#8217;m not normal. I mean, not normal in the regular sense, but also in the sense that I don&#8217;t enjoy the things that most women enjoy: <a href="http://blog.vickiboykis.com/wlb/2011/04/manicures-for-cheap-jewish-werewolves-and-other-ethnic-minorities/" target="_blank">manicures</a>, <a href="http://blog.vickiboykis.com/wlb/2012/08/my-first-and-last-massage/" target="_blank">massages</a>, and understanding how to wear <a href="http://blog.vickiboykis.com/wlb/2010/09/please-help-me-look-less-like-gaga-and-more-like-coco/" target="_blank">clothes</a>.  I also suck at <a href="http://blog.vickiboykis.com/wlb/2010/02/accidental-chicken-tikka-masala-or-recipe-websites-are-awful/" target="_blank">cooking</a>.
 
 As I was growing up, my nonability to know how to turn on a stove was an evergreen source of disappointment for my mom, who enjoys  dressing up, wearing makeup, and doing all of the stuff women are supposed to know how to do so they don&#8217;t call their mom sobbing two weeks after living in an apartment on their own because they&#8217;re not sure how to boil water for eggs.
 
@@ -26,7 +26,7 @@ My mom was always proud of me for my academic accomplishments and the fact that 
 
 As I grew older, I strayed even further away from what was considered the realm of normal for ladies. I tried to wear ChapStick in 7th grade but had to give that up because it smelled too good and I&#8217;d tried to eat it.
 
-These days, I&#8217;m a little better about convincing society that I am, in fact, female, but I don&#8217;t always succeed. For example, My mom is still always game for talking about the latest shoes she bought, how her new purse looks, and what she&#8217;ll be making for dinner. I want to talk about  <a href="http://blog.vickiboykis.com/2012/05/mr-b-and-i-are-prepared-for-anything-anything-being-either-pogroms-or-the-siege-of-leningrad/" target="_blank">pogroms</a>.
+These days, I&#8217;m a little better about convincing society that I am, in fact, female, but I don&#8217;t always succeed. For example, My mom is still always game for talking about the latest shoes she bought, how her new purse looks, and what she&#8217;ll be making for dinner. I want to talk about  <a href="http://blog.vickiboykis.com/wlb/2012/05/mr-b-and-i-are-prepared-for-anything-anything-being-either-pogroms-or-the-siege-of-leningrad/" target="_blank">pogroms</a>.
 
 This year, I figured I would finally repay her for all the tzuris I inflicted during my youth by doing that thing daughters are supposed to do for their moms on Mother&#8217;s Day. I signed her up for a spa day/massage.
 

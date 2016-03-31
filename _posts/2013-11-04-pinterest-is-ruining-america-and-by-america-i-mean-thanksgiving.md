@@ -4,7 +4,7 @@ title: Pinterest is ruining America, and by America I mean Thanksgiving
 date: 2013-11-04T07:58:48+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=9229
+guid: http://blog.vickiboykis.com/wlb/?p=9229
 permalink: /2013/11/pinterest-is-ruining-america-and-by-america-i-mean-thanksgiving/
 categories:
   - Uncategorized
@@ -45,7 +45,7 @@ So usually I can withstand their charms, because I hate 90% of everything on Pin
 
 are able to and have time to do this stuff.
 
-Maybe I should know how to do this stuff. I have no idea how to sew, almost no baking skills, and I consider Photoshop to be my crafting tool of choice. What I&#8217;m saying is that I would die on the Oregon Trail, or even in my favorite <a href="http://blog.vickiboykis.com/2012/05/mr-b-and-i-are-prepared-for-anything-anything-being-either-pogroms-or-the-siege-of-leningrad/" target="_blank">Siege of Leningrad</a>.
+Maybe I should know how to do this stuff. I have no idea how to sew, almost no baking skills, and I consider Photoshop to be my crafting tool of choice. What I&#8217;m saying is that I would die on the Oregon Trail, or even in my favorite <a href="http://blog.vickiboykis.com/wlb/2012/05/mr-b-and-i-are-prepared-for-anything-anything-being-either-pogroms-or-the-siege-of-leningrad/" target="_blank">Siege of Leningrad</a>.
 
 Look at these brownies I made from a box last night. Jesus. They look like something you would give the livestock while you&#8217;re yelling &#8220;sooKEEEE, here SOOOKIIIEE.&#8221; Mr. B was the victim of choice for these.
 
@@ -53,7 +53,7 @@ Look at these brownies I made from a box last night. Jesus. They look like somet
   <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/11/Screen-Shot-2013-11-04-at-7.32.39-AM.png"><img class="aligncenter  wp-image-9235" alt="Screen Shot 2013-11-04 at 7.32.39 AM" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/11/Screen-Shot-2013-11-04-at-7.32.39-AM-580x559.png" width="464" height="447" /></a>
 </p>
 
-Since I&#8217;ve realized how much I suck, I&#8217;ve been reflecting on how I can be <a href="http://blog.vickiboykis.com/2010/11/the-worstbest-thanksgiving-poem-ever/" target="_blank">more hostess-y </a>and welcoming <a href="http://blog.vickiboykis.com/2011/11/a-very-russian-family-thanksgiving-complete-with-russian-movies/" target="_blank">for Thanksgiving</a>, since I&#8217;m hosting at least 12 people again.
+Since I&#8217;ve realized how much I suck, I&#8217;ve been reflecting on how I can be <a href="http://blog.vickiboykis.com/wlb/2010/11/the-worstbest-thanksgiving-poem-ever/" target="_blank">more hostess-y </a>and welcoming <a href="http://blog.vickiboykis.com/wlb/2011/11/a-very-russian-family-thanksgiving-complete-with-russian-movies/" target="_blank">for Thanksgiving</a>, since I&#8217;m hosting at least 12 people again.
 
 So when Pinterest walked up beside me in an alley and flashed open its coat to reveal hanging plastic baggies of Pins for Thanksgiving, I jumped on it and started looking for cute, do-able Thanksgiving recipes.
 

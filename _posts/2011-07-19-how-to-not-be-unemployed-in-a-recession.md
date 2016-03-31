@@ -4,7 +4,7 @@ title: How to not be unemployed in a recession
 date: 2011-07-19T09:17:39+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=5319
+guid: http://blog.vickiboykis.com/wlb/?p=5319
 permalink: /2011/07/how-to-not-be-unemployed-in-a-recession/
 categories:
   - Uncategorized
@@ -36,7 +36,7 @@ In fact, Mr. B was able to find four jobs from 2007-today, and I&#8217;ve been a
 
 The key point, though, is that all of us majored in somewhat technical fields, or if we didn&#8217;t go to college in the United States, trained here for them.  Here is the range of my family&#8217;s professions: computer programmer, power tools and electrical repair, computer programmer, civil engineer, computer programmer, business/economic consultant, computer programmer, QA analyst, computer programmer, medical office.
 
-What&#8217;s my point? The recession is affecting mostly those whose job skills are no longer needed in the economy.  The manufacturers.  The print journalists. The artists whose skills are no longer necessary as businesses try to streamline costs.  And also those located in cities that don&#8217;t have big employment opportunities. Unless you drive a <a href="http://blog.vickiboykis.com/2011/04/26/a-guide-to-questionable-russian-careers-or-seryozha-that-guy-with-the-ambulance/" target="_blank">Russian ambulance</a>.
+What&#8217;s my point? The recession is affecting mostly those whose job skills are no longer needed in the economy.  The manufacturers.  The print journalists. The artists whose skills are no longer necessary as businesses try to streamline costs.  And also those located in cities that don&#8217;t have big employment opportunities. Unless you drive a <a href="http://blog.vickiboykis.com/wlb/2011/04/26/a-guide-to-questionable-russian-careers-or-seryozha-that-guy-with-the-ambulance/" target="_blank">Russian ambulance</a>.
 
 And, as Megan writes, the recession is hard and unemployment is excruciating:
 

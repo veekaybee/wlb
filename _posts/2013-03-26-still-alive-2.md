@@ -4,7 +4,7 @@ title: Still alive.
 date: 2013-03-26T08:07:12+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=8495
+guid: http://blog.vickiboykis.com/wlb/?p=8495
 permalink: /2013/03/still-alive-2/
 categories:
   - Uncategorized

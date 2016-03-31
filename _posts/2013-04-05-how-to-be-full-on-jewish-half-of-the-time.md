@@ -4,7 +4,7 @@ title: How to be full-on Jewish half of the time
 date: 2013-04-05T08:14:47+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=8555
+guid: http://blog.vickiboykis.com/wlb/?p=8555
 permalink: /2013/04/how-to-be-full-on-jewish-half-of-the-time/
 categories:
   - family
@@ -22,7 +22,7 @@ tags:
 
 [<img class="aligncenter size-medium wp-image-8556" alt="IMG_20130330_073415" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/04/IMG_20130330_073415-580x435.jpg" width="580" height="435" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/04/IMG_20130330_073415.jpg)
 
-Several glasses deep into a bottle of wine a couple months ago, my friend and I decided we needed <a href="http://blog.vickiboykis.com/2012/12/our-religion-is-really-just-our-parents/" target="_blank">more Jewish rituals</a> in our lives. She has a toddler and wants to make sure he is steeped in Jewish tradition, but, also being ex-Soviet, is not sure how to go about doing it.
+Several glasses deep into a bottle of wine a couple months ago, my friend and I decided we needed <a href="http://blog.vickiboykis.com/wlb/2012/12/our-religion-is-really-just-our-parents/" target="_blank">more Jewish rituals</a> in our lives. She has a toddler and wants to make sure he is steeped in Jewish tradition, but, also being ex-Soviet, is not sure how to go about doing it.
 
 So, this past weekend, Mr. B and I hosted a Passover seder. We probably shouldn&#8217;t have, because people really only do seder the first two nights, I think.  I&#8217;m not 100% clear on seder rules. But, I had some time last Saturday and all of our friends were free, and it was marginally during the week of Passover, so, that&#8217;s when we decided to have the seder.
 

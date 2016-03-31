@@ -4,7 +4,7 @@ title: Saturday in Alexandria
 date: 2010-09-20T06:42:25+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=3597
+guid: http://blog.vickiboykis.com/wlb/?p=3597
 permalink: /2010/09/saturday-in-alexandria/
 categories:
   - Uncategorized

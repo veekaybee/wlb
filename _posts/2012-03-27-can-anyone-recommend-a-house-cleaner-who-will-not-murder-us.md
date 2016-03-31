@@ -4,7 +4,7 @@ title: Can anyone recommend a house cleaner who will not murder us?
 date: 2012-03-27T08:15:23+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=6601
+guid: http://blog.vickiboykis.com/wlb/?p=6601
 permalink: /2012/03/can-anyone-recommend-a-house-cleaner-who-will-not-murder-us/
 categories:
   - Uncategorized
@@ -22,7 +22,7 @@ I am looking for someone to give our house a good spring cleaning.  Here&#8217;
   <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/03/abandoned_soviet_library.jpg"><img class="aligncenter  wp-image-6603" title="abandoned_soviet_library" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/03/abandoned_soviet_library.jpg" alt="" width="518" height="382" /></a>
 </p>
 
-Don&#8217;t get me wrong, Mr. B and I spend around hours every week cleaning our house.  But as soon as it&#8217;s clean on Sundays, it magically starts to become dirty again, and thus the cycle restarts.  We also haven&#8217;t deep-cleaned for months, meaning there are some corners where it&#8217;s possible the fifth dimension exists amongs the lush vegetation and spider webs. Our <a href="http://blog.vickiboykis.com/2011/08/our-domovoi-americans-hes-just-a-short-invisibile-bearded-dude-that-lives-in-your-home-no-biggie/" target="_blank">domovoi </a>is probably angry.
+Don&#8217;t get me wrong, Mr. B and I spend around hours every week cleaning our house.  But as soon as it&#8217;s clean on Sundays, it magically starts to become dirty again, and thus the cycle restarts.  We also haven&#8217;t deep-cleaned for months, meaning there are some corners where it&#8217;s possible the fifth dimension exists amongs the lush vegetation and spider webs. Our <a href="http://blog.vickiboykis.com/wlb/2011/08/our-domovoi-americans-hes-just-a-short-invisibile-bearded-dude-that-lives-in-your-home-no-biggie/" target="_blank">domovoi </a>is probably angry.
 
 When you add the fact that right now my MBA and the ebook have top after-work priority, and for Mr. B is working on two online classes, you get something extremely terrifying.
 

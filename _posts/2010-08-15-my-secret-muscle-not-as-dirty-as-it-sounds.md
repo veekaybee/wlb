@@ -4,7 +4,7 @@ title: My Secret Muscle (not as dirty as it sounds)
 date: 2010-08-15T19:21:36+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=3471
+guid: http://blog.vickiboykis.com/wlb/?p=3471
 permalink: /2010/08/my-secret-muscle-not-as-dirty-as-it-sounds/
 categories:
   - Uncategorized

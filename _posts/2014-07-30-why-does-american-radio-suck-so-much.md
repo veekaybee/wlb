@@ -4,7 +4,7 @@ title: Why does American radio suck so much?
 date: 2014-07-30T08:04:57+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=9776
+guid: http://blog.vickiboykis.com/wlb/?p=9776
 permalink: /2014/07/why-does-american-radio-suck-so-much/
 categories:
   - culture
@@ -21,9 +21,9 @@ tags:
 ---
 [<img class="aligncenter size-full wp-image-9781" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2014/07/the-san-giobbe-altarpiece-detail-of-music-making-angels-1480.jpgBlog.jpg" alt="the-san-giobbe-altarpiece-detail-of-music-making-angels-1480.jpg!Blog" width="399" height="500" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2014/07/the-san-giobbe-altarpiece-detail-of-music-making-angels-1480.jpgBlog.jpg)
 
-Every time I start driving to get to work, <a href="http://blog.vickiboykis.com/2010/11/in-philadelphia-traffic-everyones-an-engineer/" target="_blank">I get progressively angrier</a>. Thankfully, this time my new job&#8217;s only 25 minutes away, but that&#8217;s 25 minutes of either radio or audiobooks. I love both audiobooks and public radio, and would highly recommend both to anyone doing a commute, but sometimes I get tired of  NPR gently telling me that global warming, racism,  ISIS and gluten-intolerance are all my fault,  and I  just want to listen to music.
+Every time I start driving to get to work, <a href="http://blog.vickiboykis.com/wlb/2010/11/in-philadelphia-traffic-everyones-an-engineer/" target="_blank">I get progressively angrier</a>. Thankfully, this time my new job&#8217;s only 25 minutes away, but that&#8217;s 25 minutes of either radio or audiobooks. I love both audiobooks and public radio, and would highly recommend both to anyone doing a commute, but sometimes I get tired of  NPR gently telling me that global warming, racism,  ISIS and gluten-intolerance are all my fault,  and I  just want to listen to music.
 
-The problem with American music stations is they SUCK. There is no other word for it. Which is why, when I&#8217;m at home, I usually listen to <a href="http://blog.vickiboykis.com/2011/12/this-post-is-kind-of-hipster-because-i-talk-about-old-school-radios-and-miss-them-but-i-also-love-my-ipad/" target="_blank">European radio</a>. But it seems unfair that the American listening public is subjected to the same 20-not even 40-songs over and over again, and even <a href="http://www.gizmag.com/pop-music-trends/23535/" target="_blank">those songs are all the same</a>.
+The problem with American music stations is they SUCK. There is no other word for it. Which is why, when I&#8217;m at home, I usually listen to <a href="http://blog.vickiboykis.com/wlb/2011/12/this-post-is-kind-of-hipster-because-i-talk-about-old-school-radios-and-miss-them-but-i-also-love-my-ipad/" target="_blank">European radio</a>. But it seems unfair that the American listening public is subjected to the same 20-not even 40-songs over and over again, and even <a href="http://www.gizmag.com/pop-music-trends/23535/" target="_blank">those songs are all the same</a>.
 
 Every day as I drive, I wonder in rage, not about measles outbreaks or genetically-modified vegetables, but why the hell the American public is ok with shitty radio.
 

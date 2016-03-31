@@ -4,7 +4,7 @@ title: 'This post wast not sponsored by UPenn&#8230;yet'
 date: 2011-06-28T11:01:40+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=5169
+guid: http://blog.vickiboykis.com/wlb/?p=5169
 permalink: /2011/06/this-post-wast-not-sponsored-by-upenn-yet/
 categories:
   - Uncategorized

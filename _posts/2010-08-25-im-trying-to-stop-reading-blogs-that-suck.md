@@ -4,7 +4,7 @@ title: 'I&#8217;m Trying to Stop Reading Blogs that Suck'
 date: 2010-08-25T06:22:29+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=3517
+guid: http://blog.vickiboykis.com/wlb/?p=3517
 permalink: /2010/08/im-trying-to-stop-reading-blogs-that-suck/
 categories:
   - Uncategorized

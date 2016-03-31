@@ -4,7 +4,7 @@ title: 'A Russian fairy tale: Tori and the firebird'
 date: 2010-03-23T19:21:28+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=2599
+guid: http://blog.vickiboykis.com/wlb/?p=2599
 permalink: /2010/03/a-russian-fairy-tale-tori-and-the-firebird/
 categories:
   - Uncategorized

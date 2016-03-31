@@ -4,7 +4,7 @@ title: 'Women  in Wonderland'
 date: 2010-03-28T22:13:11+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=2580
+guid: http://blog.vickiboykis.com/wlb/?p=2580
 permalink: /2010/03/women-in-wonderland/
 categories:
   - Uncategorized

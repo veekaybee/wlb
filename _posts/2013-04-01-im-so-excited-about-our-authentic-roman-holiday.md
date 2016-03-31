@@ -4,7 +4,7 @@ title: 'I&#8217;m so excited about our authentic Roman holiday'
 date: 2013-04-01T08:11:58+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=8537
+guid: http://blog.vickiboykis.com/wlb/?p=8537
 permalink: /2013/04/im-so-excited-about-our-authentic-roman-holiday/
 categories:
   - Europe
@@ -25,11 +25,11 @@ tags:
    <a href="http://www.fotocommunity.com/pc/pc/display/23078288" target="_blank">Photo source. </a>
 </p>
 
-I&#8217;m staying sane between school and work by planning our vacation to Italy. One of the cities we&#8217;re staying in is Rome. But, Mr. B&#8217;s already been to Rome and I&#8217;ve <a href="http://blog.vickiboykis.com/2009/04/why-we-all-sometimes-need-a-roman-holiday/" target="_blank">seen it so many times</a> on tv I might as well have been there, so I was looking for some place really special to stay and have an &#8220;authentic&#8221; Roman experience, as the white people say.
+I&#8217;m staying sane between school and work by planning our vacation to Italy. One of the cities we&#8217;re staying in is Rome. But, Mr. B&#8217;s already been to Rome and I&#8217;ve <a href="http://blog.vickiboykis.com/wlb/2009/04/why-we-all-sometimes-need-a-roman-holiday/" target="_blank">seen it so many times</a> on tv I might as well have been there, so I was looking for some place really special to stay and have an &#8220;authentic&#8221; Roman experience, as the white people say.
 
 <!--more-->
 
-AirBnB, which Mr. B and I have used very successfully before in <a href="http://blog.vickiboykis.com/?s=airbnb&submit=Search" target="_blank">Scotland, New York, New Orleans, and Arizona,</a> did not disappoint, and as of tomorrow, hopefully,we are booked for 1989 Soviet immigrant Rome.
+AirBnB, which Mr. B and I have used very successfully before in <a href="http://blog.vickiboykis.com/wlb/?s=airbnb&submit=Search" target="_blank">Scotland, New York, New Orleans, and Arizona,</a> did not disappoint, and as of tomorrow, hopefully,we are booked for 1989 Soviet immigrant Rome.
 
 Let me back up.  In the late 1980s, during the thaw of perestroika,  masses of Soviet Jews started being allowed to immigrate to the United States, Israel, and Germany. But there were so many Jews that wanted to go anywhere that they usually went to a central waiting point outside of the Soviet Union and the American embassy would hear their cases and decide whether they&#8217;d be allowed to immigrate. <a href="http://articles.chicagotribune.com/1989-09-13/news/8901120640_1_emigration-russian-jews-rome-and-vienna" target="_blank">Rome</a> was one of those places people waited for months before they were taken for their refugee interview and given tickets to New York.
 

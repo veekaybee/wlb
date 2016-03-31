@@ -4,7 +4,7 @@ title: 'Shortie: Steppe and Glamour'
 date: 2010-03-10T07:17:08+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=2479
+guid: http://blog.vickiboykis.com/wlb/?p=2479
 permalink: /2010/03/shortie-steppe-and-glamour/
 categories:
   - Uncategorized

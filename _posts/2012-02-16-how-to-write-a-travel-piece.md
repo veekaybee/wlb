@@ -4,7 +4,7 @@ title: How to Write a Travel Piece
 date: 2012-02-16T08:00:58+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=6454
+guid: http://blog.vickiboykis.com/wlb/?p=6454
 permalink: /2012/02/how-to-write-a-travel-piece/
 categories:
   - Uncategorized

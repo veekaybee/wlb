@@ -4,7 +4,7 @@ title: Help Name that Electronic Device!
 date: 2010-05-04T07:33:52+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=2869
+guid: http://blog.vickiboykis.com/wlb/?p=2869
 permalink: /2010/05/help-name-that-electronic-device/
 categories:
   - Uncategorized
@@ -13,7 +13,7 @@ tags:
   - names
   - technology
 ---
-My new [HTC Incredible](http://www.wired.com/reviews/product/pr_htc_incredible) came in the mail yesterday and I don&#8217;t think I could be any more excited if [Gad Elmaleh](http://blog.vickiboykis.com/2009/12/14/movie-review-10-weizman-street-plus-comme-ton-pere/) came in the mail (but only if the shipping was free.)
+My new [HTC Incredible](http://www.wired.com/reviews/product/pr_htc_incredible) came in the mail yesterday and I don&#8217;t think I could be any more excited if [Gad Elmaleh](http://blog.vickiboykis.com/wlb/2009/12/14/movie-review-10-weizman-street-plus-comme-ton-pere/) came in the mail (but only if the shipping was free.)
 
 This is not my phone, but [engaget&#8217;s](http://www.engadget.com/2010/04/19/droid-incredible-review/), because, unfortunately, out of all of the things he can do, he can&#8217;t take pictures of himself.  Also, I don&#8217;t wear paisley ties. Mostly.
 
@@ -34,5 +34,5 @@ This is not my phone, but [engaget&#8217;s](http://www.engadget.com/2010/04/19/d
 </p>
 
 <p style="text-align: left;">
-  However, I won&#8217;t apologize for being crazy, because <a href="http://blog.vickiboykis.com/2009/05/16/the-beginning-of-wisdom-is-to-call-things-by-their-right-names/">names</a> are important and this phone needs a name asap, and I need your help. Suggestions?  Also, do you think the people at <a href="http://nameberry.com/">Nameberry</a> would banish me if I started posting about this in the forums?
+  However, I won&#8217;t apologize for being crazy, because <a href="http://blog.vickiboykis.com/wlb/2009/05/16/the-beginning-of-wisdom-is-to-call-things-by-their-right-names/">names</a> are important and this phone needs a name asap, and I need your help. Suggestions?  Also, do you think the people at <a href="http://nameberry.com/">Nameberry</a> would banish me if I started posting about this in the forums?
 </p>

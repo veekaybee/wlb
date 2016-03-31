@@ -4,7 +4,7 @@ title: Look what I found by the side of the road in Philadelphia
 date: 2010-10-18T15:35:10+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=3768
+guid: http://blog.vickiboykis.com/wlb/?p=3768
 permalink: /2010/10/look-what-i-found-by-the-side-of-the-road-in-philadelphia/
 categories:
   - Uncategorized

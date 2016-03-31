@@ -4,7 +4,7 @@ title: Is it feminism to pose naked with a challah?
 date: 2010-01-04T22:20:33+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=1978
+guid: http://blog.vickiboykis.com/wlb/?p=1978
 permalink: /2010/01/is-it-feminism-to-pose-naked-with-a-challah/
 categories:
   - Uncategorized

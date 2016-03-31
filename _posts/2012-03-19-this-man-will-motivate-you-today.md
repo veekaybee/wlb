@@ -4,7 +4,7 @@ title: This man will motivate you today
 date: 2012-03-19T14:51:00+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=6587
+guid: http://blog.vickiboykis.com/wlb/?p=6587
 permalink: /2012/03/this-man-will-motivate-you-today/
 categories:
   - Uncategorized

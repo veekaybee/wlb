@@ -4,7 +4,7 @@ title: 'Movie Review: Avatar'
 date: 2009-12-22T07:28:50+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=1933
+guid: http://blog.vickiboykis.com/wlb/?p=1933
 permalink: /2009/12/movie-review-avatar/
 categories:
   - Uncategorized

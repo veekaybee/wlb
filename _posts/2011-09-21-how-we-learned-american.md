@@ -4,7 +4,7 @@ title: How We Learned American
 date: 2011-09-21T07:21:43+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=5728
+guid: http://blog.vickiboykis.com/wlb/?p=5728
 permalink: /2011/09/how-we-learned-american/
 categories:
   - Uncategorized

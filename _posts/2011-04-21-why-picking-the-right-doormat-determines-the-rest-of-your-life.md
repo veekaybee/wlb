@@ -4,7 +4,7 @@ title: Why picking the right doormat determines the rest of your life
 date: 2011-04-21T08:31:19+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=4865
+guid: http://blog.vickiboykis.com/wlb/?p=4865
 permalink: /2011/04/why-picking-the-right-doormat-determines-the-rest-of-your-life/
 categories:
   - Uncategorized
@@ -19,13 +19,13 @@ tags:
 ---
 This blog is not going to become a house blog, mainly because it already has enough of a personality disorder.
 
-But, we are closing next Friday (barring any natural disasters, [like God hating me](http://blog.vickiboykis.com/2009/09/16/gods-is-straight-up-messing-with-me/),) and I am finally, FINALLY starting to get excited about homeownership, because [finally I can](http://blog.vickiboykis.com/2011/03/23/the-world-is-going-crazy-so-hopefully-reading-about-my-radon-problems-will-cheer-you-up/) (our house has been remediated and is cancer-free and living strong, just like Lance.) Although we don&#8217;t want to buy a houseful of furniture until we move in and get an idea for paint colors, where the Nutella room will go, which room will be designated for my Veuve Clicquot collection, etc, I&#8217;ve been scoping out some small stuff that I can already buy with relatively little risk.
+But, we are closing next Friday (barring any natural disasters, [like God hating me](http://blog.vickiboykis.com/wlb/2009/09/16/gods-is-straight-up-messing-with-me/),) and I am finally, FINALLY starting to get excited about homeownership, because [finally I can](http://blog.vickiboykis.com/wlb/2011/03/23/the-world-is-going-crazy-so-hopefully-reading-about-my-radon-problems-will-cheer-you-up/) (our house has been remediated and is cancer-free and living strong, just like Lance.) Although we don&#8217;t want to buy a houseful of furniture until we move in and get an idea for paint colors, where the Nutella room will go, which room will be designated for my Veuve Clicquot collection, etc, I&#8217;ve been scoping out some small stuff that I can already buy with relatively little risk.
 
 Oh, who am I kidding.  I&#8217;ve been [overloading on consumerism on Pinterest](http://pinterest.com/veeko/) for at least two weeks now fondling room arrangements.
 
 But I&#8217;ve forced myself to stop, until I decided that I could buy one thing that would be relatively low-risk: a doormat.
 
-Doorways and thresholds are pretty important [in home mythology](http://blog.vickiboykis.com/2011/04/05/did-you-know-that-our-maybe-house-has-evil-spirits-also-heres-a-picture-of-me-eating-bread/) and if I pick the wrong one, all of our karma is screwed and we might still perish in this house, so no pressure.  I want our doormat to be welcoming, but not TOO welcoming ifyouknowhatimean. Can&#8217;t have a whoremat.  It also has to be modern, cute, and, most importantly, functional.
+Doorways and thresholds are pretty important [in home mythology](http://blog.vickiboykis.com/wlb/2011/04/05/did-you-know-that-our-maybe-house-has-evil-spirits-also-heres-a-picture-of-me-eating-bread/) and if I pick the wrong one, all of our karma is screwed and we might still perish in this house, so no pressure.  I want our doormat to be welcoming, but not TOO welcoming ifyouknowhatimean. Can&#8217;t have a whoremat.  It also has to be modern, cute, and, most importantly, functional.
 
 **So here were my options:** 
 
@@ -49,13 +49,13 @@ Doorways and thresholds are pretty important [in home mythology](http://blog.vic
 
 [This blog is not going to become a house blog, mainly because it already has enough of a personality disorder.
 
-But, we are closing next Friday (barring any natural disasters, [like God hating me](http://blog.vickiboykis.com/2009/09/16/gods-is-straight-up-messing-with-me/),) and I am finally, FINALLY starting to get excited about homeownership, because [finally I can](http://blog.vickiboykis.com/2011/03/23/the-world-is-going-crazy-so-hopefully-reading-about-my-radon-problems-will-cheer-you-up/) (our house has been remediated and is cancer-free and living strong, just like Lance.) Although we don&#8217;t want to buy a houseful of furniture until we move in and get an idea for paint colors, where the Nutella room will go, which room will be designated for my Veuve Clicquot collection, etc, I&#8217;ve been scoping out some small stuff that I can already buy with relatively little risk.
+But, we are closing next Friday (barring any natural disasters, [like God hating me](http://blog.vickiboykis.com/wlb/2009/09/16/gods-is-straight-up-messing-with-me/),) and I am finally, FINALLY starting to get excited about homeownership, because [finally I can](http://blog.vickiboykis.com/wlb/2011/03/23/the-world-is-going-crazy-so-hopefully-reading-about-my-radon-problems-will-cheer-you-up/) (our house has been remediated and is cancer-free and living strong, just like Lance.) Although we don&#8217;t want to buy a houseful of furniture until we move in and get an idea for paint colors, where the Nutella room will go, which room will be designated for my Veuve Clicquot collection, etc, I&#8217;ve been scoping out some small stuff that I can already buy with relatively little risk.
 
 Oh, who am I kidding.  I&#8217;ve been [overloading on consumerism on Pinterest](http://pinterest.com/veeko/) for at least two weeks now fondling room arrangements.
 
 But I&#8217;ve forced myself to stop, until I decided that I could buy one thing that would be relatively low-risk: a doormat.
 
-Doorways and thresholds are pretty important [in home mythology](http://blog.vickiboykis.com/2011/04/05/did-you-know-that-our-maybe-house-has-evil-spirits-also-heres-a-picture-of-me-eating-bread/) and if I pick the wrong one, all of our karma is screwed and we might still perish in this house, so no pressure.  I want our doormat to be welcoming, but not TOO welcoming ifyouknowhatimean. Can&#8217;t have a whoremat.  It also has to be modern, cute, and, most importantly, functional.
+Doorways and thresholds are pretty important [in home mythology](http://blog.vickiboykis.com/wlb/2011/04/05/did-you-know-that-our-maybe-house-has-evil-spirits-also-heres-a-picture-of-me-eating-bread/) and if I pick the wrong one, all of our karma is screwed and we might still perish in this house, so no pressure.  I want our doormat to be welcoming, but not TOO welcoming ifyouknowhatimean. Can&#8217;t have a whoremat.  It also has to be modern, cute, and, most importantly, functional.
 
 **So here were my options:** 
 

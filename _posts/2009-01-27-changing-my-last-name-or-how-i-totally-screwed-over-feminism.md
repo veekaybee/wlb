@@ -4,7 +4,7 @@ title: 'Changing My Last Name: Or, how I totally screwed over feminism'
 date: 2009-01-27T22:44:57+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=79
+guid: http://blog.vickiboykis.com/wlb/?p=79
 permalink: /2009/01/changing-my-last-name-or-how-i-totally-screwed-over-feminism/
 categories:
   - Uncategorized

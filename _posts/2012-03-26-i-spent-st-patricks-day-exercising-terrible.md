@@ -4,7 +4,7 @@ title: 'I spent St. Patrick&#8217;s Day exercising. Terrible.'
 date: 2012-03-26T07:44:53+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=6593
+guid: http://blog.vickiboykis.com/wlb/?p=6593
 permalink: /2012/03/i-spent-st-patricks-day-exercising-terrible/
 categories:
   - Uncategorized

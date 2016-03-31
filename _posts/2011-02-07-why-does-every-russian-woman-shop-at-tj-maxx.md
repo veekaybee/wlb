@@ -4,7 +4,7 @@ title: Why Does Every Russian Woman Shop at TJ Maxx?
 date: 2011-02-07T11:51:13+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=4338
+guid: http://blog.vickiboykis.com/wlb/?p=4338
 permalink: /2011/02/why-does-every-russian-woman-shop-at-tj-maxx/
 categories:
   - Uncategorized

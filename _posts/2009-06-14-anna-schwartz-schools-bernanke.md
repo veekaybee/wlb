@@ -4,7 +4,7 @@ title: Anna Schwartz Schools Bernanke
 date: 2009-06-14T21:12:01+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=488
+guid: http://blog.vickiboykis.com/wlb/?p=488
 permalink: /2009/06/anna-schwartz-schools-bernanke/
 categories:
   - economics

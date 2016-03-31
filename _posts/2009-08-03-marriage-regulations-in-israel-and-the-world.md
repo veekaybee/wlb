@@ -4,7 +4,7 @@ title: Marriage regulations in Israel and the world
 date: 2009-08-03T20:47:03+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=962
+guid: http://blog.vickiboykis.com/wlb/?p=962
 permalink: /2009/08/marriage-regulations-in-israel-and-the-world/
 categories:
   - Uncategorized

@@ -4,7 +4,7 @@ title: What were YOU doing instead of getting heat stroke?
 date: 2010-07-26T08:55:54+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=3408
+guid: http://blog.vickiboykis.com/wlb/?p=3408
 permalink: /2010/07/what-were-you-doing-instead-of-getting-heat-stroke/
 categories:
   - Uncategorized

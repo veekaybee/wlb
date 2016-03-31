@@ -4,7 +4,7 @@ title: Bride kidnapping in Kyrgyzstan
 date: 2009-07-12T21:36:15+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=741
+guid: http://blog.vickiboykis.com/wlb/?p=741
 permalink: /2009/07/bride-kidnapping-in-kyrgyzstan/
 categories:
   - Career

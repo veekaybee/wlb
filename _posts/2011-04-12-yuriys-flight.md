@@ -4,7 +4,7 @@ title: 'Yuriy&#8217;s Flight'
 date: 2011-04-12T08:32:47+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=4789
+guid: http://blog.vickiboykis.com/wlb/?p=4789
 permalink: /2011/04/yuriys-flight/
 categories:
   - Uncategorized

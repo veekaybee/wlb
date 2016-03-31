@@ -4,7 +4,7 @@ title: The two types of cold
 date: 2014-01-22T16:41:00+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=9419
+guid: http://blog.vickiboykis.com/wlb/?p=9419
 permalink: /2014/01/the-two-types-of-cold/
 categories:
   - Uncategorized

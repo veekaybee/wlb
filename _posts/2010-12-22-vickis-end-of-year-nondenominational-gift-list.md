@@ -4,7 +4,7 @@ title: 'Vicki&#8217;s End-of-Year Nondenominational Gift List'
 date: 2010-12-22T08:03:44+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=4019
+guid: http://blog.vickiboykis.com/wlb/?p=4019
 permalink: /2010/12/vickis-end-of-year-nondenominational-gift-list/
 categories:
   - Uncategorized
@@ -41,7 +41,7 @@ tags:
 </p>
 
 <p style="text-align: left;">
-  <strong>4. <a href="http://www.etsy.com/listing/40296152/washington-dc-metro-poster?ref=sr_gallery_8&ga_search_query=washington+dc+map&ga_search_type=all&ga_page=1&order=&includes[0]=tags">Washington DC Metro Canvas</a>&#8211;</strong>Self-explanatory.  I miss my boo. The DC Metro system. (I also miss <a href="http://blog.vickiboykis.com/2010/02/04/the-snowpocalypse-rains-down-calamity-and-soviet-russia-on-dc/">Yuppie Food Riots</a>)
+  <strong>4. <a href="http://www.etsy.com/listing/40296152/washington-dc-metro-poster?ref=sr_gallery_8&ga_search_query=washington+dc+map&ga_search_type=all&ga_page=1&order=&includes[0]=tags">Washington DC Metro Canvas</a>&#8211;</strong>Self-explanatory.  I miss my boo. The DC Metro system. (I also miss <a href="http://blog.vickiboykis.com/wlb/2010/02/04/the-snowpocalypse-rains-down-calamity-and-soviet-russia-on-dc/">Yuppie Food Riots</a>)
 </p>
 
 <p style="text-align: left;">

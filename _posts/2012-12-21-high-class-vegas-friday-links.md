@@ -4,7 +4,7 @@ title: High-class Vegas Friday Links
 date: 2012-12-21T09:48:19+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=8086
+guid: http://blog.vickiboykis.com/wlb/?p=8086
 permalink: /2012/12/high-class-vegas-friday-links/
 categories:
   - fridaylinks

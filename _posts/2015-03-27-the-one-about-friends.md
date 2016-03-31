@@ -4,7 +4,7 @@ title: The one about Friends
 date: 2015-03-27T07:40:16+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=9935
+guid: http://blog.vickiboykis.com/wlb/?p=9935
 permalink: /2015/03/the-one-about-friends/
 categories:
   - Uncategorized

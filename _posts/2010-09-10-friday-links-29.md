@@ -4,7 +4,7 @@ title: Friday Links
 date: 2010-09-10T06:35:24+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=3581
+guid: http://blog.vickiboykis.com/wlb/?p=3581
 permalink: /2010/09/friday-links-29/
 categories:
   - fridaylinks

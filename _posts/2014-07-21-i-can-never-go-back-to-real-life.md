@@ -4,7 +4,7 @@ title: I can never go back to real life
 date: 2014-07-21T11:59:40+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=9762
+guid: http://blog.vickiboykis.com/wlb/?p=9762
 permalink: /2014/07/i-can-never-go-back-to-real-life/
 categories:
   - Uncategorized

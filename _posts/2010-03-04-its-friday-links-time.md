@@ -4,7 +4,7 @@ title: 'It&#8217;s Friday Links Time!'
 date: 2010-03-04T22:24:53+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=2445
+guid: http://blog.vickiboykis.com/wlb/?p=2445
 permalink: /2010/03/its-friday-links-time/
 categories:
   - fridaylinks
@@ -16,7 +16,7 @@ I am exhausted.  It has been a grueling week, in many senses of the word.  I t
 
 Ed:  Check out [I am exhausted.  It has been a grueling week, in many senses of the word.  I think these links feel the same. Happy weekend!
 
-Ed:  Check out](http://jodifur.com/2010/03/shoe-friday-67.html) <img src="http://blog.vickiboykis.com/wp-includes/images/smilies/simple-smile.png" alt=":)" class="wp-smiley" style="height: 1em; max-height: 1em;" />
+Ed:  Check out](http://jodifur.com/2010/03/shoe-friday-67.html) <img src="http://blog.vickiboykis.com/wlb/wp-includes/images/smilies/simple-smile.png" alt=":)" class="wp-smiley" style="height: 1em; max-height: 1em;" />
 
 **From the blogs**
 

@@ -4,7 +4,7 @@ title: 'If my grandpa can&#8217;t come to the pictures, they come to him'
 date: 2010-06-02T08:30:25+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=3069
+guid: http://blog.vickiboykis.com/wlb/?p=3069
 permalink: /2010/06/if-my-grandpa-cant-come-to-the-pictures-they-come-to-him/
 categories:
   - Uncategorized
@@ -19,7 +19,7 @@ tags:
   <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/06/DSC_0112.jpg"><img class="aligncenter size-full wp-image-3070" title="DSC_0112" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/06/DSC_0112.jpg" alt="" width="448" height="298" /></a>
 </p>
 
-About a month ago, I was visiting [my grandpa](http://blog.vickiboykis.com/2010/03/02/visiting-my-grandpa-the-yiddish-speaking-atheist/) when he got a call.  His  girlfriend jumped three feet in the air because the phone is loud since my grandpa used to be a [railroad engineer](http://en.wikipedia.org/wiki/Railroad_engineer) in the Ol&#8217; USSR and now has awful hearing as a result.
+About a month ago, I was visiting [my grandpa](http://blog.vickiboykis.com/wlb/2010/03/02/visiting-my-grandpa-the-yiddish-speaking-atheist/) when he got a call.  His  girlfriend jumped three feet in the air because the phone is loud since my grandpa used to be a [railroad engineer](http://en.wikipedia.org/wiki/Railroad_engineer) in the Ol&#8217; USSR and now has awful hearing as a result.
 
 &#8220;Do you know why she jumps so high,&#8221; my grandpa asked me conspiratorially, oblivious to the noise.
 
@@ -41,7 +41,7 @@ My grandpa got confused.  &#8220;I don&#8217;t know how to get to them that way
 
 Flash forward to last weekend.  We went to visit him again, and I had an idea.
 
-Ever since I&#8217;ve gotten my [new phone](http://blog.vickiboykis.com/2010/05/04/help-name-that-electronic-device/),  I&#8217;ve been taking [pictures like crazy](http://twitpic.com/photos/vboykis), and I now have full Internet, which means I never have to leave The Matrix.
+Ever since I&#8217;ve gotten my [new phone](http://blog.vickiboykis.com/wlb/2010/05/04/help-name-that-electronic-device/),  I&#8217;ve been taking [pictures like crazy](http://twitpic.com/photos/vboykis), and I now have full Internet, which means I never have to leave The Matrix.
 
 I pulled up my Picasa albums on my phone and started showing my grandpa.
 

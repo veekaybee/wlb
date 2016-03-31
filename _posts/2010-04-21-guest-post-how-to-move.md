@@ -4,7 +4,7 @@ title: 'Guest Post: How to Move'
 date: 2010-04-21T07:06:02+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=2805
+guid: http://blog.vickiboykis.com/wlb/?p=2805
 permalink: /2010/04/guest-post-how-to-move/
 categories:
   - Uncategorized

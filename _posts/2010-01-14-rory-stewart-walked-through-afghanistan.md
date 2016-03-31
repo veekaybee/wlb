@@ -4,7 +4,7 @@ title: Rory Stewart Walked Through Afghanistan
 date: 2010-01-14T07:21:15+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=2099
+guid: http://blog.vickiboykis.com/wlb/?p=2099
 permalink: /2010/01/rory-stewart-walked-through-afghanistan/
 categories:
   - Uncategorized
@@ -59,8 +59,8 @@ Having completed his stints in the hippest new vacation spots for the American a
 
 Related on the blog:
   
-[The Women of Kabul](http://blog.vickiboykis.com/2009/03/26/the-women-of-kabul-a-lost-time/)
+[The Women of Kabul](http://blog.vickiboykis.com/wlb/2009/03/26/the-women-of-kabul-a-lost-time/)
   
-[Bride Kidnapping in Kyrgyzstan](http://blog.vickiboykis.com/2009/07/12/bride-kidnapping-in-kyrgyzstan/)
+[Bride Kidnapping in Kyrgyzstan](http://blog.vickiboykis.com/wlb/2009/07/12/bride-kidnapping-in-kyrgyzstan/)
   
-[I Have Wanderlust for Yemen](http://blog.vickiboykis.com/2009/12/17/photoshop-thursday-yemen/)
+[I Have Wanderlust for Yemen](http://blog.vickiboykis.com/wlb/2009/12/17/photoshop-thursday-yemen/)

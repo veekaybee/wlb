@@ -4,7 +4,7 @@ title: 'Mom&#8217;s birthday'
 date: 2009-08-17T21:38:19+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=1076
+guid: http://blog.vickiboykis.com/wlb/?p=1076
 permalink: /2009/08/moms-birthday/
 categories:
   - Uncategorized

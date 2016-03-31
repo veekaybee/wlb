@@ -4,7 +4,7 @@ title: My Calendar This Week
 date: 2011-04-25T13:40:37+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=4881
+guid: http://blog.vickiboykis.com/wlb/?p=4881
 permalink: /2011/04/my-calendar-this-week/
 categories:
   - Uncategorized

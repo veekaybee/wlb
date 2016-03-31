@@ -4,7 +4,7 @@ title: The banality of evil on Facebook
 date: 2013-03-07T08:01:34+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=8449
+guid: http://blog.vickiboykis.com/wlb/?p=8449
 permalink: /2013/03/the-banality-of-evil-on-facebook/
 categories:
   - Uncategorized
@@ -44,7 +44,7 @@ Yesterday I saw a Tanqueray ad on the train:
   You know, just the little stuff. We do it because society mandates it, without a second pause.
 </p>
 
-Anyway, the point of this is that we&#8217;re always like, &#8220;<a href="http://blog.vickiboykis.com/2012/04/remember-and-actually-do-something/" target="_blank">oh, we&#8217;ll prevent the next Holocaust</a>,&#8221; and never again, and stuff, but that&#8217;s never going to be how humanity operates, because we are stupid, selfish, and comfortable and have invented air conditioning.
+Anyway, the point of this is that we&#8217;re always like, &#8220;<a href="http://blog.vickiboykis.com/wlb/2012/04/remember-and-actually-do-something/" target="_blank">oh, we&#8217;ll prevent the next Holocaust</a>,&#8221; and never again, and stuff, but that&#8217;s never going to be how humanity operates, because we are stupid, selfish, and comfortable and have invented air conditioning.
 
 Which is why I decided to take a stand, so to speak. (I wasn&#8217;t actually standing since this happened on Facebook.)
 

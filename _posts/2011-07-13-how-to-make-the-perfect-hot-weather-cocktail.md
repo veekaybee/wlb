@@ -4,7 +4,7 @@ title: How to make the perfect hot-weather cocktail
 date: 2011-07-13T15:38:58+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=5280
+guid: http://blog.vickiboykis.com/wlb/?p=5280
 permalink: /2011/07/how-to-make-the-perfect-hot-weather-cocktail/
 categories:
   - Uncategorized
@@ -15,7 +15,7 @@ Here&#8217;s a recipe I found yesterday:
 
   1. <a href="http://www.philly.com/philly/news/125479533.html" target="_blank">Look at weather</a> before you head home from work.
   2. Cry.
-  3. You&#8217;re already pretty disgusting just from moving around during the day, not to mention walking outside for lunch, not to mention <a href="http://blog.vickiboykis.com/2011/06/09/a-journey/" target="_blank">your morning commute</a> where you sat next to some dude who works at Comcast and was sending confidential emails on his laptop which you could totally see, because, hello, who sends confidential emails on the train with the world&#8217;s biggest professional Nosy Person sitting right next to them?
+  3. You&#8217;re already pretty disgusting just from moving around during the day, not to mention walking outside for lunch, not to mention <a href="http://blog.vickiboykis.com/wlb/2011/06/09/a-journey/" target="_blank">your morning commute</a> where you sat next to some dude who works at Comcast and was sending confidential emails on his laptop which you could totally see, because, hello, who sends confidential emails on the train with the world&#8217;s biggest professional Nosy Person sitting right next to them?
   4. Walk outside.
   5. Test the waters.
   6. Stick your nose out.

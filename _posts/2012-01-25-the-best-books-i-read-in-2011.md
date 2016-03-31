@@ -4,7 +4,7 @@ title: The Best Books I Read in 2011
 date: 2012-01-25T07:45:28+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=6030
+guid: http://blog.vickiboykis.com/wlb/?p=6030
 permalink: /2012/01/the-best-books-i-read-in-2011/
 categories:
   - Uncategorized
@@ -20,7 +20,7 @@ tags:
 ---
 I realize this is post is little late, but I was otherwise <del>lazy</del> preoccupied.
 
-Since <a href="http://blog.vickiboykis.com/2011/08/02/the-great-news-im-getting-an-ipad-the-terrible-news-im-getting-an-ipad/" target="_blank">Mr. B gave me an iPad</a> for my birthday and <a href="http://blog.vickiboykis.com/2011/04/13/whines-about-commutes-and-the-radio-part-two/" target="_blank">I started commuting by train</a>, I have been going through books like crazy. I think I must have read around 30 books last year. The hard part is finding really good books. Those are the books you don&#8217;t want to put down even though it&#8217;s 11:49 and you have work tomorrow.   Fortunately, I&#8217;ve sifted through the piles and found some real gems this year.
+Since <a href="http://blog.vickiboykis.com/wlb/2011/08/02/the-great-news-im-getting-an-ipad-the-terrible-news-im-getting-an-ipad/" target="_blank">Mr. B gave me an iPad</a> for my birthday and <a href="http://blog.vickiboykis.com/wlb/2011/04/13/whines-about-commutes-and-the-radio-part-two/" target="_blank">I started commuting by train</a>, I have been going through books like crazy. I think I must have read around 30 books last year. The hard part is finding really good books. Those are the books you don&#8217;t want to put down even though it&#8217;s 11:49 and you have work tomorrow.   Fortunately, I&#8217;ve sifted through the piles and found some real gems this year.
 
 [<img class="size-medium wp-image-6364 alignleft" title="Cover_TheMagicians" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/01/Cover_TheMagicians-195x300.jpg" alt="" width="195" height="300" /><img class="size-medium wp-image-6365 alignleft" title="the-magician-king-by-lev-grossman" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/01/the-magician-king-by-lev-grossman-201x300.jpg" alt="" width="201" height="300" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/01/Cover_TheMagicians.jpg)
 
@@ -108,7 +108,7 @@ Speaking of TGAN,** Chad Harbach&#8217;s The Art of Fielding** is another obvio
 
 &nbsp;
 
-Next, we have **The Lady and the Unicorn**, by an author I&#8217;ve enjoyed before for her girl with her pearl earring, **Tracy Chevalier**.  Chevalier also creates worlds, but with history instead of fantasy.  Here, she literally weaves the story of the famous tapestry, <a href="http://www.storyboardtoys.com/gallery/The-Lady-and-the-Unicorn-La.jpg" target="_blank">The Lady and the Unicorn</a>, the tortured painter that painted the original image, and the women caught up in his wake.  What was really, REALLY cool is the way Chevalier describes the making of a tapestry. AND. OMG. NERD BONUS POINTS HERE.  When we were at <a href="http://blog.vickiboykis.com/2012/01/05/scotland-the-brave-but-still-incredibly-rainy-the-lochs-and-stirling-castle/" target="_blank">Stirling Castle</a>, they had a tapestry BEING MADE LIVE with the ARTISTS RIGHT THERE DOING STUFF and you could ASK THEM QUESTIONS.  I geeked out for 20 minutes watching what Chevalier had only described in words.  It was better than Nutella.
+Next, we have **The Lady and the Unicorn**, by an author I&#8217;ve enjoyed before for her girl with her pearl earring, **Tracy Chevalier**.  Chevalier also creates worlds, but with history instead of fantasy.  Here, she literally weaves the story of the famous tapestry, <a href="http://www.storyboardtoys.com/gallery/The-Lady-and-the-Unicorn-La.jpg" target="_blank">The Lady and the Unicorn</a>, the tortured painter that painted the original image, and the women caught up in his wake.  What was really, REALLY cool is the way Chevalier describes the making of a tapestry. AND. OMG. NERD BONUS POINTS HERE.  When we were at <a href="http://blog.vickiboykis.com/wlb/2012/01/05/scotland-the-brave-but-still-incredibly-rainy-the-lochs-and-stirling-castle/" target="_blank">Stirling Castle</a>, they had a tapestry BEING MADE LIVE with the ARTISTS RIGHT THERE DOING STUFF and you could ASK THEM QUESTIONS.  I geeked out for 20 minutes watching what Chevalier had only described in words.  It was better than Nutella.
 
 &nbsp;
 

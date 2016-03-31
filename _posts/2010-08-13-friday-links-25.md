@@ -4,7 +4,7 @@ title: Friday Links
 date: 2010-08-13T10:12:12+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=3466
+guid: http://blog.vickiboykis.com/wlb/?p=3466
 permalink: /2010/08/friday-links-25/
 categories:
   - fridaylinks
@@ -12,7 +12,7 @@ categories:
 tags:
   - Friday
 ---
-Mr. B and I are, amazingly, not going anywhere this weekend.   I have no idea what to do with myself. <img src="http://blog.vickiboykis.com/wp-includes/images/smilies/simple-smile.png" alt=":)" class="wp-smiley" style="height: 1em; max-height: 1em;" />
+Mr. B and I are, amazingly, not going anywhere this weekend.   I have no idea what to do with myself. <img src="http://blog.vickiboykis.com/wlb/wp-includes/images/smilies/simple-smile.png" alt=":)" class="wp-smiley" style="height: 1em; max-height: 1em;" />
 
 <p style="text-align: left;">
   <a href="http://www.youtube.com/watch?v=u4hlzRNu3uE">Do you remember this</a>, guys?!

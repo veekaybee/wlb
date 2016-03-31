@@ -4,7 +4,7 @@ title: 'I Love America: Air Conditioning and Public Utilities for All'
 date: 2011-07-05T12:44:03+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=5226
+guid: http://blog.vickiboykis.com/wlb/?p=5226
 permalink: /2011/07/i-love-america-air-conditioning-and-public-utilities-for-all/
 categories:
   - Uncategorized
@@ -21,7 +21,7 @@ Let&#8217;s talk Fourth of July and why I love America.
   <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/07/DSC_0628.jpg"><img class="aligncenter size-full wp-image-5227" title="DSC_0628" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/07/DSC_0628.jpg" alt="" width="384" height="256" /></a>
 </p>
 
-So this weekend we went to the beach with the <a href="http://smellslikeborscht.blogspot.com/" target="_blank">Borscht family</a> and a bunch of other friends, two of whom were visiting from Russia and made me think.  There are some inherent differences between Russians from Russia and Russians that have been in America for a while.  For example, Russians from Russia don&#8217;t do summer well, because summers in Russia are colder than <a href="http://blog.vickiboykis.com/2010/01/18/riding-a-horse-is-like-blogging-except-you-cant-become-a-parapalegic-if-you-blog/" target="_blank">spring in Tora Bora</a>.  As I type, it&#8217;s about 77 degrees in Moscow.  This is considered HOT.  Summers are also regrettably short, much like the average Russian&#8217;s life span.  Hence, no one has air conditioning.
+So this weekend we went to the beach with the <a href="http://smellslikeborscht.blogspot.com/" target="_blank">Borscht family</a> and a bunch of other friends, two of whom were visiting from Russia and made me think.  There are some inherent differences between Russians from Russia and Russians that have been in America for a while.  For example, Russians from Russia don&#8217;t do summer well, because summers in Russia are colder than <a href="http://blog.vickiboykis.com/wlb/2010/01/18/riding-a-horse-is-like-blogging-except-you-cant-become-a-parapalegic-if-you-blog/" target="_blank">spring in Tora Bora</a>.  As I type, it&#8217;s about 77 degrees in Moscow.  This is considered HOT.  Summers are also regrettably short, much like the average Russian&#8217;s life span.  Hence, no one has air conditioning.
 
 However, thanks to Al Gore, global warming means that the last two summers have <a href="http://en.wikipedia.org/wiki/2010_Russian_wildfires" target="_blank">been extremely intense</a>, meaning if you don&#8217;t have AC, you&#8217;re S.O.L.  And A.C. is really expensive to get in Russia if you&#8217;re an average Russian.  Moreover, no one would think of getting one because it&#8217;s just not something you do.  So, one of the girls visiting from Russia was worried about how her mom and her little daughter, who she left behind when she came to visit, were faring in the weather.  Only it wasn&#8217;t so much worry as a kind of philosophical sigh, &#8220;Oh, it&#8217;s hot outside. I wonder how they&#8217;re doing.&#8221;  I mentioned that maybe they should buy an air conditioning unit and was met with a strange look.
 

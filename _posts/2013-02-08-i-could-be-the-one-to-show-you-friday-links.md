@@ -4,7 +4,7 @@ title: I could be the one to show you Friday Links
 date: 2013-02-08T07:50:00+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=8349
+guid: http://blog.vickiboykis.com/wlb/?p=8349
 permalink: /2013/02/i-could-be-the-one-to-show-you-friday-links/
 categories:
   - fridaylinks

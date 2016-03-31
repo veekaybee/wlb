@@ -4,7 +4,7 @@ title: 'Author Interview: Hannah Friedman'
 date: 2009-10-26T05:57:46+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=1491
+guid: http://blog.vickiboykis.com/wlb/?p=1491
 permalink: /2009/10/author-interview-hannah-friedman/
 categories:
   - Uncategorized
@@ -17,7 +17,7 @@ tags:
 ---
 _Note: This book graciously provided to me by Hannah Friedman._ 
 
-I spent approximately 45% of high school in my room and crying because I was weird/no one &#8220;got&#8221; me/had self-esteem issues/was working on homework until 2 am/had a [Nutella emergency](http://blog.vickiboykis.com/2009/05/27/one-of-these-nutellas-is-not-like-the-other/).
+I spent approximately 45% of high school in my room and crying because I was weird/no one &#8220;got&#8221; me/had self-esteem issues/was working on homework until 2 am/had a [Nutella emergency](http://blog.vickiboykis.com/wlb/2009/05/27/one-of-these-nutellas-is-not-like-the-other/).
 
 <p style="text-align: center;">
   <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/10/everything-sucks.jpg"><img class="aligncenter size-full wp-image-1493" title="everything-sucks" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/10/everything-sucks.jpg" alt="everything-sucks" width="303" height="466" /></a>
@@ -25,13 +25,13 @@ I spent approximately 45% of high school in my room and crying because I was wei
 
 Hannah Friedman&#8217;s high school experiences were even worse, mainly because she had a monkey instead of a sister, but also because she had the additional pressure of a private school.   So much worse, in fact, that she wrote a book called [Everything Sucks](http://www.amazon.com/Everything-Sucks-Losing-Finding-Myself/dp/0757307752) about her formative years in a private school in New York.
 
-This book blew away my expectations. Most people my age (me included) are horrible at writing at the autobiographical level because we don&#8217;t have enough talent or life experience to adequately go all Ulyssess on our memories.  Evidence?  [Any](http://blog.vickiboykis.com/2009/09/20/on-being-batman-as-a-girl/) of [my](http://blog.vickiboykis.com/2009/09/16/gods-is-straight-up-messing-with-me/) [previous](http://blog.vickiboykis.com/2009/09/30/my-unborn-children-are-annoying-me/) [posts](http://blog.vickiboykis.com/2009/01/30/crying-unabashedly-during-disney-movies/).
+This book blew away my expectations. Most people my age (me included) are horrible at writing at the autobiographical level because we don&#8217;t have enough talent or life experience to adequately go all Ulyssess on our memories.  Evidence?  [Any](http://blog.vickiboykis.com/wlb/2009/09/20/on-being-batman-as-a-girl/) of [my](http://blog.vickiboykis.com/wlb/2009/09/16/gods-is-straight-up-messing-with-me/) [previous](http://blog.vickiboykis.com/wlb/2009/09/30/my-unborn-children-are-annoying-me/) [posts](http://blog.vickiboykis.com/wlb/2009/01/30/crying-unabashedly-during-disney-movies/).
 
 But, Friedman&#8217;s first published work is very well-written, and a book I could relate to with the frustrations of the teens.  Judging from [reactions of others](http://booktumbling.wordpress.com/2009/09/22/everything-sucks-review/), the connection holds true for many.   I couldn&#8217;t relate to everything because I&#8217;d never done hard drugs,  had a monkey as a sister, or pressured myself to get into Yale.  But the angst is still the same and the emotions Friedman describes so accurately is something I could truly relate to.
 
 What blew me away was the amount of honesty (raw honesty, as many reviews of the book write.)  Hannah put into her writing, about sex, about boys, and about her emotions throughout high school. She put all of herself into this book, and if you&#8217;re interested in an American private school perspective on high school, as well as the final argument on why  private school is no way different than public school, this book is a great read.
 
-Here&#8217;s my interview with Hannah below. I  loved picking her brain because I want to <span style="text-decoration: line-through;">plagiarize</span> incorporate some of the methods she used when I&#8217;m writing [my own novel](http://blog.vickiboykis.com/2009/10/11/my-unborn-novel-is-annoying-me-nanowrimo/) in November.
+Here&#8217;s my interview with Hannah below. I  loved picking her brain because I want to <span style="text-decoration: line-through;">plagiarize</span> incorporate some of the methods she used when I&#8217;m writing [my own novel](http://blog.vickiboykis.com/wlb/2009/10/11/my-unborn-novel-is-annoying-me-nanowrimo/) in November.
 
 > **VB:** How did you decide what to reveal about yourself? Did you consider the reaction of friends and family when you wrote it (there is some very embarrassing content), particularly given your experiences with the magazine in high school?
 > 

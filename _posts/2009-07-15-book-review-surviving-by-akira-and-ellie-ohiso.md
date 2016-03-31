@@ -4,7 +4,7 @@ title: 'Book Review: Surviving by Akira and Ellie Ohiso'
 date: 2009-07-15T20:36:43+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=766
+guid: http://blog.vickiboykis.com/wlb/?p=766
 permalink: /2009/07/book-review-surviving-by-akira-and-ellie-ohiso/
 categories:
   - Uncategorized

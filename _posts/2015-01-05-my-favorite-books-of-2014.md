@@ -4,7 +4,7 @@ title: My favorite books of 2014
 date: 2015-01-05T07:28:19+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=9876
+guid: http://blog.vickiboykis.com/wlb/?p=9876
 permalink: /2015/01/my-favorite-books-of-2014/
 categories:
   - Uncategorized
@@ -15,7 +15,7 @@ tags:
 
 &nbsp;
 
-I&#8217;ve always been kind of a homebody. But <a href="http://blog.vickiboykis.com/2014/07/i-can-never-go-back-to-real-life/" target="_blank">I have never wanted less to leave the house</a> (and the couch) less  than when I was (still am&#8230;&#8230;) pregnant.  In addition to buying tons of books, I also started commuting by car, which meant more time for audiobooks.
+I&#8217;ve always been kind of a homebody. But <a href="http://blog.vickiboykis.com/wlb/2014/07/i-can-never-go-back-to-real-life/" target="_blank">I have never wanted less to leave the house</a> (and the couch) less  than when I was (still am&#8230;&#8230;) pregnant.  In addition to buying tons of books, I also started commuting by car, which meant more time for audiobooks.
 
 Because I was reading so much, I decided to make it my first year to do the <a href="https://www.goodreads.com/user_challenges/1679551" target="_blank">Goodreads Challenge</a>. Since I also luckily had a couple days off at the end of December, I was able to wrap up 52 books, a year&#8217;s worth of reading a week.  Here are my favorites of 2014 (not necessarily published this year,) in no particular order.
 
@@ -25,7 +25,7 @@ Because I was reading so much, I decided to make it my first year to do the <a h
 
 ## **Americanah by Chimamanda Ngozi Adichie**
 
-I listened to this as an audiobook when I started commuting to my new job in June, and the narrator&#8217;s voice really helped transport me to Nigeria. I was lucky enough to see Chimamanda <a href="http://blog.vickiboykis.com/2009/07/nigerian-author-chimamanda-ngozi-adichie/" target="_blank">live a couple years ago in DC</a>, and she seemed just as gracious and interesting in person as she does in the book through her narrator, Ifemelu, who leaves behind Nigeria, and her first love, Obinze for the United States.
+I listened to this as an audiobook when I started commuting to my new job in June, and the narrator&#8217;s voice really helped transport me to Nigeria. I was lucky enough to see Chimamanda <a href="http://blog.vickiboykis.com/wlb/2009/07/nigerian-author-chimamanda-ngozi-adichie/" target="_blank">live a couple years ago in DC</a>, and she seemed just as gracious and interesting in person as she does in the book through her narrator, Ifemelu, who leaves behind Nigeria, and her first love, Obinze for the United States.
 
 This book is more about what it&#8217;s like to be African (not African-American) in America and London than it is about either of the characters, I think. It&#8217;s a perspective I as a European white person could never have, so I was really interested in a lot of the observations she made, especially about African women&#8217;s hair, American academia, and politics. The other interesting part to me was the history of Nigeria, woven throughout the story.
 
@@ -45,7 +45,7 @@ I don&#8217;t read a lot of nonfiction because I find it tends to be dry, but th
 
 ## **The Magician&#8217;s Land by Lev Grossman**
 
-If you have not already read <a href="http://blog.vickiboykis.com/2011/08/book-review-the-magicians-by-lev-grossman/" target="_blank">The Magicians</a> and The Magician King, this book will not make any sense.  Also, why have you not read these books yet? They are the greatest new fantasy books to come out since The Golden Compass by Philip Pullman. I feel very strongly about this.  If you have read them, it will be like returning to an old friend. Grossman has this way of writing certain passages that will imprint them in your memory. I&#8217;m still thinking about Mayakovsky and the whales.  By the way, you don&#8217;t need to love fantasy to love these books-just be interested in real, flawed people making choices.
+If you have not already read <a href="http://blog.vickiboykis.com/wlb/2011/08/book-review-the-magicians-by-lev-grossman/" target="_blank">The Magicians</a> and The Magician King, this book will not make any sense.  Also, why have you not read these books yet? They are the greatest new fantasy books to come out since The Golden Compass by Philip Pullman. I feel very strongly about this.  If you have read them, it will be like returning to an old friend. Grossman has this way of writing certain passages that will imprint them in your memory. I&#8217;m still thinking about Mayakovsky and the whales.  By the way, you don&#8217;t need to love fantasy to love these books-just be interested in real, flawed people making choices.
 
 &nbsp;
 
@@ -79,7 +79,7 @@ The first half of the book, about the <a href="http://en.wikipedia.org/wiki/Naxa
 
 ## **Swamplandia by Karen Russell**
 
-I loved <a href="http://blog.vickiboykis.com/2014/03/the-crapshoot-of-writing-for-money/" target="_blank">Russell&#8217;</a>s short story collection, and I loved this book too. It is just so weird and creepy and quirky and shining, like a small jewel. Russell&#8217;s word choice is nothing short of amazing, and the way she manages to make the swamps of southern Florida a magical place where reality blends with otherwordly elements is to be savored. The characters are sympathetic and it&#8217;s easy to identify with them. It&#8217;s not quite magical realism, and it&#8217;s not quite not.
+I loved <a href="http://blog.vickiboykis.com/wlb/2014/03/the-crapshoot-of-writing-for-money/" target="_blank">Russell&#8217;</a>s short story collection, and I loved this book too. It is just so weird and creepy and quirky and shining, like a small jewel. Russell&#8217;s word choice is nothing short of amazing, and the way she manages to make the swamps of southern Florida a magical place where reality blends with otherwordly elements is to be savored. The characters are sympathetic and it&#8217;s easy to identify with them. It&#8217;s not quite magical realism, and it&#8217;s not quite not.
 
 &nbsp;
 

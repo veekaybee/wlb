@@ -4,7 +4,7 @@ title: This Post about How I Guilt-Buy Febreeze On Amazon is Going to be a Goldm
 date: 2011-07-12T09:55:40+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=5267
+guid: http://blog.vickiboykis.com/wlb/?p=5267
 permalink: /2011/07/this-post-about-how-i-guilt-buy-febreeze-on-amazon-is-going-to-be-a-goldmine-for-marketers/
 categories:
   - Uncategorized
@@ -26,7 +26,7 @@ You get the point.
 
 As a result, we&#8217;ve accumulated so much stuff that I&#8217;m worried if we move again, we&#8217;ll have to work on a three-step procedure to ship it back to Amazon in the same boxes and then on to our new house.
 
-We&#8217;ve learned <a href="http://blog.vickiboykis.com/2010/04/14/welcome-to-the-bardak-that-is-my-apartment/" target="_blank">nothing</a>.
+We&#8217;ve learned <a href="http://blog.vickiboykis.com/wlb/2010/04/14/welcome-to-the-bardak-that-is-my-apartment/" target="_blank">nothing</a>.
 
 So yesterday Mr. B opened the Amazon box and <a href="http://www.amazon.com/gp/product/B003YZE69O" target="_blank">found this</a>:
 

@@ -4,7 +4,7 @@ title: 'I&#8217;m not making any of this up'
 date: 2013-02-01T11:44:04+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=8332
+guid: http://blog.vickiboykis.com/wlb/?p=8332
 permalink: /2013/02/im-not-making-any-of-this-up/
 categories:
   - Uncategorized

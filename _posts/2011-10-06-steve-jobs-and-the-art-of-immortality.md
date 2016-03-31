@@ -4,7 +4,7 @@ title: Steve Jobs and the Art of Immortality
 date: 2011-10-06T08:22:16+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=5806
+guid: http://blog.vickiboykis.com/wlb/?p=5806
 permalink: /2011/10/steve-jobs-and-the-art-of-immortality/
 categories:
   - Uncategorized
@@ -52,7 +52,7 @@ tags:
 </p>
 
 <p style="text-align: left;">
-  Why were we infinitely sad for and about a man we&#8217;ve never met?  We were sad because he died younger than he should have (but that&#8217;s usually the price really talented people have to pay), and because he revolutionized the way we think about computers, and because, I think, he made life more beautiful. When I read this back, it sounds <a href="http://stuffwhitepeoplelike.com/2008/01/30/39-apple-products/" target="_blank">really, really white</a>.  And also is glossing over the fact that Apple now has some <a href="http://blog.vickiboykis.com/2011/08/02/the-great-news-im-getting-an-ipad-the-terrible-news-im-getting-an-ipad/" target="_blank">questionable business practices</a>.
+  Why were we infinitely sad for and about a man we&#8217;ve never met?  We were sad because he died younger than he should have (but that&#8217;s usually the price really talented people have to pay), and because he revolutionized the way we think about computers, and because, I think, he made life more beautiful. When I read this back, it sounds <a href="http://stuffwhitepeoplelike.com/2008/01/30/39-apple-products/" target="_blank">really, really white</a>.  And also is glossing over the fact that Apple now has some <a href="http://blog.vickiboykis.com/wlb/2011/08/02/the-great-news-im-getting-an-ipad-the-terrible-news-im-getting-an-ipad/" target="_blank">questionable business practices</a>.
 </p>
 
 <p style="text-align: left;">
@@ -60,7 +60,7 @@ tags:
 </p>
 
 <p style="text-align: left;">
-  The iPod was it.  I&#8217;d had Discmans and tape players before, but this was different.  I could now pick exactly the music I wanted on there. It was also shiny and cool. I was now like everyone else, and I could flaunt it.   I spent two hours, sitting in a blanket in our freezing dorm room, putting all of my music on it.  One of the songs I put on first, was, of course, Survivor by Destiny&#8217;s Child, because, damnit, I wasn&#8217;t going to let my ex-roommate bring me down, and because I was soooooo proud.  I spent the next couple weeks walking around with my iPod.  Later, I realized I could take it to the gym.  I set running music on it.  And so I started running.  Then, I realized I could plug it into my car as I drove back and forth, from college to home, home to college.  I put <a href="http://blog.vickiboykis.com/2010/04/19/time-machine-mashina-vremeni-and-my-dad/" target="_blank">Mashina Vremeni on</a> it and thought about my dad and the meaning of life <a href="http://blog.vickiboykis.com/2011/05/24/losing-erica/" target="_blank">as I drove</a> through the mountains. My iPod saved me.
+  The iPod was it.  I&#8217;d had Discmans and tape players before, but this was different.  I could now pick exactly the music I wanted on there. It was also shiny and cool. I was now like everyone else, and I could flaunt it.   I spent two hours, sitting in a blanket in our freezing dorm room, putting all of my music on it.  One of the songs I put on first, was, of course, Survivor by Destiny&#8217;s Child, because, damnit, I wasn&#8217;t going to let my ex-roommate bring me down, and because I was soooooo proud.  I spent the next couple weeks walking around with my iPod.  Later, I realized I could take it to the gym.  I set running music on it.  And so I started running.  Then, I realized I could plug it into my car as I drove back and forth, from college to home, home to college.  I put <a href="http://blog.vickiboykis.com/wlb/2010/04/19/time-machine-mashina-vremeni-and-my-dad/" target="_blank">Mashina Vremeni on</a> it and thought about my dad and the meaning of life <a href="http://blog.vickiboykis.com/wlb/2011/05/24/losing-erica/" target="_blank">as I drove</a> through the mountains. My iPod saved me.
 </p>
 
 <p style="text-align: left;">
@@ -68,7 +68,7 @@ tags:
 </p>
 
 <p style="text-align: left;">
-  What is it about Apple computers?  I am, in nature, a creative person.  Sure, I do database stuff and analysis for a living and I am trying in vain to get my MA in Economics, but I really love to write. I love to make Photoshop stuff.  I love to make comics, parody songs, videos about our family, and take pictures.  The Mac opened up a whole new world for me.  I learned <a href="http://blog.vickiboykis.com/2009/12/02/photoshop-thursday-master-and-margarita/" target="_blank">Photoshop </a>(not well, but still.) I wrote my novel on this computer.  And I started blogging on this computer.  I don&#8217;t know if I would have otherwise, I can honestly say that.  The computer is just a computer.  Just a piece of metal.  But it&#8217;s also a lot more. It saved me when I lived alone in DC, when I spend countless hours doing things like this in PhotoBooth (but you can&#8217;t tell anyone you saw this photo after you look at it because OHGAWD is it embarrassing. )
+  What is it about Apple computers?  I am, in nature, a creative person.  Sure, I do database stuff and analysis for a living and I am trying in vain to get my MA in Economics, but I really love to write. I love to make Photoshop stuff.  I love to make comics, parody songs, videos about our family, and take pictures.  The Mac opened up a whole new world for me.  I learned <a href="http://blog.vickiboykis.com/wlb/2009/12/02/photoshop-thursday-master-and-margarita/" target="_blank">Photoshop </a>(not well, but still.) I wrote my novel on this computer.  And I started blogging on this computer.  I don&#8217;t know if I would have otherwise, I can honestly say that.  The computer is just a computer.  Just a piece of metal.  But it&#8217;s also a lot more. It saved me when I lived alone in DC, when I spend countless hours doing things like this in PhotoBooth (but you can&#8217;t tell anyone you saw this photo after you look at it because OHGAWD is it embarrassing. )
 </p>
 
 <p style="text-align: center;">

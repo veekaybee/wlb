@@ -4,7 +4,7 @@ title: Finally Friday!
 date: 2009-11-13T06:55:45+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=1678
+guid: http://blog.vickiboykis.com/wlb/?p=1678
 permalink: /2009/11/finally-friday/
 categories:
   - fridaylinks
@@ -15,7 +15,7 @@ tags:
 ---
 Today marks the confluence of a couple of things:
 
-1. I&#8217;ve reached the 25,000 word mark [on my novel](http://blog.vickiboykis.com/?s=nanowrimo)!  That&#8217;s half-way.  Now the rest should be downhill, right? At this point, I&#8217;m going on 6 hours of sleep. If you&#8217;re interested in seeing my writing graphed mathematically, my awesome friend @carolejesse had done [just that](http://twitpic.com/p8ex9).
+1. I&#8217;ve reached the 25,000 word mark [on my novel](http://blog.vickiboykis.com/wlb/?s=nanowrimo)!  That&#8217;s half-way.  Now the rest should be downhill, right? At this point, I&#8217;m going on 6 hours of sleep. If you&#8217;re interested in seeing my writing graphed mathematically, my awesome friend @carolejesse had done [just that](http://twitpic.com/p8ex9).
 
 2.  It&#8217;s Mr. B&#8217;s birthday!  He&#8217;s turning a quarter of a century.  That means he should now be wise, right?
 

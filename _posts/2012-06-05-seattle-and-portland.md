@@ -4,7 +4,7 @@ title: Seattle and Portland
 date: 2012-06-05T22:36:02+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=6932
+guid: http://blog.vickiboykis.com/wlb/?p=6932
 permalink: /2012/06/seattle-and-portland/
 categories:
   - Uncategorized
@@ -15,7 +15,7 @@ tags:
   - travel
   - vacation
 ---
-I&#8217;ve figured out  the secret to <a href="http://blog.vickiboykis.com/2012/02/why-is-philadelphia-so-disgusting/" target="_blank">living in</a> <a href="http://blog.vickiboykis.com/2012/03/spoiler-alert-i-found-god-he-lives-in-the-sketchiest-part-of-north-philly/" target="_blank">Philadelphia</a>.  I&#8217;m ok with it, as long as I can be outside Philadelphia at least 60% of the time.  This time, Mr. B and I were going to go to Japan, but we&#8217;re still waiting on Mr. B&#8217;s passport, so international travel was out. Which is a shame, because <a href="http://blog.vickiboykis.com/tag/travel/" target="_blank">international travel</a> is what I live for.
+I&#8217;ve figured out  the secret to <a href="http://blog.vickiboykis.com/wlb/2012/02/why-is-philadelphia-so-disgusting/" target="_blank">living in</a> <a href="http://blog.vickiboykis.com/wlb/2012/03/spoiler-alert-i-found-god-he-lives-in-the-sketchiest-part-of-north-philly/" target="_blank">Philadelphia</a>.  I&#8217;m ok with it, as long as I can be outside Philadelphia at least 60% of the time.  This time, Mr. B and I were going to go to Japan, but we&#8217;re still waiting on Mr. B&#8217;s passport, so international travel was out. Which is a shame, because <a href="http://blog.vickiboykis.com/wlb/tag/travel/" target="_blank">international travel</a> is what I live for.
 
 <p style="text-align: center;">
   <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/06/DSC_0985.jpg"><img class="aligncenter  wp-image-6949" title="DSC_0985" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/06/DSC_0985-1024x680.jpg" alt="" width="614" height="408" /></a>

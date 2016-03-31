@@ -4,7 +4,7 @@ title: In which I run my first 5k
 date: 2010-06-10T06:32:39+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=3093
+guid: http://blog.vickiboykis.com/wlb/?p=3093
 permalink: /2010/06/in-which-i-run-my-first-5k/
 categories:
   - Uncategorized
@@ -34,11 +34,11 @@ I hated running all the way until college, when I decided to try it on my own te
   <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/06/DSC_0191.jpg"><img class="aligncenter size-full wp-image-3106" title="DSC_0191" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/06/DSC_0191.jpg" alt="" width="737" height="490" /></a>
 </p>
 
-Then, [I got married](http://blog.vickiboykis.com/2010/05/31/vickis-marriage-advice/) I became zaftig and happy with Mr. B.
+Then, [I got married](http://blog.vickiboykis.com/wlb/2010/05/31/vickis-marriage-advice/) I became zaftig and happy with Mr. B.
 
 Then, I decided I was tired of feeling like there was one more thing I couldn&#8217;t control in my life, and I started running again, and again on my own terms.  I started extremely slowly and I knew it would hurt like hell.   And it did.  It wasn&#8217;t glamorous and it wasn&#8217;t fun.  The only thing that kept me sane was [Cardio Trainer](http://www.worksmartlabs.com/) (who are definitely not sponsoring this post), which is basically an application I use on my phone and it tracks down to the foot how far you&#8217;ve gone, how fast you&#8217;re going, and how many calories you&#8217;re burning.  And it talks to you in a nice British accent as you run.  Because I am anal-retentive, I really appreciate the fine level of detail and it&#8217;s the only thing that pushed me through a run, aside from my music.
 
-So, after a couple of weeks of trying and pushing and crying myself, I started to feel better. And started pushing myself harder.  And, as a reward, got myself [new orange sneakers](http://blog.vickiboykis.com/2010/05/26/new-sneakers/).  After that, I kept going.
+So, after a couple of weeks of trying and pushing and crying myself, I started to feel better. And started pushing myself harder.  And, as a reward, got myself [new orange sneakers](http://blog.vickiboykis.com/wlb/2010/05/26/new-sneakers/).  After that, I kept going.
 
 <img style="display: block; margin-right: auto; margin-left: auto;" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/06/wpid-IMAG0130.jpg" alt="image" />
 

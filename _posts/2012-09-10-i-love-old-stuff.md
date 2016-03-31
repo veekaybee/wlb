@@ -4,7 +4,7 @@ title: I love old stuff
 date: 2012-09-10T07:36:18+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=7504
+guid: http://blog.vickiboykis.com/wlb/?p=7504
 permalink: /2012/09/i-love-old-stuff/
 categories:
   - Uncategorized
@@ -20,7 +20,7 @@ tags:
 
 &nbsp;
 
-I love old historical stuff, in case you couldn&#8217;t tell.   It takes <a href="http://blog.vickiboykis.com/2012/06/why-do-i-do-this-to-myself/" target="_blank">a special kind of person</a> to WANT to read about the <a href="http://en.wikipedia.org/wiki/1936_Soviet_Constitution" target="_blank">1936 Constitution</a> at 9 am on a Saturday morning.  Not only do I like reading about old stuff, I also like looking at it and buying it, because there&#8217;s always the idea that someone else OWNED this thing. Some human left their indelible mark on this teapot, this hat, this rusty saw, this gross raccoon fur, fifty to a hundred years ago, and just for a brief moment, you are connected to humanity through a chain.
+I love old historical stuff, in case you couldn&#8217;t tell.   It takes <a href="http://blog.vickiboykis.com/wlb/2012/06/why-do-i-do-this-to-myself/" target="_blank">a special kind of person</a> to WANT to read about the <a href="http://en.wikipedia.org/wiki/1936_Soviet_Constitution" target="_blank">1936 Constitution</a> at 9 am on a Saturday morning.  Not only do I like reading about old stuff, I also like looking at it and buying it, because there&#8217;s always the idea that someone else OWNED this thing. Some human left their indelible mark on this teapot, this hat, this rusty saw, this gross raccoon fur, fifty to a hundred years ago, and just for a brief moment, you are connected to humanity through a chain.
 
 <!--more-->
 

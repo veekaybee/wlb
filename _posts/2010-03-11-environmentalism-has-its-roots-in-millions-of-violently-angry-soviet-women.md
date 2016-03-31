@@ -4,7 +4,7 @@ title: Environmentalism has its roots in millions of violently angry Soviet wome
 date: 2010-03-11T07:37:06+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=2483
+guid: http://blog.vickiboykis.com/wlb/?p=2483
 permalink: /2010/03/environmentalism-has-its-roots-in-millions-of-violently-angry-soviet-women/
 categories:
   - Uncategorized
@@ -27,7 +27,7 @@ Thousands of hours of her life spent washing and boiling these cursed _peloynki_
 
 Another thing.  The recyclable shopping bags.  Yes, yes, the Earth is dying with a slow wheeze and you personally can save it by buying a trendy grocery store bag from Whole Foods for $17.99.  Look how cool and earth-conscious you look with your cool graphic design bag on the Metro.    We had even cooler ones back in the day, and they looked like this:
 
-[<img class="aligncenter size-full wp-image-2489" title="8" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/03/8.jpg" alt="" width="500" height="350" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/03/8.jpg)The even cooler part was when you had to drag about nine of ten of these bad boys back to your house from 2 miles away after a day of standing in line [for products that didn&#8217;t exist](http://blog.vickiboykis.com/2010/02/04/the-snowpocalypse-rains-down-calamity-and-soviet-russia-on-dc/) because&#8230;
+[<img class="aligncenter size-full wp-image-2489" title="8" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/03/8.jpg" alt="" width="500" height="350" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/03/8.jpg)The even cooler part was when you had to drag about nine of ten of these bad boys back to your house from 2 miles away after a day of standing in line [for products that didn&#8217;t exist](http://blog.vickiboykis.com/wlb/2010/02/04/the-snowpocalypse-rains-down-calamity-and-soviet-russia-on-dc/) because&#8230;
 
 you didn&#8217;t have a car!  Just like the dream of all Americans, most Soviet citizens (with the exception of Mr. B&#8217;s suspiciously bougeoisie family) did NOT have cars. The waiting line to get one was about 10 years.  I remember when I was four, it was about a seven year wait for our family and I discussed excitedly with my dad what color car we would have _when I was 10_.  Hence walking everywhere.  It was ridiculously clean and environmentally friendly, but also felt like the Death March of Bataan, probably even more so to my mom who had to lug around not only all of the shopping, but [fatty me](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/05/mothers-001.jpg). (That bow alone probably weighed 2 kilo.)
 

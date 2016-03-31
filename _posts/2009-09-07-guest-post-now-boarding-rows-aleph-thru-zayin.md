@@ -4,7 +4,7 @@ title: 'Guest Post: Now Boarding&#8230;..rows Aleph thru Zayin'
 date: 2009-09-07T00:00:19+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=1174
+guid: http://blog.vickiboykis.com/wlb/?p=1174
 permalink: /2009/09/guest-post-now-boarding-rows-aleph-thru-zayin/
 categories:
   - Uncategorized

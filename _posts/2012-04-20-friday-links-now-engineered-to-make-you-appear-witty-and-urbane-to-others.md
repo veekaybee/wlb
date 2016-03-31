@@ -4,7 +4,7 @@ title: Friday Links, now engineered to make you appear witty and urbane to other
 date: 2012-04-20T07:28:34+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=6743
+guid: http://blog.vickiboykis.com/wlb/?p=6743
 permalink: /2012/04/friday-links-now-engineered-to-make-you-appear-witty-and-urbane-to-others/
 categories:
   - Uncategorized

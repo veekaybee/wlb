@@ -4,7 +4,7 @@ title: Car Troubles
 date: 2010-12-06T07:56:27+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=3994
+guid: http://blog.vickiboykis.com/wlb/?p=3994
 permalink: /2010/12/car-troubles/
 categories:
   - Uncategorized

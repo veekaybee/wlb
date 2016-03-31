@@ -4,7 +4,7 @@ title: Russian women journalists put other Russian women journalists to shame
 date: 2010-10-07T07:57:14+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=3704
+guid: http://blog.vickiboykis.com/wlb/?p=3704
 permalink: /2010/10/russian-women-journalists-put-other-russian-women-journalists-to-shame/
 categories:
   - Uncategorized

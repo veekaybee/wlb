@@ -4,7 +4,7 @@ title: Why the American Ice Dancing Teams Need to get Tough
 date: 2010-02-22T07:31:53+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=2388
+guid: http://blog.vickiboykis.com/wlb/?p=2388
 permalink: /2010/02/why-the-american-ice-dancing-teams-need-to-get-tough/
 categories:
   - Uncategorized

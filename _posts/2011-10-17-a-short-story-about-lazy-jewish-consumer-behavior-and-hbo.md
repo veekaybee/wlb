@@ -4,7 +4,7 @@ title: 'A short story about  lazy Jewish consumer behavior and HBO'
 date: 2011-10-17T13:36:59+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=5844
+guid: http://blog.vickiboykis.com/wlb/?p=5844
 permalink: /2011/10/a-short-story-about-lazy-jewish-consumer-behavior-and-hbo/
 categories:
   - Uncategorized
@@ -27,9 +27,9 @@ When we moved to our house in May, Mr. B and I were given the option to get a fr
 
 The problem is that once you have HBO, you don&#8217;t want to go back to not having HBO. Not because HBO is so great, although I&#8217;d have to say that Big Love, The Sopranos, and Curb Your Enthusiasm are my favorite television shows because they are full of complexity and depth that mainstream shows don&#8217;t have. The problem is that there is absolutely nothing to watch on the 5934589 channels that we have, except <a href="http://en.wikipedia.org/wiki/Anthony_Bourdain:_No_Reservations" target="_blank">Anthony Bourdain</a> on Monday nights on Travel.  I can watch, like, 10 No Reservations episodes in a row because I feel that they teach me something.
 
-I hate watching sitcoms at the time they&#8217;re supposed to be on because watching TV on schedule when there&#8217;s Hulu and DVR and Amazon and iTunes and \*cough\* other means of obtaining TV shows WITHOUT ads is for <a href="http://blog.vickiboykis.com/?s=freier" target="_blank">freiers</a>.
+I hate watching sitcoms at the time they&#8217;re supposed to be on because watching TV on schedule when there&#8217;s Hulu and DVR and Amazon and iTunes and \*cough\* other means of obtaining TV shows WITHOUT ads is for <a href="http://blog.vickiboykis.com/wlb/?s=freier" target="_blank">freiers</a>.
 
-But HBO always has something cool on.  Usually, though, it&#8217;s the same cool thing a couple days in a row.  But you&#8217;ll still watch it because it&#8217;s better than all of the other channels. Also, you&#8217;ll keep it on for background noise if your husband isn&#8217;t home because you are terrified of your house ever since <a href="http://blog.vickiboykis.com/2011/07/21/how-loud-can-you-scream-thanks-to-either-nature-or-nurture-i-found-out-yesterday/" target="_blank">The Incident</a>.
+But HBO always has something cool on.  Usually, though, it&#8217;s the same cool thing a couple days in a row.  But you&#8217;ll still watch it because it&#8217;s better than all of the other channels. Also, you&#8217;ll keep it on for background noise if your husband isn&#8217;t home because you are terrified of your house ever since <a href="http://blog.vickiboykis.com/wlb/2011/07/21/how-loud-can-you-scream-thanks-to-either-nature-or-nurture-i-found-out-yesterday/" target="_blank">The Incident</a>.
 
 So lately, for example, I&#8217;ve seen Sherlock Holmes with Robert Downey Junior maybe 7 times part of the way through.  Mr. B has watched parts of The A Team at least twice.  And together we&#8217;ve seen Men in Black in fragments at least 3 times from the part where Will Smith goes into the woman&#8217;s house and she tells her story and he flashy-things her and he&#8217;s like, &#8220;And you need to get an interior decorator in here quick, cause&#8230;damn.&#8221; Kills me every time.
 

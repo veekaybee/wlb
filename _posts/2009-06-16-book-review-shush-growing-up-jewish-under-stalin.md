@@ -4,7 +4,7 @@ title: 'Book Review: Shush! Growing up Jewish Under Stalin'
 date: 2009-06-16T20:42:14+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=522
+guid: http://blog.vickiboykis.com/wlb/?p=522
 permalink: /2009/06/book-review-shush-growing-up-jewish-under-stalin/
 categories:
   - books
@@ -22,7 +22,7 @@ tags:
 
 Have you ever read any books that perfectly articulate how you see the world?  Books that you can show to your friends when you don&#8217;t feel like explaining your life view and say, &#8220;Here, read this, and you will understand me?&#8221;  [Shush, A Memoir-Growing up Jewish under Stalin](http://www.amazon.com/Shush-Growing-Jewish-under-Stalin/dp/0520254465/ref=cm_srch_tsr_rtr) by Emil Draitser, is such a book for me.
 
-There are a couple of books that really explain what being Russian/Jewish is all about:  [From Lenin to Lennon](http://www.amazon.com/Lenin-Lennon-Memoir-Russia-Sixties/dp/0151498253), [Sashenka](http://blog.vickiboykis.com/?p=348), and  [The Russian Debutante&#8217;s Handbook](http://www.amazon.com/Russian-Debutantes-Handbook-Gary-Shteyngart/dp/1573229881), which is written by one of the writers that I deeply look up to and <span style="text-decoration: line-through;">plagiarize</span> try to imitate in writing style, Gary Shteyngart.
+There are a couple of books that really explain what being Russian/Jewish is all about:  [From Lenin to Lennon](http://www.amazon.com/Lenin-Lennon-Memoir-Russia-Sixties/dp/0151498253), [Sashenka](http://blog.vickiboykis.com/wlb/?p=348), and  [The Russian Debutante&#8217;s Handbook](http://www.amazon.com/Russian-Debutantes-Handbook-Gary-Shteyngart/dp/1573229881), which is written by one of the writers that I deeply look up to and <span style="text-decoration: line-through;">plagiarize</span> try to imitate in writing style, Gary Shteyngart.
 
 They all have slightly different takes on growing up Jewish in the Soviet Union.  This one is the closest to what my grandpa has so far told me of life back then. It also explains several questions people often have about Russian Jews:  Why are we not religious?  Why don&#8217;t we have Russian names?  How were we mercilessly targeted by the Soviet authorities?  And how are Russian Jews different from Russians?
 

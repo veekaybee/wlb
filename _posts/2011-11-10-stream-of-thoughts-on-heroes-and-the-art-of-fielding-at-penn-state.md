@@ -4,7 +4,7 @@ title: Stream of thoughts on heroes and the Art of Fielding at Penn State
 date: 2011-11-10T13:24:03+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=5905
+guid: http://blog.vickiboykis.com/wlb/?p=5905
 permalink: /2011/11/stream-of-thoughts-on-heroes-and-the-art-of-fielding-at-penn-state/
 categories:
   - Uncategorized

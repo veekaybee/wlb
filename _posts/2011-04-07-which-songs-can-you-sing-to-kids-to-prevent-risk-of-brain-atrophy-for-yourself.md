@@ -4,7 +4,7 @@ title: Which Songs Can You Sing to Kids to Prevent Risk of Brain Atrophy (for yo
 date: 2011-04-07T12:18:43+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=4737
+guid: http://blog.vickiboykis.com/wlb/?p=4737
 permalink: /2011/04/which-songs-can-you-sing-to-kids-to-prevent-risk-of-brain-atrophy-for-yourself/
 categories:
   - Uncategorized
@@ -23,7 +23,7 @@ tags:
   - world
   - yuppies
 ---
-The reason I had to get my nails done this weekend is because I was attending a birthday party for a [one-year-old](http://blog.vickiboykis.com/2010/03/30/life-goes-on/) that was full of Russian women waiting to judge me.
+The reason I had to get my nails done this weekend is because I was attending a birthday party for a [one-year-old](http://blog.vickiboykis.com/wlb/2010/03/30/life-goes-on/) that was full of Russian women waiting to judge me.
 
 <p style="text-align: center;">
   <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/04/DSC_0413-2.jpg"><img class="aligncenter size-full wp-image-4758" title="DSC_0413-2" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/04/DSC_0413-2.jpg" alt="" width="331" height="551" /></a>
@@ -45,12 +45,12 @@ So many lessons!  &#8220;Gather around, kids.  Let me tell you about the murde
 
 Which got me to thinking.  Which other songs are potentially simple, but deceptively so, and teach Things? Real Thing? Here are the songs I plan to traumatize all the children I know with:
 
-  1. [Russian lullabies.](http://blog.vickiboykis.com/2009/02/06/the-most-depressing-baby-songs-ever-russian-ones/) DUH. WINNING.
+  1. [Russian lullabies.](http://blog.vickiboykis.com/wlb/2009/02/06/the-most-depressing-baby-songs-ever-russian-ones/) DUH. WINNING.
   2. [The Banana Boat Song:](http://en.wikipedia.org/wiki/Day-O_(The_Banana_Boat_Song)) Catchy, cheerful, exploitation of workers, organizing in unions, tarantulas, yellow fever, Panama Canal, Monroe Doctrine, Woodrow Wilson, Theodore Roosevelt, teddy bears.
   3. [If I Had a Hammer](http://en.wikipedia.org/wiki/If_I_Had_a_Hammer): Social justice, Pete Seeger, unions again, commies, can white non-Muslims actually call anyone &#8220;brother&#8221; or &#8220;sister&#8221; without it sounding insensitive?, civil rights, hippies, hipsters, hips, hi.
   4. [I&#8217;m Just a Bill](http://en.wikipedia.org/wiki/I'm_Just_a_Bill): Government shutdowns. Our legislative process. Fear. Anger. Hope. Change. Fox News. Rupert Murdoch. His wife is HOW old? How to correctly pronounce Boehner. Later, you find out it&#8217;s about a guy named Bill who REALLY liked hanging out in DC.
   5. [Eli,Eli](http://en.wikipedia.org/wiki/Hannah_Szenes#Poetry.2C_songs_and_plays):  Soothing until kids learn it was written by a Zionist woman who parachuted to a certain demise in Yugoslavia by being shot at least three times in her execution, all because she was just like your little Shlomi (i.e. Jewish).  Then you can teach them ALL about the Holocaust.
-  6. [The reason I had to get my nails done this weekend is because I was attending a birthday party for a [one-year-old](http://blog.vickiboykis.com/2010/03/30/life-goes-on/) that was full of Russian women waiting to judge me.
+  6. [The reason I had to get my nails done this weekend is because I was attending a birthday party for a [one-year-old](http://blog.vickiboykis.com/wlb/2010/03/30/life-goes-on/) that was full of Russian women waiting to judge me.
 
 <p style="text-align: center;">
   <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/04/DSC_0413-2.jpg"><img class="aligncenter size-full wp-image-4758" title="DSC_0413-2" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/04/DSC_0413-2.jpg" alt="" width="331" height="551" /></a>
@@ -72,13 +72,13 @@ So many lessons!  &#8220;Gather around, kids.  Let me tell you about the murde
 
 Which got me to thinking.  Which other songs are potentially simple, but deceptively so, and teach Things? Real Thing? Here are the songs I plan to traumatize all the children I know with:
 
-  1. [Russian lullabies.](http://blog.vickiboykis.com/2009/02/06/the-most-depressing-baby-songs-ever-russian-ones/) DUH. WINNING.
+  1. [Russian lullabies.](http://blog.vickiboykis.com/wlb/2009/02/06/the-most-depressing-baby-songs-ever-russian-ones/) DUH. WINNING.
   2. [The Banana Boat Song:](http://en.wikipedia.org/wiki/Day-O_(The_Banana_Boat_Song)) Catchy, cheerful, exploitation of workers, organizing in unions, tarantulas, yellow fever, Panama Canal, Monroe Doctrine, Woodrow Wilson, Theodore Roosevelt, teddy bears.
   3. [If I Had a Hammer](http://en.wikipedia.org/wiki/If_I_Had_a_Hammer): Social justice, Pete Seeger, unions again, commies, can white non-Muslims actually call anyone &#8220;brother&#8221; or &#8220;sister&#8221; without it sounding insensitive?, civil rights, hippies, hipsters, hips, hi.
   4. [I&#8217;m Just a Bill](http://en.wikipedia.org/wiki/I'm_Just_a_Bill): Government shutdowns. Our legislative process. Fear. Anger. Hope. Change. Fox News. Rupert Murdoch. His wife is HOW old? How to correctly pronounce Boehner. Later, you find out it&#8217;s about a guy named Bill who REALLY liked hanging out in DC.
   5. [Eli,Eli](http://en.wikipedia.org/wiki/Hannah_Szenes#Poetry.2C_songs_and_plays):  Soothing until kids learn it was written by a Zionist woman who parachuted to a certain demise in Yugoslavia by being shot at least three times in her execution, all because she was just like your little Shlomi (i.e. Jewish).  Then you can teach them ALL about the Holocaust.
   6.](http://en.wikipedia.org/wiki/Run_Away_(Real_McCoy_song)) Catchy pop song that forces your kids to listen to your favorite early 90s dance music AND learn about Big Brother. Also commies.  Not to mention dystopia. (&#8220;You&#8217;re sad because I took away your Legos, Timmy?  Wait until the government takes away our house!  It could be worse!  No wait, don&#8217;t cry, don&#8217;t cry.  We still have the Bill of Rights.&#8221;)
-  7. [The reason I had to get my nails done this weekend is because I was attending a birthday party for a [one-year-old](http://blog.vickiboykis.com/2010/03/30/life-goes-on/) that was full of Russian women waiting to judge me.
+  7. [The reason I had to get my nails done this weekend is because I was attending a birthday party for a [one-year-old](http://blog.vickiboykis.com/wlb/2010/03/30/life-goes-on/) that was full of Russian women waiting to judge me.
 
 <p style="text-align: center;">
   <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/04/DSC_0413-2.jpg"><img class="aligncenter size-full wp-image-4758" title="DSC_0413-2" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/04/DSC_0413-2.jpg" alt="" width="331" height="551" /></a>
@@ -100,12 +100,12 @@ So many lessons!  &#8220;Gather around, kids.  Let me tell you about the murde
 
 Which got me to thinking.  Which other songs are potentially simple, but deceptively so, and teach Things? Real Thing? Here are the songs I plan to traumatize all the children I know with:
 
-  1. [Russian lullabies.](http://blog.vickiboykis.com/2009/02/06/the-most-depressing-baby-songs-ever-russian-ones/) DUH. WINNING.
+  1. [Russian lullabies.](http://blog.vickiboykis.com/wlb/2009/02/06/the-most-depressing-baby-songs-ever-russian-ones/) DUH. WINNING.
   2. [The Banana Boat Song:](http://en.wikipedia.org/wiki/Day-O_(The_Banana_Boat_Song)) Catchy, cheerful, exploitation of workers, organizing in unions, tarantulas, yellow fever, Panama Canal, Monroe Doctrine, Woodrow Wilson, Theodore Roosevelt, teddy bears.
   3. [If I Had a Hammer](http://en.wikipedia.org/wiki/If_I_Had_a_Hammer): Social justice, Pete Seeger, unions again, commies, can white non-Muslims actually call anyone &#8220;brother&#8221; or &#8220;sister&#8221; without it sounding insensitive?, civil rights, hippies, hipsters, hips, hi.
   4. [I&#8217;m Just a Bill](http://en.wikipedia.org/wiki/I'm_Just_a_Bill): Government shutdowns. Our legislative process. Fear. Anger. Hope. Change. Fox News. Rupert Murdoch. His wife is HOW old? How to correctly pronounce Boehner. Later, you find out it&#8217;s about a guy named Bill who REALLY liked hanging out in DC.
   5. [Eli,Eli](http://en.wikipedia.org/wiki/Hannah_Szenes#Poetry.2C_songs_and_plays):  Soothing until kids learn it was written by a Zionist woman who parachuted to a certain demise in Yugoslavia by being shot at least three times in her execution, all because she was just like your little Shlomi (i.e. Jewish).  Then you can teach them ALL about the Holocaust.
-  6. [The reason I had to get my nails done this weekend is because I was attending a birthday party for a [one-year-old](http://blog.vickiboykis.com/2010/03/30/life-goes-on/) that was full of Russian women waiting to judge me.
+  6. [The reason I had to get my nails done this weekend is because I was attending a birthday party for a [one-year-old](http://blog.vickiboykis.com/wlb/2010/03/30/life-goes-on/) that was full of Russian women waiting to judge me.
 
 <p style="text-align: center;">
   <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/04/DSC_0413-2.jpg"><img class="aligncenter size-full wp-image-4758" title="DSC_0413-2" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/04/DSC_0413-2.jpg" alt="" width="331" height="551" /></a>
@@ -127,7 +127,7 @@ So many lessons!  &#8220;Gather around, kids.  Let me tell you about the murde
 
 Which got me to thinking.  Which other songs are potentially simple, but deceptively so, and teach Things? Real Thing? Here are the songs I plan to traumatize all the children I know with:
 
-  1. [Russian lullabies.](http://blog.vickiboykis.com/2009/02/06/the-most-depressing-baby-songs-ever-russian-ones/) DUH. WINNING.
+  1. [Russian lullabies.](http://blog.vickiboykis.com/wlb/2009/02/06/the-most-depressing-baby-songs-ever-russian-ones/) DUH. WINNING.
   2. [The Banana Boat Song:](http://en.wikipedia.org/wiki/Day-O_(The_Banana_Boat_Song)) Catchy, cheerful, exploitation of workers, organizing in unions, tarantulas, yellow fever, Panama Canal, Monroe Doctrine, Woodrow Wilson, Theodore Roosevelt, teddy bears.
   3. [If I Had a Hammer](http://en.wikipedia.org/wiki/If_I_Had_a_Hammer): Social justice, Pete Seeger, unions again, commies, can white non-Muslims actually call anyone &#8220;brother&#8221; or &#8220;sister&#8221; without it sounding insensitive?, civil rights, hippies, hipsters, hips, hi.
   4. [I&#8217;m Just a Bill](http://en.wikipedia.org/wiki/I'm_Just_a_Bill): Government shutdowns. Our legislative process. Fear. Anger. Hope. Change. Fox News. Rupert Murdoch. His wife is HOW old? How to correctly pronounce Boehner. Later, you find out it&#8217;s about a guy named Bill who REALLY liked hanging out in DC.

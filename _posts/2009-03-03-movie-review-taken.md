@@ -4,7 +4,7 @@ title: 'Movie Review: Taken'
 date: 2009-03-03T16:04:28+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=173
+guid: http://blog.vickiboykis.com/wlb/?p=173
 permalink: /2009/03/movie-review-taken/
 categories:
   - Uncategorized

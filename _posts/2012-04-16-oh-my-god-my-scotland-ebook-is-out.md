@@ -4,7 +4,7 @@ title: OH MY GOD MY SCOTLAND EBOOK IS OUT
 date: 2012-04-16T06:25:09+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=6632
+guid: http://blog.vickiboykis.com/wlb/?p=6632
 permalink: /2012/04/oh-my-god-my-scotland-ebook-is-out/
 categories:
   - Uncategorized

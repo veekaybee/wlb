@@ -4,7 +4,7 @@ title: 'Movies: The Vanished Empire'
 date: 2011-01-31T11:11:55+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=4278
+guid: http://blog.vickiboykis.com/wlb/?p=4278
 permalink: /2011/01/movies-the-vanished-empire/
 categories:
   - Uncategorized

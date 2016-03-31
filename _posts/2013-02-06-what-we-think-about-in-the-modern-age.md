@@ -4,7 +4,7 @@ title: What we think about in the modern age
 date: 2013-02-06T08:20:44+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=8340
+guid: http://blog.vickiboykis.com/wlb/?p=8340
 permalink: /2013/02/what-we-think-about-in-the-modern-age/
 categories:
   - Uncategorized

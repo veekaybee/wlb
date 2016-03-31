@@ -4,7 +4,7 @@ title: 'I&#8217;m so happy for Ben Affleck'
 date: 2012-11-09T07:58:31+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=7802
+guid: http://blog.vickiboykis.com/wlb/?p=7802
 permalink: /2012/11/im-so-happy-for-ben-affleck/
 categories:
   - Uncategorized
@@ -47,7 +47,7 @@ Then the crowd is there, and they are escaping the building,and they are complet
 
 [<img class="aligncenter size-full wp-image-7808" title="11argo3" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/11/11argo3.jpeg" alt="" width="460" height="190" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/11/11argo3.jpeg)
 
-They, according to the movie, flee to the Canadian ambassador&#8217;s house. Of course, real events transpired a little differently, but you gotta chop some stuff for the movie. Oh, and everything done-up in 1970s style, <a href="http://blog.vickiboykis.com/2011/01/movies-the-vanished-empire/" target="_blank">that decade I know so well in my subconscious</a>: the outfits, the hair, the phones, the cigarettes. Everything is coming together like a good movie should.
+They, according to the movie, flee to the Canadian ambassador&#8217;s house. Of course, real events transpired a little differently, but you gotta chop some stuff for the movie. Oh, and everything done-up in 1970s style, <a href="http://blog.vickiboykis.com/wlb/2011/01/movies-the-vanished-empire/" target="_blank">that decade I know so well in my subconscious</a>: the outfits, the hair, the phones, the cigarettes. Everything is coming together like a good movie should.
 
 All of a sudden, we&#8217;re in Washington, D.C., and we don&#8217;t care about the hostages anymore because we&#8217;re on another planet, one that&#8217;s much quieter and has stupid rules and protocols for how to deal with those pesky buggers overseas.  But here Affleck is in charge and he pulls you along as he quietly plays Tony Mendez, the man who is going to save these people huddled in the middle of hell breaking loose.
 

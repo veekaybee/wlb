@@ -4,7 +4,7 @@ title: 'Don&#8217;t pageclick on this'
 date: 2014-07-29T08:02:44+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=9755
+guid: http://blog.vickiboykis.com/wlb/?p=9755
 permalink: /2014/07/dont-pageclick-on-this/
 categories:
   - news
@@ -22,7 +22,7 @@ In the YOU WON&#8217;T BELIEVE WHAT HAPPENS IF YOU CLICK THIS LINK age, despite
 
 Idleness has always been a negative trait. If you weren&#8217;t planting fields, it meant you wouldn&#8217;t eat. But we can get food whenever we want, so today&#8217;s idleness in the Western world is superficial, and because we are scared of death.  We need to be occupied by whatever we deem most important to us not because it&#8217;s essential for life, but because of our ego.
 
-Today&#8217;s most valuable commodity is attention. Seth Godin, who writes some gimmicky stuff but also some gems,  wrote recently, &#8220;There&#8217;s a gold rush for attention going on. <a href="http://sethgodin.typepad.com/seths_blog/2014/06/in-search-of-meaningful.html" target="_blank">We are all in the media business.</a>&#8221;  I&#8217;ve written before about <a href="http://blog.vickiboykis.com/2012/12/how-to-watch-internet-news/" target="_blank">how much I hate</a> the current shape of the mainstream media, an issue that impacts most people who live on the internet and let the internet shape their world views.
+Today&#8217;s most valuable commodity is attention. Seth Godin, who writes some gimmicky stuff but also some gems,  wrote recently, &#8220;There&#8217;s a gold rush for attention going on. <a href="http://sethgodin.typepad.com/seths_blog/2014/06/in-search-of-meaningful.html" target="_blank">We are all in the media business.</a>&#8221;  I&#8217;ve written before about <a href="http://blog.vickiboykis.com/wlb/2012/12/how-to-watch-internet-news/" target="_blank">how much I hate</a> the current shape of the mainstream media, an issue that impacts most people who live on the internet and let the internet shape their world views.
 
 A couple weeks ago at WordCamp Philly, <a href="http://www.slideshare.net/vickiboykis/word-camp-philly-2014-good-content" target="_blank">I talked for 45 minutes</a> about how SEO, Twitter, and Buzzfeed are ruining good quality writing, and that if you really care about writing well, you should be writing consistently good content about things you care about because you&#8217;re passionate about them, not because you want to whore yourself out for pageclicks.
 

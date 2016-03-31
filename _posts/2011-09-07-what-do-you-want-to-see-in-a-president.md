@@ -4,7 +4,7 @@ title: What do you want to see in a President?
 date: 2011-09-07T21:33:28+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=5704
+guid: http://blog.vickiboykis.com/wlb/?p=5704
 permalink: /2011/09/what-do-you-want-to-see-in-a-president/
 categories:
   - Uncategorized

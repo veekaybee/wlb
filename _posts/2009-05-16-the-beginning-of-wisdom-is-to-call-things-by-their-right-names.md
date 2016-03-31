@@ -4,7 +4,7 @@ title: The beginning of wisdom is to call things by their right names
 date: 2009-05-16T22:26:58+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=357
+guid: http://blog.vickiboykis.com/wlb/?p=357
 permalink: /2009/05/the-beginning-of-wisdom-is-to-call-things-by-their-right-names/
 categories:
   - identity

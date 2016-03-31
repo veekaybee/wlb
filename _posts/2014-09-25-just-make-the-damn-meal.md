@@ -4,7 +4,7 @@ title: Just make the damn meal
 date: 2014-09-25T07:19:21+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=9851
+guid: http://blog.vickiboykis.com/wlb/?p=9851
 permalink: /2014/09/just-make-the-damn-meal/
 categories:
   - America
@@ -23,7 +23,7 @@ tags:
 ---
 [<img class="aligncenter size-medium wp-image-9854" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2014/09/making-jam-1876.jpgLarge-580x395.jpg" alt="making-jam-1876.jpg!Large" width="580" height="395" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2014/09/making-jam-1876.jpgLarge.jpg)
 
-### Inspired by <a href="http://www.nytimes.com/2014/09/24/dining/just-make-dinner-a-manifesto-for-home-cooking.html" target="_blank">this</a> and other <a href="http://blog.vickiboykis.com/2011/12/new-york-times-story-idea-bingo-2011/" target="_blank">NYT hijinks</a>.
+### Inspired by <a href="http://www.nytimes.com/2014/09/24/dining/just-make-dinner-a-manifesto-for-home-cooking.html" target="_blank">this</a> and other <a href="http://blog.vickiboykis.com/wlb/2011/12/new-york-times-story-idea-bingo-2011/" target="_blank">NYT hijinks</a>.
 
 Just cook. Just cook dinner. We&#8217;re all crunched for time, but please, just cook dinner. It&#8217;s never easy to cook. We at the New York Times realize this. You might have a million other things going on in your life. You might have just dragged your ass in from night class that lasts from 6-9:30. Your ass, because it is pregnant, may not even feel like it is attached to your body anymore because you sat in a chair designed for a much less pregnant woman for three hours and tried to thoughtfully participate in class discussion even though oh my god you felt like maybe your midregion was detaching from your body.
 

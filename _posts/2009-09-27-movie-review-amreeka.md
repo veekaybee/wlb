@@ -4,7 +4,7 @@ title: 'Movie Review: Amreeka'
 date: 2009-09-27T20:06:06+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=1312
+guid: http://blog.vickiboykis.com/wlb/?p=1312
 permalink: /2009/09/movie-review-amreeka/
 categories:
   - Uncategorized

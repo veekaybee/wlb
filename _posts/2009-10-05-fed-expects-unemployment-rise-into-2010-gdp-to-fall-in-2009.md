@@ -4,7 +4,7 @@ title: Fed expects unemployment rise into 2010; GDP to fall in 2009
 date: 2009-10-05T06:08:49+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/2009/10/05/fed-expects-unemployment-rise-into-2010-gdp-to-fall-in-2009/
+guid: http://blog.vickiboykis.com/wlb/2009/10/05/fed-expects-unemployment-rise-into-2010-gdp-to-fall-in-2009/
 permalink: /2009/10/fed-expects-unemployment-rise-into-2010-gdp-to-fall-in-2009/
 categories:
   - Uncategorized

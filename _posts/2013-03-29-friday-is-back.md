@@ -4,7 +4,7 @@ title: Friday is back!
 date: 2013-03-29T09:02:45+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=8530
+guid: http://blog.vickiboykis.com/wlb/?p=8530
 permalink: /2013/03/friday-is-back/
 categories:
   - fridaylinks

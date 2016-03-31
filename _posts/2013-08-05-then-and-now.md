@@ -4,7 +4,7 @@ title: Then and now
 date: 2013-08-05T11:11:53+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=8951
+guid: http://blog.vickiboykis.com/wlb/?p=8951
 permalink: /2013/08/then-and-now/
 categories:
   - Uncategorized

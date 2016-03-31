@@ -4,7 +4,7 @@ title: Our Adventures in Los Angeles, starting with Mulholland Drive
 date: 2010-05-26T07:44:26+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=2979
+guid: http://blog.vickiboykis.com/wlb/?p=2979
 permalink: /2010/05/our-adventures-in-los-angeles-starting-with-mulholland-drive/
 categories:
   - Uncategorized

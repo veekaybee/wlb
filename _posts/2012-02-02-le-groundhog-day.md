@@ -4,7 +4,7 @@ title: Le Groundhog Day
 date: 2012-02-02T08:03:28+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=6409
+guid: http://blog.vickiboykis.com/wlb/?p=6409
 permalink: /2012/02/le-groundhog-day/
 categories:
   - Uncategorized

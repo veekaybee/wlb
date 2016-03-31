@@ -5,7 +5,7 @@ date: 2015-12-28T21:55:46+00:00
 author: Vicki
 excerpt: 'The dismantling of the heart of Star Wars by MBAs eager to cash in on the $4 billion merchandising machine that is, at its core, a genuine human story of triumph, is a horrible thing to watch. '
 layout: post
-guid: http://blog.vickiboykis.com/?p=10099
+guid: http://blog.vickiboykis.com/wlb/?p=10099
 permalink: /2015/12/jj-abrams-opens-the-box-of-my-childhood/
 dsq_thread_id:
   - 4665396510
@@ -26,7 +26,7 @@ We had walked through that house five to six times, had mentally started putting
 
 We moved into an apartment complex located in my new school district while my parents kept saving money and kept searching.
 
-Thanks to my parents&#8217; hard work I had a fairly easy childhood, <a href="http://blog.vickiboykis.com/2014/05/upward-immigrant-toy-mobility-in-the-wild-1990s/" target="_blank">Polly Pocket aside</a>. But, I grew up deep in the heart of flyover America, the part that hadn&#8217;t been exposed to anything foreign.
+Thanks to my parents&#8217; hard work I had a fairly easy childhood, <a href="http://blog.vickiboykis.com/wlb/2014/05/upward-immigrant-toy-mobility-in-the-wild-1990s/" target="_blank">Polly Pocket aside</a>. But, I grew up deep in the heart of flyover America, the part that hadn&#8217;t been exposed to anything foreign.
 
 Growing up with weird foods, language, and cultural references to obscure Soviet rock bands no one had ever heard of, being an immigrant kid meant living in a default state of weird, where the closest thing to <a href="https://en.wikipedia.org/wiki/Quark_%28dairy_product%29" target="_blank">tvorog</a> was cottage cheese that my mom hung in special surgery-grade cheesecloths, which dripped slowly into our kitchen sink over the course of several days before they hardened into a tvorog-like product.
 

@@ -4,7 +4,7 @@ title: The first day of school in Russia
 date: 2012-09-06T08:00:04+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=7478
+guid: http://blog.vickiboykis.com/wlb/?p=7478
 permalink: /2012/09/the-first-day-of-school-in-russia/
 categories:
   - Uncategorized
@@ -26,9 +26,9 @@ The first day of school is a huge deal in Russia, but in a different way than in
 
 In Russia, there is a huge focus, instead, on the significance and responsibility of learning.  A lot of it can be artificial at times, but if there was one good thing the Soviet Union did, it was to instill 99% literacy and a huge respect for knowledge and teachers which I don&#8217;t think is present in the U.S.
 
-In Russia on the first day of school, every kid is dressed up to the nines and brings in flowers for the teachers. The girls all wear frilly bows.  There is something about pictures September 1 that makes me have hope for humanity again.  And that&#8217;s saying a lot, because you know how much I love <a href="http://blog.vickiboykis.com/2009/10/russia-tries-to-cut-down-on-alcohol/" target="_blank">Ze Mozerland</a>.
+In Russia on the first day of school, every kid is dressed up to the nines and brings in flowers for the teachers. The girls all wear frilly bows.  There is something about pictures September 1 that makes me have hope for humanity again.  And that&#8217;s saying a lot, because you know how much I love <a href="http://blog.vickiboykis.com/wlb/2009/10/russia-tries-to-cut-down-on-alcohol/" target="_blank">Ze Mozerland</a>.
 
-Since the Internet has made the world a lot smaller, a lot of people have posted pictures of their kids on September 1 on <a href="http://blog.vickiboykis.com/2012/06/so-i-found-this-smartphone-with-instagram-on-it/" target="_blank">Instagram</a>,  <a href="http://blog.vickiboykis.com/2012/06/so-i-found-this-smartphone-with-instagram-on-it/" target="_blank">where</a> I&#8217;ve scraped them into my own little creepy collection.
+Since the Internet has made the world a lot smaller, a lot of people have posted pictures of their kids on September 1 on <a href="http://blog.vickiboykis.com/wlb/2012/06/so-i-found-this-smartphone-with-instagram-on-it/" target="_blank">Instagram</a>,  <a href="http://blog.vickiboykis.com/wlb/2012/06/so-i-found-this-smartphone-with-instagram-on-it/" target="_blank">where</a> I&#8217;ve scraped them into my own little creepy collection.
 
 <p style="text-align: center;">
   <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/09/Screen-shot-2012-09-05-at-8.06.19-AM.png"><img class="aligncenter  wp-image-7480" title="Screen shot 2012-09-05 at 8.06.19 AM" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/09/Screen-shot-2012-09-05-at-8.06.19-AM.png" alt="" width="421" height="370" /></a>

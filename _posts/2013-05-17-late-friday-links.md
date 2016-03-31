@@ -4,7 +4,7 @@ title: Late Friday Links
 date: 2013-05-17T15:37:01+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=8719
+guid: http://blog.vickiboykis.com/wlb/?p=8719
 permalink: /2013/05/late-friday-links/
 categories:
   - fridaylinks

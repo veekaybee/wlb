@@ -4,7 +4,7 @@ title: Modern-Day Telepathy
 date: 2010-12-14T08:48:18+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=4042
+guid: http://blog.vickiboykis.com/wlb/?p=4042
 permalink: /2010/12/modern-day-telepathy/
 categories:
   - Uncategorized

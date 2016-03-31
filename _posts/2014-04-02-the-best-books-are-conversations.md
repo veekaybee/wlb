@@ -4,7 +4,7 @@ title: The best books are conversations
 date: 2014-04-02T08:00:50+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=9594
+guid: http://blog.vickiboykis.com/wlb/?p=9594
 permalink: /2014/04/the-best-books-are-conversations/
 categories:
   - Uncategorized

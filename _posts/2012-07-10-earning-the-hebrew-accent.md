@@ -4,7 +4,7 @@ title: Earning the Hebrew accent
 date: 2012-07-10T07:21:44+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=7138
+guid: http://blog.vickiboykis.com/wlb/?p=7138
 permalink: /2012/07/earning-the-hebrew-accent/
 categories:
   - Uncategorized

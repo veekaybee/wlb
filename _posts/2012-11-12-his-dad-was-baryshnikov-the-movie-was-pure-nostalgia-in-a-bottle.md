@@ -4,7 +4,7 @@ title: His dad was Baryshnikov, the movie was pure nostalgia in a bottle
 date: 2012-11-12T08:08:59+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=7826
+guid: http://blog.vickiboykis.com/wlb/?p=7826
 permalink: /2012/11/his-dad-was-baryshnikov-the-movie-was-pure-nostalgia-in-a-bottle/
 categories:
   - Uncategorized
@@ -47,7 +47,7 @@ The movie is all about the struggle against conformity, both in ballet and withi
 
 &nbsp;
 
-The movie is rich with that nostalgic detail that permeates every ex-Soviet, and which I&#8217;ve written about of the 1974-era movie <a href="http://blog.vickiboykis.com/2011/01/movies-the-vanished-empire/" target="_blank">The Vanished Empire</a>.  The dingy apartments. Boney-M blasting while 20 people dance in a single room.
+The movie is rich with that nostalgic detail that permeates every ex-Soviet, and which I&#8217;ve written about of the 1974-era movie <a href="http://blog.vickiboykis.com/wlb/2011/01/movies-the-vanished-empire/" target="_blank">The Vanished Empire</a>.  The dingy apartments. Boney-M blasting while 20 people dance in a single room.
 
 [<img class="aligncenter size-full wp-image-7836" title="Screen shot 2012-11-12 at 7.55.04 AM" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/11/Screen-shot-2012-11-12-at-7.55.04-AM.png" alt="" width="642" height="358" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/11/Screen-shot-2012-11-12-at-7.55.04-AM.png)
 

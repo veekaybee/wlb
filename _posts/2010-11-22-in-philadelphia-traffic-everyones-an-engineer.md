@@ -4,7 +4,7 @@ title: 'In Philadelphia traffic, everyone&#8217;s an engineer*'
 date: 2010-11-22T08:36:00+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=3805
+guid: http://blog.vickiboykis.com/wlb/?p=3805
 permalink: /2010/11/in-philadelphia-traffic-everyones-an-engineer/
 categories:
   - Uncategorized

@@ -4,7 +4,7 @@ title: Pictures of December that I Love
 date: 2010-12-07T06:14:29+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=3999
+guid: http://blog.vickiboykis.com/wlb/?p=3999
 permalink: /2010/12/pictures-of-december-that-i-love/
 categories:
   - Uncategorized

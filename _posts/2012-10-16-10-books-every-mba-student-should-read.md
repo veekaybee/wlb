@@ -4,7 +4,7 @@ title: 10 books every MBA student should read
 date: 2012-10-16T08:07:49+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=7675
+guid: http://blog.vickiboykis.com/wlb/?p=7675
 permalink: /2012/10/10-books-every-mba-student-should-read/
 categories:
   - Uncategorized

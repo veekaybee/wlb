@@ -4,7 +4,7 @@ title: Happy Birthday!
 date: 2011-08-18T09:39:43+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=5625
+guid: http://blog.vickiboykis.com/wlb/?p=5625
 permalink: /2011/08/happy-birthday/
 categories:
   - Uncategorized
@@ -25,7 +25,7 @@ Can you guess who it is?
 
 I&#8217;ll give you a hint.
 
-She&#8217;s <a href="http://blog.vickiboykis.com/?s=mom" target="_blank">made me everything</a> that I am today.
+She&#8217;s <a href="http://blog.vickiboykis.com/wlb/?s=mom" target="_blank">made me everything</a> that I am today.
 
 Can you guess now?
 

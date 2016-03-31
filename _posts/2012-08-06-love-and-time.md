@@ -4,7 +4,7 @@ title: Love and Time
 date: 2012-08-06T22:14:01+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=7291
+guid: http://blog.vickiboykis.com/wlb/?p=7291
 permalink: /2012/08/love-and-time/
 categories:
   - Uncategorized

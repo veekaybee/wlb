@@ -4,7 +4,7 @@ title: 'If you&#8217;re interested in if the world economy will ever recover'
 date: 2010-05-24T07:26:59+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=2992
+guid: http://blog.vickiboykis.com/wlb/?p=2992
 permalink: /2010/05/if-youre-interested-in-if-the-world-economy-will-ever-recover/
 categories:
   - Uncategorized

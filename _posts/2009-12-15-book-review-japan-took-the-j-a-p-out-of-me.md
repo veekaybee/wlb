@@ -4,7 +4,7 @@ title: 'Book Review: Japan Took the J.A.P. Out of Me'
 date: 2009-12-15T22:36:01+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=1880
+guid: http://blog.vickiboykis.com/wlb/?p=1880
 permalink: /2009/12/book-review-japan-took-the-j-a-p-out-of-me/
 categories:
   - Uncategorized

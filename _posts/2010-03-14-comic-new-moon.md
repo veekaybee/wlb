@@ -4,7 +4,7 @@ title: 'Comic: New Moon'
 date: 2010-03-14T21:56:33+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=2519
+guid: http://blog.vickiboykis.com/wlb/?p=2519
 permalink: /2010/03/comic-new-moon/
 categories:
   - Uncategorized

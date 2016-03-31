@@ -4,7 +4,7 @@ title: 'Quickie Book Review: The Golden Veil by Kim Wilkins'
 date: 2009-04-21T06:18:10+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=269
+guid: http://blog.vickiboykis.com/wlb/?p=269
 permalink: /2009/04/quickie-book-review-the-golden-veil-by-kim-wilkins/
 categories:
   - books

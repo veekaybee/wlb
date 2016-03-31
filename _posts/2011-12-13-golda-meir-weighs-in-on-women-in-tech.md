@@ -4,7 +4,7 @@ title: Golda Meir weighs in on women in tech
 date: 2011-12-13T08:08:39+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=6018
+guid: http://blog.vickiboykis.com/wlb/?p=6018
 permalink: /2011/12/golda-meir-weighs-in-on-women-in-tech/
 categories:
   - Uncategorized

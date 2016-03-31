@@ -4,7 +4,7 @@ title: Why we all sometimes need a Roman Holiday
 date: 2009-04-26T20:46:45+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=294
+guid: http://blog.vickiboykis.com/wlb/?p=294
 permalink: /2009/04/why-we-all-sometimes-need-a-roman-holiday/
 categories:
   - Career

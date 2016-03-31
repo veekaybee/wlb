@@ -4,7 +4,7 @@ title: Goodbye, Cruel World. I ate the sushi.
 date: 2012-04-10T12:40:53+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=6658
+guid: http://blog.vickiboykis.com/wlb/?p=6658
 permalink: /2012/04/goodbye-cruel-world-i-ate-the-sushi/
 categories:
   - Uncategorized

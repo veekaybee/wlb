@@ -4,7 +4,7 @@ title: 'My MBA: Paying thousands of dollars to mess around with Photoshop'
 date: 2012-01-08T20:32:54+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=6194
+guid: http://blog.vickiboykis.com/wlb/?p=6194
 permalink: /2012/01/my-mba-paying-thousands-of-dollars-to-mess-around-with-photoshop/
 categories:
   - Uncategorized
@@ -13,7 +13,7 @@ tags:
   - coat of arms
   - mba
 ---
-I had <a href="http://blog.vickiboykis.com/2011/11/22/im-getting-an-mba-it-wont-make-me-smarter-but-its-a-smart-move/" target="_blank">my first MBA class</a> this weekend.  It&#8217;s an intro management course that spans two weekends, designed to jump start you into the program.  Right before class, I got an email from my professor.  It included the following:
+I had <a href="http://blog.vickiboykis.com/wlb/2011/11/22/im-getting-an-mba-it-wont-make-me-smarter-but-its-a-smart-move/" target="_blank">my first MBA class</a> this weekend.  It&#8217;s an intro management course that spans two weekends, designed to jump start you into the program.  Right before class, I got an email from my professor.  It included the following:
 
 <p style="text-align: center;">
   <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/01/Screen-shot-2012-01-08-at-7.53.07-PM.png"><img class="aligncenter size-full wp-image-6199" title="Screen shot 2012-01-08 at 7.53.07 PM" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/01/Screen-shot-2012-01-08-at-7.53.07-PM.png" alt="" width="624" height="84" /></a>
@@ -25,7 +25,7 @@ What kind of sick and twisted European feudal system are we running over here? W
 
 After I&#8217;m done railing about the indignity of this exercise, though, let me tell you that making your own personal coat of arms does make you feel GREAT and important and stuff. Also, it is a fulfillment of my deepest desires.   It was just last week, still coming off a Europe high, that I casually remarked to Mr. B, &#8220;Why doesn&#8217;t your family have a coat of arms, like the <a href="http://en.wikipedia.org/wiki/File:Coat_of_Arms_of_England_(1603-1649).svg" target="_blank">House of Stewart</a>?&#8221; To which he replied, looking at me like I was clinically insane, &#8220;Because my family was Jewish?&#8221;   &#8220;But <a href="http://en.wikipedia.org/wiki/File:Rothschild_Wappen.jpg" target="_blank">even Jews had coats of arms</a>.  Why wasn&#8217;t I lucky enough to marry <a href="http://www.businessweek.com/chapter/ferguson.htm" target="_blank">a coat-of-arms Jew</a>,&#8221; I lamented, making a mental note to peruse the list of currently single Rothschilds.
 
-Luckily, here in America we make our own fortunes (and <a href="http://www.youtube.com/watch?v=vhep2fZKHgE" target="_blank">change our stars</a>, since we are going full-on medieval metaphors here) and I set to re-enact hundreds of years of European arrogance and dignity with a few hours of messing around in <a href="http://blog.vickiboykis.com/?s=photoshop+thursday" target="_blank">Photoshop</a>.
+Luckily, here in America we make our own fortunes (and <a href="http://www.youtube.com/watch?v=vhep2fZKHgE" target="_blank">change our stars</a>, since we are going full-on medieval metaphors here) and I set to re-enact hundreds of years of European arrogance and dignity with a few hours of messing around in <a href="http://blog.vickiboykis.com/wlb/?s=photoshop+thursday" target="_blank">Photoshop</a>.
 
 Here&#8217;s what I came up with:
 

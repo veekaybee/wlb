@@ -4,7 +4,7 @@ title: A letter of concern to my neighbors
 date: 2012-06-18T07:26:46+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=6977
+guid: http://blog.vickiboykis.com/wlb/?p=6977
 permalink: /2012/06/a-letter-of-concern-to-my-neighbors/
 categories:
   - Uncategorized

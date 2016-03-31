@@ -4,7 +4,7 @@ title: Rejoining society soon, with lilacs
 date: 2010-04-26T14:28:14+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=2821
+guid: http://blog.vickiboykis.com/wlb/?p=2821
 permalink: /2010/04/rejoining-society-soon-with-lilacs/
 categories:
   - Uncategorized

@@ -4,7 +4,7 @@ title: 'So I found this smartphone with Instagram on it&#8230;'
 date: 2012-06-19T06:54:35+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=6979
+guid: http://blog.vickiboykis.com/wlb/?p=6979
 permalink: /2012/06/so-i-found-this-smartphone-with-instagram-on-it/
 categories:
   - Uncategorized
@@ -13,7 +13,7 @@ tags:
   - instagram
   - photos
 ---
-When <a href="http://blog.vickiboykis.com/2012/04/new-york-on-a-whim/" target="_blank">we were in New York</a> a couple weeks ago, I found this phone in Brooklyn.
+When <a href="http://blog.vickiboykis.com/wlb/2012/04/new-york-on-a-whim/" target="_blank">we were in New York</a> a couple weeks ago, I found this phone in Brooklyn.
 
 I am really trying to get this phone back to its rightful owner, so in the interest of being a good Samaritan, I&#8217;m going to post the pics from the phone&#8217;s Instagram account on here and see if anyone recognizes any of them.
 

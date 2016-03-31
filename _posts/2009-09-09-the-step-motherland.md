@@ -4,7 +4,7 @@ title: The Step-Motherland
 date: 2009-09-09T12:33:35+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=1186
+guid: http://blog.vickiboykis.com/wlb/?p=1186
 permalink: /2009/09/the-step-motherland/
 categories:
   - Uncategorized

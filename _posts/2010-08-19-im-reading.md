@@ -4,7 +4,7 @@ title: 'I&#8217;m reading&#8230;'
 date: 2010-08-19T06:18:58+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=3482
+guid: http://blog.vickiboykis.com/wlb/?p=3482
 permalink: /2010/08/im-reading/
 categories:
   - Uncategorized

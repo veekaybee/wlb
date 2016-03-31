@@ -4,7 +4,7 @@ title: Facebook anxiety
 date: 2011-09-26T07:58:32+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=5754
+guid: http://blog.vickiboykis.com/wlb/?p=5754
 permalink: /2011/09/facebook-anxiety/
 categories:
   - Uncategorized
@@ -16,7 +16,7 @@ tags:
 ---
 [<img class="aligncenter size-full wp-image-5762" title="facebook-redesign-sympathy-ecards-someecards" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/09/facebook-redesign-sympathy-ecards-someecards.png" alt="" width="425" height="237" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/09/facebook-redesign-sympathy-ecards-someecards.png)
 
-I&#8217;ve written before about how much <a href="http://blog.vickiboykis.com/2011/06/20/i-hate-everyone-on-facebook/" target="_blank">I hate Facebook</a>.
+I&#8217;ve written before about how much <a href="http://blog.vickiboykis.com/wlb/2011/06/20/i-hate-everyone-on-facebook/" target="_blank">I hate Facebook</a>.
 
 Not only do you never know what <a href="http://youropenbook.org/" target="_blank">your privacy status is</a> (I just assume everything I post is public), but, more to the point, it sucks you in.
 
@@ -26,7 +26,7 @@ I&#8217;ve been talking about it with friends who agree, and I stumbled across <
 
 I&#8217;m not going to go crazy and cancel all my accounts and get rid of my TV just so I can be one of those people that tells you <a href="http://stuffwhitepeoplelike.com/2008/01/26/28-not-having-a-tv/" target="_blank">they don&#8217;t have a TV</a>, but  I&#8217;ve come to the realization that Facebook makes me anxious.
 
-For example, I decided that Thursday last week was a beautiful fall night to smoke <a href="http://blog.vickiboykis.com/2011/06/13/hookah-neuroses/" target="_blank">hookah</a> with Mr. B. As soon as I decided it, I thought.  Oh, I should post a Facebook update. Or take a picture of the hookah and then upload it. Why did I want to let people know that I was smoking? Because I wanted them to think that I was cool, exotic, to be jealous, and to leave lots of comments on my Facebook page, which I would later refresh to check.
+For example, I decided that Thursday last week was a beautiful fall night to smoke <a href="http://blog.vickiboykis.com/wlb/2011/06/13/hookah-neuroses/" target="_blank">hookah</a> with Mr. B. As soon as I decided it, I thought.  Oh, I should post a Facebook update. Or take a picture of the hookah and then upload it. Why did I want to let people know that I was smoking? Because I wanted them to think that I was cool, exotic, to be jealous, and to leave lots of comments on my Facebook page, which I would later refresh to check.
 
 All of this was perfectly normal inside my head, but it sounds perfectly stupid if you&#8217;re actually talking about it. Are all of us really living our lives for Facebook updates? So we can get a few likes on a status?   Are people posing in certain pictures a certain way because it&#8217;s more Facebook-friendly? (<a href="http://www.2birds1blog.com/2008/04/20-male-poses-of-facebook.html" target="_blank">Yes</a>)
 

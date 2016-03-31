@@ -4,7 +4,7 @@ title: The American dream as seen through Polly Pocket
 date: 2014-05-05T08:13:36+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=9703
+guid: http://blog.vickiboykis.com/wlb/?p=9703
 permalink: /2014/05/upward-immigrant-toy-mobility-in-the-wild-1990s/
 categories:
   - Uncategorized
@@ -77,7 +77,7 @@ But the Dear Diary is $40, so I have to save up some of my allowance for it, and
 
 The day we buy it, I am giddy with joy. My own diary!  When we get home, I rip it open. &#8220;Careful!&#8221; my dad warns. What if we have to return it? We have to keep the packaging in tact. I try to turn it on, but it doesn&#8217;t work. &#8220;Needs batteries,&#8221; I read in the pamphlet, my heart sinking. &#8220;We&#8217;ll get them tomorrow,&#8221; my dad says, but tomorrow is not soon enough for a kid with a diary, I need them RIGHT NOW.
 
-So we go to the store again and shell out for super-tiny super-special electronics batteries. &#8220;Stupid toys, why don&#8217;t they come with batteries?&#8221; my dad grumbles, but I&#8217;m already absorbed in all the non-functionality of this non-internet-connected non-touch-screen PDA. I spend hours with it, typing my secrets and carrying it around the house. &#8220;Put that thing down,  <a href="http://blog.vickiboykis.com/2014/03/use-cases/" target="_blank">you look ridiculous</a>,&#8221; my mom says,but she says it laughing. I am bursting with pride. I bring it in the next day. No one has a Dear Diary. I am the first one. No one else knows how to type.
+So we go to the store again and shell out for super-tiny super-special electronics batteries. &#8220;Stupid toys, why don&#8217;t they come with batteries?&#8221; my dad grumbles, but I&#8217;m already absorbed in all the non-functionality of this non-internet-connected non-touch-screen PDA. I spend hours with it, typing my secrets and carrying it around the house. &#8220;Put that thing down,  <a href="http://blog.vickiboykis.com/wlb/2014/03/use-cases/" target="_blank">you look ridiculous</a>,&#8221; my mom says,but she says it laughing. I am bursting with pride. I bring it in the next day. No one has a Dear Diary. I am the first one. No one else knows how to type.
 
 \***
 

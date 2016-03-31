@@ -4,7 +4,7 @@ title: Happy May! Friday Links
 date: 2013-05-03T07:57:51+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=8686
+guid: http://blog.vickiboykis.com/wlb/?p=8686
 permalink: /2013/05/happy-may-friday-links/
 categories:
   - fridaylinks

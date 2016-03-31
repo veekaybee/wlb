@@ -4,7 +4,7 @@ title: Hipstagram again
 date: 2012-09-25T21:02:47+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=7572
+guid: http://blog.vickiboykis.com/wlb/?p=7572
 permalink: /2012/09/hipstagram-again/
 categories:
   - Uncategorized
@@ -14,7 +14,7 @@ tags:
 ---
 If you&#8217;re fasting today, have a meaningful fast.
 
-In honor of the high holidays, and, let&#8217;s face it, because I&#8217;ve finally picked up the pace on both school and my novel, here&#8217;s a filler post with some of my <a href="http://blog.vickiboykis.com/2012/06/so-i-found-this-smartphone-with-instagram-on-it/" target="_blank">favorite</a> <a href="http://blog.vickiboykis.com/2012/09/the-first-day-of-school-in-russia/" target="_blank">recent</a> <a href="http://blog.vickiboykis.com/2012/05/my-favorite-hipstergram-pictures/" target="_blank">Instagrams</a>. (Don&#8217;t look if you&#8217;re fasting).
+In honor of the high holidays, and, let&#8217;s face it, because I&#8217;ve finally picked up the pace on both school and my novel, here&#8217;s a filler post with some of my <a href="http://blog.vickiboykis.com/wlb/2012/06/so-i-found-this-smartphone-with-instagram-on-it/" target="_blank">favorite</a> <a href="http://blog.vickiboykis.com/wlb/2012/09/the-first-day-of-school-in-russia/" target="_blank">recent</a> <a href="http://blog.vickiboykis.com/wlb/2012/05/my-favorite-hipstergram-pictures/" target="_blank">Instagrams</a>. (Don&#8217;t look if you&#8217;re fasting).
 
 <p style="text-align: center;">
   <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/09/a554a592063411e2a31922000a1fbcdc_7.jpeg"><img class="aligncenter  wp-image-7574" title="a554a592063411e2a31922000a1fbcdc_7" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/09/a554a592063411e2a31922000a1fbcdc_7.jpeg" alt="" width="428" height="428" /></a>

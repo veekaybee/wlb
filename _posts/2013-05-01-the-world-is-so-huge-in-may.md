@@ -4,7 +4,7 @@ title: The world is so huge in May
 date: 2013-05-01T07:57:45+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=8663
+guid: http://blog.vickiboykis.com/wlb/?p=8663
 permalink: /2013/05/the-world-is-so-huge-in-may/
 categories:
   - Russia
@@ -133,4 +133,4 @@ May is in the air, my own semester&#8217;s worth of immense, exhausting labor is
   &#8220;Labor,&#8221; @xzkto_smr
 </p>
 
-Previously: <a href="http://blog.vickiboykis.com/2012/09/the-first-day-of-school-in-russia/" target="_blank">The first day of school in Russia</a>.
+Previously: <a href="http://blog.vickiboykis.com/wlb/2012/09/the-first-day-of-school-in-russia/" target="_blank">The first day of school in Russia</a>.

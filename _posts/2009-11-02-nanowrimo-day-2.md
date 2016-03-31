@@ -4,7 +4,7 @@ title: 'NaNoWriMo: Day 2'
 date: 2009-11-02T21:30:02+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=1610
+guid: http://blog.vickiboykis.com/wlb/?p=1610
 permalink: /2009/11/nanowrimo-day-2/
 categories:
   - Uncategorized

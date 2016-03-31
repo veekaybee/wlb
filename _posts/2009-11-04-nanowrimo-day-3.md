@@ -4,7 +4,7 @@ title: 'NaNoWriMo: Day 3'
 date: 2009-11-04T06:52:28+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=1616
+guid: http://blog.vickiboykis.com/wlb/?p=1616
 permalink: /2009/11/nanowrimo-day-3/
 categories:
   - Uncategorized

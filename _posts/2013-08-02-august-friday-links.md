@@ -4,7 +4,7 @@ title: August Friday Links
 date: 2013-08-02T07:07:38+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=8942
+guid: http://blog.vickiboykis.com/wlb/?p=8942
 permalink: /2013/08/august-friday-links/
 categories:
   - fridaylinks

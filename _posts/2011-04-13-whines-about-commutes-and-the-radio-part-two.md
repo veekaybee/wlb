@@ -4,7 +4,7 @@ title: Whines about commutes and the radio, part two
 date: 2011-04-13T08:50:09+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=4799
+guid: http://blog.vickiboykis.com/wlb/?p=4799
 permalink: /2011/04/whines-about-commutes-and-the-radio-part-two/
 categories:
   - Uncategorized
@@ -16,7 +16,7 @@ tags:
   - radio
   - white whine
 ---
-My morning [drive is a  pretty brutal](http://blog.vickiboykis.com/2010/11/22/in-philadelphia-traffic-everyones-an-engineer/) hour.
+My morning [drive is a  pretty brutal](http://blog.vickiboykis.com/wlb/2010/11/22/in-philadelphia-traffic-everyones-an-engineer/) hour.
 
 <div id="attachment_4800" style="width: 360px" class="wp-caption aligncenter">
   <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/04/wpid-IMAG0661.jpg"><img class="size-full wp-image-4800" title="wpid-IMAG0661.jpg" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/04/wpid-IMAG0661.jpg" alt="" width="350" height="583" /></a>
@@ -36,7 +36,7 @@ My morning [drive is a  pretty brutal](http://blog.vickiboykis.com/2010/11/22/i
   </p>
   
   <p>
-    &#8220;This <a href="http://blog.vickiboykis.com/2010/10/17/scenarios/">is Steve Inskeep</a>, and this is Morning Edition. Early this morning, rebels stormed the capital of Karkalpakistan, demanding enough karkalpaks for all, a minimum wage, social justice, and clean drinking water, much like our readers.  To learn more, we go to our reporter there, Woman With-Three-Hyphenated-Last-Names, Each More Ethnic and Harder to Pronounce than the Last.  Woman, what have you learned?&#8221;
+    &#8220;This <a href="http://blog.vickiboykis.com/wlb/2010/10/17/scenarios/">is Steve Inskeep</a>, and this is Morning Edition. Early this morning, rebels stormed the capital of Karkalpakistan, demanding enough karkalpaks for all, a minimum wage, social justice, and clean drinking water, much like our readers.  To learn more, we go to our reporter there, Woman With-Three-Hyphenated-Last-Names, Each More Ethnic and Harder to Pronounce than the Last.  Woman, what have you learned?&#8221;
   </p>
   
   <p>

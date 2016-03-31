@@ -4,7 +4,7 @@ title: A Very Russian Family Thanksgiving, complete with Russian movies.
 date: 2011-11-27T20:55:41+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=5945
+guid: http://blog.vickiboykis.com/wlb/?p=5945
 permalink: /2011/11/a-very-russian-family-thanksgiving-complete-with-russian-movies/
 categories:
   - Uncategorized

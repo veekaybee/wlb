@@ -4,7 +4,7 @@ title: Dracula drama or something like it
 date: 2010-10-10T22:20:30+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/2010/10/10/dracula-drama-or-something-like-it/
+guid: http://blog.vickiboykis.com/wlb/2010/10/10/dracula-drama-or-something-like-it/
 permalink: /2010/10/dracula-drama-or-something-like-it/
 categories:
   - Uncategorized

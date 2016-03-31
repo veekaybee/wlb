@@ -4,7 +4,7 @@ title: House Tour
 date: 2011-06-13T21:28:31+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=5092
+guid: http://blog.vickiboykis.com/wlb/?p=5092
 permalink: /2011/06/house-tour/
 categories:
   - Uncategorized

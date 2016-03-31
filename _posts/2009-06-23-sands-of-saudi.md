@@ -4,7 +4,7 @@ title: Sands of Saudi
 date: 2009-06-23T22:14:32+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=585
+guid: http://blog.vickiboykis.com/wlb/?p=585
 permalink: /2009/06/sands-of-saudi/
 categories:
   - economics

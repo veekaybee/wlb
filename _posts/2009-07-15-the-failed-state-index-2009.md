@@ -4,7 +4,7 @@ title: 'The Failed State Index: 2009'
 date: 2009-07-15T05:46:12+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=752
+guid: http://blog.vickiboykis.com/wlb/?p=752
 permalink: /2009/07/the-failed-state-index-2009/
 categories:
   - Uncategorized

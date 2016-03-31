@@ -4,7 +4,7 @@ title: Friday Links
 date: 2011-12-01T22:24:08+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=5965
+guid: http://blog.vickiboykis.com/wlb/?p=5965
 permalink: /2011/12/friday-links-81/
 categories:
   - Uncategorized

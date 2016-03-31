@@ -4,7 +4,7 @@ title: Pictures from Bangladesh
 date: 2009-08-10T00:00:04+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=991
+guid: http://blog.vickiboykis.com/wlb/?p=991
 permalink: /2009/08/pictures-from-bangladesh/
 categories:
   - Uncategorized

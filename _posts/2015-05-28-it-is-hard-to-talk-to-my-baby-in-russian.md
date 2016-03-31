@@ -4,7 +4,7 @@ title: It is hard to talk to my baby in Russian
 date: 2015-05-28T07:56:44+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=9933
+guid: http://blog.vickiboykis.com/wlb/?p=9933
 permalink: /2015/05/it-is-hard-to-talk-to-my-baby-in-russian/
 categories:
   - Uncategorized
@@ -38,7 +38,7 @@ Ben Yehuda the elder  spoke Yiddish, French, German, and Russian. But,  he bel
 
 In order to raise a fluent Hebrew speaker in a country that was full of intellectuals from Germany, British soldiers, Arabic-speaking Bedouins, and Romanian refugees, Ben Yehuda imposed very strict rules on Itamar’s upbringing. In his autobiography, Itamar describes an incident where his mother forgot herself and started singing a lullaby to him in her native Russian. Ben Yehuda overheard her, come in shouting, and caused a great scandal. Friends had to pantomime around Yiddish in intellectual discussions, all newspapers were translated or banned in the household, and New words were invented to encompass modern every-day life. Yiddish and Russian, the language both of Itamar’s parents had grown up with, were persona non-gratis.
 
-I thought about Itamar’s mother, Hemda, and how hard it was for her. To start with, her original, real Russian name was Paula. Ben Yehuda made her <a href="http://en.wikipedia.org/wiki/Hebraization_of_surnames" target="_blank">Hebraize</a> it. Her whole identity was wiped out in an instant.  Then , there was the matter of the lullaby. I can just imagine her, hopped up on post-natal hormones, sitting in the filthy, undeveloped swamp that was British Mandate Palestine, trying to offer her screaming baby, and herself a bit of comfort in a song from her childhood. <a href="http://blog.vickiboykis.com/2011/04/which-songs-can-you-sing-to-kids-to-prevent-risk-of-brain-atrophy-for-yourself/" target="_blank">Maybe it was Ryabina. Maybe it was Oi, to ne vecher</a>. Whatever it was, she couldn’t sing it because her husband had a Vision.
+I thought about Itamar’s mother, Hemda, and how hard it was for her. To start with, her original, real Russian name was Paula. Ben Yehuda made her <a href="http://en.wikipedia.org/wiki/Hebraization_of_surnames" target="_blank">Hebraize</a> it. Her whole identity was wiped out in an instant.  Then , there was the matter of the lullaby. I can just imagine her, hopped up on post-natal hormones, sitting in the filthy, undeveloped swamp that was British Mandate Palestine, trying to offer her screaming baby, and herself a bit of comfort in a song from her childhood. <a href="http://blog.vickiboykis.com/wlb/2011/04/which-songs-can-you-sing-to-kids-to-prevent-risk-of-brain-atrophy-for-yourself/" target="_blank">Maybe it was Ryabina. Maybe it was Oi, to ne vecher</a>. Whatever it was, she couldn’t sing it because her husband had a Vision.
 
 I thought about everything she gave up, and as usual, my thoughts circled back to my new tiny family because I speak to my baby in my first language, Russian, instead of my native language, English because I want her to know her roots, her culture, her people.   But,  good God is it hard to talk to my baby in Russian.
 
@@ -52,7 +52,7 @@ As soon as I became pregnant, my husband and I would start speaking to each othe
 
 But then I actually became pregnant, and even saying, “я беременая”, instead of “I’m pregnant,” felt false and fake. The former felt like I was speaking from the mouth of a 60-year-old woman, or some show on tv, like I was putting on an act, like I was distanced from myself, like a puppet in a play. The latter felt like I was really saying what I felt.
 
-I am Russian and Jewish <a href="http://blog.vickiboykis.com/2014/09/the-first-rule-of-russian-club-is-you-dont-use-last-names/" target="_blank">to my very core</a>, in my values, my beliefs, my sense of humor, my pride of my culture.  But I was five years old when I left and all of my Russian <a href="http://blog.vickiboykis.com/2010/04/we-the-russians/" target="_blank">is my family’s Russian</a>, not my own thoughts and ideas. My Russian is a shallow barrel of utility words that I’m constantly scraping the bottom of in an effort to explain myself, a pool that doesn’t include any of slang, cultural references,  or silly words I can make up myself.
+I am Russian and Jewish <a href="http://blog.vickiboykis.com/wlb/2014/09/the-first-rule-of-russian-club-is-you-dont-use-last-names/" target="_blank">to my very core</a>, in my values, my beliefs, my sense of humor, my pride of my culture.  But I was five years old when I left and all of my Russian <a href="http://blog.vickiboykis.com/wlb/2010/04/we-the-russians/" target="_blank">is my family’s Russian</a>, not my own thoughts and ideas. My Russian is a shallow barrel of utility words that I’m constantly scraping the bottom of in an effort to explain myself, a pool that doesn’t include any of slang, cultural references,  or silly words I can make up myself.
 
 My Russian is children’s books I was read when I was four, words for food that are untranslatable like kalbasa and kotleti, my parents murmuring to each other downstairs on Saturday mornings when I am warm and comfortable under the covers.
 

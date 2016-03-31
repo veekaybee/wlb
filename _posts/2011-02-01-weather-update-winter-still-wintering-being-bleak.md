@@ -4,7 +4,7 @@ title: 'WEATHER UPDATE: Winter still wintering, being bleak'
 date: 2011-02-01T08:23:11+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=4316
+guid: http://blog.vickiboykis.com/wlb/?p=4316
 permalink: /2011/02/weather-update-winter-still-wintering-being-bleak/
 categories:
   - Uncategorized
@@ -32,7 +32,7 @@ Let me set the scene for you.
   </p>
   
   <p style="text-align: left;">
-    The phone rings.  It&#8217;s <a href="http://blog.vickiboykis.com/2009/06/21/happy-fathers-day/">my dad</a>.  Frankly, I&#8217;m surprised he called so late, because usually he calls me at 6:15 am and then again at 6:32.
+    The phone rings.  It&#8217;s <a href="http://blog.vickiboykis.com/wlb/2009/06/21/happy-fathers-day/">my dad</a>.  Frankly, I&#8217;m surprised he called so late, because usually he calls me at 6:15 am and then again at 6:32.
   </p>
   
   <p style="text-align: left;">

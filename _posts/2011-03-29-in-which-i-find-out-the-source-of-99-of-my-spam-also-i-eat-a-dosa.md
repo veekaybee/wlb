@@ -4,7 +4,7 @@ title: In which I find out the source of 99% of my spam. Also, I eat a dosa.
 date: 2011-03-29T13:21:42+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=4707
+guid: http://blog.vickiboykis.com/wlb/?p=4707
 permalink: /2011/03/in-which-i-find-out-the-source-of-99-of-my-spam-also-i-eat-a-dosa/
 categories:
   - Uncategorized
@@ -17,11 +17,11 @@ tags:
   - Jewish
   - philly
 ---
-What&#8217;s your idea of a good time?  Mine is bitching  [about how much Philly sucks](http://blog.vickiboykis.com/2010/11/29/the-difference-between-washington-and-philly-in-two-screenshots/).
+What&#8217;s your idea of a good time?  Mine is bitching  [about how much Philly sucks](http://blog.vickiboykis.com/wlb/2010/11/29/the-difference-between-washington-and-philly-in-two-screenshots/).
 
-But unfortunately, it&#8217;s started to unsuck for me lately, which is disappointing, because complaining is as much as sport for me as running (which I haven&#8217;t been doing too much of lately so I&#8217;m definitely going to fail my first 5k next week.) Maybe it&#8217;s the spring, maybe it&#8217;s the fact that Mr. B is here to add [What&#8217;s your idea of a good time?  Mine is bitching  [about how much Philly sucks](http://blog.vickiboykis.com/2010/11/29/the-difference-between-washington-and-philly-in-two-screenshots/).
+But unfortunately, it&#8217;s started to unsuck for me lately, which is disappointing, because complaining is as much as sport for me as running (which I haven&#8217;t been doing too much of lately so I&#8217;m definitely going to fail my first 5k next week.) Maybe it&#8217;s the spring, maybe it&#8217;s the fact that Mr. B is here to add [What&#8217;s your idea of a good time?  Mine is bitching  [about how much Philly sucks](http://blog.vickiboykis.com/wlb/2010/11/29/the-difference-between-washington-and-philly-in-two-screenshots/).
 
-But unfortunately, it&#8217;s started to unsuck for me lately, which is disappointing, because complaining is as much as sport for me as running (which I haven&#8217;t been doing too much of lately so I&#8217;m definitely going to fail my first 5k next week.) Maybe it&#8217;s the spring, maybe it&#8217;s the fact that Mr. B is here to add](http://blog.vickiboykis.com/2011/03/08/happy-international-womens-day-now-buy-our-cute-purses/) to my life, or maybe it&#8217;s the fact that I finally don&#8217;t feel like I need to hide from Society because I have The Winter/Mr. B-less Sads.
+But unfortunately, it&#8217;s started to unsuck for me lately, which is disappointing, because complaining is as much as sport for me as running (which I haven&#8217;t been doing too much of lately so I&#8217;m definitely going to fail my first 5k next week.) Maybe it&#8217;s the spring, maybe it&#8217;s the fact that Mr. B is here to add](http://blog.vickiboykis.com/wlb/2011/03/08/happy-international-womens-day-now-buy-our-cute-purses/) to my life, or maybe it&#8217;s the fact that I finally don&#8217;t feel like I need to hide from Society because I have The Winter/Mr. B-less Sads.
 
 Yesterday, I told Mr. B that I need to be involved in a Jewish community, a foreign policy community, and a nerd community, or my spirit will wither and die like a fragile flower.  Or, I sent him a link [to this event](http://www.thecollaborative.org/event/topics-tap-6) and told him, &#8220;You&#8217;re coming with me.&#8221;
 
@@ -39,11 +39,11 @@ A little bit [of dosa](http://www.philadelphiachutneyco.com/).
   <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/03/wpid-IMAG0710.jpg"><img class="aligncenter size-full wp-image-4710" title="wpid-IMAG0710.jpg" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/03/wpid-IMAG0710.jpg" alt="" width="245" height="408" /></a>
 </p>
 
-And then a little bit of discussion about the Middle East situation in a [What&#8217;s your idea of a good time?  Mine is bitching  [about how much Philly sucks](http://blog.vickiboykis.com/2010/11/29/the-difference-between-washington-and-philly-in-two-screenshots/).
+And then a little bit of discussion about the Middle East situation in a [What&#8217;s your idea of a good time?  Mine is bitching  [about how much Philly sucks](http://blog.vickiboykis.com/wlb/2010/11/29/the-difference-between-washington-and-philly-in-two-screenshots/).
 
-But unfortunately, it&#8217;s started to unsuck for me lately, which is disappointing, because complaining is as much as sport for me as running (which I haven&#8217;t been doing too much of lately so I&#8217;m definitely going to fail my first 5k next week.) Maybe it&#8217;s the spring, maybe it&#8217;s the fact that Mr. B is here to add [What&#8217;s your idea of a good time?  Mine is bitching  [about how much Philly sucks](http://blog.vickiboykis.com/2010/11/29/the-difference-between-washington-and-philly-in-two-screenshots/).
+But unfortunately, it&#8217;s started to unsuck for me lately, which is disappointing, because complaining is as much as sport for me as running (which I haven&#8217;t been doing too much of lately so I&#8217;m definitely going to fail my first 5k next week.) Maybe it&#8217;s the spring, maybe it&#8217;s the fact that Mr. B is here to add [What&#8217;s your idea of a good time?  Mine is bitching  [about how much Philly sucks](http://blog.vickiboykis.com/wlb/2010/11/29/the-difference-between-washington-and-philly-in-two-screenshots/).
 
-But unfortunately, it&#8217;s started to unsuck for me lately, which is disappointing, because complaining is as much as sport for me as running (which I haven&#8217;t been doing too much of lately so I&#8217;m definitely going to fail my first 5k next week.) Maybe it&#8217;s the spring, maybe it&#8217;s the fact that Mr. B is here to add](http://blog.vickiboykis.com/2011/03/08/happy-international-womens-day-now-buy-our-cute-purses/) to my life, or maybe it&#8217;s the fact that I finally don&#8217;t feel like I need to hide from Society because I have The Winter/Mr. B-less Sads.
+But unfortunately, it&#8217;s started to unsuck for me lately, which is disappointing, because complaining is as much as sport for me as running (which I haven&#8217;t been doing too much of lately so I&#8217;m definitely going to fail my first 5k next week.) Maybe it&#8217;s the spring, maybe it&#8217;s the fact that Mr. B is here to add](http://blog.vickiboykis.com/wlb/2011/03/08/happy-international-womens-day-now-buy-our-cute-purses/) to my life, or maybe it&#8217;s the fact that I finally don&#8217;t feel like I need to hide from Society because I have The Winter/Mr. B-less Sads.
 
 Yesterday, I told Mr. B that I need to be involved in a Jewish community, a foreign policy community, and a nerd community, or my spirit will wither and die like a fragile flower.  Or, I sent him a link [to this event](http://www.thecollaborative.org/event/topics-tap-6) and told him, &#8220;You&#8217;re coming with me.&#8221;
 

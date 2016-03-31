@@ -4,7 +4,7 @@ title: 'Life after &#8220;Life After Zionist Summer Camp&#8221;'
 date: 2011-06-21T12:15:51+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=5139
+guid: http://blog.vickiboykis.com/wlb/?p=5139
 permalink: /2011/06/life-after-life-after-zionist-summer-camp/
 categories:
   - Uncategorized
@@ -25,7 +25,7 @@ tags:
 
 <p style="text-align: center;">
   <p>
-    It starts the minute I <a href="http://www.theawl.com/2011/06/life-after-zionist-summer-camp">read the first paragraph</a>. That feeling of vague anger and helplessness. Because I&#8217;ve been reading and thinking about this issue ever since <a href="http://blog.vickiboykis.com/2010/04/20/while-we-were-moving-to-an-undisclosed-location-near-the-pentagon-stuff-was-happening-in-the-real-world/" target="_blank">I decided</a> that Israel was something I needed to be reading and thinking about. And I&#8217;ve been experiencing all of the things that Benedikt did for the past ten years, maybe more.  In different stages.  In different places.
+    It starts the minute I <a href="http://www.theawl.com/2011/06/life-after-zionist-summer-camp">read the first paragraph</a>. That feeling of vague anger and helplessness. Because I&#8217;ve been reading and thinking about this issue ever since <a href="http://blog.vickiboykis.com/wlb/2010/04/20/while-we-were-moving-to-an-undisclosed-location-near-the-pentagon-stuff-was-happening-in-the-real-world/" target="_blank">I decided</a> that Israel was something I needed to be reading and thinking about. And I&#8217;ve been experiencing all of the things that Benedikt did for the past ten years, maybe more.  In different stages.  In different places.
   </p>
   
   <p>

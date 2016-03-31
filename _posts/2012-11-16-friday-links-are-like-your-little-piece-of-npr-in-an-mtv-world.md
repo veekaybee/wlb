@@ -4,7 +4,7 @@ title: Friday Links are like your little piece of NPR in an MTV world
 date: 2012-11-16T07:16:36+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=7853
+guid: http://blog.vickiboykis.com/wlb/?p=7853
 permalink: /2012/11/friday-links-are-like-your-little-piece-of-npr-in-an-mtv-world/
 categories:
   - fridaylinks

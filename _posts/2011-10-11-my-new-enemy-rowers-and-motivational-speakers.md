@@ -4,7 +4,7 @@ title: 'My new enemy: rowers. And motivational speakers.'
 date: 2011-10-11T20:56:23+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=5829
+guid: http://blog.vickiboykis.com/wlb/?p=5829
 permalink: /2011/10/my-new-enemy-rowers-and-motivational-speakers/
 categories:
   - Uncategorized

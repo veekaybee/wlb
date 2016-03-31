@@ -4,7 +4,7 @@ title: 'The Victorian Error: Birthday'
 date: 2009-08-05T00:00:18+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=966
+guid: http://blog.vickiboykis.com/wlb/?p=966
 permalink: /2009/08/the-victorian-error-birthday/
 categories:
   - Uncategorized

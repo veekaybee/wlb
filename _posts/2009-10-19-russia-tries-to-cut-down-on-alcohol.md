@@ -4,7 +4,7 @@ title: 'Russian President Medvedev, it&#8217;s like you&#8217;re trying to fail 
 date: 2009-10-19T00:00:49+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=1465
+guid: http://blog.vickiboykis.com/wlb/?p=1465
 permalink: /2009/10/russia-tries-to-cut-down-on-alcohol/
 categories:
   - Uncategorized
@@ -16,7 +16,7 @@ tags:
 ---
 So, I was listening to NPR the other day to get my dose of [News White People Like](http://stuffwhitepeoplelike.com/2008/01/31/44-public-radio/), when I heard a story about how Russian <span style="text-decoration: line-through;">Lifeless Puppet Government Agent</span> President Dmitry Medvedev is [trying to curb alcohol consumption](http://www.npr.org/blogs/thetwo-way/2009/08/russian_vodka_consumption_shoc.html). And then my mom sent me [this story](http://www.latimes.com/news/nationworld/world/la-fg-russia-booze3-2009sep03,0,7832349.story), which is even more alarming.
 
-The gist is this. The Russian president has now woken up to the fact that there is alcoholism in Russia, a fact which he was apparently not aware of for the last 800+ years, or since vodka was first introduced to my suffering people (my other, people, [the Jews](http://blog.vickiboykis.com/2009/09/16/gods-is-straight-up-messing-with-me/), have also been long-suffering, but lacking the Macguyver-like skill of making sorrow-drowning liquor from potatoes, moved on to found their own state in a desert and have even featured a major role as a [running gag in an Adam Sandler film](http://www.youtube.com/watch?v=rCcK-QYJcSU).)
+The gist is this. The Russian president has now woken up to the fact that there is alcoholism in Russia, a fact which he was apparently not aware of for the last 800+ years, or since vodka was first introduced to my suffering people (my other, people, [the Jews](http://blog.vickiboykis.com/wlb/2009/09/16/gods-is-straight-up-messing-with-me/), have also been long-suffering, but lacking the Macguyver-like skill of making sorrow-drowning liquor from potatoes, moved on to found their own state in a desert and have even featured a major role as a [running gag in an Adam Sandler film](http://www.youtube.com/watch?v=rCcK-QYJcSU).)
 
 And just now, he&#8217;s realized that he has a demographics crisis on his hands.  Because the average Russian male&#8217;s life expectancy is [horrifyingly low compared to some countries](http://en.wikipedia.org/wiki/List_of_countries_by_life_expectancy), and the country is huge, and the [Russian Muslim population is on the rise](http://www.asiantribune.com/index.php?q=node/211), which is bad news bears for a country that very strongly is trying to retain its national identity (reading Dostoevsky and complaining about having to read Dostoevsky.)
 

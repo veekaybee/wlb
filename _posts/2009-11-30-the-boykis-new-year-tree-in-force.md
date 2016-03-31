@@ -4,7 +4,7 @@ title: The Boykis New Year Tree in Force
 date: 2009-11-30T07:08:44+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=1771
+guid: http://blog.vickiboykis.com/wlb/?p=1771
 permalink: /2009/11/the-boykis-new-year-tree-in-force/
 categories:
   - Uncategorized
@@ -18,7 +18,7 @@ tags:
 </p>
 
 <p style="text-align: left;">
-  Since <a href="http://blog.vickiboykis.com/2009/11/23/whats-the-deal-with-the-russian-new-year-tree/">last week&#8217;s post </a>on New Year trees, I&#8217;ve put up our own. Since I currently have no post of substance to offer you (I am working on one for this evening/night,) I figure I can distract you with our tree for now.
+  Since <a href="http://blog.vickiboykis.com/wlb/2009/11/23/whats-the-deal-with-the-russian-new-year-tree/">last week&#8217;s post </a>on New Year trees, I&#8217;ve put up our own. Since I currently have no post of substance to offer you (I am working on one for this evening/night,) I figure I can distract you with our tree for now.
 </p>
 
 <p style="text-align: left;">

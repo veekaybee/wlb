@@ -4,7 +4,7 @@ title: Summer is looking too ambitious
 date: 2013-05-21T22:56:12+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=8725
+guid: http://blog.vickiboykis.com/wlb/?p=8725
 permalink: /2013/05/summer-is-looking-too-ambitious/
 categories:
   - Uncategorized

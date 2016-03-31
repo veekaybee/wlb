@@ -4,7 +4,7 @@ title: 'The Women of Kabul: A Shakesperean Tragedy'
 date: 2009-03-26T21:23:07+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=207
+guid: http://blog.vickiboykis.com/wlb/?p=207
 permalink: /2009/03/the-women-of-kabul-a-lost-time/
 categories:
   - Uncategorized

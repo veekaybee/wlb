@@ -4,7 +4,7 @@ title: 'Comic: The Jews of the Mayflower'
 date: 2009-11-26T14:15:01+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=1759
+guid: http://blog.vickiboykis.com/wlb/?p=1759
 permalink: /2009/11/comic-the-jews-of-the-mayflower/
 categories:
   - Uncategorized

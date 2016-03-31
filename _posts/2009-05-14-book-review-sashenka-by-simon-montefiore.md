@@ -4,7 +4,7 @@ title: 'Book Review: Sashenka by Simon Montefiore'
 date: 2009-05-14T21:45:38+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=348
+guid: http://blog.vickiboykis.com/wlb/?p=348
 permalink: /2009/05/book-review-sashenka-by-simon-montefiore/
 categories:
   - books

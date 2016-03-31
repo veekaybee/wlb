@@ -4,7 +4,7 @@ title: China and Russia Face Each Other on the Banks of the Amur River
 date: 2009-12-30T13:10:07+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=2011
+guid: http://blog.vickiboykis.com/wlb/?p=2011
 permalink: /2009/12/china-and-russia-face-each-other/
 categories:
   - Uncategorized
@@ -58,6 +58,6 @@ What&#8217;s MOST interesting is that China also h[as a border dispute with its 
 
 Related on the Blog:
 
-[BRIC-A-BRAC: China Messes with National Stats](http://blog.vickiboykis.com/2009/07/01/bric-a-brac-china-messes-with-national-stats/)
+[BRIC-A-BRAC: China Messes with National Stats](http://blog.vickiboykis.com/wlb/2009/07/01/bric-a-brac-china-messes-with-national-stats/)
   
-[Russian President Medvedev, it&#8217;s like you&#8217;re trying to fail on purpose by cutting down on beer](http://blog.vickiboykis.com/2009/10/19/russia-tries-to-cut-down-on-alcohol/)
+[Russian President Medvedev, it&#8217;s like you&#8217;re trying to fail on purpose by cutting down on beer](http://blog.vickiboykis.com/wlb/2009/10/19/russia-tries-to-cut-down-on-alcohol/)

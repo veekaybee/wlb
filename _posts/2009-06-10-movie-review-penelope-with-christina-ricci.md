@@ -4,7 +4,7 @@ title: 'Movie Review: Penelope (with Christina Ricci)'
 date: 2009-06-10T06:08:26+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=477
+guid: http://blog.vickiboykis.com/wlb/?p=477
 permalink: /2009/06/movie-review-penelope-with-christina-ricci/
 categories:
   - movie
@@ -14,7 +14,7 @@ tags:
   - identity
   - movie
 ---
-I am a delighted connoisseur of childrens&#8217; movies.  See [previous post](http://blog.vickiboykis.com/?p=89) on how Beauty and the Beast makes me break out in the kind of tears I usually reserve for 75% off  sales.  But you know, lately, there just are not a lot of live-action movies for children out.   Sure, there&#8217;s Wall-E and Finding Nemo, but what about with live actors? How am I supposed to relate to a talking fish who not only can swim better than me, but also is friends with Ellen DeGeneres?   Let me rephrase that.  There are not a lot of GOOD movies for kids out.  _High School Musical_ does not count.  Yes, I saw it.  You know why it sucks? Here you go.
+I am a delighted connoisseur of childrens&#8217; movies.  See [previous post](http://blog.vickiboykis.com/wlb/?p=89) on how Beauty and the Beast makes me break out in the kind of tears I usually reserve for 75% off  sales.  But you know, lately, there just are not a lot of live-action movies for children out.   Sure, there&#8217;s Wall-E and Finding Nemo, but what about with live actors? How am I supposed to relate to a talking fish who not only can swim better than me, but also is friends with Ellen DeGeneres?   Let me rephrase that.  There are not a lot of GOOD movies for kids out.  _High School Musical_ does not count.  Yes, I saw it.  You know why it sucks? Here you go.
 
 
 
@@ -34,7 +34,7 @@ Penelope is a normal girl, (played by the beautiful, talented Christina Ricci) e
   Through a curse placed on her through her great-great-great-great grandfather, she is doomed to have the snout until she finds &#8220;one of her own kind&#8221;, meaning a blueblood like herself, to accept her for who she is.   The movie follows her journey through having a snout and her mother trying to hide her from the world, as well as finding a suitor who will like her and turn her into a normal girl.
 </p>
 
-There are several things I really, really like about the movie, which you can see from the very beginning [I am a delighted connoisseur of childrens&#8217; movies.  See [previous post](http://blog.vickiboykis.com/?p=89) on how Beauty and the Beast makes me break out in the kind of tears I usually reserve for 75% off  sales.  But you know, lately, there just are not a lot of live-action movies for children out.   Sure, there&#8217;s Wall-E and Finding Nemo, but what about with live actors? How am I supposed to relate to a talking fish who not only can swim better than me, but also is friends with Ellen DeGeneres?   Let me rephrase that.  There are not a lot of GOOD movies for kids out.  _High School Musical_ does not count.  Yes, I saw it.  You know why it sucks? Here you go.
+There are several things I really, really like about the movie, which you can see from the very beginning [I am a delighted connoisseur of childrens&#8217; movies.  See [previous post](http://blog.vickiboykis.com/wlb/?p=89) on how Beauty and the Beast makes me break out in the kind of tears I usually reserve for 75% off  sales.  But you know, lately, there just are not a lot of live-action movies for children out.   Sure, there&#8217;s Wall-E and Finding Nemo, but what about with live actors? How am I supposed to relate to a talking fish who not only can swim better than me, but also is friends with Ellen DeGeneres?   Let me rephrase that.  There are not a lot of GOOD movies for kids out.  _High School Musical_ does not count.  Yes, I saw it.  You know why it sucks? Here you go.
 
 
 

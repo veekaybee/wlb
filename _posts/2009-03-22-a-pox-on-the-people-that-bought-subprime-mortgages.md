@@ -4,7 +4,7 @@ title: A pox on the people that bought subprime mortgages
 date: 2009-03-22T19:16:19+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=203
+guid: http://blog.vickiboykis.com/wlb/?p=203
 permalink: /2009/03/a-pox-on-the-people-that-bought-subprime-mortgages/
 categories:
   - Uncategorized

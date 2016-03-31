@@ -4,7 +4,7 @@ title: 'Comic: Al Qaeda Difficulties'
 date: 2009-12-27T20:28:38+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=1952
+guid: http://blog.vickiboykis.com/wlb/?p=1952
 permalink: /2009/12/comic-al-qaeda-difficulties/
 categories:
   - Uncategorized

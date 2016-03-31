@@ -4,7 +4,7 @@ title: Sad Fridge is Sad
 date: 2012-04-03T07:42:09+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=6614
+guid: http://blog.vickiboykis.com/wlb/?p=6614
 permalink: /2012/04/sad-fridge-is-sad/
 categories:
   - Uncategorized

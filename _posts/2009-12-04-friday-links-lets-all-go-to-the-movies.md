@@ -4,7 +4,7 @@ title: 'Friday Links: Let&#8217;s All go to the Movies!'
 date: 2009-12-04T13:04:27+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=1826
+guid: http://blog.vickiboykis.com/wlb/?p=1826
 permalink: /2009/12/friday-links-lets-all-go-to-the-movies/
 categories:
   - fridaylinks

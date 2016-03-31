@@ -4,7 +4,7 @@ title: Friday Links Halloweeny
 date: 2012-10-26T07:48:09+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=7743
+guid: http://blog.vickiboykis.com/wlb/?p=7743
 permalink: /2012/10/friday-links-halloweeny/
 categories:
   - fridaylinks

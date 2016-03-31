@@ -4,7 +4,7 @@ title: 'Added utility of a second language: Eavesdropping at parties'
 date: 2009-06-22T05:54:47+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=566
+guid: http://blog.vickiboykis.com/wlb/?p=566
 permalink: /2009/06/added-utility-of-a-second-language-eavesdropping-at-parties/
 categories:
   - Uncategorized

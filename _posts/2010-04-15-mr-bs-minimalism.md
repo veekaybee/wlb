@@ -4,7 +4,7 @@ title: 'Mr. B&#8217;s minimalism'
 date: 2010-04-15T09:52:53+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=2768
+guid: http://blog.vickiboykis.com/wlb/?p=2768
 permalink: /2010/04/mr-bs-minimalism/
 categories:
   - Uncategorized

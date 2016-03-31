@@ -4,7 +4,7 @@ title: On Running Shoes and Revenge
 date: 2011-06-27T11:02:22+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=5176
+guid: http://blog.vickiboykis.com/wlb/?p=5176
 permalink: /2011/06/on-running-shoes-and-revenge/
 categories:
   - Uncategorized
@@ -13,7 +13,7 @@ tags:
   - philly
   - running
 ---
-I ran a <a href="http://jenkintown.net/summer-sunset-5k-run/" target="_blank">5k last week</a> (Mr. B was still &#8220;recovering from illness&#8221;.) Because we haven&#8217;t run <a href="http://blog.vickiboykis.com/2011/04/11/our-cherry-blossom-run/" target="_blank">in over a month</a> since we were busy with house stuff, this was the hardest race I&#8217;ve ever run, especially since the second half was uphill. Can you tell?
+I ran a <a href="http://jenkintown.net/summer-sunset-5k-run/" target="_blank">5k last week</a> (Mr. B was still &#8220;recovering from illness&#8221;.) Because we haven&#8217;t run <a href="http://blog.vickiboykis.com/wlb/2011/04/11/our-cherry-blossom-run/" target="_blank">in over a month</a> since we were busy with house stuff, this was the hardest race I&#8217;ve ever run, especially since the second half was uphill. Can you tell?
 
 <img style="display: block; margin-right: auto; margin-left: auto;" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/06/wpid-IMAG0865.jpg" alt="image" />
 

@@ -4,7 +4,7 @@ title: 'The City that Doesn&#8217;t Sleep, but sure as hell sweats a lot'
 date: 2010-07-19T13:01:00+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=3345
+guid: http://blog.vickiboykis.com/wlb/?p=3345
 permalink: /2010/07/the-city-that-doesnt-sleep-but-sure-as-hell-sweats-a-lot/
 categories:
   - Uncategorized

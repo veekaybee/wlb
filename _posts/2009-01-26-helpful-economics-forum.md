@@ -4,7 +4,7 @@ title: Helpful Economics Forum
 date: 2009-01-26T22:03:36+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=77
+guid: http://blog.vickiboykis.com/wlb/?p=77
 permalink: /2009/01/helpful-economics-forum/
 categories:
   - Uncategorized

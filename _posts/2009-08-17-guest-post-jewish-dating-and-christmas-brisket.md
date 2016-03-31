@@ -4,7 +4,7 @@ title: 'Guest Post: Jewish dating and Christmas brisket'
 date: 2009-08-17T11:31:41+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=1065
+guid: http://blog.vickiboykis.com/wlb/?p=1065
 permalink: /2009/08/guest-post-jewish-dating-and-christmas-brisket/
 categories:
   - Uncategorized

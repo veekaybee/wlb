@@ -4,7 +4,7 @@ title: If you love books, leave Amazon alone
 date: 2014-09-15T07:59:35+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=9833
+guid: http://blog.vickiboykis.com/wlb/?p=9833
 permalink: /2014/09/if-you-love-books-leave-amazon-alone/
 categories:
   - books
@@ -20,7 +20,7 @@ tags:
 
 I grew up in a small town in the middle of nowhere, near a small library that always smelled of old book pages and cookies. The main entertainment in the town was going to the mall on Friday night to gawk at other people going to the mall on Friday night, and the main reading demographic was people who liked <a href="http://www.pennlive.com/food/index.ssf/2014/01/butter_sculpture_pa_farm_show.html" target="_blank">butter sculptures</a> and <a href="http://thelube.com/" target="_blank">Quaker Steak and Lube</a>.
 
-I liked being melodramatic and <a href="http://blog.vickiboykis.com/2013/05/la-dolce-vika/" target="_blank">learning Italian</a>.  My weird didn&#8217;t mesh with the normal for my area.
+I liked being melodramatic and <a href="http://blog.vickiboykis.com/wlb/2013/05/la-dolce-vika/" target="_blank">learning Italian</a>.  My weird didn&#8217;t mesh with the normal for my area.
 
 As a result, I spent hours in that library, both as a reader, and later as a volunteer shelver,  and it is responsible for introducing me to the series of books that has remained in the top five books I have read in my lifetime: <a href="https://en.wikipedia.org/wiki/His_Dark_Materials" target="_blank">His Dark Material</a>s, as well as hundreds of other books that I can&#8217;t remember.
 

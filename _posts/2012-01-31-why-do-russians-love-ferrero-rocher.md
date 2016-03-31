@@ -4,7 +4,7 @@ title: Why do Russians love Ferrero Rocher?
 date: 2012-01-31T06:55:06+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=6399
+guid: http://blog.vickiboykis.com/wlb/?p=6399
 permalink: /2012/01/why-do-russians-love-ferrero-rocher/
 categories:
   - Uncategorized
@@ -24,7 +24,7 @@ tags:
 </p>
 
 <p style="text-align: left;">
-  Ferrero Rocher is the currency of Russian households.  We received at least three Ferrero Rocher gift boxes this holiday season, and gave out at least two. What is it about this candy that makes it the Mercedes of the Russian community? Is it because it&#8217;s just expensive enough ($9.99 per box) to say, &#8220;I care and here&#8217;s something for your house so we don&#8217;t come empty-handed&#8221;, but not big enough of a commitment as wine? Is it because <a href="http://blog.vickiboykis.com/2010/02/16/why-do-you-have-to-discover-adriano-celentano-cruel-internet/" target="_blank">we love Italians</a>?
+  Ferrero Rocher is the currency of Russian households.  We received at least three Ferrero Rocher gift boxes this holiday season, and gave out at least two. What is it about this candy that makes it the Mercedes of the Russian community? Is it because it&#8217;s just expensive enough ($9.99 per box) to say, &#8220;I care and here&#8217;s something for your house so we don&#8217;t come empty-handed&#8221;, but not big enough of a commitment as wine? Is it because <a href="http://blog.vickiboykis.com/wlb/2010/02/16/why-do-you-have-to-discover-adriano-celentano-cruel-internet/" target="_blank">we love Italians</a>?
 </p>
 
 <p style="text-align: left;">

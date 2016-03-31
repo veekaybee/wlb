@@ -4,7 +4,7 @@ title: 'Russian Tweetup: February 28'
 date: 2010-02-24T07:40:57+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=2393
+guid: http://blog.vickiboykis.com/wlb/?p=2393
 permalink: /2010/02/russian-tweetup-february-28/
 categories:
   - Uncategorized

@@ -4,7 +4,7 @@ title: Comparative Dadvantage
 date: 2010-09-07T12:04:24+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=3574
+guid: http://blog.vickiboykis.com/wlb/?p=3574
 permalink: /2010/09/comparative-dadvantage/
 categories:
   - Uncategorized
@@ -14,7 +14,7 @@ tags:
   - economics
   - family
 ---
-This is [my dad](http://blog.vickiboykis.com/2009/06/21/happy-fathers-day/).
+This is [my dad](http://blog.vickiboykis.com/wlb/2009/06/21/happy-fathers-day/).
 
 <p style="text-align: center;">
   <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/09/DSC_0461.jpg"><img class="aligncenter size-full wp-image-3575" title="DSC_0461" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/09/DSC_0461.jpg" alt="" width="448" height="298" /></a>
@@ -22,7 +22,7 @@ This is [my dad](http://blog.vickiboykis.com/2009/06/21/happy-fathers-day/).
 
 He is extremely handy.  He can fix almost anything and, if he doesn&#8217;t know how to fix it already, he will research the hell out of it until he finds out.  He has repaired televisions, doors, gardens, garages, bathrooms, broken glasses, broken computers, broken cell phones, pianos, and, most importantly, cars.
 
-This Labor Day Weekend, as I was home with my parents, my dad, hawk-eyed, noticed a problem with my car&#8217;s windshield wipers.  I didn&#8217;t notice, mainly because I know nothing about cars, and also, thanks to living in [White People Central](http://blog.vickiboykis.com/2010/05/20/ive-gone-over-to-the-dark-side/), I walk/Metro to work every day and use my car about once every two weeks to go home or to Philadelphia.
+This Labor Day Weekend, as I was home with my parents, my dad, hawk-eyed, noticed a problem with my car&#8217;s windshield wipers.  I didn&#8217;t notice, mainly because I know nothing about cars, and also, thanks to living in [White People Central](http://blog.vickiboykis.com/wlb/2010/05/20/ive-gone-over-to-the-dark-side/), I walk/Metro to work every day and use my car about once every two weeks to go home or to Philadelphia.
 
 &#8220;I can fix this problem.  It&#8217;s going to cost you a lot of money at a dealership,&#8221; my dad said.
 

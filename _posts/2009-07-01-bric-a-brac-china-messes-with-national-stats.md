@@ -4,7 +4,7 @@ title: 'BRIC-A-BRAC: China messes with national stats'
 date: 2009-07-01T05:56:49+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=632
+guid: http://blog.vickiboykis.com/wlb/?p=632
 permalink: /2009/07/bric-a-brac-china-messes-with-national-stats/
 categories:
   - Uncategorized
@@ -16,7 +16,7 @@ tags:
   - Russia
   - trade
 ---
-I like to do a lot reading about the [BRIC](http://en.wikipedia.org/wiki/BRIC) countries, given that Russia is one of them, they are dominating world economic growth, and they produce [100% of Bollywood movies](http://blog.vickiboykis.com/?p=497) in the world.  [Adam](http://www.adamdanielmezei.eu/) , who keeps the finger on the pulse of China so I don&#8217;t have to have anything to do with it, pointed me in the direction of an article that conclusively proclaims that [China fudges its economic statistics](http://blogs.wsj.com/chinajournal/2009/06/28/china-revises-statistics-law-to-clamp-down-on-tampering/).
+I like to do a lot reading about the [BRIC](http://en.wikipedia.org/wiki/BRIC) countries, given that Russia is one of them, they are dominating world economic growth, and they produce [100% of Bollywood movies](http://blog.vickiboykis.com/wlb/?p=497) in the world.  [Adam](http://www.adamdanielmezei.eu/) , who keeps the finger on the pulse of China so I don&#8217;t have to have anything to do with it, pointed me in the direction of an article that conclusively proclaims that [China fudges its economic statistics](http://blogs.wsj.com/chinajournal/2009/06/28/china-revises-statistics-law-to-clamp-down-on-tampering/).
 
 Since I work a lot with economics trade data, this came as a bit of a shock to me.  It&#8217;s true that customs data and international trade data in general are in shift and data for 2007 may be revised again in 2008 and 2009.  But this comes from just general complications in reporting the entry and exit of every good for a given time period, not because the country is crazy Communist propoganda stylin&#8217;.  The Journal article states several examples of statistics manipulation.
 

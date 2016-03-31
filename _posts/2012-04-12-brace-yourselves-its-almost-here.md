@@ -4,7 +4,7 @@ title: 'BRACE YOURSELVES. IT&#8217;S ALMOST HERE.'
 date: 2012-04-12T07:41:53+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=6663
+guid: http://blog.vickiboykis.com/wlb/?p=6663
 permalink: /2012/04/brace-yourselves-its-almost-here/
 categories:
   - Uncategorized

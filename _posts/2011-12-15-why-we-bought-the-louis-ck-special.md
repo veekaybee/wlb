@@ -4,7 +4,7 @@ title: Why we bought the Louis CK special
 date: 2011-12-15T08:07:48+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=6027
+guid: http://blog.vickiboykis.com/wlb/?p=6027
 permalink: /2011/12/why-we-bought-the-louis-ck-special/
 categories:
   - Uncategorized

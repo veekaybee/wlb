@@ -4,7 +4,7 @@ title: New Year, New Links
 date: 2013-01-04T06:48:22+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=8173
+guid: http://blog.vickiboykis.com/wlb/?p=8173
 permalink: /2013/01/new-year-new-links/
 categories:
   - fridaylinks

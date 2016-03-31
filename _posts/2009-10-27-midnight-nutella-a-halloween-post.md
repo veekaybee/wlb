@@ -4,7 +4,7 @@ title: 'Midnight Nutella: A Halloween Post'
 date: 2009-10-27T00:00:42+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=1540
+guid: http://blog.vickiboykis.com/wlb/?p=1540
 permalink: /2009/10/midnight-nutella-a-halloween-post/
 categories:
   - Uncategorized
@@ -14,7 +14,7 @@ tags:
   - poem
   - writing
 ---
-I am doing a lot of warming up for [I am doing a lot of warming up for](http://blog.vickiboykis.com/2009/10/11/my-unborn-novel-is-annoying-me-nanowrimo/) beginning on Sunday.  This means annoying you with my attempts at literature.  Here is my latest, a Halloween poem in the style of Edgar Allen Poe on crack.
+I am doing a lot of warming up for [I am doing a lot of warming up for](http://blog.vickiboykis.com/wlb/2009/10/11/my-unborn-novel-is-annoying-me-nanowrimo/) beginning on Sunday.  This means annoying you with my attempts at literature.  Here is my latest, a Halloween poem in the style of Edgar Allen Poe on crack.
 
 <p style="text-align: center;">
   <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/10/2964613526_e66f0b85a6.jpg"><img class="aligncenter size-full wp-image-1545" title="2964613526_e66f0b85a6" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/10/2964613526_e66f0b85a6.jpg" alt="2964613526_e66f0b85a6" width="306" height="394" /></a><br /> From Pingu1963 on Flickr

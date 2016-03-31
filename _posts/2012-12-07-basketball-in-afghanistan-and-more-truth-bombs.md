@@ -4,7 +4,7 @@ title: Basketball in Afghanistan and more truth bombs
 date: 2012-12-07T07:35:44+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=7929
+guid: http://blog.vickiboykis.com/wlb/?p=7929
 permalink: /2012/12/basketball-in-afghanistan-and-more-truth-bombs/
 categories:
   - fridaylinks

@@ -4,7 +4,7 @@ title: 'Books: O Jerusalem'
 date: 2010-09-27T19:05:50+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=3655
+guid: http://blog.vickiboykis.com/wlb/?p=3655
 permalink: /2010/09/books-o-jerusalem/
 categories:
   - Uncategorized
@@ -32,7 +32,7 @@ I&#8217;ve been gushing [<p style="text-align: center;">
 
 I&#8217;ve been gushing](http://www.amazon.com/O-Jerusalem-Larry-Collins/dp/0671662414) for the past couple weeks on various social media outlets because it&#8217;s one of the best books I&#8217;ve read in a long time.  It&#8217;s really rare that I&#8217;m be sad when books end, the way I was when](http://www.amazon.com/Jonathan-Strange-Mr-Norrell-Novel/dp/1582344167) ended, but this is one case where I was.
 
-The book goes through, detail by detail, of the battle for Jerusalem during the war for Israel&#8217;s independence in 1948, from both the Israeli and the Arab perspective (both military and civilian), incorporating a freaking impressive range of historical evidence, interviews with hundreds of people (including the King of Jordan, [homegirl Golda](http://blog.vickiboykis.com/2009/10/01/russian-letziyon-golda-gives-advice/), Ben Gurion, and American, British, and French sources.) and mashes up each perspective in a way that&#8217;s not dry.  Each person interviewed is painted as a character that keeps the pages turning fast and furiously.
+The book goes through, detail by detail, of the battle for Jerusalem during the war for Israel&#8217;s independence in 1948, from both the Israeli and the Arab perspective (both military and civilian), incorporating a freaking impressive range of historical evidence, interviews with hundreds of people (including the King of Jordan, [homegirl Golda](http://blog.vickiboykis.com/wlb/2009/10/01/russian-letziyon-golda-gives-advice/), Ben Gurion, and American, British, and French sources.) and mashes up each perspective in a way that&#8217;s not dry.  Each person interviewed is painted as a character that keeps the pages turning fast and furiously.
 
 <!--more-->
 

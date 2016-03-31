@@ -4,7 +4,7 @@ title: Friday Links
 date: 2011-03-25T07:09:12+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=4658
+guid: http://blog.vickiboykis.com/wlb/?p=4658
 permalink: /2011/03/friday-links-52/
 categories:
   - fridaylinks
@@ -12,7 +12,7 @@ categories:
 tags:
   - Friday
 ---
-Did you know that I am now part of a [Blog Bloc](http://likethevodka.com/?p=3113)?  It&#8217;s part of my effort to better organize the Russian/Jewish content on my site.  You can find [a list of bloggers here](http://blog.vickiboykis.com/russian-blogs/) and a badge if you are such a blogger and want one.  But don&#8217;t worry. I&#8217;ll still write about [Nutella](http://blog.vickiboykis.com/2009/10/27/midnight-nutella-a-halloween-post/), how much [my family is afraid of third world countries](http://blog.vickiboykis.com/2010/03/08/a-conversation-with-my-parents-about-india/), and [various girlcrushes,](http://blog.vickiboykis.com/2011/03/07/dambisa-moyo-my-girlcrush-in-philly/) too.
+Did you know that I am now part of a [Blog Bloc](http://likethevodka.com/?p=3113)?  It&#8217;s part of my effort to better organize the Russian/Jewish content on my site.  You can find [a list of bloggers here](http://blog.vickiboykis.com/wlb/russian-blogs/) and a badge if you are such a blogger and want one.  But don&#8217;t worry. I&#8217;ll still write about [Nutella](http://blog.vickiboykis.com/wlb/2009/10/27/midnight-nutella-a-halloween-post/), how much [my family is afraid of third world countries](http://blog.vickiboykis.com/wlb/2010/03/08/a-conversation-with-my-parents-about-india/), and [various girlcrushes,](http://blog.vickiboykis.com/wlb/2011/03/07/dambisa-moyo-my-girlcrush-in-philly/) too.
 
 By the way,
 

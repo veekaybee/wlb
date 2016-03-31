@@ -4,7 +4,7 @@ title: City at night
 date: 2010-10-15T07:21:27+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/2010/10/15/city-at-night/
+guid: http://blog.vickiboykis.com/wlb/2010/10/15/city-at-night/
 permalink: /2010/10/city-at-night/
 categories:
   - Uncategorized

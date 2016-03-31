@@ -4,7 +4,7 @@ title: 'Life with Landau (Hint: Lots of Extramarital Sex)'
 date: 2009-06-17T20:39:49+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=528
+guid: http://blog.vickiboykis.com/wlb/?p=528
 permalink: /2009/06/life-with-landau-hint-lots-of-extramarital-sex/
 categories:
   - Uncategorized

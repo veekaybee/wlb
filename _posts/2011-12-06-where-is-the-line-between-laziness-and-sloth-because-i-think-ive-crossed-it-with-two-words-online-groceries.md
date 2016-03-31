@@ -4,7 +4,7 @@ title: 'Where is the line between Laziness and Sloth?  Because I think I&#8217;v
 date: 2011-12-06T07:22:38+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=5975
+guid: http://blog.vickiboykis.com/wlb/?p=5975
 permalink: /2011/12/where-is-the-line-between-laziness-and-sloth-because-i-think-ive-crossed-it-with-two-words-online-groceries/
 categories:
   - Uncategorized

@@ -4,7 +4,7 @@ title: 'You know it&#8217;s spring when a 5-lb box of matzah from Amazon arrives
 date: 2011-03-15T08:39:46+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=4542
+guid: http://blog.vickiboykis.com/wlb/?p=4542
 permalink: /2011/03/you-know-its-spring-when-a-5-lb-box-of-matzah-from-amazon-arrives-on-your-doorstep/
 categories:
   - Uncategorized

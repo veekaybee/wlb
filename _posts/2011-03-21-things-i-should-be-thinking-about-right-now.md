@@ -4,7 +4,7 @@ title: Things I Should be Thinking About Right Now
 date: 2011-03-21T08:51:21+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=4594
+guid: http://blog.vickiboykis.com/wlb/?p=4594
 permalink: /2011/03/things-i-should-be-thinking-about-right-now/
 categories:
   - Uncategorized

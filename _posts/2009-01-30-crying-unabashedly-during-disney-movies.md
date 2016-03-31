@@ -4,7 +4,7 @@ title: Crying unabashedly during Disney movies
 date: 2009-01-30T09:15:15+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=89
+guid: http://blog.vickiboykis.com/wlb/?p=89
 permalink: /2009/01/crying-unabashedly-during-disney-movies/
 categories:
   - Uncategorized

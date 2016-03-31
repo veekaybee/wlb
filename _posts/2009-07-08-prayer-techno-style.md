@@ -4,7 +4,7 @@ title: Prayer Techno Style
 date: 2009-07-08T20:37:30+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=696
+guid: http://blog.vickiboykis.com/wlb/?p=696
 permalink: /2009/07/prayer-techno-style/
 categories:
   - Uncategorized

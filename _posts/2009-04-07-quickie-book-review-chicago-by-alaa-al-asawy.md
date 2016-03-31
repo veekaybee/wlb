@@ -4,7 +4,7 @@ title: 'Quickie Book Review: Chicago by Alaa Al Aswany'
 date: 2009-04-07T06:00:33+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=241
+guid: http://blog.vickiboykis.com/wlb/?p=241
 permalink: /2009/04/quickie-book-review-chicago-by-alaa-al-asawy/
 categories:
   - Uncategorized

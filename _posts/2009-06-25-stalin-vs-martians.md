@@ -4,7 +4,7 @@ title: Stalin vs. Martians
 date: 2009-06-25T21:30:14+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=603
+guid: http://blog.vickiboykis.com/wlb/?p=603
 permalink: /2009/06/stalin-vs-martians/
 categories:
   - Uncategorized

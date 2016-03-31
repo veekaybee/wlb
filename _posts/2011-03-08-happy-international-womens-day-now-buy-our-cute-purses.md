@@ -4,7 +4,7 @@ title: 'Happy International Women&#8217;s Day! Now, buy our cute purses.'
 date: 2011-03-08T06:53:38+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=4474
+guid: http://blog.vickiboykis.com/wlb/?p=4474
 permalink: /2011/03/happy-international-womens-day-now-buy-our-cute-purses/
 categories:
   - Uncategorized
@@ -47,5 +47,5 @@ tags:
 
 <p style="text-align: left;">
   <p style="text-align: left;">
-    P.S. Here&#8217;s <a href="http://blog.vickiboykis.com/2010/03/07/happy-international-womens-day-2010/">last year&#8217;s post.</a>
+    P.S. Here&#8217;s <a href="http://blog.vickiboykis.com/wlb/2010/03/07/happy-international-womens-day-2010/">last year&#8217;s post.</a>
   </p>

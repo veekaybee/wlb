@@ -4,7 +4,7 @@ title: New York Times Story Idea Bingo 2011
 date: 2011-12-01T08:21:47+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=5959
+guid: http://blog.vickiboykis.com/wlb/?p=5959
 permalink: /2011/12/new-york-times-story-idea-bingo-2011/
 categories:
   - Uncategorized

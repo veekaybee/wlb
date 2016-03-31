@@ -4,7 +4,7 @@ title: 'She&#8217;s Come Undone (Pillow Talk)'
 date: 2010-11-30T08:52:42+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=3952
+guid: http://blog.vickiboykis.com/wlb/?p=3952
 permalink: /2010/11/shes-come-undone-pillow-talk/
 categories:
   - Uncategorized
@@ -17,7 +17,7 @@ tags:
 ---
 I&#8217;ve been falling apart over the last couple of weeks.
 
-I&#8217;m not sure whether it&#8217;s the refugee lifestyle, the lack of husband, t[he commute](http://blog.vickiboykis.com/2010/11/22/in-philadelphi…es-an-engineer/), the [SKRUG](http://blog.vickiboykis.com/2010/11/18/skrug/), the lack of embassy networking events in Philadelphia, the GRE test looming on my calendar when I don&#8217;t even remember what the formula for a circle arc is, or the fact that this is what I see when I leave work (yes, antlers and the nose. _the nose_.):
+I&#8217;m not sure whether it&#8217;s the refugee lifestyle, the lack of husband, t[he commute](http://blog.vickiboykis.com/wlb/2010/11/22/in-philadelphi…es-an-engineer/), the [SKRUG](http://blog.vickiboykis.com/wlb/2010/11/18/skrug/), the lack of embassy networking events in Philadelphia, the GRE test looming on my calendar when I don&#8217;t even remember what the formula for a circle arc is, or the fact that this is what I see when I leave work (yes, antlers and the nose. _the nose_.):
 
 [<img class="aligncenter size-full wp-image-3947" title="wpid-IMAG0482.jpg" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/11/wpid-IMAG0482.jpg" alt="" width="500" height="300" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/11/wpid-IMAG0482.jpg)
 
@@ -25,7 +25,7 @@ Mainly, I think it&#8217;s the pillows.
 
 When Mr. B isn&#8217;t around, I&#8217;m used to sleeping on [two pillows](http://whitewhine.tumblr.com/) (and with a spoon). Thus it has been since God created the Earth or second grade, whichever came first.   However, his joyous arrival last Wednesday night for the four-day Thanksgiving holiday resulted in a  [razkulachivanye](http://en.wikipedia.org/wiki/Kulak#Dekulakization) of my pillows, meaning I was down to one for four days in a row.
 
-I can deal with a lot of [indignities](http://blog.vickiboykis.com/2010/09/13/blogging-with-integrity-i-hate-small-talk/).
+I can deal with a lot of [indignities](http://blog.vickiboykis.com/wlb/2010/09/13/blogging-with-integrity-i-hate-small-talk/).
 
 But I cannot deal with sleeping on one pillow.
 
@@ -61,7 +61,7 @@ _By the way: no, there&#8217;s no way in hell I&#8217;m googling my neck problem
 
 _P.S. Ok, I just googled it.  [I&#8217;ve been falling apart over the last couple of weeks.
 
-I&#8217;m not sure whether it&#8217;s the refugee lifestyle, the lack of husband, t[he commute](http://blog.vickiboykis.com/2010/11/22/in-philadelphi…es-an-engineer/), the [SKRUG](http://blog.vickiboykis.com/2010/11/18/skrug/), the lack of embassy networking events in Philadelphia, the GRE test looming on my calendar when I don&#8217;t even remember what the formula for a circle arc is, or the fact that this is what I see when I leave work (yes, antlers and the nose. _the nose_.):
+I&#8217;m not sure whether it&#8217;s the refugee lifestyle, the lack of husband, t[he commute](http://blog.vickiboykis.com/wlb/2010/11/22/in-philadelphi…es-an-engineer/), the [SKRUG](http://blog.vickiboykis.com/wlb/2010/11/18/skrug/), the lack of embassy networking events in Philadelphia, the GRE test looming on my calendar when I don&#8217;t even remember what the formula for a circle arc is, or the fact that this is what I see when I leave work (yes, antlers and the nose. _the nose_.):
 
 [<img class="aligncenter size-full wp-image-3947" title="wpid-IMAG0482.jpg" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/11/wpid-IMAG0482.jpg" alt="" width="500" height="300" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/11/wpid-IMAG0482.jpg)
 
@@ -69,7 +69,7 @@ Mainly, I think it&#8217;s the pillows.
 
 When Mr. B isn&#8217;t around, I&#8217;m used to sleeping on [two pillows](http://whitewhine.tumblr.com/) (and with a spoon). Thus it has been since God created the Earth or second grade, whichever came first.   However, his joyous arrival last Wednesday night for the four-day Thanksgiving holiday resulted in a  [razkulachivanye](http://en.wikipedia.org/wiki/Kulak#Dekulakization) of my pillows, meaning I was down to one for four days in a row.
 
-I can deal with a lot of [indignities](http://blog.vickiboykis.com/2010/09/13/blogging-with-integrity-i-hate-small-talk/).
+I can deal with a lot of [indignities](http://blog.vickiboykis.com/wlb/2010/09/13/blogging-with-integrity-i-hate-small-talk/).
 
 But I cannot deal with sleeping on one pillow.
 

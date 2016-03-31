@@ -4,7 +4,7 @@ title: 'Jon Stewart: Most Trusted American Newscaster'
 date: 2009-07-23T21:41:41+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=857
+guid: http://blog.vickiboykis.com/wlb/?p=857
 permalink: /2009/07/jon-stweart-most-trusted-american-newscaster/
 categories:
   - Uncategorized

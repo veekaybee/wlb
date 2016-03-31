@@ -4,7 +4,7 @@ title: Friday Round-Up and Something Cute about Mr. B
 date: 2009-07-16T22:04:19+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=782
+guid: http://blog.vickiboykis.com/wlb/?p=782
 permalink: /2009/07/friday-round-up-and-something-cute-about-mr-b/
 categories:
   - Uncategorized

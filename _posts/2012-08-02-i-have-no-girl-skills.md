@@ -4,7 +4,7 @@ title: I have no girl skills
 date: 2012-08-02T10:01:56+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=7278
+guid: http://blog.vickiboykis.com/wlb/?p=7278
 permalink: /2012/08/i-have-no-girl-skills/
 categories:
   - Uncategorized
@@ -55,7 +55,7 @@ This is literally what&#8217;s in my purse right now.  My writing notebook, my 
 
 I have no idea how to style my hair correctly to make it look sleek.  I just know that it&#8217;s thick and frizzy and I need it out of the way as much as possible for work while still looking semi-human. I have no patience for a haircare routine that&#8217;s more than brushing and putting in a ponytail. A couple weeks ago, a friend introduced me to the <a href="http://www.ulta.com/ulta/browse/productDetail.jsp?productId=xlsImpprod4060123" target="_blank">Chi straightener</a>, which is the best thing ever for frizzy hair and makes you look d glamorous, but I&#8217;m too lazy to use it in the mornings, because honestly, it takes 5 minutes to warm up and then you have to use it for 10 minutes and I could just be writing a blog post instead.
 
-Picking out clothes for my shape?  <a href="http://blog.vickiboykis.com/2010/09/please-help-me-look-less-like-gaga-and-more-like-coco/" target="_blank">Forget it</a>. I am just godawful and I have no patience for online shopping or real stores.
+Picking out clothes for my shape?  <a href="http://blog.vickiboykis.com/wlb/2010/09/please-help-me-look-less-like-gaga-and-more-like-coco/" target="_blank">Forget it</a>. I am just godawful and I have no patience for online shopping or real stores.
 
 I am terrible at all of this stuff, and more. I&#8217;m not proud of it.  Somewhere along the way, I missed some basic lessons on how to be a woman correctly and every time I see someone apply makeup with expertise, I can only gape at them the way illiterate people must look at readers; they posses a kind of magic that they own for themselves.
 

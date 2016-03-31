@@ -4,7 +4,7 @@ title: Visualizing the National Defecit
 date: 2009-07-09T22:07:19+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=700
+guid: http://blog.vickiboykis.com/wlb/?p=700
 permalink: /2009/07/visualizing-the-national-defecit/
 categories:
   - Uncategorized

@@ -4,7 +4,7 @@ title: Dr. Maina Singh and the Indian Jews of Israel
 date: 2009-11-30T21:46:06+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=1774
+guid: http://blog.vickiboykis.com/wlb/?p=1774
 permalink: /2009/11/dr-maia-singh-and-the-indian-jews-of-israel/
 categories:
   - Uncategorized

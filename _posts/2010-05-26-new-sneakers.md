@@ -4,7 +4,7 @@ title: New Sneakers
 date: 2010-05-26T22:08:06+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=3034
+guid: http://blog.vickiboykis.com/wlb/?p=3034
 permalink: /2010/05/new-sneakers/
 categories:
   - Uncategorized

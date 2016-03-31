@@ -4,7 +4,7 @@ title: 'Oh Crap, It&#8217;s Bloomsday'
 date: 2010-06-16T08:17:58+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=3151
+guid: http://blog.vickiboykis.com/wlb/?p=3151
 permalink: /2010/06/oh-crap-its-bloomsday/
 categories:
   - Uncategorized

@@ -4,7 +4,7 @@ title: 'Lists are stupid. But now that I&#8217;m on one&#8230;nah, still stupid.
 date: 2011-01-04T14:27:58+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=4146
+guid: http://blog.vickiboykis.com/wlb/?p=4146
 permalink: /2011/01/lists-are-stupid-but-now-that-im-on-one-nah-still-stupid/
 categories:
   - Uncategorized

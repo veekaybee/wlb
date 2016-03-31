@@ -4,7 +4,7 @@ title: Heat hallucinations. And then, a Scottish miracle.
 date: 2012-06-20T07:58:21+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=7014
+guid: http://blog.vickiboykis.com/wlb/?p=7014
 permalink: /2012/06/heat-hallucinations-and-then-a-scottish-miracle/
 categories:
   - Uncategorized
@@ -19,13 +19,13 @@ tags:
   - shakira
   - sign from God
 ---
-Yesterday, I ran a 5k, <a href="http://blog.vickiboykis.com/2011/06/on-running-shoes-and-revenge/" target="_blank">the same one</a> I ran last year.
+Yesterday, I ran a 5k, <a href="http://blog.vickiboykis.com/wlb/2011/06/on-running-shoes-and-revenge/" target="_blank">the same one</a> I ran last year.
 
 [<img class="aligncenter size-full wp-image-7015" title="IMG_20120619_184401" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/06/IMG_20120619_184401.jpg" alt="" width="322" height="429" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/06/IMG_20120619_184401.jpg)
 
-Except this year I am weak and fatty because  all my various non-Olympic activities like <a href="http://blog.vickiboykis.com/2012/06/why-do-i-do-this-to-myself/" target="_blank">writing books</a>, my <a href="http://blog.vickiboykis.com/2012/05/i-basically-just-paid-myself-eight-cents-an-hour-to-learn-that-i-dont-need-an-mba/" target="_blank">MBA program</a>, <a href="http://blog.vickiboykis.com/2012/06/seattle-and-portland/" target="_blank">going to the West Coast</a>, and <a href="http://blog.vickiboykis.com/2012/04/i-found-another-russian-thing-that-is-terrible-for-everyone-russian-childrens-books/" target="_blank">laughing at the Russian publishing industry</a> have eaten into my running time.
+Except this year I am weak and fatty because  all my various non-Olympic activities like <a href="http://blog.vickiboykis.com/wlb/2012/06/why-do-i-do-this-to-myself/" target="_blank">writing books</a>, my <a href="http://blog.vickiboykis.com/wlb/2012/05/i-basically-just-paid-myself-eight-cents-an-hour-to-learn-that-i-dont-need-an-mba/" target="_blank">MBA program</a>, <a href="http://blog.vickiboykis.com/wlb/2012/06/seattle-and-portland/" target="_blank">going to the West Coast</a>, and <a href="http://blog.vickiboykis.com/wlb/2012/04/i-found-another-russian-thing-that-is-terrible-for-everyone-russian-childrens-books/" target="_blank">laughing at the Russian publishing industry</a> have eaten into my running time.
 
-So, as can be expected, I almost died.  Mr. B was right. <a href="http://blog.vickiboykis.com/2012/05/mr-b-and-i-are-prepared-for-anything-anything-being-either-pogroms-or-the-siege-of-leningrad/" target="_blank">I would never make it. </a>
+So, as can be expected, I almost died.  Mr. B was right. <a href="http://blog.vickiboykis.com/wlb/2012/05/mr-b-and-i-are-prepared-for-anything-anything-being-either-pogroms-or-the-siege-of-leningrad/" target="_blank">I would never make it. </a>
 
 The first mile wasn&#8217;t so bad, and I actually kept a pretty good pace with the rest of the crowd.  It was also mildly downhill, so my spirits were high. It also helped that I paced myself really well with the playlist I picked out.  It is really hard to put together a good playlist because it has to be ranked <a href="http://run2r.com/Technical+linking-bpm-to-running-speed.aspx" target="_blank">in order of increasing BPM</a> and also has to be motivational.
 

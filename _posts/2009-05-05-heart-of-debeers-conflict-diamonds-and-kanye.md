@@ -4,7 +4,7 @@ title: 'Heart of DeBeers: Conflict Diamonds and Kanye'
 date: 2009-05-05T20:38:07+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=314
+guid: http://blog.vickiboykis.com/wlb/?p=314
 permalink: /2009/05/heart-of-debeers-conflict-diamonds-and-kanye/
 categories:
   - economics

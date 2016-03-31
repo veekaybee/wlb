@@ -4,7 +4,7 @@ title: Goodbye, Pixar. I loved you.
 date: 2012-06-25T07:52:40+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=7032
+guid: http://blog.vickiboykis.com/wlb/?p=7032
 permalink: /2012/06/goodbye-pixar-i-loved-you/
 categories:
   - Uncategorized
@@ -54,7 +54,7 @@ Actual still from Brave:
   <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/06/new-brave-sword-class-stills-03.jpg"><img class="aligncenter  wp-image-7041" title="&quot;BRAVE&quot;" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/06/new-brave-sword-class-stills-03-1024x429.jpg" alt="" width="645" height="270" /></a>
 </p>
 
-DAT GLENCOE. DAT <a href="http://blog.vickiboykis.com/2012/01/scotland-the-brave-and-loch-y-glasgow-glencoe-loch-ness-and-the-highlands/" target="_blank">NATURAL HIGHLANDS</a>.
+DAT GLENCOE. DAT <a href="http://blog.vickiboykis.com/wlb/2012/01/scotland-the-brave-and-loch-y-glasgow-glencoe-loch-ness-and-the-highlands/" target="_blank">NATURAL HIGHLANDS</a>.
 
 Also, it has a !female! protagonist.  That was possibly !against marriage! and !changes tradition!  Also, she is good at archery and sword-fighting! Also, her dad kind of looks like Liam Neeson.
 

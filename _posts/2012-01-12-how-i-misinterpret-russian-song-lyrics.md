@@ -4,7 +4,7 @@ title: How I misinterpret Russian song lyrics
 date: 2012-01-12T07:41:14+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=6213
+guid: http://blog.vickiboykis.com/wlb/?p=6213
 permalink: /2012/01/how-i-misinterpret-russian-song-lyrics/
 categories:
   - Uncategorized

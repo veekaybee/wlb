@@ -4,7 +4,7 @@ title: Less Politics, More Interior Design
 date: 2009-01-21T22:49:23+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=62
+guid: http://blog.vickiboykis.com/wlb/?p=62
 permalink: /2009/01/less-politics-more-interior-design/
 categories:
   - Uncategorized

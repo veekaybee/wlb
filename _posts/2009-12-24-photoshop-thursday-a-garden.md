@@ -4,7 +4,7 @@ title: 'Photoshop Thursday: A Garden!'
 date: 2009-12-24T08:53:19+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=1944
+guid: http://blog.vickiboykis.com/wlb/?p=1944
 permalink: /2009/12/photoshop-thursday-a-garden/
 categories:
   - Uncategorized

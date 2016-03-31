@@ -4,7 +4,7 @@ title: Friday Links
 date: 2011-06-24T10:12:16+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=5157
+guid: http://blog.vickiboykis.com/wlb/?p=5157
 permalink: /2011/06/friday-links-64/
 categories:
   - fridaylinks
@@ -12,7 +12,7 @@ categories:
 tags:
   - Friday
 ---
-Happy Friday! I&#8217;m trying to decide on vanity plates for <a href="http://blog.vickiboykis.com/2011/05/24/losing-erica/" target="_blank">my new car</a>.  The rules for Russians getting vanity plates are that you have to get something obnoxious that somehow incorporates Latin characters acting as Cyrillic characters.  The other options are to have your name, the city you are from (usually Odessa), or a Russian swear word.
+Happy Friday! I&#8217;m trying to decide on vanity plates for <a href="http://blog.vickiboykis.com/wlb/2011/05/24/losing-erica/" target="_blank">my new car</a>.  The rules for Russians getting vanity plates are that you have to get something obnoxious that somehow incorporates Latin characters acting as Cyrillic characters.  The other options are to have your name, the city you are from (usually Odessa), or a Russian swear word.
 
 If all else fails, just add a [Russian license plate](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/01/wpid-IMAG0572.jpg) to your front grill to be completely obnoxious.  If it&#8217;s a European Union plate, double points.  Israeli plates?  Tripple points and the Real Russian Man of the year award.  Because nothing says &#8220;I Support Israel&#8221; like driving a Hummer fueled by Venezuelan and Saudi reserves in America.
 

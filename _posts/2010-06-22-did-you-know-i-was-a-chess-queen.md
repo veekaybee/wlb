@@ -4,7 +4,7 @@ title: Did You Know I Was a Chess Queen?
 date: 2010-06-22T08:04:16+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=3173
+guid: http://blog.vickiboykis.com/wlb/?p=3173
 permalink: /2010/06/did-you-know-i-was-a-chess-queen/
 categories:
   - Uncategorized

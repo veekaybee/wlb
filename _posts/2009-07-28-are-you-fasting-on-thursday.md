@@ -4,7 +4,7 @@ title: Are you fasting on Thursday?
 date: 2009-07-28T21:37:13+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=908
+guid: http://blog.vickiboykis.com/wlb/?p=908
 permalink: /2009/07/are-you-fasting-on-thursday/
 categories:
   - Uncategorized

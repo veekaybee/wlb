@@ -4,7 +4,7 @@ title: 'Book Review: The Magicians by Lev Grossman'
 date: 2011-08-29T22:29:21+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=5664
+guid: http://blog.vickiboykis.com/wlb/?p=5664
 permalink: /2011/08/book-review-the-magicians-by-lev-grossman/
 categories:
   - books
@@ -28,7 +28,7 @@ However, when I started reading <a href="http://www.amazon.com/Magicians-Novel-L
 </p>
 
 <p style="text-align: left;">
-  But then I got Kindle for <a href="http://blog.vickiboykis.com/2011/08/02/the-great-news-im-getting-an-ipad-the-terrible-news-im-getting-an-ipad/" target="_blank">iPad</a>, The Magician King came out, and I thought it was time to give it a shot.
+  But then I got Kindle for <a href="http://blog.vickiboykis.com/wlb/2011/08/02/the-great-news-im-getting-an-ipad-the-terrible-news-im-getting-an-ipad/" target="_blank">iPad</a>, The Magician King came out, and I thought it was time to give it a shot.
 </p>
 
 <p style="text-align: left;">

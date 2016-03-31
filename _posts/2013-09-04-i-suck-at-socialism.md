@@ -4,7 +4,7 @@ title: I suck at socialism
 date: 2013-09-04T07:43:47+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=9056
+guid: http://blog.vickiboykis.com/wlb/?p=9056
 permalink: /2013/09/i-suck-at-socialism/
 categories:
   - MBA
@@ -19,7 +19,7 @@ One of the things they tell you to do at the beginning of every MBA is to talk t
 
 It&#8217;s not a problem for other MBA students, apparently, because in my first class the professor asked how many people were extroverts.Over 80% of the class raised their hands.
 
-But the biggest problem is not that business school is a pyramid scheme. It&#8217;s that I  suck at making small talk. In <a href="http://blog.vickiboykis.com/2010/09/blogging-with-integrity-i-hate-small-talk/" target="_blank">elevators</a>. With <a href="http://blog.vickiboykis.com/2012/05/mr-b-and-i-are-prepared-for-anything-anything-being-either-pogroms-or-the-siege-of-leningrad/" target="_blank">my husband.</a> With <a href="http://blog.vickiboykis.com/2011/11/a-very-russian-family-thanksgiving-complete-with-russian-movies/" target="_blank">my family</a>. With anyone.  I&#8217;m terrible at responding to it. &#8220;Just think of small talk like a tennis game,&#8221; all the extroverts advise, beaming. Extroverts love people like bees love flowers. Extroverts are in books, chatting up a storm, trying to get all their five daughters married off to Mr. Bingley.  Introverts write the extroverts so they don&#8217;t have to actually deal with real people.
+But the biggest problem is not that business school is a pyramid scheme. It&#8217;s that I  suck at making small talk. In <a href="http://blog.vickiboykis.com/wlb/2010/09/blogging-with-integrity-i-hate-small-talk/" target="_blank">elevators</a>. With <a href="http://blog.vickiboykis.com/wlb/2012/05/mr-b-and-i-are-prepared-for-anything-anything-being-either-pogroms-or-the-siege-of-leningrad/" target="_blank">my husband.</a> With <a href="http://blog.vickiboykis.com/wlb/2011/11/a-very-russian-family-thanksgiving-complete-with-russian-movies/" target="_blank">my family</a>. With anyone.  I&#8217;m terrible at responding to it. &#8220;Just think of small talk like a tennis game,&#8221; all the extroverts advise, beaming. Extroverts love people like bees love flowers. Extroverts are in books, chatting up a storm, trying to get all their five daughters married off to Mr. Bingley.  Introverts write the extroverts so they don&#8217;t have to actually deal with real people.
 
 <!--more-->
 

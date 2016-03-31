@@ -4,7 +4,7 @@ title: Accidentally Phone Tapped
 date: 2011-05-04T15:01:04+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=4922
+guid: http://blog.vickiboykis.com/wlb/?p=4922
 permalink: /2011/05/accidentally-phone-tapped/
 categories:
   - Uncategorized
@@ -20,9 +20,9 @@ tags:
   <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/05/IMAG0770.jpg"><img class="aligncenter size-full wp-image-4923" title="IMAG0770" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/05/IMAG0770.jpg" alt="" width="307" height="512" /></a>Heart rug is hearted.
 </p>
 
-Sometimes I listen to [Elvis Duran](http://blog.vickiboykis.com/2011/04/13/whines-about-commutes-and-the-radio-part-two/) in the morning, and the best part is the Phone Taps, where they [prank-call](http://www.elvisduran.com/pages/video/mainplayer.html?uri=channels/430789/) someone, playing up on their most reactive qualities.
+Sometimes I listen to [Elvis Duran](http://blog.vickiboykis.com/wlb/2011/04/13/whines-about-commutes-and-the-radio-part-two/) in the morning, and the best part is the Phone Taps, where they [prank-call](http://www.elvisduran.com/pages/video/mainplayer.html?uri=channels/430789/) someone, playing up on their most reactive qualities.
 
-Ever since we bought this house (a week ago), I&#8217;ve been unintentionally phone-tapping [my dad](http://blog.vickiboykis.com/2010/09/07/comparative-dadvantage/).  You see, every day this week, we&#8217;ve been going over to the house and doing something to it to make it habitable, then collapsing in a heap when we get back to Mr. B&#8217;s mom&#8217;s house for bed.  This has included:
+Ever since we bought this house (a week ago), I&#8217;ve been unintentionally phone-tapping [my dad](http://blog.vickiboykis.com/wlb/2010/09/07/comparative-dadvantage/).  You see, every day this week, we&#8217;ve been going over to the house and doing something to it to make it habitable, then collapsing in a heap when we get back to Mr. B&#8217;s mom&#8217;s house for bed.  This has included:
 
   * Hanging blinds (three so far, so that&#8217;s about 20% complete)
   * Having a washer and dryer delivered

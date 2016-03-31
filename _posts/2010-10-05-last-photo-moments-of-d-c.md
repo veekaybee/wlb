@@ -4,7 +4,7 @@ title: Last Photo Moments of D.C.
 date: 2010-10-05T17:57:03+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=3692
+guid: http://blog.vickiboykis.com/wlb/?p=3692
 permalink: /2010/10/last-photo-moments-of-d-c/
 categories:
   - Uncategorized

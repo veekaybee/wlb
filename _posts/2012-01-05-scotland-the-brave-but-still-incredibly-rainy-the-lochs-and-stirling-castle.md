@@ -4,7 +4,7 @@ title: 'Scotland the Brave (but STILL INCREDIBLY rainy): The Lochs and Stirling 
 date: 2012-01-05T07:31:57+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=6107
+guid: http://blog.vickiboykis.com/wlb/?p=6107
 permalink: /2012/01/scotland-the-brave-but-still-incredibly-rainy-the-lochs-and-stirling-castle/
 categories:
   - Uncategorized
@@ -22,7 +22,7 @@ tags:
   - vacation
   - william wallace
 ---
-When we last left off, <a href="http://blog.vickiboykis.com/2011/12/28/scotland-the-brave-and-also-rainy-edinburgh/" target="_blank">we were still in Edinburgh</a>.  In between Edinburgh and Glasgow (and kind of during), we took <a href="http://www.rabbies.com/" target="_blank">two day tours</a>, one to <a href="http://www.rabbies.com/tours_scotland_edinburgh/stirling_castle_loch_lomond_1_day_tour.asp?lng=en" target="_blank">Loch Lomond</a> and the other to the <a href="http://www.rabbies.com/tours_scotland_glasgow/loch_ness_glencoe_highlands_1_day_tour.asp?lng=en" target="_blank">Highlands</a>.  This is where the real Scotland is, the one you can&#8217; t feel when you&#8217;re in the cities (although, by God, it was hard to leave our warm and comfortable apartment in Edinburgh for the Highlands, where the weather forecast is always <a href="http://www.youtube.com/watch?v=ktAKHww9wPo" target="_blank">this</a>.
+When we last left off, <a href="http://blog.vickiboykis.com/wlb/2011/12/28/scotland-the-brave-and-also-rainy-edinburgh/" target="_blank">we were still in Edinburgh</a>.  In between Edinburgh and Glasgow (and kind of during), we took <a href="http://www.rabbies.com/" target="_blank">two day tours</a>, one to <a href="http://www.rabbies.com/tours_scotland_edinburgh/stirling_castle_loch_lomond_1_day_tour.asp?lng=en" target="_blank">Loch Lomond</a> and the other to the <a href="http://www.rabbies.com/tours_scotland_glasgow/loch_ness_glencoe_highlands_1_day_tour.asp?lng=en" target="_blank">Highlands</a>.  This is where the real Scotland is, the one you can&#8217; t feel when you&#8217;re in the cities (although, by God, it was hard to leave our warm and comfortable apartment in Edinburgh for the Highlands, where the weather forecast is always <a href="http://www.youtube.com/watch?v=ktAKHww9wPo" target="_blank">this</a>.
 
 <p style="text-align: center;">
   <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/01/DSC_0664.jpg"><img class="aligncenter size-large wp-image-6138" title="DSC_0664" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/01/DSC_0664-1024x680.jpg" alt="" width="502" height="333" /></a>

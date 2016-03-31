@@ -4,7 +4,7 @@ title: 'May 9: The Day we Pwned the Germans'
 date: 2009-05-08T14:54:25+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=323
+guid: http://blog.vickiboykis.com/wlb/?p=323
 permalink: /2009/05/may-9-the-day-we-pwned-the-germans/
 categories:
   - identity

@@ -4,7 +4,7 @@ title: Meeting the writer you look up to most is better than Mother Theresa ridi
 date: 2010-09-14T06:43:15+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=3587
+guid: http://blog.vickiboykis.com/wlb/?p=3587
 permalink: /2010/09/meeting-the-writer-you-look-up-to-most-is-better-than-mother-theresa-riding-a-unicorn/
 categories:
   - Uncategorized
@@ -16,7 +16,7 @@ tags:
 ---
 HOLD THE PRESSES.
 
-It&#8217;s [Gary Shteyngart](http://blog.vickiboykis.com/?s=shteyngart)! 10 feet away from me! [At Politics and Prose](http://www.expressnightout.com/content/2010/09/gary-shteyngart-super-sad-true-love-story-politics-prose.php). Doing a really great job reading from Super Sad True Love Story.
+It&#8217;s [Gary Shteyngart](http://blog.vickiboykis.com/wlb/?s=shteyngart)! 10 feet away from me! [At Politics and Prose](http://www.expressnightout.com/content/2010/09/gary-shteyngart-super-sad-true-love-story-politics-prose.php). Doing a really great job reading from Super Sad True Love Story.
 
 <p style="text-align: center;">
   <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/09/IMAG0347.jpg"><img class="aligncenter size-full wp-image-3588" title="IMAG0347" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/09/IMAG0347.jpg" alt="" width="538" height="896" /></a>

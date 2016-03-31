@@ -4,7 +4,7 @@ title: 'A few brief thoughts today: shuttle launches, the Olympics, and why Russ
 date: 2010-02-15T22:06:32+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=2345
+guid: http://blog.vickiboykis.com/wlb/?p=2345
 permalink: /2010/02/a-few-brief-thoughts-today-shuttle-launches-the-olympics-and-why-russians-are-racist/
 categories:
   - Uncategorized

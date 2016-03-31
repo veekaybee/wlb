@@ -4,7 +4,7 @@ title: Russian LeTziyon
 date: 2009-09-29T20:24:37+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=1345
+guid: http://blog.vickiboykis.com/wlb/?p=1345
 permalink: /2009/09/russian-letziyon/
 categories:
   - Uncategorized

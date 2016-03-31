@@ -4,7 +4,7 @@ title: I am calling bullshit on Italian breakfast
 date: 2013-05-27T16:56:58+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=8735
+guid: http://blog.vickiboykis.com/wlb/?p=8735
 permalink: /2013/05/i-am-calling-bullshit-on-italian-breakfast/
 categories:
   - Italy

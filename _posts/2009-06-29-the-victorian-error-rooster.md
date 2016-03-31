@@ -4,7 +4,7 @@ title: 'The Victorian Error:  Rooster'
 date: 2009-06-29T05:44:58+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=613
+guid: http://blog.vickiboykis.com/wlb/?p=613
 permalink: /2009/06/the-victorian-error-rooster/
 categories:
   - Uncategorized

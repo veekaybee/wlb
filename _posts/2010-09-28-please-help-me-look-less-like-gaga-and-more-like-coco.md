@@ -4,7 +4,7 @@ title: Please help me look less like Gaga and more like Coco
 date: 2010-09-28T08:13:32+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=3665
+guid: http://blog.vickiboykis.com/wlb/?p=3665
 permalink: /2010/09/please-help-me-look-less-like-gaga-and-more-like-coco/
 categories:
   - Uncategorized

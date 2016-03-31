@@ -4,7 +4,7 @@ title: Losing Erica
 date: 2011-05-24T08:48:27+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=4982
+guid: http://blog.vickiboykis.com/wlb/?p=4982
 permalink: /2011/05/losing-erica/
 categories:
   - Uncategorized
@@ -18,11 +18,11 @@ tags:
   - psychology
   - rogue
 ---
-Yesterday, after watching the price of the [Rogue](http://www.nissanusa.com/rogue/) move up and down [over a year](http://blog.vickiboykis.com/2010/12/06/car-troubles/) and across three states and even trying [CarWoo](https://carwoo.com/) (which is a great service but not one we had success with), Mr. B and I found a great price on the Rogue in Delaware, two hours away from our house.  We ran from work, skipped dinner, ran to my car, and I gnashed my teeth through rush-hour traffic to make it to the dealership in time.
+Yesterday, after watching the price of the [Rogue](http://www.nissanusa.com/rogue/) move up and down [over a year](http://blog.vickiboykis.com/wlb/2010/12/06/car-troubles/) and across three states and even trying [CarWoo](https://carwoo.com/) (which is a great service but not one we had success with), Mr. B and I found a great price on the Rogue in Delaware, two hours away from our house.  We ran from work, skipped dinner, ran to my car, and I gnashed my teeth through rush-hour traffic to make it to the dealership in time.
 
 As the sun was setting, we sped past signs for Delaware beaches and over the very cool [Senator William V. Roth Bridg](http://en.wikipedia.org/wiki/Chesapeake_%26_Delaware_Canal_Bridge)e (&#8220;I&#8217;d trust it more if it were dedicated to Catholics,&#8221; Mr. B ruminated. &#8220;The Jews probably cheaped out on the bridge materials.&#8221;) I was still grinding my teeth, my heart palpitating at this point, pushing the pedal down and down to go 80, 85, 90, to make sure we got to the dealership on time, to ensure our two-hour commute wasn&#8217;t wasted.
 
-When we reached the Dover city limits,  I finally relaxed enough to realize we were going to make it, and I started realizing that I would be trading in [Erica](http://blog.vickiboykis.com/2010/12/26/the-winter-solstice-is-over/), my 2000 Honda Accord.
+When we reached the Dover city limits,  I finally relaxed enough to realize we were going to make it, and I started realizing that I would be trading in [Erica](http://blog.vickiboykis.com/wlb/2010/12/26/the-winter-solstice-is-over/), my 2000 Honda Accord.
 
 <div id="attachment_4991" style="width: 510px" class="wp-caption aligncenter">
   <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/05/wpid-IMAG0659.jpg"><img class="size-full wp-image-4991" title="wpid-IMAG0659.jpg" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/05/wpid-IMAG0659.jpg" alt="" width="500" height="300" /></a>
@@ -54,7 +54,7 @@ When we reached the Dover city limits,  I finally relaxed enough to realize we 
   </div>
   
   <p style="text-align: left;">
-    Erica and I have driven over 100,000 miles together, miles that started when my parents generously handed her down to me the summer after I finished my <a href="http://www.bankhapoalim.com/">Bank HaPoalim</a> internship in Israel.  We&#8217;ve driven countless hours to and from college, with furniture, with laundry, with a thermos full of my mom&#8217;s soup carefully tucked into the backseat.  We&#8217;ve driven on long, lonely stretches of dark road with the iPod blasting <a href="http://blog.vickiboykis.com/2010/04/19/time-machine-mashina-vremeni-and-my-dad/">Mashina Vremeni </a> when we were philosophical or sad, and we&#8217;ve driven with the iPod blasting techno when we were happy.
+    Erica and I have driven over 100,000 miles together, miles that started when my parents generously handed her down to me the summer after I finished my <a href="http://www.bankhapoalim.com/">Bank HaPoalim</a> internship in Israel.  We&#8217;ve driven countless hours to and from college, with furniture, with laundry, with a thermos full of my mom&#8217;s soup carefully tucked into the backseat.  We&#8217;ve driven on long, lonely stretches of dark road with the iPod blasting <a href="http://blog.vickiboykis.com/wlb/2010/04/19/time-machine-mashina-vremeni-and-my-dad/">Mashina Vremeni </a> when we were philosophical or sad, and we&#8217;ve driven with the iPod blasting techno when we were happy.
   </p>
   
   <p style="text-align: left;">

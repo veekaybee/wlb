@@ -4,7 +4,7 @@ title: 'I&#8217;m going to fire my editor'
 date: 2010-02-18T14:31:33+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=2374
+guid: http://blog.vickiboykis.com/wlb/?p=2374
 permalink: /2010/02/im-going-to-fire-my-editor/
 categories:
   - Uncategorized
@@ -15,7 +15,7 @@ tags:
   - stabbing
   - writing
 ---
-Remember when I was [writing my novel](http://blog.vickiboykis.com/2009/10/11/my-unborn-novel-is-annoying-me-nanowrimo/)?  And [everything was](http://blog.vickiboykis.com/2009/11/25/i-am-thankful-for/) [going AWESOME](http://blog.vickiboykis.com/2009/11/17/nanowrimo-day-15/)? And I was all up in the plot? [And you were helping tremendously](http://blog.vickiboykis.com/2009/11/04/nanowrimo-day-4/)?
+Remember when I was [writing my novel](http://blog.vickiboykis.com/wlb/2009/10/11/my-unborn-novel-is-annoying-me-nanowrimo/)?  And [everything was](http://blog.vickiboykis.com/wlb/2009/11/25/i-am-thankful-for/) [going AWESOME](http://blog.vickiboykis.com/wlb/2009/11/17/nanowrimo-day-15/)? And I was all up in the plot? [And you were helping tremendously](http://blog.vickiboykis.com/wlb/2009/11/04/nanowrimo-day-4/)?
 
 Well, now I&#8217;ve handed it over to Editor Vicki for the first round of revisions.   And it&#8217;s horrible.  It&#8217;s the most horrible novel known to man, even including [Vogon poetry](http://en.wikipedia.org/wiki/Vogon#Poetry). It&#8217;s so horrible, Editor Vicki constantly makes disparaging comments, about the plot, the wording, the themes expressed in the novel, and the characters, including poor Michael, who hasn&#8217;t done anything except he&#8217;s just trying to move out of his parents&#8217; house.
 

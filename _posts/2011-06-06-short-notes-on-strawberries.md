@@ -4,7 +4,7 @@ title: Short Notes on Strawberries
 date: 2011-06-06T07:44:28+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=5056
+guid: http://blog.vickiboykis.com/wlb/?p=5056
 permalink: /2011/06/short-notes-on-strawberries/
 categories:
   - Uncategorized

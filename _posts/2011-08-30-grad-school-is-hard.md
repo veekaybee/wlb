@@ -4,7 +4,7 @@ title: Grad school is hard.
 date: 2011-08-30T21:36:00+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=5669
+guid: http://blog.vickiboykis.com/wlb/?p=5669
 permalink: /2011/08/grad-school-is-hard/
 categories:
   - Uncategorized
@@ -25,7 +25,7 @@ I ate dinner on the lawn in the 20 minute mad-dash between work and school, watc
 
 Everyone, like 90%, in the class is Chinese and male and super-smart, and I&#8217;m Russian but I was raised in American schools, so I&#8217;m American-stupid at math.  A girl from Bulgaria sits next to me and we become friends.  &#8220;I love math!  I used to do math competitions in high school.  Math is my favorite subject,&#8221; she says.  &#8220;By the way, I speak Russian, too.  Do you speak Bulgarian?&#8221;  I do not, and I HATE math.  Math is everything that is my enemy.  I spent about 40% of my middle and high-school career in my room, bawling because I didn&#8217;t understand, and frustrated that my math-oriented Soviet mom with a Math Master&#8217;s was frustrated that I didn&#8217;t understand.
 
-The only reason I do math is because [I can make more money doing it](http://blog.vickiboykis.com/2011/07/19/how-to-not-be-unemployed-in-a-recession/), and because it sharpens my brain away from atrophy.  If I could make money as a writer, I wouldn&#8217;t be sitting in this class right now. I&#8217;d be sitting in an MFA or Middle Eastern studies. But the people who sit in those classes generally start Tumblrs about their cats and are unemployed in Williamsburg.  Or, they&#8217;re, like, Social Media Experts. And yeah, I don&#8217;t want to sell my soul,  but it is nice to be able to go to <a href="http://blog.vickiboykis.com/2011/08/09/i-dont-feel-safe-in-center-city-philly-after-dark/" target="_blank">Alma de Cuba</a> whenever I want.
+The only reason I do math is because [I can make more money doing it](http://blog.vickiboykis.com/wlb/2011/07/19/how-to-not-be-unemployed-in-a-recession/), and because it sharpens my brain away from atrophy.  If I could make money as a writer, I wouldn&#8217;t be sitting in this class right now. I&#8217;d be sitting in an MFA or Middle Eastern studies. But the people who sit in those classes generally start Tumblrs about their cats and are unemployed in Williamsburg.  Or, they&#8217;re, like, Social Media Experts. And yeah, I don&#8217;t want to sell my soul,  but it is nice to be able to go to <a href="http://blog.vickiboykis.com/wlb/2011/08/09/i-dont-feel-safe-in-center-city-philly-after-dark/" target="_blank">Alma de Cuba</a> whenever I want.
 
 So I persist. I decide I will do all of my homework with the Bulgarian girl, forever.
 

@@ -4,7 +4,7 @@ title: 'Making sense of econbabble: Real vs. nominal values'
 date: 2009-01-29T20:57:18+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=82
+guid: http://blog.vickiboykis.com/wlb/?p=82
 permalink: /2009/01/making-sense-of-econbabble-real-vs-nominal-values/
 categories:
   - Uncategorized

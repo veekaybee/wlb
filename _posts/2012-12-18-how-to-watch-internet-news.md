@@ -5,7 +5,7 @@ date: 2012-12-18T08:03:05+00:00
 author: Vicki
 excerpt: 'What does Sandy Hook really teach us about media and ourselves? '
 layout: post
-guid: http://blog.vickiboykis.com/?p=8039
+guid: http://blog.vickiboykis.com/wlb/?p=8039
 permalink: /2012/12/how-to-watch-internet-news/
 categories:
   - Uncategorized
@@ -19,14 +19,14 @@ tags:
   - shooting
 ---
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/2012/12/how-to-watch-internet-news/wyman-newsboy/" rel="attachment wp-att-8040"><img class="aligncenter  wp-image-8040" alt="Wyman-Newsboy" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/12/Wyman-Newsboy.jpg" width="377" height="420" /></a>
+  <a href="http://blog.vickiboykis.com/wlb/2012/12/how-to-watch-internet-news/wyman-newsboy/" rel="attachment wp-att-8040"><img class="aligncenter  wp-image-8040" alt="Wyman-Newsboy" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/12/Wyman-Newsboy.jpg" width="377" height="420" /></a>
 </p>
 
 <p style="text-align: center;">
   Ida Wyman, <i>Newsboy with Checked Shirt</i>, Los Angeles, 1950.
 </p>
 
-Twenty years ago, Neil Postman and Steve Powers wrote a book called <a href="http://www.amazon.com/How-Watch-News-Neil-Postman/dp/B000EPFVC8/ref=sr_1_2?s=books&ie=UTF8&qid=1355832071&sr=1-2&keywords=How+to+Watch+TV+News" target="_blank">How to Watch TV News</a> that was assigned summer reading for my 11th grade economics/politics class. Ms. Beaver was <a href="http://blog.vickiboykis.com/2010/01/mrs-bej-and-bellydancing-after-the-saudi-arabian-embassy/" target="_blank">one of the most important teachers</a> I had, 50% of it stemming from the fact that she made us read this book and call bullshit on mainstream news.
+Twenty years ago, Neil Postman and Steve Powers wrote a book called <a href="http://www.amazon.com/How-Watch-News-Neil-Postman/dp/B000EPFVC8/ref=sr_1_2?s=books&ie=UTF8&qid=1355832071&sr=1-2&keywords=How+to+Watch+TV+News" target="_blank">How to Watch TV News</a> that was assigned summer reading for my 11th grade economics/politics class. Ms. Beaver was <a href="http://blog.vickiboykis.com/wlb/2010/01/mrs-bej-and-bellydancing-after-the-saudi-arabian-embassy/" target="_blank">one of the most important teachers</a> I had, 50% of it stemming from the fact that she made us read this book and call bullshit on mainstream news.
 
 <!--more-->
 
@@ -39,7 +39,7 @@ The book was written at the dawn of the cable age, when there was no such thing 
 That part is still off in the future, but it&#8217;s not as relevant anymore, because there is the internet. Cookies track every site we visit, and Google has, in a quiet, genius way, tied our identity to every one of their products. I am still holding out on the last bastion of privacy, Chrome, which you can sign into to synch across ALL of your devices, which means not only what you do in Google, but what you do everywhere is up for dissection. Fun.
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/2012/12/how-to-watch-internet-news/screen-shot-2012-12-18-at-7-11-51-am/" rel="attachment wp-att-8045"><img class="aligncenter  wp-image-8045" alt="Screen shot 2012-12-18 at 7.11.51 AM" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/12/Screen-shot-2012-12-18-at-7.11.51-AM.png" width="676" height="253" /></a>
+  <a href="http://blog.vickiboykis.com/wlb/2012/12/how-to-watch-internet-news/screen-shot-2012-12-18-at-7-11-51-am/" rel="attachment wp-att-8045"><img class="aligncenter  wp-image-8045" alt="Screen shot 2012-12-18 at 7.11.51 AM" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/12/Screen-shot-2012-12-18-at-7.11.51-AM.png" width="676" height="253" /></a>
 </p>
 
 &nbsp;
@@ -70,25 +70,25 @@ And what could be more Man Bites Dog and  than a school shooting?  From the me
 
 On Twitter, it was even more fun as news outlets decided to go for the full scoop and interview children,
 
-<a href="http://blog.vickiboykis.com/2012/12/how-to-watch-internet-news/screen-shot-2012-12-17-at-7-58-59-am/" rel="attachment wp-att-8041"><img class="aligncenter size-full wp-image-8041" alt="Screen shot 2012-12-17 at 7.58.59 AM" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/12/Screen-shot-2012-12-17-at-7.58.59-AM.png" width="487" height="300" /></a>
+<a href="http://blog.vickiboykis.com/wlb/2012/12/how-to-watch-internet-news/screen-shot-2012-12-17-at-7-58-59-am/" rel="attachment wp-att-8041"><img class="aligncenter size-full wp-image-8041" alt="Screen shot 2012-12-17 at 7.58.59 AM" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/12/Screen-shot-2012-12-17-at-7.58.59-AM.png" width="487" height="300" /></a>
 
 and <a href="http://www.poynter.org/latest-news/media-lab/social-media/198573/newtown-response-shows-perils-of-post-tragedy-interview-requests-via-social-media/" target="_blank">families of victims</a>:
 
 <p style="text-align: center;">
-  <a href="http://blog.vickiboykis.com/2012/12/how-to-watch-internet-news/shubailat-abc-tweet1/" rel="attachment wp-att-8046"><img class="aligncenter  wp-image-8046" alt="shubailat-abc-tweet1" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/12/shubailat-abc-tweet1.jpg" width="370" height="377" /></a>
+  <a href="http://blog.vickiboykis.com/wlb/2012/12/how-to-watch-internet-news/shubailat-abc-tweet1/" rel="attachment wp-att-8046"><img class="aligncenter  wp-image-8046" alt="shubailat-abc-tweet1" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/12/shubailat-abc-tweet1.jpg" width="370" height="377" /></a>
 </p>
 
 &nbsp;
 
 As a result, the news outlets had a field day. Traffic to CNN was up 65% day over day, during a weekend, when no one is reading news online.
 
-<a href="http://blog.vickiboykis.com/2012/12/how-to-watch-internet-news/screen-shot-2012-12-17-at-8-02-43-am/" rel="attachment wp-att-8042"><img class="aligncenter size-full wp-image-8042" alt="Screen shot 2012-12-17 at 8.02.43 AM" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/12/Screen-shot-2012-12-17-at-8.02.43-AM.png" width="625" height="261" /></a>
+<a href="http://blog.vickiboykis.com/wlb/2012/12/how-to-watch-internet-news/screen-shot-2012-12-17-at-8-02-43-am/" rel="attachment wp-att-8042"><img class="aligncenter size-full wp-image-8042" alt="Screen shot 2012-12-17 at 8.02.43 AM" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/12/Screen-shot-2012-12-17-at-8.02.43-AM.png" width="625" height="261" /></a>
 
 Was it worth it, sensationalizing the death of people under the age of 10? Of featuring them in interviews? Of <a href="http://www.cjr.org/the_observatory/lanza_autism_speculation_newto.php" target="_blank">speculating and sensationalizing </a>autism? Of making constant mistakes in reporting to get the actual story?  Of instantly driving the debate in only one of two directions: mental health and gun policy?
 
 For Buick, or whoever was the advertiser that day in the right-hand corner,  oh God, oh God yes.
 
-<a href="http://blog.vickiboykis.com/2012/12/how-to-watch-internet-news/screen-shot-2012-12-18-at-7-30-16-am/" rel="attachment wp-att-8047"><img class="aligncenter size-medium wp-image-8047" alt="Screen shot 2012-12-18 at 7.30.16 AM" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/12/Screen-shot-2012-12-18-at-7.30.16-AM-580x274.png" width="580" height="274" /></a>
+<a href="http://blog.vickiboykis.com/wlb/2012/12/how-to-watch-internet-news/screen-shot-2012-12-18-at-7-30-16-am/" rel="attachment wp-att-8047"><img class="aligncenter size-medium wp-image-8047" alt="Screen shot 2012-12-18 at 7.30.16 AM" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/12/Screen-shot-2012-12-18-at-7.30.16-AM-580x274.png" width="580" height="274" /></a>
 
 For our national psyche, absolutely not.
 
@@ -114,7 +114,7 @@ They <a href="http://www.poynter.org/latest-news/als-morning-meeting/198260/wha
 
 I couldn&#8217;t believe this when I read it, because that&#8217;s not what we&#8217;re constantly told. We&#8217;re consistently told to have a national conversation about gun regulation (so why didn&#8217;t we have one before?), consistently told that school shootings are extremely common in the United States, and consistently spoonfed statistics and data that will result in pageviews, not actual national dialogues.
 
-We are taught to react immediately, without thinking. Without going through <a href="http://blog.vickiboykis.com/2012/09/the-art-of-the-slog/" target="_blank">the slog</a>.
+We are taught to react immediately, without thinking. Without going through <a href="http://blog.vickiboykis.com/wlb/2012/09/the-art-of-the-slog/" target="_blank">the slog</a>.
 
 &#8220;The television screen is smaller than life, &#8220;Postman writes.
 

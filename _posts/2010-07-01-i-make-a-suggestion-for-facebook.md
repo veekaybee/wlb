@@ -4,7 +4,7 @@ title: I make a suggestion for Facebook
 date: 2010-07-01T06:04:12+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=3199
+guid: http://blog.vickiboykis.com/wlb/?p=3199
 permalink: /2010/07/i-make-a-suggestion-for-facebook/
 categories:
   - Uncategorized
@@ -15,7 +15,7 @@ tags:
   - social media
   - writing
 ---
-[Remember this](http://blog.vickiboykis.com/2010/01/22/facebooks-algorithm-is-still-off/)? It&#8217;s still happening.
+[Remember this](http://blog.vickiboykis.com/wlb/2010/01/22/facebooks-algorithm-is-still-off/)? It&#8217;s still happening.
 
 [<img class="aligncenter size-full wp-image-3200" title="news" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/06/news.jpg" alt="" width="273" height="123" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/06/news.jpg)
 

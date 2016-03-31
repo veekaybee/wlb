@@ -4,7 +4,7 @@ title: No Photoshop Thursday today, for a good reason :)
 date: 2010-01-28T07:11:07+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=2195
+guid: http://blog.vickiboykis.com/wlb/?p=2195
 permalink: /2010/01/no-photoshop-thursday-today-for-a-good-reason/
 categories:
   - Uncategorized
@@ -38,4 +38,4 @@ Third,  there will be no more Photoshop Thursdays because all of my writing, Ph
 
 [<img class="aligncenter size-full wp-image-2203" title="logo" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/01/logo1.png" alt="" width="164" height="50" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/01/logo1.png)
 
-Hooray!  A big thank you to Mr. B, who solved all my technical problems throughout this process (although he did have to be bribed with borscht.) And thank you to you for reading <img src="http://blog.vickiboykis.com/wp-includes/images/smilies/simple-smile.png" alt=":)" class="wp-smiley" style="height: 1em; max-height: 1em;" />
+Hooray!  A big thank you to Mr. B, who solved all my technical problems throughout this process (although he did have to be bribed with borscht.) And thank you to you for reading <img src="http://blog.vickiboykis.com/wlb/wp-includes/images/smilies/simple-smile.png" alt=":)" class="wp-smiley" style="height: 1em; max-height: 1em;" />

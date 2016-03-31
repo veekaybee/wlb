@@ -4,7 +4,7 @@ title: Gerard Depardieu, free agent
 date: 2013-01-03T07:59:57+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=8161
+guid: http://blog.vickiboykis.com/wlb/?p=8161
 permalink: /2013/01/gerard-depardieu-free-agent/
 categories:
   - Uncategorized
@@ -25,6 +25,6 @@ tags:
 >   </div>
 > </div>
 > 
-> <a href="http://blog.vickiboykis.com/2013/01/gerard-depardieu-free-agent/gerard-depardieu/" rel="attachment wp-att-8162"><img class="aligncenter size-full wp-image-8162" alt="Gerard Depardieu" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/01/Gerard-Depardieu.png" width="576" height="720" /></a>
+> <a href="http://blog.vickiboykis.com/wlb/2013/01/gerard-depardieu-free-agent/gerard-depardieu/" rel="attachment wp-att-8162"><img class="aligncenter size-full wp-image-8162" alt="Gerard Depardieu" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/01/Gerard-Depardieu.png" width="576" height="720" /></a>
 > 
 > &nbsp;

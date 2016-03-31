@@ -4,7 +4,7 @@ title: '&#8220;Hey, how&#8217;s your novel going?&#8221;'
 date: 2012-07-26T07:59:32+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=7262
+guid: http://blog.vickiboykis.com/wlb/?p=7262
 permalink: /2012/07/hey-hows-your-novel-going/
 categories:
   - Uncategorized

@@ -4,7 +4,7 @@ title: Monday Photo Blues
 date: 2009-11-23T07:13:48+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=1715
+guid: http://blog.vickiboykis.com/wlb/?p=1715
 permalink: /2009/11/monday-photo-blues/
 categories:
   - Uncategorized

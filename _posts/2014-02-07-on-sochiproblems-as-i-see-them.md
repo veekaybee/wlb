@@ -4,7 +4,7 @@ title: 'On #sochiproblems as I see them'
 date: 2014-02-07T08:19:01+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=9476
+guid: http://blog.vickiboykis.com/wlb/?p=9476
 permalink: /2014/02/on-sochiproblems-as-i-see-them/
 categories:
   - Uncategorized
@@ -102,7 +102,7 @@ It&#8217;s not their fault, but they don&#8217;t understand that they&#8217;re m
   The word they use is <em>zloradstvo,</em> literally: evil-reveling.
 </p>
 
-I&#8217;m more than thrilled that attention is finally being called to how fucked up Russia is; it&#8217;s only something I&#8217;ve been talking about <a href="http://blog.vickiboykis.com/2009/10/russia-tries-to-cut-down-on-alcohol/" target="_blank">for years</a>.  And it&#8217;s fine to make fun of something, but when that something is not your own, not something you understand, babies, goddamnit, you&#8217;ve got to be kind as Kurt Vonnegut would say. And kindness from journalists means adding context and not being sensationalist. Not playing the <a href="http://blog.erratasec.com/2014/02/that-nbc-story-100-fraudulent.html#.UvTYZHewKt8" target="_blank">Ugly American Broadcaster</a>.
+I&#8217;m more than thrilled that attention is finally being called to how fucked up Russia is; it&#8217;s only something I&#8217;ve been talking about <a href="http://blog.vickiboykis.com/wlb/2009/10/russia-tries-to-cut-down-on-alcohol/" target="_blank">for years</a>.  And it&#8217;s fine to make fun of something, but when that something is not your own, not something you understand, babies, goddamnit, you&#8217;ve got to be kind as Kurt Vonnegut would say. And kindness from journalists means adding context and not being sensationalist. Not playing the <a href="http://blog.erratasec.com/2014/02/that-nbc-story-100-fraudulent.html#.UvTYZHewKt8" target="_blank">Ugly American Broadcaster</a>.
 
 And it&#8217;s very easy to be unkind in the face of unmitigated public attention.
 

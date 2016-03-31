@@ -4,7 +4,7 @@ title: Autumn Sunsets
 date: 2009-11-02T21:17:23+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=1604
+guid: http://blog.vickiboykis.com/wlb/?p=1604
 permalink: /2009/11/autumn-sunsets/
 categories:
   - Uncategorized

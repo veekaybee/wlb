@@ -4,7 +4,7 @@ title: The Worst/Best Thanksgiving Poem Ever
 date: 2010-11-24T08:14:56+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=3919
+guid: http://blog.vickiboykis.com/wlb/?p=3919
 permalink: /2010/11/the-worstbest-thanksgiving-poem-ever/
 categories:
   - Uncategorized

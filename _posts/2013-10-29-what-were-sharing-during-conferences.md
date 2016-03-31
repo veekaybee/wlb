@@ -4,7 +4,7 @@ title: 'What we&#8217;re sharing during conferences'
 date: 2013-10-29T07:12:01+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=9220
+guid: http://blog.vickiboykis.com/wlb/?p=9220
 permalink: /2013/10/what-were-sharing-during-conferences/
 categories:
   - Uncategorized

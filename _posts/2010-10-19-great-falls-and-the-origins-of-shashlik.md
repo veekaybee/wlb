@@ -4,7 +4,7 @@ title: Great Falls and the Origins of Shashlik
 date: 2010-10-19T20:01:17+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=3753
+guid: http://blog.vickiboykis.com/wlb/?p=3753
 permalink: /2010/10/great-falls-and-the-origins-of-shashlik/
 categories:
   - Uncategorized
@@ -43,5 +43,5 @@ There are a couple of places to view the falls and all of them are extremely pre
   </p>
   
   <p>
-    Sitting on a rock overlooking the Potomac rushing into the Tidal Basin with <a href="http://blog.vickiboykis.com/2010/10/05/last-photo-moments-of-d-c/">the monuments some miles down the river</a> made me wonder, why is life so beautiful sometimes?
+    Sitting on a rock overlooking the Potomac rushing into the Tidal Basin with <a href="http://blog.vickiboykis.com/wlb/2010/10/05/last-photo-moments-of-d-c/">the monuments some miles down the river</a> made me wonder, why is life so beautiful sometimes?
   </p>

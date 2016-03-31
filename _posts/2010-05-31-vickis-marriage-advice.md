@@ -4,7 +4,7 @@ title: 'Vicki&#8217;s Marriage Advice'
 date: 2010-05-31T09:54:01+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=3043
+guid: http://blog.vickiboykis.com/wlb/?p=3043
 permalink: /2010/05/vickis-marriage-advice/
 categories:
   - Uncategorized
@@ -59,12 +59,12 @@ But, regardless, I think we&#8217;ve had a pretty solid marriage so far.
   So, here are my tips for marriage to newlyweds.
 </p>
 
-  1.](http://blog.vickiboykis.com/2010/04/15/mr-bs-minimalism/) If you can&#8217;t compromise, wait it out.  Then throw it away.
-  2. [Build a home together.](http://blog.vickiboykis.com/2010/04/14/welcome-to-the-bardak-that-is-my-apartment/) Then destroy it and become minimalist.
-  3. Go to [experiences that unite you](http://blog.vickiboykis.com/2010/01/31/millions-of-babies-the-holocaust-and-gender-segregation-its-the-weekend/).
-  4. Go to [experiences that may make you parapalegic](http://blog.vickiboykis.com/2010/01/18/riding-a-horse-is-like-blogging-except-you-cant-become-a-parapalegic-if-you-blog/).
-  5. [Marry Russian](http://blog.vickiboykis.com/2009/07/30/the-pros-of-russian-husbands/).
-  6. Maintain [sanity in the household](http://blog.vickiboykis.com/2009/02/18/shlom-bayit-%D7%A9%D7%9C%D7%95%D7%9D-%D7%91%D7%99%D7%AA-maintaining-sanity-and-comparative-advantage-in-the-household/).
-  7. And [screw yourself over](http://blog.vickiboykis.com/2009/01/27/changing-my-last-name-or-how-i-totally-screwed-over-feminism/) every once in a while.
+  1.](http://blog.vickiboykis.com/wlb/2010/04/15/mr-bs-minimalism/) If you can&#8217;t compromise, wait it out.  Then throw it away.
+  2. [Build a home together.](http://blog.vickiboykis.com/wlb/2010/04/14/welcome-to-the-bardak-that-is-my-apartment/) Then destroy it and become minimalist.
+  3. Go to [experiences that unite you](http://blog.vickiboykis.com/wlb/2010/01/31/millions-of-babies-the-holocaust-and-gender-segregation-its-the-weekend/).
+  4. Go to [experiences that may make you parapalegic](http://blog.vickiboykis.com/wlb/2010/01/18/riding-a-horse-is-like-blogging-except-you-cant-become-a-parapalegic-if-you-blog/).
+  5. [Marry Russian](http://blog.vickiboykis.com/wlb/2009/07/30/the-pros-of-russian-husbands/).
+  6. Maintain [sanity in the household](http://blog.vickiboykis.com/wlb/2009/02/18/shlom-bayit-%D7%A9%D7%9C%D7%95%D7%9D-%D7%91%D7%99%D7%AA-maintaining-sanity-and-comparative-advantage-in-the-household/).
+  7. And [screw yourself over](http://blog.vickiboykis.com/wlb/2009/01/27/changing-my-last-name-or-how-i-totally-screwed-over-feminism/) every once in a while.
 
 Mazal tov to the newlyweds.

@@ -4,7 +4,7 @@ title: Time Machine (Mashina Vremeni) and My Dad
 date: 2010-04-19T08:04:39+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=2765
+guid: http://blog.vickiboykis.com/wlb/?p=2765
 permalink: /2010/04/time-machine-mashina-vremeni-and-my-dad/
 categories:
   - Uncategorized
@@ -61,6 +61,6 @@ and when I did really well on an exam, I remember playing this song and feeling 
 
 Each one of their songs has allegories to life in general and are really nice to listen to.
 
-Last week, they were playing at the Listner Auditorium in GW University, and my dad went to see them with his friend. He&#8217;s been psyched about it for two months.  My dad is [very hard to please](http://blog.vickiboykis.com/2010/03/15/whoever-said-life-is-about-adventure-and-risk-taking-never-had-typhoid-shots/), and when I called him for him to report back he said that they &#8220;didn&#8217;t put 100% into the show&#8221;, and that the show was &#8220;ok.&#8221;   I&#8217;m sad that he didn&#8217;t get to have the experience he&#8217;s been waiting 25 years to have, but happy that he got to see the group he grew up with and that made such a formative part of his adult life.  It&#8217;s like if I got to see [Nutella](http://blog.vickiboykis.com/2010/02/19/nutellaaaaaaa/) in concert.
+Last week, they were playing at the Listner Auditorium in GW University, and my dad went to see them with his friend. He&#8217;s been psyched about it for two months.  My dad is [very hard to please](http://blog.vickiboykis.com/wlb/2010/03/15/whoever-said-life-is-about-adventure-and-risk-taking-never-had-typhoid-shots/), and when I called him for him to report back he said that they &#8220;didn&#8217;t put 100% into the show&#8221;, and that the show was &#8220;ok.&#8221;   I&#8217;m sad that he didn&#8217;t get to have the experience he&#8217;s been waiting 25 years to have, but happy that he got to see the group he grew up with and that made such a formative part of his adult life.  It&#8217;s like if I got to see [Nutella](http://blog.vickiboykis.com/wlb/2010/02/19/nutellaaaaaaa/) in concert.
 
 My mom, on the other hand, is not happy, because she has been having to hear about Mashina Vremeni for the past 25 years and now will have additional material to loop through.   So far, I&#8217;ve been hearing about this concert, which was &#8220;ok,&#8221; for the past week and a half.

@@ -4,7 +4,7 @@ title: Classes I wish I had been able to take in college
 date: 2011-01-19T10:38:55+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=4255
+guid: http://blog.vickiboykis.com/wlb/?p=4255
 permalink: /2011/01/classes-i-wish-i-had-been-able-to-take-in-college/
 categories:
   - Uncategorized

@@ -4,7 +4,7 @@ title: Michael Chabon and Prague Tricked Me
 date: 2013-06-27T07:22:07+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=8874
+guid: http://blog.vickiboykis.com/wlb/?p=8874
 permalink: /2013/06/michael-chabon-and-prague-tricked-me/
 categories:
   - writing

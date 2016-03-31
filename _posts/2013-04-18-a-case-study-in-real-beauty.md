@@ -4,7 +4,7 @@ title: A case study in real beauty
 date: 2013-04-18T07:55:04+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=8595
+guid: http://blog.vickiboykis.com/wlb/?p=8595
 permalink: /2013/04/a-case-study-in-real-beauty/
 categories:
   - feminism
@@ -27,7 +27,7 @@ I hate this campaign.
 
 <!--more-->
 
-First of all, <a href="http://blog.vickiboykis.com/2012/10/10-books-every-mba-student-should-read/" target="_blank">if there&#8217;s one thing my MBA has taught me</a>, and trust me, there&#8217;s only one, it&#8217;s to follow the money. The only reason companies exist is to make a product and sell it if there is a demand for it. If there&#8217;s no demand,the company dies.
+First of all, <a href="http://blog.vickiboykis.com/wlb/2012/10/10-books-every-mba-student-should-read/" target="_blank">if there&#8217;s one thing my MBA has taught me</a>, and trust me, there&#8217;s only one, it&#8217;s to follow the money. The only reason companies exist is to make a product and sell it if there is a demand for it. If there&#8217;s no demand,the company dies.
 
 The other thing my MBA has taught me is that everything is a case study. I hate case studies worse than soft jazz in grocery stores,  but let&#8217;s do one here. And we&#8217;ll do it for free, not for $7 bucks a pop, like Harvard Business School does it. So essentially,once you finish reading this post, you&#8217;ll have a free MBA. You&#8217;re welcome.
 

@@ -4,7 +4,7 @@ title: The year of free will-y
 date: 2013-12-23T10:49:24+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=9378
+guid: http://blog.vickiboykis.com/wlb/?p=9378
 permalink: /2013/12/the-year-of-free-will-y/
 categories:
   - Uncategorized
@@ -23,7 +23,7 @@ The devil, in the shape of a well-heeled foreign historian with an unplacable ac
 
 The Russian preoccupation with free will is a long-standing tradition that has always stemmed from the government doing whatever the hell it wanted (i.e. <a href="http://en.wikipedia.org/wiki/Conscription_in_Russia" target="_blank">conscription</a>), combined with the heady influence of the Orthodox Church in various degrees and intensities over the centuries. This  was only exacerbated by the almost complete lack of choice during the Soviet era.
 
-It&#8217;s an argument my dad and I have often, spurred by this <a href="http://blog.vickiboykis.com/2010/04/time-machine-mashina-vremeni-and-my-dad/" target="_blank">Mashina Vremeni</a> song, Talk on a Train, about two passengers on a train who are so bored they have no choice but to talk to each other. One argues that we have free will, and are free to take the train wherever we want. The other says, yes, we can take the train, but the tracks have to be laid for it, implying that the only paths we can take are those that have been pushed at us by a higher power. The whole man plans and God laughs kind of deal.
+It&#8217;s an argument my dad and I have often, spurred by this <a href="http://blog.vickiboykis.com/wlb/2010/04/time-machine-mashina-vremeni-and-my-dad/" target="_blank">Mashina Vremeni</a> song, Talk on a Train, about two passengers on a train who are so bored they have no choice but to talk to each other. One argues that we have free will, and are free to take the train wherever we want. The other says, yes, we can take the train, but the tracks have to be laid for it, implying that the only paths we can take are those that have been pushed at us by a higher power. The whole man plans and God laughs kind of deal.
 
 This obsession with free will and fate is not an American character trait. God is a hands-off free enterprise kind-of-guy in America. Mark Twain wrote once that &#8220;No man that has ever lived has done a thing to please God&#8211;primarily. It was done to please himself, then God next.&#8221;
 
@@ -33,11 +33,11 @@ But as I&#8217;ve watched the pardon and release of Mikhail Khodorkovsky and the
 
 Khodorkovsky mentioned at a recent press interview, his first after ten years in prison for entering politics against Putin&#8217;s wishes, that he was woken at 2 am in the Siberian winter, not told where he was going, and, shoved into a Tupalev, after which he got his foreign passport, and flew to Germany.
 
-Only halfway through this whole situation did he start to understand what was going on. This morning, two members of <a href="http://blog.vickiboykis.com/2012/08/our-father-in-heaven-in-the-kremlin/" target="_blank">Pussy Riot</a>, Maria Alekhina and Nadezhda Tolokonnikova were released from jail. Previously, Tolkonnikova had vanished into the bowels of hell after <a href="http://www.theguardian.com/world/2013/nov/05/pussy-riot-tolokonnikova-punished-siberian-prison-hunger-strike" target="_blank">attempting a hunger strike</a>. No one knew where she was for a month.
+Only halfway through this whole situation did he start to understand what was going on. This morning, two members of <a href="http://blog.vickiboykis.com/wlb/2012/08/our-father-in-heaven-in-the-kremlin/" target="_blank">Pussy Riot</a>, Maria Alekhina and Nadezhda Tolokonnikova were released from jail. Previously, Tolkonnikova had vanished into the bowels of hell after <a href="http://www.theguardian.com/world/2013/nov/05/pussy-riot-tolokonnikova-punished-siberian-prison-hunger-strike" target="_blank">attempting a hunger strike</a>. No one knew where she was for a month.
 
 It is easy to feel aghast at the depths Putin has gone to to assert his power, and to feel sorry for these people, who will become rightly lionized in the media for their actions. They come from a country where, as they say, &#8220;Everything changes in 20 minutes and nothing changes in 200 years.&#8221; They are the nails, and they get hammered down.  It is harder to understand the extent to which the entire population is at-will to the President (or Prime Minister, depending on the year.)
 
-It is even harder still to watch this all happen from America and gloat, as we used to be able to. &#8220;What a savage country,&#8221; we always said. &#8220;Why can&#8217;t everyone just have democracy?&#8221; We have no reason to feel superior anymore, because we have <a href="http://blog.vickiboykis.com/2013/06/being-american/" target="_blank">the NSA</a>, something Putin <a href="http://washington.cbslocal.com/2013/12/19/putin-defends-nsa-obama-because-he-can-get-away-with-it/" target="_blank">salivates in his dreams</a> to.
+It is even harder still to watch this all happen from America and gloat, as we used to be able to. &#8220;What a savage country,&#8221; we always said. &#8220;Why can&#8217;t everyone just have democracy?&#8221; We have no reason to feel superior anymore, because we have <a href="http://blog.vickiboykis.com/wlb/2013/06/being-american/" target="_blank">the NSA</a>, something Putin <a href="http://washington.cbslocal.com/2013/12/19/putin-defends-nsa-obama-because-he-can-get-away-with-it/" target="_blank">salivates in his dreams</a> to.
 
 We are not political prisoners. There is no way we can ever compare our situation to theirs. But where does the gentle slope away from the high ideal of democracy start,and when do we realize that we&#8217;re like Wil E. Coyote? We look down, but we&#8217;re not even on a cliff anymore, we&#8217;re in the air.
 

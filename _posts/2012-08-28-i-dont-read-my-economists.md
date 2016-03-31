@@ -4,7 +4,7 @@ title: 'I don&#8217;t read my Economists'
 date: 2012-08-28T20:44:35+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=7441
+guid: http://blog.vickiboykis.com/wlb/?p=7441
 permalink: /2012/08/i-dont-read-my-economists/
 categories:
   - Uncategorized

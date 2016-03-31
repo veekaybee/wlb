@@ -4,7 +4,7 @@ title: 'Parenting: Perception in the West v. elsewhere'
 date: 2009-04-14T16:31:36+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=250
+guid: http://blog.vickiboykis.com/wlb/?p=250
 permalink: /2009/04/parenting-perception-in-the-west-v-elsewhere/
 categories:
   - Uncategorized

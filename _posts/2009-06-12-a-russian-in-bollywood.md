@@ -4,7 +4,7 @@ title: A Russian in Bollywood
 date: 2009-06-12T05:03:29+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=497
+guid: http://blog.vickiboykis.com/wlb/?p=497
 permalink: /2009/06/a-russian-in-bollywood/
 categories:
   - India
@@ -17,7 +17,7 @@ tags:
 ---
 I&#8217;ve been asked [courteously](http://twitter.com/neo_indian/status/2119728630) by [Neo Indian](http://neoindian.org/) to &#8220;give a shout out&#8221; to the [desis](http://en.wikipedia.org/wiki/Desi). So, here is my story of how I grew to love Indian and South Asian culture.
 
-It&#8217;s no secret to anyone who knows me that [I love all things Indian](http://blog.vickiboykis.com/?p=287).  I love [saris](http://en.wikipedia.org/wiki/Sari), [chapatis](http://en.wikipedia.org/wiki/Chapati), [rotis](http://en.wikipedia.org/wiki/Roti), and [Saif Ali Khans](http://en.wikipedia.org/wiki/Saif_Ali_Khan).   I can&#8217;t say for sure when this began, but I think it was around the time I saw [DDLJ](http://en.wikipedia.org/wiki/Dilwale_Dulhaniya_Le_Jayenge) on tv.  As I paused to look at the father forbidding his daughter to marry someone who was of the same skin color, the same religion, and spoke the same language, I thought, how awesome.  Here is a culture that is crazier than Russians and Jews combined! Also, they dance.  A lot.   I didn&#8217;t know at that time that DDLJ was the classical hit Bollywood movie.
+It&#8217;s no secret to anyone who knows me that [I love all things Indian](http://blog.vickiboykis.com/wlb/?p=287).  I love [saris](http://en.wikipedia.org/wiki/Sari), [chapatis](http://en.wikipedia.org/wiki/Chapati), [rotis](http://en.wikipedia.org/wiki/Roti), and [Saif Ali Khans](http://en.wikipedia.org/wiki/Saif_Ali_Khan).   I can&#8217;t say for sure when this began, but I think it was around the time I saw [DDLJ](http://en.wikipedia.org/wiki/Dilwale_Dulhaniya_Le_Jayenge) on tv.  As I paused to look at the father forbidding his daughter to marry someone who was of the same skin color, the same religion, and spoke the same language, I thought, how awesome.  Here is a culture that is crazier than Russians and Jews combined! Also, they dance.  A lot.   I didn&#8217;t know at that time that DDLJ was the classical hit Bollywood movie.
 
 I especially loved this song:
   

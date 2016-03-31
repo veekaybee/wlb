@@ -4,7 +4,7 @@ title: The Winter Solstice is Over
 date: 2010-12-26T21:14:34+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=4097
+guid: http://blog.vickiboykis.com/wlb/?p=4097
 permalink: /2010/12/the-winter-solstice-is-over/
 categories:
   - Uncategorized

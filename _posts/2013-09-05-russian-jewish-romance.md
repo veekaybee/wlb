@@ -4,7 +4,7 @@ title: Russian Jewish Romance
 date: 2013-09-05T07:31:04+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=9065
+guid: http://blog.vickiboykis.com/wlb/?p=9065
 permalink: /2013/09/russian-jewish-romance/
 categories:
   - Uncategorized
@@ -25,7 +25,7 @@ My internet friend <a href="http://www.alinaadams.com/" target="_blank">Alina</a
 > 
 > Adams explains, &#8220;I wanted to do something different with my story, &#8220;To Look For You,&#8221; and feature a character unique to romantic fiction.  Like me, Alyssa Gordon was born in the USSR, grew up in America, and never felt like she belonged completely to either place.  Throw in being Jewish on top of that, and I&#8217;d never encountered a similar type of character while reading romance.  I figured I might as well be the first to create one and explore how being a Russian Jew in the States affects who you fall in love with.&#8221;
 
-I personally <a href="http://blog.vickiboykis.com/2012/01/a-guest-post-about-outlander-by-diana-gabaldon/" target="_blank">will never admit</a> that I read romance novels, but this story is at the intersection of Russian Jews, hypochondria, perfectionism, war, and men who are really, really clean, which is probably why Alina thought of me.  There were a couple of things I was always really curious about with regards to romance writing, so I asked her:
+I personally <a href="http://blog.vickiboykis.com/wlb/2012/01/a-guest-post-about-outlander-by-diana-gabaldon/" target="_blank">will never admit</a> that I read romance novels, but this story is at the intersection of Russian Jews, hypochondria, perfectionism, war, and men who are really, really clean, which is probably why Alina thought of me.  There were a couple of things I was always really curious about with regards to romance writing, so I asked her:
 
 <!--more-->
 
@@ -59,7 +59,7 @@ I personally <a href="http://blog.vickiboykis.com/2012/01/a-guest-post-about-out
 
 > **Alina:** Well, my father, who grew up in the USSR, wasn&#8217;t allowed to go to medical school because of anti-Jewish quotas, so, when it comes to Russian Jews, I&#8217;m going to have to go with: Not as many as would like to.
 
-**Vicki**:  If you could write a romance story about the <a href="http://blog.vickiboykis.com/2011/04/a-guide-to-questionable-russian-careers-or-seryozha-that-guy-with-the-ambulance/" target="_blank">Russian ambulance scam</a>, how would it start?
+**Vicki**:  If you could write a romance story about the <a href="http://blog.vickiboykis.com/wlb/2011/04/a-guide-to-questionable-russian-careers-or-seryozha-that-guy-with-the-ambulance/" target="_blank">Russian ambulance scam</a>, how would it start?
 
 > **Alina: ** I would probably kick it off with an orphan kid who has to drive one of these ambulances in order to put food on the table for his younger siblings (while giving kickbacks to the scary ex-con who sub-contracted the gig) picking up the spoiled, rich daughter of an oligarch.  Wackiness promptly ensues. Though in Russian.
 

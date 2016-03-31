@@ -4,7 +4,7 @@ title: 'Guest Post: Russian Protocol for Safe Travel'
 date: 2009-08-27T00:00:22+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=1087
+guid: http://blog.vickiboykis.com/wlb/?p=1087
 permalink: /2009/08/guest-post-russian-protocol-for-safe-travel/
 categories:
   - Uncategorized

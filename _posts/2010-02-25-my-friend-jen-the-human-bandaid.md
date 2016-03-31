@@ -4,7 +4,7 @@ title: My Friend Jen, the Human Bandaid
 date: 2010-02-25T00:00:08+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=2408
+guid: http://blog.vickiboykis.com/wlb/?p=2408
 permalink: /2010/02/my-friend-jen-the-human-bandaid/
 categories:
   - Uncategorized

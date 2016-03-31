@@ -4,7 +4,7 @@ title: 'The internet is making us stupid (or, I&#8217;m better than you because 
 date: 2012-01-24T07:52:14+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=6323
+guid: http://blog.vickiboykis.com/wlb/?p=6323
 permalink: /2012/01/the-internet-is-making-us-stupid-or-im-better-than-you-because-i-broke-my-phone/
 categories:
   - Uncategorized
@@ -23,7 +23,7 @@ I&#8217;ve been living semi-technology free lately, but not by choice, and I thi
 
 &nbsp;
 
-A couple weeks ago (12 days and counting), I <a href="http://blog.vickiboykis.com/2012/01/16/a-glimpse-into-the-edwardian-period/" target="_blank">sent in my brand-new cell phone in for repairs</a>. Since then, I&#8217;ve been unreachable before and after work, and on weekends. At the same time, we cancelled <a href="http://blog.vickiboykis.com/2011/10/17/a-short-story-about-lazy-jewish-consumer-behavior-and-hbo/" target="_blank">cable last week</a>.  And yesterday, we saw **The Artist**, which is <a href="http://movies.nytimes.com/2011/11/25/movies/the-artist-by-michel-hazanavicius-review.html" target="_blank">the new hotness</a> in cinema because it&#8217;s a silent movie; that is, no voice acting, only the soundtrack.
+A couple weeks ago (12 days and counting), I <a href="http://blog.vickiboykis.com/wlb/2012/01/16/a-glimpse-into-the-edwardian-period/" target="_blank">sent in my brand-new cell phone in for repairs</a>. Since then, I&#8217;ve been unreachable before and after work, and on weekends. At the same time, we cancelled <a href="http://blog.vickiboykis.com/wlb/2011/10/17/a-short-story-about-lazy-jewish-consumer-behavior-and-hbo/" target="_blank">cable last week</a>.  And yesterday, we saw **The Artist**, which is <a href="http://movies.nytimes.com/2011/11/25/movies/the-artist-by-michel-hazanavicius-review.html" target="_blank">the new hotness</a> in cinema because it&#8217;s a silent movie; that is, no voice acting, only the soundtrack.
 
 
 
@@ -33,7 +33,7 @@ For example, here&#8217;s my daily schedule with my cell phone:  wwake up to ce
 
 At work, I use my phone to check my tasks and also listen to music sometimes. After work, I listen to it again for music on the train, also checking Facebook and Twitter and email again. Then I use it to call my mom and other people after work. I go to sleep with it. If it&#8217;s a gym day, I record my workouts on my workout app and also listen to music in the gym on my phone.
 
-I&#8217;m constantly looking for <a href="http://blog.vickiboykis.com/2011/09/26/facebook-anxiety/" target="_blank">that hit:</a> the Facebook comment notification, the email update, the missed call. When I sent it in, all of that was gone.
+I&#8217;m constantly looking for <a href="http://blog.vickiboykis.com/wlb/2011/09/26/facebook-anxiety/" target="_blank">that hit:</a> the Facebook comment notification, the email update, the missed call. When I sent it in, all of that was gone.
 
 It was really disconcerting  for the first couple hours.  However, it wasn&#8217;t necessarily a bad thing:
 

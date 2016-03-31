@@ -4,7 +4,7 @@ title: This is what happens when you Friday Links
 date: 2013-01-18T11:42:25+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=8254
+guid: http://blog.vickiboykis.com/wlb/?p=8254
 permalink: /2013/01/this-is-what-happens-when-you-friday-links/
 categories:
   - fridaylinks

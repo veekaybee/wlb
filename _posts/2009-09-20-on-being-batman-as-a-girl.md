@@ -4,7 +4,7 @@ title: On being Batman as a girl
 date: 2009-09-20T22:15:47+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=1269
+guid: http://blog.vickiboykis.com/wlb/?p=1269
 permalink: /2009/09/on-being-batman-as-a-girl/
 categories:
   - Uncategorized

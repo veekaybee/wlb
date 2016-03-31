@@ -4,7 +4,7 @@ title: A book about why the Middle East is crazy
 date: 2010-08-03T13:35:15+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=3439
+guid: http://blog.vickiboykis.com/wlb/?p=3439
 permalink: /2010/08/a-book-about-why-the-middle-east-is-crazy/
 categories:
   - Uncategorized

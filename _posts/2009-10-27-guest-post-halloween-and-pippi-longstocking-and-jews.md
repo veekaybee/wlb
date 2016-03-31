@@ -4,7 +4,7 @@ title: 'Guest Post: Halloween and Pippi Longstocking&#8230;and Jews'
 date: 2009-10-27T00:13:44+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=1565
+guid: http://blog.vickiboykis.com/wlb/?p=1565
 permalink: /2009/10/guest-post-halloween-and-pippi-longstocking-and-jews/
 categories:
   - Uncategorized

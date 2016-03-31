@@ -4,7 +4,7 @@ title: 'A failure of a Jew: clothes discounts and budgeting'
 date: 2009-04-22T21:47:44+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=281
+guid: http://blog.vickiboykis.com/wlb/?p=281
 permalink: /2009/04/a-failure-of-a-jew-clothes-discounts-and-budgeting/
 categories:
   - economics

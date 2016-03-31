@@ -4,7 +4,7 @@ title: Friday Slacking
 date: 2010-09-17T13:42:41+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=3594
+guid: http://blog.vickiboykis.com/wlb/?p=3594
 permalink: /2010/09/friday-slacking/
 categories:
   - fridaylinks

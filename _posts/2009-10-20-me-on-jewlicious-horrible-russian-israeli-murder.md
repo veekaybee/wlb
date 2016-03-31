@@ -4,7 +4,7 @@ title: 'Me on Jewlicious: Horrible Russian Israeli murder'
 date: 2009-10-20T14:30:11+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=1501
+guid: http://blog.vickiboykis.com/wlb/?p=1501
 permalink: /2009/10/me-on-jewlicious-horrible-russian-israeli-murder/
 categories:
   - Uncategorized

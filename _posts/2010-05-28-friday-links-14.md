@@ -4,7 +4,7 @@ title: Friday Links
 date: 2010-05-28T06:40:52+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=3039
+guid: http://blog.vickiboykis.com/wlb/?p=3039
 permalink: /2010/05/friday-links-14/
 categories:
   - fridaylinks
@@ -22,7 +22,7 @@ From the blogs:
   2. I always love Maya&#8217;s doodles, and [this time](http://mayazankoul.com/2010/05/24/impressions-from-geneva/) it&#8217;s about Geneva
   3.](http://scaryazeri.blogspot.com/2010/05/hello-from-burkastan.html) on burkas
   4. Rima has [a new home](http://www.rimarama.com/)!  Go check it out
-  5. I&#8217;m very proud to know a [person published in Slate](http://www.slate.com/id/2255103/) <img src="http://blog.vickiboykis.com/wp-includes/images/smilies/simple-smile.png" alt=":)" class="wp-smiley" style="height: 1em; max-height: 1em;" />
+  5. I&#8217;m very proud to know a [person published in Slate](http://www.slate.com/id/2255103/) <img src="http://blog.vickiboykis.com/wlb/wp-includes/images/smilies/simple-smile.png" alt=":)" class="wp-smiley" style="height: 1em; max-height: 1em;" />
   6. Neil has [a different take](http://www.citizenofthemonth.com/2010/05/23/figure-skating-fans-of-orange-county/) on Stars on Ice than I did
 
 From the Internet:
@@ -40,7 +40,7 @@ From the Internet:
   2. I always love Maya&#8217;s doodles, and [this time](http://mayazankoul.com/2010/05/24/impressions-from-geneva/) it&#8217;s about Geneva
   3.](http://scaryazeri.blogspot.com/2010/05/hello-from-burkastan.html) on burkas
   4. Rima has [a new home](http://www.rimarama.com/)!  Go check it out
-  5. I&#8217;m very proud to know a [person published in Slate](http://www.slate.com/id/2255103/) <img src="http://blog.vickiboykis.com/wp-includes/images/smilies/simple-smile.png" alt=":)" class="wp-smiley" style="height: 1em; max-height: 1em;" />
+  5. I&#8217;m very proud to know a [person published in Slate](http://www.slate.com/id/2255103/) <img src="http://blog.vickiboykis.com/wlb/wp-includes/images/smilies/simple-smile.png" alt=":)" class="wp-smiley" style="height: 1em; max-height: 1em;" />
   6. Neil has [a different take](http://www.citizenofthemonth.com/2010/05/23/figure-skating-fans-of-orange-county/) on Stars on Ice than I did
 
 From the Internet:
@@ -61,7 +61,7 @@ From the Internet:
   2. I always love Maya&#8217;s doodles, and [this time](http://mayazankoul.com/2010/05/24/impressions-from-geneva/) it&#8217;s about Geneva
   3.](http://scaryazeri.blogspot.com/2010/05/hello-from-burkastan.html) on burkas
   4. Rima has [a new home](http://www.rimarama.com/)!  Go check it out
-  5. I&#8217;m very proud to know a [person published in Slate](http://www.slate.com/id/2255103/) <img src="http://blog.vickiboykis.com/wp-includes/images/smilies/simple-smile.png" alt=":)" class="wp-smiley" style="height: 1em; max-height: 1em;" />
+  5. I&#8217;m very proud to know a [person published in Slate](http://www.slate.com/id/2255103/) <img src="http://blog.vickiboykis.com/wlb/wp-includes/images/smilies/simple-smile.png" alt=":)" class="wp-smiley" style="height: 1em; max-height: 1em;" />
   6. Neil has [a different take](http://www.citizenofthemonth.com/2010/05/23/figure-skating-fans-of-orange-county/) on Stars on Ice than I did
 
 From the Internet:
@@ -79,7 +79,7 @@ From the Internet:
   2. I always love Maya&#8217;s doodles, and [this time](http://mayazankoul.com/2010/05/24/impressions-from-geneva/) it&#8217;s about Geneva
   3.](http://scaryazeri.blogspot.com/2010/05/hello-from-burkastan.html) on burkas
   4. Rima has [a new home](http://www.rimarama.com/)!  Go check it out
-  5. I&#8217;m very proud to know a [person published in Slate](http://www.slate.com/id/2255103/) <img src="http://blog.vickiboykis.com/wp-includes/images/smilies/simple-smile.png" alt=":)" class="wp-smiley" style="height: 1em; max-height: 1em;" />
+  5. I&#8217;m very proud to know a [person published in Slate](http://www.slate.com/id/2255103/) <img src="http://blog.vickiboykis.com/wlb/wp-includes/images/smilies/simple-smile.png" alt=":)" class="wp-smiley" style="height: 1em; max-height: 1em;" />
   6. Neil has [a different take](http://www.citizenofthemonth.com/2010/05/23/figure-skating-fans-of-orange-county/) on Stars on Ice than I did
 
 From the Internet:

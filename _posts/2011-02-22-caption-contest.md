@@ -4,7 +4,7 @@ title: Caption Contest
 date: 2011-02-22T22:28:48+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=4436
+guid: http://blog.vickiboykis.com/wlb/?p=4436
 permalink: /2011/02/caption-contest/
 categories:
   - Uncategorized

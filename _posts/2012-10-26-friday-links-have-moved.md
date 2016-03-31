@@ -4,7 +4,7 @@ title: Friday Links have moved!
 date: 2012-10-26T07:52:35+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=7742
+guid: http://blog.vickiboykis.com/wlb/?p=7742
 permalink: /2012/10/friday-links-have-moved/
 categories:
   - Uncategorized

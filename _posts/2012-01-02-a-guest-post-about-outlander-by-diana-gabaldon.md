@@ -4,7 +4,7 @@ title: A Guest Post about Outlander by Diana Gabaldon
 date: 2012-01-02T21:42:20+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=6115
+guid: http://blog.vickiboykis.com/wlb/?p=6115
 permalink: /2012/01/a-guest-post-about-outlander-by-diana-gabaldon/
 categories:
   - Uncategorized

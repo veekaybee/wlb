@@ -4,7 +4,7 @@ title: The difference between Washington and Philly in two screenshots
 date: 2010-11-29T08:11:41+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=3941
+guid: http://blog.vickiboykis.com/wlb/?p=3941
 permalink: /2010/11/the-difference-between-washington-and-philly-in-two-screenshots/
 categories:
   - Uncategorized

@@ -4,7 +4,7 @@ title: What is it about analyzing 20-somethings?
 date: 2010-08-23T08:32:16+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=3498
+guid: http://blog.vickiboykis.com/wlb/?p=3498
 permalink: /2010/08/what-is-it-about-analyzing-20-somethings/
 categories:
   - Uncategorized

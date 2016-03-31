@@ -4,7 +4,7 @@ title: Friday Links
 date: 2011-07-22T10:28:48+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=5344
+guid: http://blog.vickiboykis.com/wlb/?p=5344
 permalink: /2011/07/friday-links-68/
 categories:
   - fridaylinks
@@ -19,7 +19,7 @@ I took a picture on my way to work today:
 </p>
 
 <p style="text-align: left;">
-  Also, what did we learn this week?  &#8220;<a href="http://blog.vickiboykis.com/2011/07/21/how-loud-can-you-scream-thanks-to-either-nature-or-nurture-i-found-out-yesterday/comment-page-1/#comment-3525" target="_blank">Don&#8217;t be afraid to go for the eyes or the balls</a>&#8220;
+  Also, what did we learn this week?  &#8220;<a href="http://blog.vickiboykis.com/wlb/2011/07/21/how-loud-can-you-scream-thanks-to-either-nature-or-nurture-i-found-out-yesterday/comment-page-1/#comment-3525" target="_blank">Don&#8217;t be afraid to go for the eyes or the balls</a>&#8220;
 </p>
 
 <p style="text-align: left;">

@@ -4,7 +4,7 @@ title: God tested me at the Russian store and I failed
 date: 2012-09-12T08:02:43+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=7329
+guid: http://blog.vickiboykis.com/wlb/?p=7329
 permalink: /2012/09/god-tested-me-at-the-russian-store-and-i-failed/
 categories:
   - Uncategorized
@@ -28,7 +28,7 @@ Taking hipster pictures of obnoxious Russian cars:
   <!--more-->
 </p>
 
-(We remember this one from <a href="http://blog.vickiboykis.com/2010/12/skrug-strikes-again/" target="_blank">SKRUG</a>, yes?):
+(We remember this one from <a href="http://blog.vickiboykis.com/wlb/2010/12/skrug-strikes-again/" target="_blank">SKRUG</a>, yes?):
 
 [<img class="aligncenter size-full wp-image-7526" title="wpid-IMAG0572" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/09/wpid-IMAG0572.jpeg" alt="" width="500" height="300" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/09/wpid-IMAG0572.jpeg)
 
@@ -60,6 +60,6 @@ Unless they are Type A assholes. Who are Russian, but don&#8217;t trust Russian
 
 And afraid for their lives.
 
-I decided I was a _plohaya devochka_ and  wanted to live, and told her apologetically, &#8220;No, I&#8217;m sorry, I can&#8217;t, I&#8217;m running late,&#8221; which was technically true.  Almost.  OK, I wasn&#8217;t late for anything, except <a href="http://blog.vickiboykis.com/2009/09/gods-is-straight-up-messing-with-me/" target="_blank">God&#8217;s vengeance</a>.
+I decided I was a _plohaya devochka_ and  wanted to live, and told her apologetically, &#8220;No, I&#8217;m sorry, I can&#8217;t, I&#8217;m running late,&#8221; which was technically true.  Almost.  OK, I wasn&#8217;t late for anything, except <a href="http://blog.vickiboykis.com/wlb/2009/09/gods-is-straight-up-messing-with-me/" target="_blank">God&#8217;s vengeance</a>.
 
 Because right after I got home, I started making a salad and cut my finger with the knife.

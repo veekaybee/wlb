@@ -4,7 +4,7 @@ title: Pushing to production
 date: 2014-12-15T12:56:44+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=9880
+guid: http://blog.vickiboykis.com/wlb/?p=9880
 permalink: /2014/12/pushing-to-production/
 categories:
   - Uncategorized

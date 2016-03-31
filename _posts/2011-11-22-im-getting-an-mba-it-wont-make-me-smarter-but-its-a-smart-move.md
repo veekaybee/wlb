@@ -4,7 +4,7 @@ title: 'I&#8217;m getting an MBA.  It won&#8217;t make me smarter. But it&#8217;
 date: 2011-11-22T22:27:51+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=5940
+guid: http://blog.vickiboykis.com/wlb/?p=5940
 permalink: /2011/11/im-getting-an-mba-it-wont-make-me-smarter-but-its-a-smart-move/
 categories:
   - Uncategorized
@@ -21,7 +21,7 @@ tags:
 
 &nbsp;
 
-Sooo.  Remember when I was <a href="http://blog.vickiboykis.com/2011/08/30/grad-school-is-hard/" target="_blank">taking and struggling with</a> my my microeconomics class?
+Sooo.  Remember when I was <a href="http://blog.vickiboykis.com/wlb/2011/08/30/grad-school-is-hard/" target="_blank">taking and struggling with</a> my my microeconomics class?
 
 Well, I decided I&#8217;m not doing a master&#8217;s in economics anymore somewhere after class number five, because it is simply too much work in a degree that will not get me where I want to go. And where I want to go is not only <a href="http://www.cio.com.au/article/408319/2012_year_big_data_/" target="_blank">Big Data</a>, where I work now,  but project management, because managing teams is something I am good at and truly enjoy. But also maybe something else tech-related. But also maybe international business. But also maybe a field that doesn&#8217;t exist yet.  So bascially, I want flexibility.
 

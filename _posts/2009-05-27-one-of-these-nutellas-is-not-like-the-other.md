@@ -4,7 +4,7 @@ title: One of these Nutellas is not like the other
 date: 2009-05-27T21:05:10+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=432
+guid: http://blog.vickiboykis.com/wlb/?p=432
 permalink: /2009/05/one-of-these-nutellas-is-not-like-the-other/
 categories:
   - economics

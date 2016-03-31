@@ -4,7 +4,7 @@ title: 'Friday Links: Hebrussian Edition'
 date: 2009-12-11T07:18:43+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=1870
+guid: http://blog.vickiboykis.com/wlb/?p=1870
 permalink: /2009/12/friday-links-hebrussian-edition/
 categories:
   - fridaylinks

@@ -4,7 +4,7 @@ title: Why is Philadelphia so disgusting?
 date: 2012-02-28T12:19:25+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=6486
+guid: http://blog.vickiboykis.com/wlb/?p=6486
 permalink: /2012/02/why-is-philadelphia-so-disgusting/
 categories:
   - Uncategorized
@@ -32,7 +32,7 @@ I ran down the stairs to the metro and suddenly-
 
 Also, I swear I ran by at least four hoboes, three of which tried to ask me for money.  And then there was the train. I JUST made it. Last week I really did have to wait for forty minutes for the next train.
 
-All of this is to say: why is Philadelphia so dirty and gross, in the very heart of the city?   And why are the train schedules so terrible? And why is there <a href="http://blog.vickiboykis.com/2011/04/13/whines-about-commutes-and-the-radio-part-two/" target="_blank">traffic</a>? God, someone please drop an airplane load of Apple engineers on this city to make it more user-friendly.
+All of this is to say: why is Philadelphia so dirty and gross, in the very heart of the city?   And why are the train schedules so terrible? And why is there <a href="http://blog.vickiboykis.com/wlb/2011/04/13/whines-about-commutes-and-the-radio-part-two/" target="_blank">traffic</a>? God, someone please drop an airplane load of Apple engineers on this city to make it more user-friendly.
 
 I understand each city has its bad areas, but Center City is technically supposed to be at least somewhat presentable.  And don&#8217;t tell me it&#8217;s [&#8220;gritty&#8221; and has &#8220;character.&#8221;](http://technicallyphilly.com/2011/02/17/jake-and-amanda-feifer-obrien-call-philadelphia-gritty-challenging-and-home)  Because if I wanted to live a character-building lifestyle <a href="www.vice.com/read/krokodil-tears-v18n9" target="_blank">I would totally be living in Siberia</a>.
 

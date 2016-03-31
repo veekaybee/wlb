@@ -4,7 +4,7 @@ title: Friday with a Side of Links
 date: 2012-03-16T07:57:37+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=6581
+guid: http://blog.vickiboykis.com/wlb/?p=6581
 permalink: /2012/03/friday-with-a-side-of-links/
 categories:
   - Uncategorized

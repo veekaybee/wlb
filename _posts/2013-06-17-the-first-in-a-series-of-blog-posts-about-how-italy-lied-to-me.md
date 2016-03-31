@@ -4,7 +4,7 @@ title: The first in a series of blog posts about how Italy lied to me
 date: 2013-06-17T07:12:30+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=8744
+guid: http://blog.vickiboykis.com/wlb/?p=8744
 permalink: /2013/06/the-first-in-a-series-of-blog-posts-about-how-italy-lied-to-me/
 categories:
   - identity

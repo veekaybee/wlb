@@ -4,7 +4,7 @@ title: I Almost Died for a $250 Discount on an IKEA Chair
 date: 2011-06-29T06:42:04+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=5193
+guid: http://blog.vickiboykis.com/wlb/?p=5193
 permalink: /2011/06/i-almost-died-for-a-250-discount-on-an-ikea-chair/
 categories:
   - Uncategorized
@@ -16,7 +16,7 @@ tags:
   - philly
   - poang
 ---
-Life has been a little boring around Philadelphia. I mean, sure we have a new house, new car and I&#8217;m starting grad school in the fall, but there hasn&#8217;t been anything REALLY exciting happening <a href="http://blog.vickiboykis.com/2009/07/12/the-victorian-error-lite-jazz/" target="_blank">like there </a> <a href="http://blog.vickiboykis.com/2010/02/04/the-snowpocalypse-rains-down-calamity-and-soviet-russia-on-dc/" target="_blank">was in DC</a>.  So I decided to spice things up a little. Because, is life really worth living if you don&#8217;t appreciate the thin line between life and death?
+Life has been a little boring around Philadelphia. I mean, sure we have a new house, new car and I&#8217;m starting grad school in the fall, but there hasn&#8217;t been anything REALLY exciting happening <a href="http://blog.vickiboykis.com/wlb/2009/07/12/the-victorian-error-lite-jazz/" target="_blank">like there </a> <a href="http://blog.vickiboykis.com/wlb/2010/02/04/the-snowpocalypse-rains-down-calamity-and-soviet-russia-on-dc/" target="_blank">was in DC</a>.  So I decided to spice things up a little. Because, is life really worth living if you don&#8217;t appreciate the thin line between life and death?
 
 You guys remember my <a href="http://www.ikea.com/us/en/catalog/categories/series/07472/" target="_blank">POANG chair</a>, right?
 
@@ -26,7 +26,7 @@ Here it is:
 
 And, as you can tell, it doesn&#8217;t really match anything in the living room and now that I think about it, my bear is kind of creepy, too. So my biggest first world problem last week was to find a matching leather chair to balance out the other two leather chairs that we have. Remember, <a href="http://news.yahoo.com/russia-orders-stalin-era-leather-coats-putin-guards-164228118.html" target="_blank">Russians love leather</a>.
 
-Mr. B and I went to IKEA, where we saw that the <a href="http://www.ikea.com/us/en/catalog/products/S49829140#/S89825079/" target="_blank">POANG chair was available in leather</a>.  However, it costs $200 and the footstool is another $100. And you <a href="http://blog.vickiboykis.com/2011/04/04/manicures-for-cheap-jewish-werewolves-and-other-ethnic-minorities/" target="_blank">know me</a>.  There&#8217;s no way I&#8217;m shelling out $300, especially at IKEA where I expect to have to reassemble the chair at least five times a month using an allen wrench and some of my own minor bones because the screws they include don&#8217;t fit by a couple of inches.
+Mr. B and I went to IKEA, where we saw that the <a href="http://www.ikea.com/us/en/catalog/products/S49829140#/S89825079/" target="_blank">POANG chair was available in leather</a>.  However, it costs $200 and the footstool is another $100. And you <a href="http://blog.vickiboykis.com/wlb/2011/04/04/manicures-for-cheap-jewish-werewolves-and-other-ethnic-minorities/" target="_blank">know me</a>.  There&#8217;s no way I&#8217;m shelling out $300, especially at IKEA where I expect to have to reassemble the chair at least five times a month using an allen wrench and some of my own minor bones because the screws they include don&#8217;t fit by a couple of inches.
 
 So you can imagine my excitement when I saw the POANG leather chair PLUS tuffet on Craigslist for $50.  The photo looked ok and the ad mentioned that the bottom was a little scuffed up, so I was trying to figure out what the catch was.   And then I saw.
 
@@ -52,7 +52,7 @@ Which doesn&#8217;t look too bad, right? I mean, kind of sketchy, but not sketch
 
 With that vote of confidence, I emailed the seller and said I&#8217;d be picking up the chair.  Note that I did this during the daytime (I left work a little early that day, which is why Mr. B couldn&#8217;t come along.)
 
-So, here I am, female, young, in a <a href="http://blog.vickiboykis.com/2011/05/24/losing-erica/" target="_blank">brand-new car</a>, alone,  headed to <a href="http://www.yelp.com/topic/philadelphia-why-are-people-afraid-of-west-philly" target="_blank">West Philadelphia</a>, which some people who love the area describe as
+So, here I am, female, young, in a <a href="http://blog.vickiboykis.com/wlb/2011/05/24/losing-erica/" target="_blank">brand-new car</a>, alone,  headed to <a href="http://www.yelp.com/topic/philadelphia-why-are-people-afraid-of-west-philly" target="_blank">West Philadelphia</a>, which some people who love the area describe as
 
 > &#8220;block-by-block. My street was wonderful. But, a few blocks over, where my cousin lived, there were plenty of boarded up drug houses packed with squatters.&#8221;
 

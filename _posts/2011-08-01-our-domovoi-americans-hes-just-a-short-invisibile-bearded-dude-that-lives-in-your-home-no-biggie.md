@@ -4,7 +4,7 @@ title: 'Our Domovoi. Americans: He&#8217;s just a short invisibile bearded dude 
 date: 2011-08-01T11:19:24+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=5375
+guid: http://blog.vickiboykis.com/wlb/?p=5375
 permalink: /2011/08/our-domovoi-americans-hes-just-a-short-invisibile-bearded-dude-that-lives-in-your-home-no-biggie/
 categories:
   - Uncategorized
@@ -25,7 +25,7 @@ When I was growing up, we had a <a href="http://en.wikipedia.org/wiki/Domovoi" t
 
 &nbsp;
 
-You keep him happy by keeping an organized, clean, and drama-free home, so between my neuroticism, my dad&#8217;s <a href="http://blog.vickiboykis.com/2011/03/23/the-world-is-going-crazy-so-hopefully-reading-about-my-radon-problems-will-cheer-you-up/" target="_blank">hypochondria, </a>and my mom&#8217;s deep commitment to being a Jewish Lion Mom (tigers aren&#8217;t kosher,)  I don&#8217;t think ours was thrilled. When he does get angry, he does mischevous things like hide laundry, money, and keys. If you lose something, that means &#8220;domovoi ukral,&#8221; the domovoi stole it.  Will he return it?   Stay tuned! Sometimes he can also trip you up or cause things to fall on their own accord.  When he&#8217;s happy, he makes your garden grow, the people in your household healthy, and your home home-y.
+You keep him happy by keeping an organized, clean, and drama-free home, so between my neuroticism, my dad&#8217;s <a href="http://blog.vickiboykis.com/wlb/2011/03/23/the-world-is-going-crazy-so-hopefully-reading-about-my-radon-problems-will-cheer-you-up/" target="_blank">hypochondria, </a>and my mom&#8217;s deep commitment to being a Jewish Lion Mom (tigers aren&#8217;t kosher,)  I don&#8217;t think ours was thrilled. When he does get angry, he does mischevous things like hide laundry, money, and keys. If you lose something, that means &#8220;domovoi ukral,&#8221; the domovoi stole it.  Will he return it?   Stay tuned! Sometimes he can also trip you up or cause things to fall on their own accord.  When he&#8217;s happy, he makes your garden grow, the people in your household healthy, and your home home-y.
 
 Our house doesn&#8217;t feel homey yet, and I think it&#8217;s because we don&#8217;t have a domovoi.  We didn&#8217;t lure him over the right way, which, according to <a href="http://themagicalbuffet.com/blog1/2006/10/31/mommys-little-helper-the-domovoi/" target="_blank">this totally scientific guide is to</a>,
 

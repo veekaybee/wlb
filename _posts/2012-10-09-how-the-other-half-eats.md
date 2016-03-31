@@ -4,7 +4,7 @@ title: How the other half eats
 date: 2012-10-09T08:12:45+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=7646
+guid: http://blog.vickiboykis.com/wlb/?p=7646
 permalink: /2012/10/how-the-other-half-eats/
 categories:
   - Uncategorized
@@ -24,21 +24,21 @@ tags:
 
 Mr. B and I have this tradition where we go to super-nice restaurants for our anniversary because we like to pretend we&#8217;re classy.
 
-Last year, we had an amazing dinner at <a href="http://www.nytimes.com/2011/09/21/dining/after-a-killing-michael-solomonov-turns-to-israeli-food.html?pagewanted=all" target="_blank">Zahav</a> before <a href="http://blog.vickiboykis.com/2011/10/steve-jobs-and-the-art-of-immortality/" target="_blank">we learned that Steve Jobs died</a>, bringing our evening to a predictably Russian close of moroseness and regret.
+Last year, we had an amazing dinner at <a href="http://www.nytimes.com/2011/09/21/dining/after-a-killing-michael-solomonov-turns-to-israeli-food.html?pagewanted=all" target="_blank">Zahav</a> before <a href="http://blog.vickiboykis.com/wlb/2011/10/steve-jobs-and-the-art-of-immortality/" target="_blank">we learned that Steve Jobs died</a>, bringing our evening to a predictably Russian close of moroseness and regret.
 
 This year, we decided to go to <a href="http://www.vetriristorante.com/" target="_blank">Vetri</a>, which is a <a href="http://picturefood.files.wordpress.com/2011/03/vetri110.jpg?w=1024" target="_blank">super-cute</a> place  billed as &#8220;possibly the best Italian restaurant on the East Coast.&#8221; Whoever wrote that tagline should put an asterisk in there. *for normal people.
 
 <!--more-->
 
-Because, as you know, <a href="http://blog.vickiboykis.com/2012/08/my-first-and-last-massage/" target="_blank">my neuroticism is why</a> we can&#8217;t have nice things.
+Because, as you know, <a href="http://blog.vickiboykis.com/wlb/2012/08/my-first-and-last-massage/" target="_blank">my neuroticism is why</a> we can&#8217;t have nice things.
 
 I&#8217;d been battling a sinus infection all week, and my Eustachian tubes were miserable, meaning I could only hear as if I were swimming through soup. I&#8217;d even been to the doctor already and she told me there was nothing I could do in the short term but wait the sinus infection out. In the long term, she could give me nose steroids.
 
-However, I&#8217;d been looking forward to this meal for over a week and NOTHING WAS GOING TO STOP ME. Not a cold, not the suggestion that I take roids to clear up my sinuses, not <a href="http://blog.vickiboykis.com/2011/08/ways-that-i-did-not-want-to-experience-adventure-in-my-life/" target="_blank">an earthquake</a>.  Also, if you cancel less than 48 hours in advance, you have to pay the restaurant $155. So, nothing was going to stop me.
+However, I&#8217;d been looking forward to this meal for over a week and NOTHING WAS GOING TO STOP ME. Not a cold, not the suggestion that I take roids to clear up my sinuses, not <a href="http://blog.vickiboykis.com/wlb/2011/08/ways-that-i-did-not-want-to-experience-adventure-in-my-life/" target="_blank">an earthquake</a>.  Also, if you cancel less than 48 hours in advance, you have to pay the restaurant $155. So, nothing was going to stop me.
 
 &#8220;What if I can&#8217;t taste the food,&#8221; I asked Mr. B, concerned. &#8220;Will they give me a discount?&#8221;
 
-I started the night determining to really seize it, despite the fact that I could only marginally hear and smell anything going on around me.  We made our way over to Vetri. I had brought other, more restaurant-appropriate shoes. &#8220;Hold it,&#8221; I said to Mr. B, and took off my shoes in the middle of the sidewalk, pulling the heels out of my $20, scuffed <a href="http://blog.vickiboykis.com/2011/02/why-does-every-russian-woman-shop-at-tj-maxx/" target="_blank">TJ Maxx-purchased</a> purse.
+I started the night determining to really seize it, despite the fact that I could only marginally hear and smell anything going on around me.  We made our way over to Vetri. I had brought other, more restaurant-appropriate shoes. &#8220;Hold it,&#8221; I said to Mr. B, and took off my shoes in the middle of the sidewalk, pulling the heels out of my $20, scuffed <a href="http://blog.vickiboykis.com/wlb/2011/02/why-does-every-russian-woman-shop-at-tj-maxx/" target="_blank">TJ Maxx-purchased</a> purse.
 
 The evening was off to a classy start.
 
@@ -60,7 +60,7 @@ The plan: (yes, that&#8217;s a piece of chocolate on it that I put there.)
 
 &#8220;You do for $155 per person,&#8221;  Mr. B said, in what was to become is mantra for the night.
 
-A couple years ago, we watched <a href="http://blog.vickiboykis.com/2009/02/movie-review-waltz-with-bashir-%D7%95%D7%90%D7%9C%D7%A1-%D7%A2%D7%9D-%D7%91%D7%A9%D7%99%D7%A8/" target="_blank">this Israeli movie</a> about the Lebanese war of &#8217;82 where some Israeli soldiers coped with the stress by pretending they were really a photographer and removing themselves from the action.  It seemed the same was happening to Mr. B.
+A couple years ago, we watched <a href="http://blog.vickiboykis.com/wlb/2009/02/movie-review-waltz-with-bashir-%D7%95%D7%90%D7%9C%D7%A1-%D7%A2%D7%9D-%D7%91%D7%A9%D7%99%D7%A8/" target="_blank">this Israeli movie</a> about the Lebanese war of &#8217;82 where some Israeli soldiers coped with the stress by pretending they were really a photographer and removing themselves from the action.  It seemed the same was happening to Mr. B.
 
 Already feeling out of place because everyone else was in evening jackets and probably Dolce, we observed as a group of well-heeled lawyers or businessmen sat down at a table next to ours. Dressed to the nines, they called the waitress over with an ease I could never muster up and started ordering liquor.  I strained to hear them through my soup.
 

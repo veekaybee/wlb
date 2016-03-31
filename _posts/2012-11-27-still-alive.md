@@ -4,7 +4,7 @@ title: Still alive.
 date: 2012-11-27T21:24:33+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=7876
+guid: http://blog.vickiboykis.com/wlb/?p=7876
 permalink: /2012/11/still-alive/
 categories:
   - Uncategorized
@@ -13,7 +13,7 @@ tags:
   - instagram
   - Twitter
 ---
-Just busy.  End of semester, stuff at work, Thanksgiving, etc.  Too busy to concentrate on longform blogging.  And novel writing <img src="http://blog.vickiboykis.com/wp-includes/images/smilies/frownie.png" alt=":(" class="wp-smiley" style="height: 1em; max-height: 1em;" />
+Just busy.  End of semester, stuff at work, Thanksgiving, etc.  Too busy to concentrate on longform blogging.  And novel writing <img src="http://blog.vickiboykis.com/wlb/wp-includes/images/smilies/frownie.png" alt=":(" class="wp-smiley" style="height: 1em; max-height: 1em;" />
 
 But I&#8217;ve been on <a href="http://www.amazon.com/Red-Hot-Fate-Soviet-Union/dp/0879101806/ref=wl_it_dp_o_pdT1_nS_nC?ie=UTF8&colid=19ENE4YJT96ZW&coliid=ITQY8A4IPU6NY" target="_blank">Facebook</a>. And <a href="http://twitter.com/vboykis" target="_blank">Twitter</a>. And <a href="http://instagram.com/veekaybee" target="_blank">Instagram</a>.
 

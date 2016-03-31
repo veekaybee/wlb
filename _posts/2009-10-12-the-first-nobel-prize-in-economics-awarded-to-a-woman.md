@@ -4,7 +4,7 @@ title: The First Nobel Prize in Economics Awarded to a Woman
 date: 2009-10-12T21:41:03+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=1426
+guid: http://blog.vickiboykis.com/wlb/?p=1426
 permalink: /2009/10/the-first-nobel-prize-in-economics-awarded-to-a-woman/
 categories:
   - Uncategorized
@@ -28,7 +28,7 @@ Ostrom won for her work with [common-pool resources](http://en.wikipedia.org/wik
 
 Despite her work in this field, a problem economists commonly deal with (resource constraints), she is not at all an economist, but got her PhD in Political Science.  This confirms my belief that it is now easier than ever to transition between disciplines in the workplace, with the exception of hard-boiled sciences, which is totally a relief, because what if I want to become a political scientists someday?  Studies have been saying as much for the past twenty years ([read this PDF](www.neilrudenstine.harvard.edu/pdfs/changing.pdf), and see, alarmingly , how similar the world environment is today), and [even more recently](http://findarticles.com/p/articles/mi_qn4182/is_20000511/ai_n10137709/).
 
-This is great news. Career flexibility is of utmost importance to my generation, and I used to think this was pretty much crap, until I decided I liked options.  What if I want to, at some point, go into marketing?  Or finance?  Or even owning my own dog paint studio (a girl can dream, can&#8217;t she?) Or becoming a [stay-at-home-overnight-success-economics-novelist](http://blog.vickiboykis.com/2009/10/11/my-unborn-novel-is-annoying-me-nanowrimo/)?  I can do any of those things, as long as I use my previous experience to spin my qualifications the right way, as the Nobel Committee did to Ostrom.  What&#8217;s even more exciting is how many possibilities the field of economics has, leading me to believe that I picked the right major all along, because there are so many different directions I can go in Economics.
+This is great news. Career flexibility is of utmost importance to my generation, and I used to think this was pretty much crap, until I decided I liked options.  What if I want to, at some point, go into marketing?  Or finance?  Or even owning my own dog paint studio (a girl can dream, can&#8217;t she?) Or becoming a [stay-at-home-overnight-success-economics-novelist](http://blog.vickiboykis.com/wlb/2009/10/11/my-unborn-novel-is-annoying-me-nanowrimo/)?  I can do any of those things, as long as I use my previous experience to spin my qualifications the right way, as the Nobel Committee did to Ostrom.  What&#8217;s even more exciting is how many possibilities the field of economics has, leading me to believe that I picked the right major all along, because there are so many different directions I can go in Economics.
 
 It&#8217;s always had a deep overlap with politics, with [game theory](http://en.wikipedia.org/wiki/Game_theory), but now economics overlaps even with things like neuroscience (although the connection is pretty tenuous right now.)
 

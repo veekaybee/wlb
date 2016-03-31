@@ -4,7 +4,7 @@ title: 'Guest Post: Backhanded Compliments'
 date: 2009-09-02T00:00:57+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=1148
+guid: http://blog.vickiboykis.com/wlb/?p=1148
 permalink: /2009/09/guest-post-backhanded-compliments/
 categories:
   - Uncategorized

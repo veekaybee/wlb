@@ -4,7 +4,7 @@ title: Footnote, Late Marriage, and Indie Movie Theaters
 date: 2012-05-21T08:31:42+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=6910
+guid: http://blog.vickiboykis.com/wlb/?p=6910
 permalink: /2012/05/footnote-late-marriage-and-indie-movie-theaters/
 categories:
   - Uncategorized

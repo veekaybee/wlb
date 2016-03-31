@@ -4,7 +4,7 @@ title: Babushkas and Britney Spears
 date: 2009-07-10T15:26:27+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=706
+guid: http://blog.vickiboykis.com/wlb/?p=706
 permalink: /2009/07/babushkas-and-britney-spears/
 categories:
   - Russia

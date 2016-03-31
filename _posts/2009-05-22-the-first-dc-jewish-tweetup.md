@@ -4,7 +4,7 @@ title: The First DC Jewish Tweetup!
 date: 2009-05-22T06:21:00+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=388
+guid: http://blog.vickiboykis.com/wlb/?p=388
 permalink: /2009/05/the-first-dc-jewish-tweetup/
 categories:
   - Jewish

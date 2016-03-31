@@ -4,7 +4,7 @@ title: 'Indian Classical Dance: Bharatan-what??'
 date: 2009-09-14T19:20:45+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=1239
+guid: http://blog.vickiboykis.com/wlb/?p=1239
 permalink: /2009/09/indian-classical-dance-bharatan-what/
 categories:
   - Uncategorized

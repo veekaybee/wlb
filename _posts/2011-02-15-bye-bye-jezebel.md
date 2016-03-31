@@ -4,7 +4,7 @@ title: Bye-Bye, Jezebel
 date: 2011-02-15T14:59:51+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=4362
+guid: http://blog.vickiboykis.com/wlb/?p=4362
 permalink: /2011/02/bye-bye-jezebel/
 categories:
   - Uncategorized

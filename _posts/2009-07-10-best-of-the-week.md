@@ -4,7 +4,7 @@ title: Best of the Week
 date: 2009-07-10T22:42:11+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=709
+guid: http://blog.vickiboykis.com/wlb/?p=709
 permalink: /2009/07/best-of-the-week/
 categories:
   - Uncategorized
@@ -39,4 +39,4 @@ Here&#8217;s some stuff I read this week but didn&#8217;t get around to posting 
   
 4.  Negev Rock City on the](http://negevrockcity.com/post/139050869/on-the-hebrew-arabic-learning-curve) 5.  The Dacha: [Russia&#8217;s Retreat, Soul Saver](http://www.jamestown.org/programs/edm/single/?tx_ttnews[tt_news]=35248&cHash=44d18fb209) and Key Food Supplier
 
-### _If you even LOL&#8217;ed a little at the content here, consider subscribing to my [RSS Feed](http://blog.vickiboykis.com/?feed=rss2)._
+### _If you even LOL&#8217;ed a little at the content here, consider subscribing to my [RSS Feed](http://blog.vickiboykis.com/wlb/?feed=rss2)._

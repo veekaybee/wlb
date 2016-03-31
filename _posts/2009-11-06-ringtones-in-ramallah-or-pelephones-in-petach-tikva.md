@@ -4,7 +4,7 @@ title: Ringtones in Ramallah or Pelephones in Petach Tikva
 date: 2009-11-06T06:47:08+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=1629
+guid: http://blog.vickiboykis.com/wlb/?p=1629
 permalink: /2009/11/ringtones-in-ramallah-or-pelephones-in-petach-tikva/
 categories:
   - Uncategorized

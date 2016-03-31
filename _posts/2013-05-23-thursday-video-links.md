@@ -4,7 +4,7 @@ title: Thursday Video Links
 date: 2013-05-23T13:25:15+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=8728
+guid: http://blog.vickiboykis.com/wlb/?p=8728
 permalink: /2013/05/thursday-video-links/
 categories:
   - fridaylinks

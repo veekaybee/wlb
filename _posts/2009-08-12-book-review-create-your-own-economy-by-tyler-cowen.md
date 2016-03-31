@@ -4,7 +4,7 @@ title: 'Book Review: Create Your Own Economy by Tyler Cowen'
 date: 2009-08-12T19:52:30+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=843
+guid: http://blog.vickiboykis.com/wlb/?p=843
 permalink: /2009/08/book-review-create-your-own-economy-by-tyler-cowen/
 categories:
   - Uncategorized

@@ -4,7 +4,7 @@ title: 'What&#8217;s worse than being cold?  Being cold in Canada.'
 date: 2010-02-01T20:00:27+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=2257
+guid: http://blog.vickiboykis.com/wlb/?p=2257
 permalink: /2010/02/whats-worse-than-being-cold-being-cold-in-canada/
 categories:
   - Uncategorized

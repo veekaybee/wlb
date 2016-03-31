@@ -4,7 +4,7 @@ title: Boy, European movies sure are depressing
 date: 2013-10-22T22:36:23+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=9125
+guid: http://blog.vickiboykis.com/wlb/?p=9125
 permalink: /2013/10/boy-european-movies-sure-are-depressing/
 categories:
   - Uncategorized
@@ -77,7 +77,7 @@ And then,  after two weeks like this in limbo, their nerves strung out with lov
 
 [<img class="aligncenter size-medium wp-image-9208" alt="1_girasoles" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/10/1_girasoles-580x327.jpg" width="580" height="327" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/10/1_girasoles.jpg)
 
-And then the Eastern Front. Jesus Christ.  I mean, I know I&#8217;m <a href="http://blog.vickiboykis.com/2012/05/mr-b-and-i-are-prepared-for-anything-anything-being-either-pogroms-or-the-siege-of-leningrad/" target="_blank">ready to do Stalingrad</a>, but not like this.
+And then the Eastern Front. Jesus Christ.  I mean, I know I&#8217;m <a href="http://blog.vickiboykis.com/wlb/2012/05/mr-b-and-i-are-prepared-for-anything-anything-being-either-pogroms-or-the-siege-of-leningrad/" target="_blank">ready to do Stalingrad</a>, but not like this.
 
 [<img class="aligncenter size-medium wp-image-9209" alt="girasoli_sophia_loren_vittorio_de_sica_008_jpg_sqqq" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/10/girasoli_sophia_loren_vittorio_de_sica_008_jpg_sqqq-580x386.jpg" width="580" height="386" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/10/girasoli_sophia_loren_vittorio_de_sica_008_jpg_sqqq.jpg)
 

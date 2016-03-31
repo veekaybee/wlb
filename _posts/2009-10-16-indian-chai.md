@@ -4,7 +4,7 @@ title: Bhuvan and Gauri
 date: 2009-10-16T21:04:04+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=1459
+guid: http://blog.vickiboykis.com/wlb/?p=1459
 permalink: /2009/10/indian-chai/
 categories:
   - Uncategorized

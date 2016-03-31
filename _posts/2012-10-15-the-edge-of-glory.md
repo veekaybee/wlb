@@ -4,7 +4,7 @@ title: The edge of glory
 date: 2012-10-15T07:53:36+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=7666
+guid: http://blog.vickiboykis.com/wlb/?p=7666
 permalink: /2012/10/the-edge-of-glory/
 categories:
   - Uncategorized

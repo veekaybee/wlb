@@ -4,7 +4,7 @@ title: 'How to get me to give you money. It&#8217;s not by sending me your stupi
 date: 2010-05-19T05:59:39+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=2964
+guid: http://blog.vickiboykis.com/wlb/?p=2964
 permalink: /2010/05/how-to-get-me-to-give-you-money-its-not-by-sending-me-your-stupid-donation-email/
 categories:
   - Uncategorized

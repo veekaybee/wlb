@@ -4,7 +4,7 @@ title: Pictures from Yaroslavl
 date: 2009-11-04T23:02:13+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=1622
+guid: http://blog.vickiboykis.com/wlb/?p=1622
 permalink: /2009/11/pictures-from-yaroslavl/
 categories:
   - Uncategorized

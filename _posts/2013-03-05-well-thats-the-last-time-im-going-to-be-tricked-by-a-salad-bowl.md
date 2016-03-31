@@ -4,7 +4,7 @@ title: 'Well, that&#8217;s the last time I&#8217;m going to be tricked by a sala
 date: 2013-03-05T08:12:41+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=8433
+guid: http://blog.vickiboykis.com/wlb/?p=8433
 permalink: /2013/03/well-thats-the-last-time-im-going-to-be-tricked-by-a-salad-bowl/
 categories:
   - Uncategorized
@@ -17,13 +17,13 @@ tags:
   - "one king's lane"
   - pinterest
 ---
-As you may be aware, I like <a href="http://blog.vickiboykis.com/2012/07/things-my-husband-will-not-let-my-buy-on-etsy/" target="_blank">to buy shit online</a>.Especially for the house.
+As you may be aware, I like <a href="http://blog.vickiboykis.com/wlb/2012/07/things-my-husband-will-not-let-my-buy-on-etsy/" target="_blank">to buy shit online</a>.Especially for the house.
 
 [<img class="aligncenter size-full wp-image-8443" alt="Screen shot 2013-03-05 at 8.05.31 AM" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/03/Screen-shot-2013-03-05-at-8.05.31-AM.png" width="522" height="385" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/03/Screen-shot-2013-03-05-at-8.05.31-AM.png)
 
 &nbsp;
 
-There is nothing more exciting than buying shit online, except buying shit online that you&#8217;re psychologically motivated into buying by the combination of never-ending innovation of American consumerist practices and <a href="http://blog.vickiboykis.com/2012/12/pinteresting/" target="_blank">Pinterest</a>.
+There is nothing more exciting than buying shit online, except buying shit online that you&#8217;re psychologically motivated into buying by the combination of never-ending innovation of American consumerist practices and <a href="http://blog.vickiboykis.com/wlb/2012/12/pinteresting/" target="_blank">Pinterest</a>.
 
 <!--more-->
 

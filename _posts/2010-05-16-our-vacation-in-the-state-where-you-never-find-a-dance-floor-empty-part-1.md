@@ -4,7 +4,7 @@ title: 'Our Vacation in the State Where You Never Find a Dance Floor Empty: Part
 date: 2010-05-16T19:16:26+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=2913
+guid: http://blog.vickiboykis.com/wlb/?p=2913
 permalink: /2010/05/our-vacation-in-the-state-where-you-never-find-a-dance-floor-empty-part-1/
 categories:
   - Uncategorized
@@ -24,7 +24,7 @@ tags:
 >   </p></blockquote> 
 >   
 >   <p>
->     Having failed a<a href="http://blog.vickiboykis.com/2010/03/15/whoever-said-life-is-about-adventure-and-risk-taking-never-had-typhoid-shots/">t figuring out a good time to go to India</a>, because, as <a href="http://shefaly-yogendra.com/">Shefaly</a> pointed out to me, only dogs and Englishmen go out in 115 degree Fahrenheit summer <a href="http://www.weather.com/outlook/travel/businesstraveler/tenday/INXX0096?from=36hr_topnav_business">Delhi heat</a>, Mr. B and I downgraded to California because I&#8217;ve only ever been to San Diego and Palm Springs, and that was when I was fifteen and more concerned about finishing my AP summer English reading assignments than enjoying the Golden State.  Come to think of it, I don&#8217;t remember a single day from the ages of 10-21 when I wasn&#8217;t worried about having something due the next day.   <a href="http://books.google.com/books?hl=en&lr=&id=a05uTxwIC4EC&oi=fnd&pg=PA331&dq=immigrant+parents+homework&ots=PnDYYp4LNj&sig=Q08FlXZCV7gnlyh5-GfGskcym3w#v=onepage&q=immigrant%20parents%20homework&f=false">My parents scared me good</a>.
+>     Having failed a<a href="http://blog.vickiboykis.com/wlb/2010/03/15/whoever-said-life-is-about-adventure-and-risk-taking-never-had-typhoid-shots/">t figuring out a good time to go to India</a>, because, as <a href="http://shefaly-yogendra.com/">Shefaly</a> pointed out to me, only dogs and Englishmen go out in 115 degree Fahrenheit summer <a href="http://www.weather.com/outlook/travel/businesstraveler/tenday/INXX0096?from=36hr_topnav_business">Delhi heat</a>, Mr. B and I downgraded to California because I&#8217;ve only ever been to San Diego and Palm Springs, and that was when I was fifteen and more concerned about finishing my AP summer English reading assignments than enjoying the Golden State.  Come to think of it, I don&#8217;t remember a single day from the ages of 10-21 when I wasn&#8217;t worried about having something due the next day.   <a href="http://books.google.com/books?hl=en&lr=&id=a05uTxwIC4EC&oi=fnd&pg=PA331&dq=immigrant+parents+homework&ots=PnDYYp4LNj&sig=Q08FlXZCV7gnlyh5-GfGskcym3w#v=onepage&q=immigrant%20parents%20homework&f=false">My parents scared me good</a>.
 >   </p>
 >   
 >   <p style="text-align: center;">

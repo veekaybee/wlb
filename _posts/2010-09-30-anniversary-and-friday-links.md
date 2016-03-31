@@ -4,7 +4,7 @@ title: Anniversary and Friday Links
 date: 2010-09-30T20:16:36+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=3674
+guid: http://blog.vickiboykis.com/wlb/?p=3674
 permalink: /2010/09/anniversary-and-friday-links/
 categories:
   - fridaylinks

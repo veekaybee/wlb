@@ -4,7 +4,7 @@ title: How a Book Cover Gets Made
 date: 2012-04-13T07:58:31+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=6668
+guid: http://blog.vickiboykis.com/wlb/?p=6668
 permalink: /2012/04/how-a-book-cover-gets-made/
 categories:
   - Uncategorized

@@ -4,7 +4,7 @@ title: Manicures for Cheap Jewish Werewolves and Other Ethnic Minorities
 date: 2011-04-04T08:25:21+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=4722
+guid: http://blog.vickiboykis.com/wlb/?p=4722
 permalink: /2011/04/manicures-for-cheap-jewish-werewolves-and-other-ethnic-minorities/
 categories:
   - Uncategorized
@@ -28,7 +28,7 @@ Last weekend, I decided I needed a manicure, mostly because I was terrified of m
 
 I can&#8217;t do my own manicures because I am TERRIBLE with beauty products. I have no idea what the difference between an emory board and blush is, I don&#8217;t wear makeup on a day-to-day basis, and I&#8217;m scared of the makeup counter at department stores because they always look at me like I&#8217;m a charity case. However, I&#8217;ve learned all about [Sephora](http://en.wikipedia.org/wiki/Sephora) so that I can discuss makeup with other girls without seeming like a leper (&#8220;Did you know they have THE BEST foundation???&#8221;)
 
-The fact that I can&#8217;t do manicures and the fact that I needed one was a terrible Sophie&#8217;s Choice for me because getting a manicure means spending money, which goes against [everything](http://blog.vickiboykis.com/2011/03/28/how-much-does-it-take-to-plan-a-vacation-two-jewish-moms-and-three-months/) [Last weekend, I decided I needed a manicure, mostly because I was terrified of my hands:
+The fact that I can&#8217;t do manicures and the fact that I needed one was a terrible Sophie&#8217;s Choice for me because getting a manicure means spending money, which goes against [everything](http://blog.vickiboykis.com/wlb/2011/03/28/how-much-does-it-take-to-plan-a-vacation-two-jewish-moms-and-three-months/) [Last weekend, I decided I needed a manicure, mostly because I was terrified of my hands:
 
 <p style="text-align: center;">
   <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/04/Werewolf_Claw.jpg"><img class="size-full wp-image-4726  aligncenter" title="Werewolf_Claw" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/04/Werewolf_Claw.jpg" alt="" width="120" height="123" /></a>
@@ -36,7 +36,7 @@ The fact that I can&#8217;t do manicures and the fact that I needed one was a te
 
 I can&#8217;t do my own manicures because I am TERRIBLE with beauty products. I have no idea what the difference between an emory board and blush is, I don&#8217;t wear makeup on a day-to-day basis, and I&#8217;m scared of the makeup counter at department stores because they always look at me like I&#8217;m a charity case. However, I&#8217;ve learned all about [Sephora](http://en.wikipedia.org/wiki/Sephora) so that I can discuss makeup with other girls without seeming like a leper (&#8220;Did you know they have THE BEST foundation???&#8221;)
 
-The fact that I can&#8217;t do manicures and the fact that I needed one was a terrible Sophie&#8217;s Choice for me because getting a manicure means spending money, which goes against [everything](http://blog.vickiboykis.com/2011/03/28/how-much-does-it-take-to-plan-a-vacation-two-jewish-moms-and-three-months/)](http://blog.vickiboykis.com/2011/02/07/why-does-every-russian-woman-shop-at-tj-maxx/) [been](http://blog.vickiboykis.com/2010/02/10/the-history-of-tipping-in-the-boykis-household/) [taught](http://blog.vickiboykis.com/2010/09/01/a-heel-dilemma/).
+The fact that I can&#8217;t do manicures and the fact that I needed one was a terrible Sophie&#8217;s Choice for me because getting a manicure means spending money, which goes against [everything](http://blog.vickiboykis.com/wlb/2011/03/28/how-much-does-it-take-to-plan-a-vacation-two-jewish-moms-and-three-months/)](http://blog.vickiboykis.com/wlb/2011/02/07/why-does-every-russian-woman-shop-at-tj-maxx/) [been](http://blog.vickiboykis.com/wlb/2010/02/10/the-history-of-tipping-in-the-boykis-household/) [taught](http://blog.vickiboykis.com/wlb/2010/09/01/a-heel-dilemma/).
 
 So I went to a Chinese place that just opened not far away. My manicure cost just $10 US, which is good. However, I  was the only person there, and I felt a little like [when Babu opened a Pakistani restaurant](http://en.wikipedia.org/wiki/The_Cafe_(Seinfeld)) in Seinfeld and Seinfeld felt horrible that Babu was getting all this stuff ready for him.  My manicurist did not speak English and her husband had to translate, and their poor son was there, climbing the walls from boredom and talking to his aunt in Mandarin.  I didn&#8217;t feel so bad for him because I saw an immigrant novel in the making. (&#8220;It was then, amidst the fumes of OPI nail polish and hydrogen peroxide that I decided I didn&#8217;t want this life for myself and set out to be a doctor.&#8221;)
 

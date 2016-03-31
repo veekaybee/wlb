@@ -4,7 +4,7 @@ title: Scenarios
 date: 2010-10-17T19:17:42+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=3743
+guid: http://blog.vickiboykis.com/wlb/?p=3743
 permalink: /2010/10/scenarios/
 categories:
   - Uncategorized

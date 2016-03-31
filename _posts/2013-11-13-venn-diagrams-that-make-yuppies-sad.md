@@ -4,7 +4,7 @@ title: Venn diagrams that make yuppies sad
 date: 2013-11-13T07:44:28+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=9271
+guid: http://blog.vickiboykis.com/wlb/?p=9271
 permalink: /2013/11/venn-diagrams-that-make-yuppies-sad/
 categories:
   - Uncategorized

@@ -4,7 +4,7 @@ title: 'I&#8217;m Jewlicious!'
 date: 2009-05-03T20:07:12+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=311
+guid: http://blog.vickiboykis.com/wlb/?p=311
 permalink: /2009/05/im-jewlicious/
 categories:
   - Uncategorized

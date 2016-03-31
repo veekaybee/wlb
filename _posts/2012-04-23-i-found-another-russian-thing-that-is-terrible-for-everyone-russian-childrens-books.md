@@ -4,7 +4,7 @@ title: 'I found another Russian thing that is terrible for everyone: Russian chi
 date: 2012-04-23T07:03:49+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=6752
+guid: http://blog.vickiboykis.com/wlb/?p=6752
 permalink: /2012/04/i-found-another-russian-thing-that-is-terrible-for-everyone-russian-childrens-books/
 categories:
   - Uncategorized

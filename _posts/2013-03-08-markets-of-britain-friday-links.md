@@ -4,7 +4,7 @@ title: Markets of Britain Friday links
 date: 2013-03-08T07:15:35+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=8460
+guid: http://blog.vickiboykis.com/wlb/?p=8460
 permalink: /2013/03/markets-of-britain-friday-links/
 categories:
   - fridaylinks

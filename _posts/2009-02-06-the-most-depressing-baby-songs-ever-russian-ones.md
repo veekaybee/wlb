@@ -4,7 +4,7 @@ title: 'The most depressing baby songs ever: Russian ones'
 date: 2009-02-06T08:50:04+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=122
+guid: http://blog.vickiboykis.com/wlb/?p=122
 permalink: /2009/02/the-most-depressing-baby-songs-ever-russian-ones/
 categories:
   - Uncategorized

@@ -4,7 +4,7 @@ title: Stars on Ice, featuring Cold Hard Ice and Cold Hard Reality
 date: 2010-04-27T21:50:59+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=2827
+guid: http://blog.vickiboykis.com/wlb/?p=2827
 permalink: /2010/04/stars-on-ice-featuring-cold-hard-ice-and-cold-hard-reality/
 categories:
   - Uncategorized
@@ -21,7 +21,7 @@ tags:
 
 Last Friday, Mr. B and I joined my parents in a screening of [Stars on Ice](http://en.wikipedia.org/wiki/Stars_on_Ice) in Hershey, featuring world-renowned Olympic Gold Medalist [Evan Lysa_check_ (zing!)](http://en.wikipedia.org/wiki/Evan_Lysacek).
 
-At first, I didn&#8217;t want to go because I thought this show was exploitative of [gold medalist Olympians](http://blog.vickiboykis.com/2010/02/22/why-the-american-ice-dancing-teams-need-to-get-tough/) who have accomplished a great deal athletically and have danced to great music for athletic and artistic merit but are now being paraded like circus freaks before mainstream audiences and forced to gyrate to I Gotta Feeling while wearing cowboy hats.
+At first, I didn&#8217;t want to go because I thought this show was exploitative of [gold medalist Olympians](http://blog.vickiboykis.com/wlb/2010/02/22/why-the-american-ice-dancing-teams-need-to-get-tough/) who have accomplished a great deal athletically and have danced to great music for athletic and artistic merit but are now being paraded like circus freaks before mainstream audiences and forced to gyrate to I Gotta Feeling while wearing cowboy hats.
 
 However, my dad did have suite seats  from his company and I was cajoled into attendance by being privy to information that there would, indeed, be alcohol available.  Fortunately, I was in luck, because Stars on Ice featured all of the things  I love:  screaming children, people who know nothing about ice skating, those people who try to hype the crowd up at the beginning of shows by yelling &#8220;I can&#8217;t hear you!&#8221; over and over, and, buying over-priced sub-par alcoholic beverages and gulping them down before 8:50 p.m., the cutoff time for the bar.
 

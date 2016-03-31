@@ -4,7 +4,7 @@ title: Bubele please.
 date: 2012-12-13T23:25:41+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=8002
+guid: http://blog.vickiboykis.com/wlb/?p=8002
 permalink: /2012/12/bubele-please/
 categories:
   - fridaylinks

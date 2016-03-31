@@ -4,7 +4,7 @@ title: 'It&#8217;s Always Sunny in Philadelphia'
 date: 2010-10-12T13:33:52+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/2010/10/12/its-always-sunny-in-philadelphia/
+guid: http://blog.vickiboykis.com/wlb/2010/10/12/its-always-sunny-in-philadelphia/
 permalink: /2010/10/its-always-sunny-in-philadelphia/
 categories:
   - Uncategorized

@@ -4,7 +4,7 @@ title: Friday Links
 date: 2011-07-29T08:59:48+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=5371
+guid: http://blog.vickiboykis.com/wlb/?p=5371
 permalink: /2011/07/friday-links-69/
 categories:
   - fridaylinks
@@ -14,7 +14,7 @@ tags:
 ---
 [<img class="aligncenter size-full wp-image-5372" title="6cb3a74e043eee1001521e28846d888f" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/07/6cb3a74e043eee1001521e28846d888f.png" alt="" width="420" height="294" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/07/6cb3a74e043eee1001521e28846d888f.png)
 
-I don&#8217;t know, you  guys.  It&#8217;s been a long, hot summer and I&#8217;m kind of in a funk. Adjusting to Philly by ourselves. People in the family in the hospital.  It&#8217;s too hot for Nutella right now. House still doesn&#8217;t quite feel like home yet. My <a href="http://blog.vickiboykis.com/2011/05/26/pics-from-around-the-house/" target="_blank">creepy lawn gnome</a> stopped working for  a day.  No vacation in sight.  Suggestions for cheering up?  <a href="http://www.google.com/search?q=animals+in+sweaters&um=1&ie=UTF-8&tbm=isch&source=og&sa=N&hl=en&tab=wi&biw=1047&bih=663#hl=en&ds=i&pq=animals%20in%20sweaters&xhr=t&q=animals+wearing+sweaters&cp=24&pf=p&sclient=psy&um=1&tbm=isch&sa=1&source=hp&aq=f&aqi=&aql=&oq=animals+wearing+sweaters&pbx=1&bav=on.2,or.r_gc.r_pw.&fp=b6a542dfe53b5f42&biw=1047&bih=663" target="_blank">I need to look at this for a while</a> or something.
+I don&#8217;t know, you  guys.  It&#8217;s been a long, hot summer and I&#8217;m kind of in a funk. Adjusting to Philly by ourselves. People in the family in the hospital.  It&#8217;s too hot for Nutella right now. House still doesn&#8217;t quite feel like home yet. My <a href="http://blog.vickiboykis.com/wlb/2011/05/26/pics-from-around-the-house/" target="_blank">creepy lawn gnome</a> stopped working for  a day.  No vacation in sight.  Suggestions for cheering up?  <a href="http://www.google.com/search?q=animals+in+sweaters&um=1&ie=UTF-8&tbm=isch&source=og&sa=N&hl=en&tab=wi&biw=1047&bih=663#hl=en&ds=i&pq=animals%20in%20sweaters&xhr=t&q=animals+wearing+sweaters&cp=24&pf=p&sclient=psy&um=1&tbm=isch&sa=1&source=hp&aq=f&aqi=&aql=&oq=animals+wearing+sweaters&pbx=1&bav=on.2,or.r_gc.r_pw.&fp=b6a542dfe53b5f42&biw=1047&bih=663" target="_blank">I need to look at this for a while</a> or something.
 
 **Links:**
 

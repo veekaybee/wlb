@@ -4,7 +4,7 @@ title: Early parenthood in paintings
 date: 2015-06-15T22:01:05+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=9992
+guid: http://blog.vickiboykis.com/wlb/?p=9992
 permalink: /2015/06/early-parenthood-in-paintings/
 categories:
   - Uncategorized

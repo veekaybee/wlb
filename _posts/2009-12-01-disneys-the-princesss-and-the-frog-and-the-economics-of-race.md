@@ -4,7 +4,7 @@ title: 'Disney&#8217;s The Princess and the Frog and the Economics of Race'
 date: 2009-12-01T20:52:26+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=1784
+guid: http://blog.vickiboykis.com/wlb/?p=1784
 permalink: /2009/12/disneys-the-princesss-and-the-frog-and-the-economics-of-race/
 categories:
   - Uncategorized
@@ -16,7 +16,7 @@ tags:
   - race
   - The Frog Princess
 ---
-I don&#8217;t know if you&#8217;ve heard, but Disney has a new animated cartoon coming out in theaters on December 11.  It&#8217;s called [The Princess and the Frog](http://en.wikipedia.org/wiki/The_Princess_and_the_Frog), and I am super-excited about it, as is anyone who has been baptized in the cult of Disney since their early years.  Evidence?  See [here](http://blog.vickiboykis.com/2009/10/13/russian-letziyon-aladdin-and-jasmine/).  And [here](http://blog.vickiboykis.com/2009/06/23/the-kids-arent-alright/). And [here](http://blog.vickiboykis.com/2009/01/30/crying-unabashedly-during-disney-movies/). And [here](http://blog.vickiboykis.com/2009/11/27/comic-black-friday/).
+I don&#8217;t know if you&#8217;ve heard, but Disney has a new animated cartoon coming out in theaters on December 11.  It&#8217;s called [The Princess and the Frog](http://en.wikipedia.org/wiki/The_Princess_and_the_Frog), and I am super-excited about it, as is anyone who has been baptized in the cult of Disney since their early years.  Evidence?  See [here](http://blog.vickiboykis.com/wlb/2009/10/13/russian-letziyon-aladdin-and-jasmine/).  And [here](http://blog.vickiboykis.com/wlb/2009/06/23/the-kids-arent-alright/). And [here](http://blog.vickiboykis.com/wlb/2009/01/30/crying-unabashedly-during-disney-movies/). And [here](http://blog.vickiboykis.com/wlb/2009/11/27/comic-black-friday/).
 
 The stills [that I oggled](http://www.imdb.com/title/tt0780521/mediaindex) look gorgeous:
 

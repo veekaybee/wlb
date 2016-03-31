@@ -4,7 +4,7 @@ title: The show-me state of self-promotion in realtime
 date: 2014-04-29T08:01:02+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=9689
+guid: http://blog.vickiboykis.com/wlb/?p=9689
 permalink: /2014/04/the-show-me-state-of-self-promotion-in-realtime/
 categories:
   - Uncategorized
@@ -25,7 +25,7 @@ There&#8217;s a reason over 150 people retweeted it, and it&#8217;s because we&#
 
 I&#8217;m no less guilty of it than anyone else. In the past month, I&#8217;ve announced at least three obnoxious things on Facebook and Twitter about how great I&#8217;m doing in my professional and personal life. Last week, I posted that I was excited to start a new job in two weeks (why not wait until I&#8217;ve actually started and done something useful?), and that I was 2/3 of the way through my MBA (why not just wait until I have the diploma in hand?)
 
-Before,  I&#8217;ve written before how I&#8217;m <a href="http://blog.vickiboykis.com/2012/09/the-art-of-the-slog/" target="_blank">losing weight</a>, <a href="http://blog.vickiboykis.com/2013/02/i-hate-writing-my-novel/" target="_blank">working on a novel</a>, and <a href="http://blog.vickiboykis.com/2012/05/i-basically-just-paid-myself-eight-cents-an-hour-to-learn-that-i-dont-need-an-mba/" target="_blank">getting an MBA</a>.  None of these things are completed yet, but I&#8217;m still chattering about them. Why?
+Before,  I&#8217;ve written before how I&#8217;m <a href="http://blog.vickiboykis.com/wlb/2012/09/the-art-of-the-slog/" target="_blank">losing weight</a>, <a href="http://blog.vickiboykis.com/wlb/2013/02/i-hate-writing-my-novel/" target="_blank">working on a novel</a>, and <a href="http://blog.vickiboykis.com/wlb/2012/05/i-basically-just-paid-myself-eight-cents-an-hour-to-learn-that-i-dont-need-an-mba/" target="_blank">getting an MBA</a>.  None of these things are completed yet, but I&#8217;m still chattering about them. Why?
 
 Countless friends have posted about their pregnancies as soon as they found out themselves, linked to races they&#8217;ve signed up for that are months away, and announced conferences they&#8217;re going to long before they happen. Kickstarters beg for money for half-finished projects (&#8220;Just had a great meeting about phase one, stay tuned,&#8221; they chirp), and &#8220;<a href="http://theswivet.blogspot.com/2008/09/pimpin-your-book-economics-of-average.html" target="_blank">Coming to your city</a>,&#8221; authors cry.
 
@@ -41,11 +41,11 @@ But what are we non-corporate entities advertising? I think it&#8217;s our succ
 
 We all want to be doing great at work, at home, abroad. Every time we see someone doing even better, we feel worse. Why aren&#8217;t we doing as well? The grass is always greener on the other side, especially if that grass updates in five-second increments, with Five Stunning Photos.
 
-It also seems  that it&#8217;s an inherently American thing to talk about what you&#8217;re doing without any thought to who&#8217;s reading and what they might be thinking.Of course, there is the history of the humble, quiet Puritan work ethic, backbreaking years of mindnumbing toil until we meet our maker. That got boring as soon as we realized we were the Beacon on the Hill, the country of Big Shoulders, and if we don&#8217;t pat ourselves on the back, who will? Capitalism ensures that the loudest and the best rise to the top, and <a href="http://blog.vickiboykis.com/2012/01/the-internet-is-making-us-stupid-or-im-better-than-you-because-i-broke-my-phone/" target="_blank">being glued to our phones</a>, combined with the <a href="http://blog.vickiboykis.com/2012/12/how-to-watch-internet-news/" target="_blank">24-hour news cycle</a> solidifies it.
+It also seems  that it&#8217;s an inherently American thing to talk about what you&#8217;re doing without any thought to who&#8217;s reading and what they might be thinking.Of course, there is the history of the humble, quiet Puritan work ethic, backbreaking years of mindnumbing toil until we meet our maker. That got boring as soon as we realized we were the Beacon on the Hill, the country of Big Shoulders, and if we don&#8217;t pat ourselves on the back, who will? Capitalism ensures that the loudest and the best rise to the top, and <a href="http://blog.vickiboykis.com/wlb/2012/01/the-internet-is-making-us-stupid-or-im-better-than-you-because-i-broke-my-phone/" target="_blank">being glued to our phones</a>, combined with the <a href="http://blog.vickiboykis.com/wlb/2012/12/how-to-watch-internet-news/" target="_blank">24-hour news cycle</a> solidifies it.
 
 Russian and Jewish social norms, like those of many other Indo-European cultures,  on the other hand, <span style="line-height: 1.7;">frown upon showing anything good going on in your life, lest someone cast the evil eye on you.  Jewish tradition prohibits baby showers until a baby is born. In Russian, there&#8217;s a word for messing up the good vibes going on in someone&#8217;s life by simply glancing at them with the evil eye of desire or hate, <em>sglazit&#8217;</em>.</span>
 
-&#8220;Don&#8217;t post that picture on Facebook. _Kto-to sglazit_&#8216;,&#8221; Someone&#8217;s going to ruin your good luck by coveting what you have. When <a href="http://blog.vickiboykis.com/2010/05/update-from-the-home-front-my-aunt-comes-from-russia-and-my-mom-flies-free-from-logic/" target="_blank">my aunt</a> got back to Russia, she didn&#8217;t show anyone pictures of my parents house. _Sglazyat_. &#8220;Who needs that? Better keep it to yourself.&#8221;
+&#8220;Don&#8217;t post that picture on Facebook. _Kto-to sglazit_&#8216;,&#8221; Someone&#8217;s going to ruin your good luck by coveting what you have. When <a href="http://blog.vickiboykis.com/wlb/2010/05/update-from-the-home-front-my-aunt-comes-from-russia-and-my-mom-flies-free-from-logic/" target="_blank">my aunt</a> got back to Russia, she didn&#8217;t show anyone pictures of my parents house. _Sglazyat_. &#8220;Who needs that? Better keep it to yourself.&#8221;
 
 This is, of course, wearing away, because I see hundreds of thousands of Russians using VKontakte, Russian Facebook and posting Instagrams of their amazing vacations in Turkey. And <a href="http://www.aish.com/jw/s/Over-the-Top-Bar-Mitzvah-Videos.html" target="_blank">Jewish bar mitzvahs</a> costing thousands of dollars. Oy.
 

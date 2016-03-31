@@ -4,7 +4,7 @@ title: Economics links roundup for Friday
 date: 2009-05-22T12:52:40+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=409
+guid: http://blog.vickiboykis.com/wlb/?p=409
 permalink: /2009/05/economics-links-roundup-for-friday/
 categories:
   - economics

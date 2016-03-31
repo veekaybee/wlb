@@ -4,7 +4,7 @@ title: 'Spoiler alert: I found God.  He lives in the sketchiest part of North Ph
 date: 2012-03-13T07:08:42+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=6569
+guid: http://blog.vickiboykis.com/wlb/?p=6569
 permalink: /2012/03/spoiler-alert-i-found-god-he-lives-in-the-sketchiest-part-of-north-philly/
 categories:
   - Uncategorized
@@ -19,7 +19,7 @@ tags:
   - rodeph shalom
   - shanking
 ---
-I&#8217;ve been <a href="http://blog.vickiboykis.com/2012/03/on-writing-in-2012/" target="_blank">mentally in Scotland</a> for the past three months. I&#8217;m almost done with the book, but if you know anything about Scotland, you know that <a href="http://www.youtube.com/watch?v=F5nlx2XzP-4" target="_blank">it can drive anyone insane</a>.
+I&#8217;ve been <a href="http://blog.vickiboykis.com/wlb/2012/03/on-writing-in-2012/" target="_blank">mentally in Scotland</a> for the past three months. I&#8217;m almost done with the book, but if you know anything about Scotland, you know that <a href="http://www.youtube.com/watch?v=F5nlx2XzP-4" target="_blank">it can drive anyone insane</a>.
 
 So I decided to take a break and come back to, you know, my own ethnicity by going to an Idan Raichel concert with my friend Allie. Idan Raichel is an Israeli musician who collaborates with other performers in almost every language possible to produce beautiful songs and has been touring since 2002.  The last time we saw him live was in Washington, D.C. at <a href="http://www.sixthandi.org/" target="_blank">Sixth and I </a>when I was still living alone and Allie was still in grad school.
 
@@ -29,7 +29,7 @@ So I decided to take a break and come back to, you know, my own ethnicity by goi
 
 &nbsp;
 
-This time, he came to <a href="http://blog.vickiboykis.com/2010/10/look-what-i-found-by-the-side-of-the-road-in-philadelphia/" target="_blank">Rodeph Shalom</a>, and I finally had a chance to check it out.  It is breathtakingly beautiful inside.  One of the only synagogues that has impressed me more is the Spanish Synagogue in Prague, where Mr. B proposed.
+This time, he came to <a href="http://blog.vickiboykis.com/wlb/2010/10/look-what-i-found-by-the-side-of-the-road-in-philadelphia/" target="_blank">Rodeph Shalom</a>, and I finally had a chance to check it out.  It is breathtakingly beautiful inside.  One of the only synagogues that has impressed me more is the Spanish Synagogue in Prague, where Mr. B proposed.
 
 <img class="aligncenter" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/03/wpid-IMG_20120308_192053.jpg" alt="image" width="350" height="467" />
 

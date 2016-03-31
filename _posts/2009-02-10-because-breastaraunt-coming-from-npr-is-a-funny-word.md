@@ -4,7 +4,7 @@ title: 'Because &#8220;Breastaraunt&#8221; coming from NPR is a funny word'
 date: 2009-02-10T08:45:32+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=130
+guid: http://blog.vickiboykis.com/wlb/?p=130
 permalink: /2009/02/because-breastaraunt-coming-from-npr-is-a-funny-word/
 categories:
   - Uncategorized

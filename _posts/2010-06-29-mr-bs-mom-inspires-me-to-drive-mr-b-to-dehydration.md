@@ -4,7 +4,7 @@ title: 'Mr. B&#8217;s mom inspires me to drive Mr. B to dehydration'
 date: 2010-06-29T12:50:14+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=3224
+guid: http://blog.vickiboykis.com/wlb/?p=3224
 permalink: /2010/06/mr-bs-mom-inspires-me-to-drive-mr-b-to-dehydration/
 categories:
   - Uncategorized
@@ -13,7 +13,7 @@ Somehow, I talked Mr. B into running [Somehow, I talked Mr. B into running](http
 
 [<img class="aligncenter size-full wp-image-3226" title="IMAG0123" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/06/IMAG0123.jpg" alt="" width="307" height="512" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/06/IMAG0123.jpg)
 
-That&#8217;s her beasting before we went biking together last month.  I have to admit that I am terrified of her.  Not only has she has proven her [mental prowess](http://blog.vickiboykis.com/2010/03/08/a-conversation-with-my-parents-about-india/), she bikes 30 miles per week in addition to tennis and running.
+That&#8217;s her beasting before we went biking together last month.  I have to admit that I am terrified of her.  Not only has she has proven her [mental prowess](http://blog.vickiboykis.com/wlb/2010/03/08/a-conversation-with-my-parents-about-india/), she bikes 30 miles per week in addition to tennis and running.
 
 This woman will be running the 5k with us. And she will place ahead of both of us.
 

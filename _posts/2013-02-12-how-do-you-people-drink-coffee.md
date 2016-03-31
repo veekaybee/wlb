@@ -4,7 +4,7 @@ title: How do you people drink coffee?
 date: 2013-02-12T08:15:14+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=8356
+guid: http://blog.vickiboykis.com/wlb/?p=8356
 permalink: /2013/02/how-do-you-people-drink-coffee/
 categories:
   - Uncategorized
@@ -63,7 +63,7 @@ THATREALSTUFFSONohbutlet&#8217;stakeasmallnapnow.
 
 As soon as I came home at 6, I was horizontal on the couch. I got up at 6:30 and the world was moving at normal speed again.
 
-You would think that I would have learned from this experience that I am not ready for real hipster coffee, much in the same way that if you have <a href="http://blog.vickiboykis.com/2013/01/you-cant-understand-a-man-until-you-cruise-a-mile-in-his-beemer/" target="_blank">never driven a BMW,</a> you should probably not be given one your first time out.
+You would think that I would have learned from this experience that I am not ready for real hipster coffee, much in the same way that if you have <a href="http://blog.vickiboykis.com/wlb/2013/01/you-cant-understand-a-man-until-you-cruise-a-mile-in-his-beemer/" target="_blank">never driven a BMW,</a> you should probably not be given one your first time out.
 
 But  yesterday my coworker and I decided to have some coffee from downstairs at 4 in the afternoon, because we needed a quick break, and because we decided it would give us a late-afternoon boost.
 

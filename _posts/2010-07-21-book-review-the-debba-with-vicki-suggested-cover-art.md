@@ -4,7 +4,7 @@ title: 'Book Review: The Debba (with Vicki-suggested cover art!)'
 date: 2010-07-21T08:15:29+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/?p=3335
+guid: http://blog.vickiboykis.com/wlb/?p=3335
 permalink: /2010/07/book-review-the-debba-with-vicki-suggested-cover-art/
 categories:
   - Uncategorized
@@ -19,7 +19,7 @@ _(Full disclaimer: Thank you to Other Press for sending me a copy of the book.)_
 
 [<img class="aligncenter size-full wp-image-3336" title="n355109" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/07/n355109.jpg" alt="" width="316" height="474" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/07/n355109.jpg)
 
-I  always judge books by their covers.  I have no remorse over this, and it&#8217;s lead me to great selections.  Based on simply cover alone, I surmised that _The Debba_ is a spy thriller, much like [The Moscow Rules](http://blog.vickiboykis.com/2009/10/06/writing-a-novel-in-a-month-and-daniel-silvas-gabriel-allon/), which would result in someone lying facedown in an unmarked sewer in Cairo.
+I  always judge books by their covers.  I have no remorse over this, and it&#8217;s lead me to great selections.  Based on simply cover alone, I surmised that _The Debba_ is a spy thriller, much like [The Moscow Rules](http://blog.vickiboykis.com/wlb/2009/10/06/writing-a-novel-in-a-month-and-daniel-silvas-gabriel-allon/), which would result in someone lying facedown in an unmarked sewer in Cairo.
 
 So, for the next release, I recommend  a cover change that will appeal more to the author&#8217;s intended demographic:
 
@@ -61,7 +61,7 @@ It&#8217;s true that, without at least a bit of knowledge about Israeli history,
 
 [<img class="aligncenter size-full wp-image-3336" title="n355109" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/07/n355109.jpg" alt="" width="316" height="474" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/07/n355109.jpg)
 
-I  always judge books by their covers.  I have no remorse over this, and it&#8217;s lead me to great selections.  Based on simply cover alone, I surmised that _The Debba_ is a spy thriller, much like [The Moscow Rules](http://blog.vickiboykis.com/2009/10/06/writing-a-novel-in-a-month-and-daniel-silvas-gabriel-allon/), which would result in someone lying facedown in an unmarked sewer in Cairo.
+I  always judge books by their covers.  I have no remorse over this, and it&#8217;s lead me to great selections.  Based on simply cover alone, I surmised that _The Debba_ is a spy thriller, much like [The Moscow Rules](http://blog.vickiboykis.com/wlb/2009/10/06/writing-a-novel-in-a-month-and-daniel-silvas-gabriel-allon/), which would result in someone lying facedown in an unmarked sewer in Cairo.
 
 So, for the next release, I recommend  a cover change that will appeal more to the author&#8217;s intended demographic:
 
